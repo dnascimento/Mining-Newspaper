@@ -1,0 +1,11 @@
+http://feeds.dn.pt/DN-Politica
+
+http://feeds.jn.pt/JN-Politica
+
+http://visao.sapo.pt/static/rss/visao-geral.xml
+
+http://sol.sapo.pt/rss/
+
+http://visao.sapo.pt/static/rss/visao-geral.xml
+
+http://www.rtp.pt/noticias/index.php?tm=9&headline=204&visual=58
