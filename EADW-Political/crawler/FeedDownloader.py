@@ -18,7 +18,7 @@ class FeedDownloader(Thread):
                     
     __feedUrl = ""
     __feed = ""
-    __updatePeriod = 5
+    __updatePeriod = 60
     __dbName = ""
 
 
@@ -65,14 +65,13 @@ class FeedDownloader(Thread):
             
         conn.commit()
          
-        for row in c.execute("Select * from feedsCrawling"):
-            print row
+     #   for row in c.execute("Select * from feedsCrawling"):
+      #      print row
         
 
                      
 
 print "NewsCrawler V8"
-
 dn = FeedDownloader("http://feeds.dn.pt/DN-Politica","feeds.db")
 dn.start()
 

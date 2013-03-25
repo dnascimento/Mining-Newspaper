@@ -24,7 +24,6 @@ class newsParser:
         
         domain = re.split("http://",url)[1]        
         domain = re.split("\.pt|\.com",domain)[0]
-        print domain
         
         doc = fileURL.read()        
         soup = BeautifulSoup(doc)
@@ -64,10 +63,9 @@ class newsParser:
         
 
         
-        
-        print "title:"+title
-        print "summary:"+summary 
-        print "article:"+article   
-        print "date: "+date    
+      #  print "title:"+title
+      #  print "summary:"+summary 
+      #  print "article:"+article   
+      #  print "date: "+date    
         
 newsParser().readFromDB("feeds.db")
