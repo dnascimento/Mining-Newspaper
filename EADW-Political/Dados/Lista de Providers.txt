@@ -9,3 +9,8 @@ http://sol.sapo.pt/rss/
 http://visao.sapo.pt/static/rss/visao-geral.xml
 
 http://www.rtp.pt/noticias/index.php?tm=9&headline=204&visual=58
+
+http://rss.feedsportal.com/c/32433/f/469897/index.rss
+
+https://news.google.pt/news/feeds?pz=1&cf=all&ned=pt-PT_pt&hl=pt-PT&q=Politica&output=rss
+
