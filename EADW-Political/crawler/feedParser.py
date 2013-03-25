@@ -6,12 +6,20 @@ Created on Mar 25, 2013
 
 import urllib
 import re
+import sqlite3
 from bs4 import BeautifulSoup
 
 
 class newsParser:
+    
+    def readFromDB(self,dbName):
+        conn = sqlite3.connect(dbName)
+        c = conn.cursor()
+        for row in c.execute("Select * from feedsCrawling"):
+            self.parseSite(row[0],row[1])
+           
         
-    def parseSite(self,url):
+    def parseSite(self,url,date):
         fileURL = urllib.urlopen(url)
         
         domain = re.split("http://",url)[1]        
@@ -56,6 +64,7 @@ class newsParser:
         
         print "title:"+title
         print "summary:"+summary 
-        print "article:"+article       
+        print "article:"+article   
+        print "date: "+date    
         
-newsParser().parseSite("http://expresso.sapo.pt/chefe-tiger-bife-do-mar=f729463")
+newsParser().readFromDB("feeds.db")

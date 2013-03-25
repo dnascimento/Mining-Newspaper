@@ -1,58 +1,73 @@
-# -.- coding: utf-8 -.-
+'''
+Created on Mar 25, 2013
+
+1 Load the feed from feedURL and save it on SQLite DB
+2 The SQLite Schema doesnt allow to save the same url
+'''
+
+
+
 from threading import Thread
 import feedparser
 import time
+import sqlite3
+from time  import mktime
+from datetime import datetime
 
 class FeedDownloader(Thread):
                     
     __feedUrl = ""
-    __fileName = ""
-    __lastUpdate = ""
     __feed = ""
-    __updatePeriod = 2
-    __lastDownloaded = set()
+    __updatePeriod = 5
+    __dbName = ""
 
 
-    def __init__(self, feedUrl, fileName):
+    def __init__(self, feedUrl,dbName):
         Thread.__init__(self)
         self.__feedUrl = feedUrl
-        self.__fileName = fileName
-        self.__feed = feedparser.parse(feedUrl)
-        
+        self.__dbName = dbName
+      
+                    
     
     def run(self):
-
         while(1):
-            self.__checkUpdates()
+            self.updateList()
             time.sleep(self.__updatePeriod)
             
             
-    def __checkUpdates(self):
-        
-        title = self.__feed.entries[0].title
-                
-        if(not self.__lastUpdate ==  title):
-            print "Update Found for feed:", self.__fileName," at ",  title
-            self.__lastUpdate = title
-            self.__updateList()
+    
+      
     
     
-    def __updateList(self):
-         
-        #a nova lista de links   
-        newlinks = set()
+    def updateList(self):
+           #Load SQLite DB
+        try:
+           conn = sqlite3.connect( self.__dbName)
+           c = conn.cursor()
+           c.execute('''CREATE TABLE feedsCrawling  (url text,date date, UNIQUE(url))''')
+        except sqlite3.OperationalError:
+           pass
+            
+            
+        self.__feed = feedparser.parse(self.__feedUrl)
+
         for entry in self.__feed.entries:
-            newlinks.add(entry.link)
+            link = entry.link
+            date = entry.published_parsed
+            dt = datetime.fromtimestamp(mktime(date))
+
+            try:
+                c.execute('INSERT INTO feedsCrawling values (?,?)',(link,dt))
+                print "New link: "+link
+            except sqlite3.IntegrityError:
+                pass
+            
+            
+        conn.commit()
+         
+       # for row in c.execute("Select * from feedsCrawling"):
+        #    print row
         
-        #os links novos descobertos
-        differentLinks = newlinks.difference(self.__lastDownloaded) 
-        self.__lastDownloaded = newlinks
-        
-        #Acrescentar apenas os novos links
-        date = self.__feed.updated.split()
-        fileDesc = open(self.__fileName+"_"+date[3]+"_"+date[2]+"_"+date[1]+"_"+date[4]+".link" , "w")
-        for link in differentLinks:
-            fileDesc.write(link + '\n')          
 
                      
                      
