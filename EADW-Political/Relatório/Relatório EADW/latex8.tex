@@ -1,0 +1,48 @@
+
+%
+%  $Description: EADW
+%
+%  $Author: ienne $
+%  $Date: 25/03/2013
+
+%
+
+\documentclass[times, 12pt,twocolumn]{article} 
+\usepackage{latex8}
+\usepackage{times}
+% Para adicionar a língua (PT)
+\usepackage[portuges]{babel}
+% suporte para utf8
+\usepackage[utf8]{inputenc}
+\usepackage{aeguill}
+\usepackage{multirow}
+\pagestyle{empty}
+\usepackage{graphicx}
+\usepackage{float}
+%------------------------------------------------------------------------- 
+\begin{document}
+
+\title{EADW - Political Personalities}
+
+\author{68206 - Artur Balanuta \\ 68210 - Dário Nascimento \\ Instituto Superior Técnico }
+\maketitle
+\thispagestyle{empty}
+
+
+\input{./chapters/abstract}
+\input{./chapters/introduction}
+\input{./chapters/news_collection}
+\input{./chapters/news_search}
+\input{./chapters/extraction_of_named_entitties}
+\input{./chapters/Sentiment_Analysis}
+\input{./chapters/Other_Functionalities}
+\input{./chapters/conclusion}
+
+
+
+%------------------------------------------------------------------------- 
+\nocite{ex1, Ghemawat2003}
+\bibliographystyle{latex8}
+\bibliography{./bib/latex8}
+\end{document}
+
