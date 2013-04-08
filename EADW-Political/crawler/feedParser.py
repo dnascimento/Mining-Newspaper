@@ -46,9 +46,9 @@ class newsParser:
         
         
         if domain == "economico.sapo":
-             title = soup.select(".meta")[0].h2.get_text().encode("utf-8")
-             summary = soup.select(".mainText")[0].strong.get_text().encode("utf-8")
-             article = soup.select(".mainText")[0].get_text().encode("utf-8")
+             title = soup.select(".meta")[0].h2.get_text().decode("utf-8")
+             summary = soup.select(".mainText")[0].strong.get_text().decode("utf-8")
+             article = soup.select(".mainText")[0].get_text().decode("utf-8")
         
         if domain == "www.sol":
             title = soup.select("#NewsTitle")[0].get_text()
