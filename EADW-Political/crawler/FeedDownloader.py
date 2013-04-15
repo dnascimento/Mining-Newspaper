@@ -48,7 +48,7 @@ class FeedDownloader(Thread):
         except sqlite3.OperationalError:
            pass
             
-            
+       
         self.__feed = feedparser.parse(self.__feedUrl)
 
         for entry in self.__feed.entries:
