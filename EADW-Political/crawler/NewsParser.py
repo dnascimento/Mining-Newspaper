@@ -9,9 +9,11 @@ import re
 import sqlite3
 from bs4 import BeautifulSoup
 
-
+#News Parser:
+#Download the news from newsletter website and parse them. Retrieves database and parse it to a new database
 class newsParser:
     
+    #Read from DB each entry with: url and Date
     def readFromDB(self,dbName):
         conn = sqlite3.connect(dbName)
         c = conn.cursor()
@@ -46,9 +48,9 @@ class newsParser:
         
         
         if domain == "economico.sapo":
-             title = soup.select(".meta")[0].h2.get_text().encode("utf-8")
-             summary = soup.select(".mainText")[0].strong.get_text().encode("utf-8")
-             article = soup.select(".mainText")[0].get_text().encode("utf-8")
+             title = soup.select(".meta")[0].h2.get_text().decode("utf-8")
+             summary = soup.select(".mainText")[0].strong.get_text().decode("utf-8")
+             article = soup.select(".mainText")[0].get_text().decode("utf-8")
         
         if domain == "www.sol":
             title = soup.select("#NewsTitle")[0].get_text()
