@@ -41,16 +41,7 @@ class FeedDownloader(Thread):
       
     
     
-    def updateList(self):
-        #Load SQLite DB Table if doesnt exists
-        try:
-           conn = sqlite3.connect( self.__dbName)
-           c = conn.cursor()
-           c.execute('''CREATE TABLE newsStorage  (url text,date date,domain text,title text,summary text, article text, UNIQUE(url))''')
-        except sqlite3.OperationalError:
-           pass
-            
-       
+    def updateList(self):       
        #Download and parse the feed URL
         self.__feed = feedparser.parse(self.__feedUrl)
 
@@ -60,12 +51,9 @@ class FeedDownloader(Thread):
             date = entry.published_parsed
             dt = datetime.fromtimestamp(mktime(date))
             
-            domain = re.split("http://",link)[1]        
-            domain = re.split("\.pt|\.com",domain)[0]
-
             try:
                 #url | date | domain | title | summary | article 
-                c.execute('INSERT INTO newsStorage values (?,?,?,?,?,?)',(link,dt,domain,None,None,None))
+                c.execute('INSERT INTO newsStorage values (?,?,?,?,?,?)',(link,dt,None,None,None,None))
                 print "New link: "+link
             except sqlite3.IntegrityError:
                 pass

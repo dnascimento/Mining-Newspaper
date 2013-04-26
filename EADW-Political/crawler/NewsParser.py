@@ -25,11 +25,12 @@ class newsParser(Thread):
                 self.parseSite(row[0],row[1])        
         self.printDatabase()
         
-    def parseSite(self,url,date,domain):
+    def parseSite(self,url,date):
         fileURL = urllib.urlopen(url)
         
-        
-        
+        domain = re.split("http://",url)[1]        
+        domain = re.split("\.pt|\.com",domain)[0]
+            
         doc = fileURL.read()        
         soup = BeautifulSoup(doc)
         try:
