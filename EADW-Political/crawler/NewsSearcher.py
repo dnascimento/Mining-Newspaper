@@ -1,19 +1,17 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-import sqlite3
-from whoosh.index import create_in
-from whoosh.fields import Schema, NUMERIC, TEXT
-
-dbName = "feeds.db"
-conn = sqlite3.connect(dbName)
+from WooshEngine import WooshEngine
 
 
 
-c = conn.cursor()
-c.execute('''SELECT * FROM feedsCrawling''')
-feeds = c.fetchall()
-print len(feeds)
-
+engine = WooshEngine()
+engine.createEmptyIndex()
+engine.createIndex("../news.db")
+#engine.addLink(u"link1", "Artur", "", " bla bla er sdf df ad Artur <ads asdasd asd asd sss asda sd a")
+#engine.addLink(u"link2", "bla", "", " Artur")
 
 print "Search Word? :"
 search_word =  raw_input()
+
+for score, link in engine.searchTop(search_word, 5):
+    print "Score: "+str(score), "Link: "+link
