@@ -8,38 +8,21 @@ import sqlite3
 from bs4 import BeautifulSoup
 
 #News Parser:
-#Download the news from newsletter website and parse them. Retrieves database and parse it to a new database
-#Optimization: 
-#   Each thread retrieves the entries of each webdomain
-#   
+#Download the news from newsletter website and parse them. Retrieves database and parse it to a new database   
 class newsParser(Thread):
     
-    def __init__(self, domain,dbName):
+    def __init__(self,dbName):
         Thread.__init__(self)
         self.__domain = domain
         self.__dbName = dbName
       
     
     #Read from DB each entry with: url and Date
-    def run(self):
-        print "Start thread for"+self.__domain
-        
-        self.__conn = sqlite3.connect(self.__dbName)
-
-        cursor =   self.__conn.cursor()
-        try:
-            cursor.execute('''CREATE TABLE newsStorage  (url text,date date,domain text,title text,summary text, article text, UNIQUE(url))''')
-        except sqlite3.OperationalError:
-            pass 
-        
-        oldCon = sqlite3.connect("feeds.db")
-        cursor =  oldCon.cursor()
-        for row in cursor.execute("Select * from feedsCrawling"):
-        #for row in cursor.execute("Select * from newsStorage where domain =? ",self.__domain):
-         #   if row[2] != None:
-                self.parseSite(row[0],row[1],row[2])
-        
-        oldCon.commit()
+    def start(self):
+        self.__conn = sqlite3.connect(self.__dbName)     
+        cursor = self.__conn.cursor()   
+        for row in cursor.execute("Select * from newsStorage where PROCESSED=FALSE"):
+                self.parseSite(row[0],row[1])        
         self.printDatabase()
         
     def parseSite(self,url,date,domain):

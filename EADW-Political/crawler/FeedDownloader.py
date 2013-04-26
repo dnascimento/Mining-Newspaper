@@ -33,6 +33,7 @@ class FeedDownloader(Thread):
     def run(self):
         while(1):
             self.updateList()
+            #TODO invoke ContentDownloader
             time.sleep(self.__updatePeriod)
             
             
