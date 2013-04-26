@@ -40,7 +40,7 @@ class FeedDownloader(Thread):
     
     
     def updateList(self):
-           #Load SQLite DB
+           #Load SQLite DB Table if doesnt exists
         try:
            conn = sqlite3.connect( self.__dbName)
            c = conn.cursor()
@@ -49,8 +49,10 @@ class FeedDownloader(Thread):
            pass
             
        
+       #Download and parse the feed URL
         self.__feed = feedparser.parse(self.__feedUrl)
 
+        #Store the Link and Date on Database
         for entry in self.__feed.entries:
             link = entry.link
             date = entry.published_parsed
@@ -65,12 +67,7 @@ class FeedDownloader(Thread):
             
         conn.commit()
          
-     #   for row in c.execute("Select * from feedsCrawling"):
-      #      print row
-        
-
-                     
-
+         
 print "NewsCrawler V8"
 dn = FeedDownloader("http://feeds.dn.pt/DN-Politica","feeds.db")
 dn.start()

@@ -9,9 +9,11 @@ import re
 import sqlite3
 from bs4 import BeautifulSoup
 
-
+#News Parser:
+#Download the news from newsletter website and parse them. Retrieves database and parse it to a new database
 class newsParser:
     
+    #Read from DB each entry with: url and Date
     def readFromDB(self,dbName):
         conn = sqlite3.connect(dbName)
         c = conn.cursor()
