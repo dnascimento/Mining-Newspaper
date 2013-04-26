@@ -15,9 +15,15 @@ class newsParser:
     
     #Read from DB each entry with: url and Date
     def readFromDB(self,dbName):
+        self.__dbName = dbName
         conn = sqlite3.connect(dbName)
-        c = conn.cursor()
-        for row in c.execute("Select * from feedsCrawling"):
+        self.__cursor = conn.cursor()
+        try:
+            self.__cursor.execute('''CREATE TABLE newsStorage  (url text,date date,domain text,title text,summary text, article text, UNIQUE(url))''')
+        except sqlite3.OperationalError:
+            pass 
+        
+        for row in self.__cursor.execute("Select * from feedsCrawling"):
             self.parseSite(row[0],row[1])
            
         
@@ -42,15 +48,15 @@ class newsParser:
         
         
         if domain == "rss.feedsportal":
-             title = soup.select("#NewsTitle")[0].get_text()
-             summary = soup.select("#NewsSummary")[0].get_text()
-             article = soup.select("#Article")[0].get_text()
+            title = soup.select("#NewsTitle")[0].get_text()
+            summary = soup.select("#NewsSummary")[0].get_text()
+            article = soup.select("#Article")[0].get_text()
         
         
         if domain == "economico.sapo":
-             title = soup.select(".meta")[0].h2.get_text().decode("utf-8")
-             summary = soup.select(".mainText")[0].strong.get_text().decode("utf-8")
-             article = soup.select(".mainText")[0].get_text().decode("utf-8")
+            title = soup.select(".meta")[0].h2.get_text().decode("utf-8")
+            summary = soup.select(".mainText")[0].strong.get_text().decode("utf-8")
+            article = soup.select(".mainText")[0].get_text().decode("utf-8")
         
         if domain == "www.sol":
             title = soup.select("#NewsTitle")[0].get_text()
@@ -63,11 +69,20 @@ class newsParser:
             summary = ""
             article =  soup.select("#video_detail")[0].h2.get_text()
         
+        self.storeNew(url,date,domain,title,summary,article);
+        
+    def storeNew(self,url,date,domain,title,summary,article):
+        print "Add new"
+        try:
+            self.__cursor.execute('INSERT INTO newsStorage values (?,?,?,?,?,?)',(url,date,domain,title,summary,article))
+        except sqlite3.IntegrityError:
+            pass
+    
+    def printDatabase(self):
+        for row in self.__cursor.execute("Select * from newsStorage"):
+            print row
 
-        
-      #  print "title:"+title
-      #  print "summary:"+summary 
-      #  print "article:"+article   
-      #  print "date: "+date    
-        
-newsParser().readFromDB("feeds.db")
+    
+parser  = newsParser()
+parser.readFromDB("feeds.db")
+parser.printDatabase()
