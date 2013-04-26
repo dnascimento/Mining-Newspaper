@@ -10,6 +10,7 @@ Created on Mar 25, 2013
 from threading import Thread
 import feedparser
 import time
+import re
 import sqlite3
 from time  import mktime
 from datetime import datetime
@@ -40,11 +41,11 @@ class FeedDownloader(Thread):
     
     
     def updateList(self):
-           #Load SQLite DB Table if doesnt exists
+        #Load SQLite DB Table if doesnt exists
         try:
            conn = sqlite3.connect( self.__dbName)
            c = conn.cursor()
-           c.execute('''CREATE TABLE feedsCrawling  (url text,date date, UNIQUE(url))''')
+           c.execute('''CREATE TABLE newsStorage  (url text,date date,domain text,title text,summary text, article text, UNIQUE(url))''')
         except sqlite3.OperationalError:
            pass
             
@@ -57,9 +58,13 @@ class FeedDownloader(Thread):
             link = entry.link
             date = entry.published_parsed
             dt = datetime.fromtimestamp(mktime(date))
+            
+            domain = re.split("http://",link)[1]        
+            domain = re.split("\.pt|\.com",domain)[0]
 
             try:
-                c.execute('INSERT INTO feedsCrawling values (?,?)',(link,dt))
+                #url | date | domain | title | summary | article 
+                c.execute('INSERT INTO newsStorage values (?,?,?,?,?,?)',(link,dt,domain,None,None,None))
                 print "New link: "+link
             except sqlite3.IntegrityError:
                 pass
