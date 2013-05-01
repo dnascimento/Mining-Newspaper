@@ -6,7 +6,7 @@ Created on Mar 25, 2013
 '''
 
 
-
+from ContentDownloader import ContentDownloader
 from threading import Thread
 import feedparser
 import time
@@ -20,27 +20,26 @@ class FeedDownloader(Thread):
     __feed = ""
     __updatePeriod = 60
     __dbName = ""
+    __downloader = ""
 
     def __init__(self, feedUrl,dbName):
         Thread.__init__(self)
         self.__feedUrl = feedUrl
         self.__dbName = dbName
+        self.__downloader = ContentDownloader(dbName)
                           
     
     def run(self):
         while(1):
             self.updateList()
-            #TODO invoke ContentDownloader
             time.sleep(self.__updatePeriod)
             
             
-    def updateList(self):       
+    def updateList(self):
+        
         #Download and parse the feed URL
         self.__feed = feedparser.parse(self.__feedUrl)
         
-        conn = sqlite3.connect(self.__dbName)     
-        c = conn.cursor()
-
         #Store the Link and Date on Database
         for entry in self.__feed.entries:
             link = entry.link
@@ -48,24 +47,18 @@ class FeedDownloader(Thread):
             dt = datetime.fromtimestamp(mktime(date))
             
             try:
+                #Inserir novo link
+                conn = sqlite3.connect(self.__dbName)     
+                c = conn.cursor()
                 c.execute('INSERT INTO newsStorage(URL,DATE) values (?,?)',(link,dt))
-                print "New link: "+link
+                conn.commit()
+                print "Date: "+str(dt), "New link: "+link
+                
+                #Descaregar o conteudo do novo link
+                self.__downloader.parseSite(link, dt);
+                
             except sqlite3.IntegrityError:
                 pass
             
-        conn.commit()
-         
-         
-print "NewsCrawler V8"
-dn = FeedDownloader("http://feeds.dn.pt/DN-Politica","news.db")
-dn.start()
-
-jn = FeedDownloader("http://feeds.jn.pt/JN-Politica","news.db")
-jn.start()
-
-vg = FeedDownloader("http://economico.sapo.pt/rss/politica","news.db")
-vg.start()
-
-sol = FeedDownloader("http://sol.sapo.pt/rss/","news.db")
-sol.start()
+        
                   
