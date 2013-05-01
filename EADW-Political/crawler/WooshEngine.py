@@ -11,7 +11,11 @@ import sqlite3
 class WooshEngine:
     
     indexDir = "feedDir"
-
+    dbName = ""
+    
+    def setDBName(self,dbName):
+        self.dbName = dbName
+    
     def __createIndexDir(self):
         if not os.path.exists(self.indexDir):
             os.makedirs(self.indexDir)
@@ -91,6 +95,20 @@ class WooshEngine:
         list = []
         for result in res:
             list.append([result[1], result[0]])
+        return list
+
+    def searchTopWithEntity(self, word, max):
+        res = self.searchWord(word).most_common(max)
+        list = []
+        # pesquisar as entidades
+        conn = sqlite3.connect(self.dbName)
+        n = conn.cursor()
+        for result in res:
+            url = result[0]
+            n.execute('SELECT ENTITY FROM  newsStorage NATURAL JOIN opinion WHERE URL = ?', [url])
+            entities = n.fetchall()
+            list.append([result[1], result[0], entities])
+        conn.close()
         return list
         
         

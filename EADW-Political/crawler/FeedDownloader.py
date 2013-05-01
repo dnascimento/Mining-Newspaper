@@ -35,7 +35,7 @@ class FeedDownloader(Thread):
             
             
     def updateList(self):       
-       #Download and parse the feed URL
+        #Download and parse the feed URL
         self.__feed = feedparser.parse(self.__feedUrl)
         
         conn = sqlite3.connect(self.__dbName)     
