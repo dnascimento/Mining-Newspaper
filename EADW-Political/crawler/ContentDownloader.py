@@ -2,26 +2,35 @@
 Created on Mar 25, 2013
 '''
 from threading import Thread
+from bs4 import BeautifulSoup
+from sqlite3 import OperationalError
+from WooshEngine import WooshEngine
+
 import urllib
 import re
 import sqlite3
-import entities.EntityExtract
+import EntityExtraction
 from bs4 import BeautifulSoup
 
 #News Parser:
 #Download the news from newsletter website and parse them. Retrieves database and parse it to a new database   
 class ContentDownloader(Thread):
     
+    __dbName = ""
+    whoosh = ""
+    
     def __init__(self,dbName):
         Thread.__init__(self)
         self.__dbName = dbName
-        self.entityExtraction = entities.EntityExtract.EntityExtractor()
+	self.entityExtraction = entities.EntityExtract.EntityExtractor()
+ 	self.whoosh = WooshEngine()
+      
     
+    #Old
     #Read from DB each entry with: url and Date
     def start(self):
         self.__conn = sqlite3.connect(self.__dbName)     
         cursor = self.__conn.cursor()   
-        cursor.execute("DELETE FROM opinion")
         for row in cursor.execute("Select * from newsStorage where PROCESSED=0"):
                 self.parseSite(row[0],row[1])        
         #self.printDatabase()
@@ -72,11 +81,15 @@ class ContentDownloader(Thread):
             
             self.storeNew(url,date,domain,title,summary,article);
         except IndexError:
-            print "IndexError: Ignore entry: "+url
+            print "####IndexError: Ignore entry: "+url
         except UnboundLocalError:
-            print "Invalid domain: "+url
-        except : 
-            print "Unexpected error: "+url
+            print "####Invalid domain: "+url
+        except OperationalError:
+            print "####Base de dados Fechada, (MultiTHread) tentando outra vez"
+            self.storeNew(url,date,domain,title,summary,article);
+            
+        #except: 
+        #    print "####Unexpected error: ignore entry:"+url
         
         #TODO send to whosh: Name tag etc
         print url
@@ -94,11 +107,21 @@ class ContentDownloader(Thread):
         self.__conn.commit()
         
     def storeNew(self,url,date,domain,title,summary,article):
-        cursor = self.__conn.cursor()
+        print "    Updating Content Info for " + url
+        conn = sqlite3.connect(self.__dbName)     
+        cursor = conn.cursor()
         cursor.execute('UPDATE newsStorage set DOMAIN=?, TITLE=?, SUMMARY=?, ARTICLE=? where url=?',(domain,title,summary,article,url))
+        conn.commit()
+        
+        #print "----->"
+        #print url, unicode(title), unicode(summary), unicode(article)
+        #print "<-----"
+        #Adicionar conteudo ao Whoosh Indexer
+        #print "---Woosh IN---"
+        self.whoosh.addLink(url, title, summary, article);
+        #print "---Woosh IN---"
 
-
-ContentDownloader("news.db").start()
+#ContentDownloader("news.db").start()
 #   def printDatabase(self):
 #      cursor = self.__conn.cursor()
 #     for row in cursor.execute("Select * from newsStorage"):

@@ -2,16 +2,24 @@
 # -*- coding: utf-8 -*-
 from WooshEngine import WooshEngine
 
-
+dbpath = "../Temp.db"
 
 engine = WooshEngine()
-engine.createEmptyIndex()
-engine.createIndex("../news.db")
+engine.setDBName(dbpath);
+#engine.createEmptyIndex()
+#engine.createIndex()
 #engine.addLink(u"link1", "Artur", "", " bla bla er sdf df ad Artur <ads asdasd asd asd sss asda sd a")
 #engine.addLink(u"link2", "bla", "", " Artur")
 
-print "Search Word? :"
-search_word =  raw_input()
+#print "Search Word? :"
+#search_word =  raw_input()
+#search_word =  "Artur"
 
-for score, link in engine.searchTop(search_word, 5):
-    print "Score: "+str(score), "Link: "+link
+##Loop De Pesquisas
+while(True):
+    print "Search Word? :"
+    search_word =  raw_input()    
+    for score, link, entities in engine.searchTopWithEntity(search_word, 5):
+        print "Score: "+str(score), "Link: "+link, "Entities: ", entities
+        
+        
