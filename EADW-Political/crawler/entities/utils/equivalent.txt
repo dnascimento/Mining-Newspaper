@@ -1,0 +1,14 @@
+Presidente da RepÃºblica:Cavaco Silva
+PR:Cavaco Silva
+FMI:Fundo Monetário Internacional
+BE:Bloco de Esquerda
+PS:Partido Socialista
+PSD:Partido Social Democrata
+PSD/CDS-PP:Partido Social Democrata
+Ministro das Finanças:Vítor Gaspar
+Primeiro Ministro:Pedro Passos Coelho
+Parlamento:Assembleia da República
+América do Norte:Estados Unidos
+Negócios Estrangeiros:Paulo Portas
+Eurogrupo:Comissão Europeia
+Executivo:Governo

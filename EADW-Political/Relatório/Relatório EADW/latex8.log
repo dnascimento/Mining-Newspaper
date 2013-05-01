@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  25 MAR 2013 00:12
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  1 MAY 2013 13:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -421,9 +421,6 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (./chapters/extraction_of_named_entitties.tex)
 (./chapters/Sentiment_Analysis.tex) (./chapters/Other_Functionalities.tex)
 (./chapters/conclusion.tex) (./latex8.bbl
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
 Underfull \hbox (badness 2111) in paragraph at lines 9--12
 []\T1/aer/m/n/10.95 L. Lam-port.  The part-time par-li-a-ment.
  []
@@ -440,11 +437,11 @@ Underfull \hbox (badness 1565) in paragraph at lines 9--12
 ]
 (./latex8.aux) ) 
 Here is how much of TeX's memory you used:
- 2438 strings out of 493488
- 32360 string characters out of 3141326
- 87823 words of memory out of 3000000
- 5653 multiletter control sequences out of 15000+200000
- 26135 words of font info for 52 fonts, out of 3000000 for 9000
+ 2445 strings out of 493488
+ 32450 string characters out of 3141326
+ 88823 words of memory out of 3000000
+ 5659 multiletter control sequences out of 15000+200000
+ 26430 words of font info for 53 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
  37i,7n,24p,542b,235s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts
@@ -454,7 +451,7 @@ m/cmr10.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/
 cmr12.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 ti10.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmt
 i12.pfb>
-Output written on latex8.pdf (1 page, 87547 bytes).
+Output written on latex8.pdf (1 page, 91632 bytes).
 PDF statistics:
  32 PDF objects out of 1000 (max. 8388607)
  22 compressed objects within 1 object stream
