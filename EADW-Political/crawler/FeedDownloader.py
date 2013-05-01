@@ -15,20 +15,17 @@ import sqlite3
 from time  import mktime
 from datetime import datetime
 
-class FeedDownloader(Thread):
-                    
+class FeedDownloader(Thread):         
     __feedUrl = ""
     __feed = ""
     __updatePeriod = 60
     __dbName = ""
 
-
     def __init__(self, feedUrl,dbName):
         Thread.__init__(self)
         self.__feedUrl = feedUrl
         self.__dbName = dbName
-      
-                    
+                          
     
     def run(self):
         while(1):
@@ -37,13 +34,12 @@ class FeedDownloader(Thread):
             time.sleep(self.__updatePeriod)
             
             
-    
-      
-    
-    
     def updateList(self):       
        #Download and parse the feed URL
         self.__feed = feedparser.parse(self.__feedUrl)
+        
+        conn = sqlite3.connect(self.__dbName)     
+        c = conn.cursor()
 
         #Store the Link and Date on Database
         for entry in self.__feed.entries:
@@ -52,26 +48,24 @@ class FeedDownloader(Thread):
             dt = datetime.fromtimestamp(mktime(date))
             
             try:
-                #url | date | domain | title | summary | article 
-                c.execute('INSERT INTO newsStorage values (?,?,?,?,?,?)',(link,dt,None,None,None,None))
+                c.execute('INSERT INTO newsStorage(URL,DATE) values (?,?)',(link,dt))
                 print "New link: "+link
             except sqlite3.IntegrityError:
                 pass
-            
             
         conn.commit()
          
          
 print "NewsCrawler V8"
-dn = FeedDownloader("http://feeds.dn.pt/DN-Politica","feeds.db")
+dn = FeedDownloader("http://feeds.dn.pt/DN-Politica","news.db")
 dn.start()
 
-jn = FeedDownloader("http://feeds.jn.pt/JN-Politica","feeds.db")
+jn = FeedDownloader("http://feeds.jn.pt/JN-Politica","news.db")
 jn.start()
 
-vg = FeedDownloader("http://economico.sapo.pt/rss/politica","feeds.db")
+vg = FeedDownloader("http://economico.sapo.pt/rss/politica","news.db")
 vg.start()
 
-sol = FeedDownloader("http://sol.sapo.pt/rss/","feeds.db")
+sol = FeedDownloader("http://sol.sapo.pt/rss/","news.db")
 sol.start()
                   
