@@ -21,10 +21,10 @@ if not os.path.exists(dbpath):
 
 ##Criar motor de Pesquisa Baseado no Woosh se nao existir
 print "Adicionar Conteudo ao Woosh Indexer"
-engine = WooshEngine()
-engine.createIndexDirIfNotExist()
-engine.setDBName(dbpath);
-engine.createIndex()
+#engine = WooshEngine()
+#engine.createIndexDirIfNotExist()
+#engine.setDBName(dbpath);
+#engine.createIndex()
 
 
 
