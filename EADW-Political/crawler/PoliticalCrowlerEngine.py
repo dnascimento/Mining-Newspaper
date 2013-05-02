@@ -2,9 +2,15 @@ from FeedDownloader import FeedDownloader
 from WooshEngine import WooshEngine
 import os
 import sqlite3
+from ContentDownloader import ContentDownloader
 
 
-#dbpath = "../Temp.db"
+
+
+#
+#Inicializa o Woosh e a database
+#Descarregar os links de cada um dos sites de feeds
+#
 dbpath = "../news.db"
 
 
@@ -21,22 +27,32 @@ if not os.path.exists(dbpath):
 
 ##Criar motor de Pesquisa Baseado no Woosh se nao existir
 print "Adicionar Conteudo ao Woosh Indexer"
-#engine = WooshEngine()
-#engine.createIndexDirIfNotExist()
-#engine.setDBName(dbpath);
-#engine.createIndex()
+engine = WooshEngine()
+engine.setDBName(dbpath);
+engine.createIndex()
 
 
+#TODO Tornar async
 
+#Descarregar todas as feeds
 dn = FeedDownloader("http://feeds.dn.pt/DN-Politica",dbpath)
-dn.start()
+dn.updateList()
 
 jn = FeedDownloader("http://feeds.jn.pt/JN-Politica",dbpath)
-jn.start()
+jn.updateList()
 
 vg = FeedDownloader("http://economico.sapo.pt/rss/politica",dbpath)
-vg.start()
+vg.updateList()
 
 sol = FeedDownloader("http://sol.sapo.pt/rss/",dbpath)
-sol.start()
+sol.updateList()
+
+
+#Esperar que as threads de download dos  links terminem
+
+#Processar as feeds pendents 
+#Adicionar e Descarregar o conteudo dos novos links e processar todos
+downloader = ContentDownloader(dbpath)
+downloader.start();        
+ 
 

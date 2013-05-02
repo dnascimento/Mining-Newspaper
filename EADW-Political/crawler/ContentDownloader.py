@@ -5,12 +5,10 @@ from threading import Thread
 from bs4 import BeautifulSoup
 from sqlite3 import OperationalError
 from WooshEngine import WooshEngine
-
 import urllib
 import re
 import sqlite3
-import EntityExtraction
-from bs4 import BeautifulSoup
+import entities.EntityExtract
 
 #News Parser:
 #Download the news from newsletter website and parse them. Retrieves database and parse it to a new database   
@@ -18,23 +16,30 @@ class ContentDownloader(Thread):
     
     __dbName = ""
     whoosh = ""
+    __dBEntitiesLocation = "../entities.db"
     
     def __init__(self,dbName):
         Thread.__init__(self)
         self.__dbName = dbName
-	self.entityExtraction = entities.EntityExtract.EntityExtractor()
- 	self.whoosh = WooshEngine()
-      
+        self.entityExtraction = entities.EntityExtract.EntityExtractor()
+        self.whoosh = WooshEngine()
     
-    #Old
     #Read from DB each entry with: url and Date
     def start(self):
         self.__conn = sqlite3.connect(self.__dbName)     
-        cursor = self.__conn.cursor()   
-        for row in cursor.execute("Select * from newsStorage where PROCESSED=0"):
-                self.parseSite(row[0],row[1])        
-        #self.printDatabase()
+        self.__cursor = self.__conn.cursor()   
+        print "Download Content Start"
+        #Take a pendent processing elements snapshot
+        for row in self.__cursor.execute("Select * from newsStorage where PROCESSED='False'"):
+            self.parseSite(row[0],row[1])
+        self.__conn .commit()
+        self.__conn .close()      
+     
         
+
+    ######################################################
+    #####  Download site content and store it on database
+    ######################################################
     def parseSite(self,url,date):
         fileURL = urllib.urlopen(url)
         
@@ -84,46 +89,46 @@ class ContentDownloader(Thread):
             print "####IndexError: Ignore entry: "+url
         except UnboundLocalError:
             print "####Invalid domain: "+url
-        except OperationalError:
-            print "####Base de dados Fechada, (MultiTHread) tentando outra vez"
-            self.storeNew(url,date,domain,title,summary,article);
-            
+        #except OperationalError:
+        #   print "####Base de dados Fechada, (MultiTHread) tentando outra vez"
+        #  self.storeNew(url,date,domain,title,summary,article);
         #except: 
-        #    print "####Unexpected error: ignore entry:"+url
+            #print "####Unexpected error: ignore entry:"+url
         
-        #TODO send to whosh: Name tag etc
         print url
-        result = self.entityExtraction.ParseEntitiesFromDoc(title+" "+summary+" "+article)
-        self.storeResult(url,result)
-        
-    
-    def storeResult(self,url,result):
-        cursor = self.__conn.cursor()
-        for (entity,counter) in result.items():
-            try:
-                cursor.execute('INSERT into opinion values(?,?,?)',(unicode(url),unicode(entity),counter))
-            except sqlite3.IntegrityError:
-                cursor.execute('Update opinion set OPINION=? WHERE URL=? and ENTITY=?',(unicode(url),unicode(entity),counter))
-        self.__conn.commit()
-        
-    def storeNew(self,url,date,domain,title,summary,article):
-        print "    Updating Content Info for " + url
-        conn = sqlite3.connect(self.__dbName)     
-        cursor = conn.cursor()
-        cursor.execute('UPDATE newsStorage set DOMAIN=?, TITLE=?, SUMMARY=?, ARTICLE=? where url=?',(domain,title,summary,article,url))
-        conn.commit()
-        
-        #print "----->"
-        #print url, unicode(title), unicode(summary), unicode(article)
-        #print "<-----"
-        #Adicionar conteudo ao Whoosh Indexer
-        #print "---Woosh IN---"
-        self.whoosh.addLink(url, title, summary, article);
-        #print "---Woosh IN---"
+        #Sacar as entidades e guardar na base de dados das entidades e opinioes
+        #TODO lancar assync
+        result = self.entityExtraction.ParseEntitiesFromDoc(url,title+" "+summary+" "+article)
+        self.saveOpinion(result,url)
 
-#ContentDownloader("news.db").start()
-#   def printDatabase(self):
-#      cursor = self.__conn.cursor()
-#     for row in cursor.execute("Select * from newsStorage"):
-#        print row
-    #    self.__conn.commit()
+    
+    #Store the article at database and add to whoosh index
+    def storeNew(self,url,date,domain,title,summary,article):
+        print "Store content of " + url
+        cursor = self.__conn.cursor()
+        try:
+            cursor.execute('Update newsStorage set DOMAIN=?, TITLE=?, SUMMARY=?, ARTICLE=?, DATE=?,PROCESSED="True" where URL=?',(domain,title,summary,article,date,url))
+        except sqlite3.IntegrityError:
+            pass
+        #except OperationalError:
+        #   self.storeNew(url,date,domain,title,summary,article)
+
+        #print url, unicode(title), unicode(summary), unicode(article)
+        #Adicionar conteudo ao Whoosh Indexer
+        #TODO lancar assync
+        self.whoosh.addLink(url, title, summary, article);
+    
+    #Resultado: {"NomeEntidade", [N_Ocorrencias, Sentimento_Acumulado]}
+    def saveOpinion(self,results,url):
+        connEntities = sqlite3.connect(self.__dBEntitiesLocation)
+        cursorEntities = connEntities.cursor()
+        cursorOpinion = self.__conn.cursor()
+        for (entity,value) in results.items():
+            cursorEntities.execute('UPDATE personalities SET REPUTATION=(REPUTATION+?) where NAME=?',(value[0],unicode(entity)))
+            try:
+                cursorOpinion.execute('INSERT into opinion(URL,ENTITY,OPINION) values(?,?,?)',(unicode(url),unicode(entity),value[1]))
+            except sqlite3.IntegrityError:
+                cursorOpinion.execute('Update opinion set OPINION=? WHERE URL=? and ENTITY=?',(unicode(url),unicode(entity),value[1]))
+        connEntities.commit()
+        connEntities.close()
+           

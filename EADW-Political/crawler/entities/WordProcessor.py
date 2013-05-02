@@ -5,8 +5,9 @@ import sqlite3
 from operator import itemgetter, attrgetter
 
 class ProperNameProcessor:
+    __dBLocation = "../entities.db"
     def __init__(self):
-        self.conn = sqlite3.connect("entities.db")     
+        self.conn = sqlite3.connect(self.__dBLocation)     
         self.__cursor = self.conn.cursor() 
         self.knowEntities = self.LoadKnownEntitiesToMemory()
         self.stopWords = ['dos','das','de','do','da']
@@ -16,7 +17,7 @@ class ProperNameProcessor:
         self.nameBuilder = ""
         self.unknownEntities = []
         self.AcceptedProperNounCandidates = []
-        self.conn = sqlite3.connect("entities.db")     
+        self.conn = sqlite3.connect(self.__dBLocation)     
         self.__cursor = self.conn.cursor() 
         
     #Recebe um nome
@@ -73,10 +74,10 @@ class ProperNameProcessor:
 
     #Parameter: entites = ["dario","artur"]
     def ProcessEntities(self):
-       # print "Known Entities:"
+        # print "Known Entities:"
         unknownEntities = self.unknownEntities
         #print unknownEntities
-        result = []
+        result = dict()
         for unknownEntity in unknownEntities:
             #Check if it match any known entity
             candidates = []
@@ -95,11 +96,11 @@ class ProperNameProcessor:
             if len(candidates) == 0:
                 self.newEntity(unknownEntityOrg)
                 #print "new entiry:"+unknownEntityOrg
-                result.append(unknownEntityOrg)
+                result[unknownEntityOrg] = unknownEntityOrg
             else:
                 bestCandidate = self.selectBestCandidate(unknownEntity,candidates)
                 #print "Original: "+unknownEntityOrg+" best candidate: "+bestCandidate[0]
-                result.append(bestCandidate[0])
+                result[unknownEntityOrg] = bestCandidate[0]
         return result
             
             
@@ -161,7 +162,6 @@ class ProperNameProcessor:
         #print candidates
         candidates[0][1] += 1
         #print candidates[0]
-        self.updateCandidateOnDatabase(candidates[0][0])
         return candidates[0]
         
     #Adicionar esta entidade a base de dados
@@ -169,9 +169,6 @@ class ProperNameProcessor:
         #print "New entity: "+entityName
         self.__cursor.execute('INSERT INTO personalities(NAME,PRE_REPUTATION,REPUTATION) values (?,?,?)',(unicode(entityName),0,1))
         self.knowEntities.append([unicode(entityName),1,0])
-
-    def updateCandidateOnDatabase(self,candidateName):
-        self.__cursor.execute('UPDATE personalities SET REPUTATION=(REPUTATION+1) where NAME=?',[candidateName])
 
 
         

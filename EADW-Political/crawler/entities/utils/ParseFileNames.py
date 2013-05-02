@@ -4,6 +4,8 @@ Created on Mar 25, 2013
 import re
 from collections import Counter
 import sqlite3
+import unicodedata
+
 
 #
 #Extracts a name:reputation list and a  nomial names list
@@ -13,42 +15,43 @@ def GetNames():
     file = open("personalities.txt")
     line = file.readline()
     list = []
-    words = re.split('"',line)
-    i = 0
-    name = ""
-    for word in words:
-        if i%2== 0:
-            value = word[1:-1]
-            try:
-                nome = unicode(name)
-                for nomePart in nome.split(" "):
-                    if nomePart != '' :
-                        nomeSet.add(nomePart)
+    entities = re.split(',',line)
+    for word in entities:
+        word = word.replace('"',"")
+        word = word.replace('"',"")
+        entityValue = re.split(":",word)
+        name = unicode(entityValue[0])
+        value = entityValue[1]
+        for nomePart in name.split(" "):
+            if nomePart != '' :
+                nomeSet.add(nomePart)
                     
-                list.append((nome,int(value)))
-            except ValueError:
-                pass
-        else:
-            name = word
-        i += 1
+        list.append((name,int(value)))
+
     
     a = sorted(list,key=lambda entry: entry[0])
     
         
-    conn = sqlite3.connect("entities.db")     
+    conn = sqlite3.connect("../../../entities.db")     
     c = conn.cursor()       
-    c.execute('''CREATE TABLE personalities (NAME text primary key, PRE_REPUTATION INTEGER, REPUTATION INTEGER)''')
+    c.execute('''CREATE TABLE personalities (NAME text primary key, NAME_NORM text, PRE_REPUTATION INTEGER, REPUTATION INTEGER)''')
     c.execute('delete from personalities')
     c.execute('''CREATE TABLE properNouns (NOUN text primary key)''')
     c.execute('delete from properNouns')
      
+    print "names"
+    print a
+     
     for pair in a:
-        c.execute('INSERT INTO personalities(NAME,PRE_REPUTATION,REPUTATION) values (?,?,?)',(unicode(pair[0]),pair[1],0))
+        name_norm = unicode(unicodedata.normalize('NFKD', unicode(pair[0]).lower()).encode('ASCII', 'ignore'))
+        c.execute('INSERT INTO personalities(NAME,NAME_NORM,PRE_REPUTATION,REPUTATION) values (?,?,?,?)',(unicode(pair[0]),name_norm,pair[1],0))
     
+    print "ProperNouns"
     print nomeSet
     for properNoun in nomeSet:
         try:
-            c.execute('INSERT INTO properNouns(NOUN) values (?)',[unicode(properNoun).lower()])
+            name_norm = unicode(unicodedata.normalize('NFKD', unicode(properNoun).lower()).encode('ASCII', 'ignore'))
+            c.execute('INSERT INTO properNouns(NOUN) values (?)',[name_norm])
         except sqlite3.IntegrityError:
             pass
    
@@ -63,14 +66,16 @@ def GetRubish():
     for line in file:
         nomeSet.add(unicode(line[:-1]))
             
-    conn = sqlite3.connect("entities.db")     
+    conn = sqlite3.connect("../../../entities.db")     
     c = conn.cursor()       
     c.execute('''CREATE TABLE rubishNames (RUBISH_NAME text primary key)''')
     c.execute('delete from rubishNames')
      
+    print "rubishNames"
     print nomeSet
     for name in nomeSet:
-        c.execute('INSERT INTO rubishNames(RUBISH_NAME) values (?)',[unicode(name).lower()])
+        name_norm = unicodedata.normalize('NFKD', unicode(name).lower()).encode('ASCII', 'ignore')
+        c.execute('INSERT INTO rubishNames(RUBISH_NAME) values (?)',[name_norm])
     conn.commit()
     conn.close()
 
@@ -81,12 +86,14 @@ def GetCountries():
     for line in file:
         nomeSet.add(unicode(line[:-1]))
             
-    conn = sqlite3.connect("entities.db")     
+    conn = sqlite3.connect("../../../entities.db")     
     c = conn.cursor()       
 
+    print "countries"
     print nomeSet
     for name in nomeSet:
-        c.execute('INSERT INTO personalities(NAME,PRE_REPUTATION,REPUTATION) values (?,?,?)',(unicode(name),200,0))
+        name_norm = unicode(unicodedata.normalize('NFKD', unicode(name)).encode('ASCII', 'ignore'))
+        c.execute('INSERT INTO personalities(NAME,NAME_NORM,PRE_REPUTATION,REPUTATION) values (?,?,?,?)',(unicode(name),name_norm,200,0))
     conn.commit()
     conn.close()
 

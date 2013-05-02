@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  1 MAY 2013 13:44
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  2 MAY 2013 10:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -416,11 +416,24 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 28.
 
-(./chapters/abstract.tex) (./chapters/introduction.tex)
-(./chapters/news_collection.tex) (./chapters/news_search.tex)
-(./chapters/extraction_of_named_entitties.tex)
-(./chapters/Sentiment_Analysis.tex) (./chapters/Other_Functionalities.tex)
-(./chapters/conclusion.tex) (./latex8.bbl
+(./chapters/1_abstract.tex) (./chapters/2_introduction.tex)
+(./chapters/3_news_collection.tex) (./chapters/4_news_search.tex)
+(./chapters/5_extraction_of_named_entities.tex
+LaTeX Font Info:    Try loading font information for OMS+aer on input line 7.
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/ae/omsaer.fd
+File: omsaer.fd 1999/12/27
+)
+LaTeX Font Info:    Font shape `OMS/aer/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 7.
+)
+(./chapters/6_Sentiment_Analysis.tex [1{/usr/local/texlive/2012/texmf-var/fonts
+/map/pdftex/updmap/pdftex.map}
+
+
+]) (./chapters/7_Other_Functionalities.tex)
+(./chapters/8_Experimental_Results.tex) (./chapters/9_Critical_Analysis.tex)
+(./chapters/10_Conclusion.tex) (./latex8.bbl
 Underfull \hbox (badness 2111) in paragraph at lines 9--12
 []\T1/aer/m/n/10.95 L. Lam-port.  The part-time par-li-a-ment.
  []
@@ -431,30 +444,29 @@ Underfull \hbox (badness 1565) in paragraph at lines 9--12
 ,
  []
 
-) [1{/usr/local/texlive/2012/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+) [2
 
-
-]
-(./latex8.aux) ) 
+] (./latex8.aux) ) 
 Here is how much of TeX's memory you used:
- 2445 strings out of 493488
- 32450 string characters out of 3141326
- 88823 words of memory out of 3000000
- 5659 multiletter control sequences out of 15000+200000
+ 2479 strings out of 493488
+ 33155 string characters out of 3141326
+ 90823 words of memory out of 3000000
+ 5684 multiletter control sequences out of 15000+200000
  26430 words of font info for 53 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 37i,7n,24p,542b,235s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmbx10.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmbx12.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmr10.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmr12.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-ti10.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmt
-i12.pfb>
-Output written on latex8.pdf (1 page, 91632 bytes).
+ 37i,7n,24p,544b,235s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmbx10.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmbx12.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmr10.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmr12.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmsy10.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mti10.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+ti12.pfb>
+Output written on latex8.pdf (2 pages, 102775 bytes).
 PDF statistics:
- 32 PDF objects out of 1000 (max. 8388607)
- 22 compressed objects within 1 object stream
+ 39 PDF objects out of 1000 (max. 8388607)
+ 27 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

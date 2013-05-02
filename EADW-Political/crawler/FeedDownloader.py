@@ -6,7 +6,6 @@ Created on Mar 25, 2013
 '''
 
 
-from ContentDownloader import ContentDownloader
 from threading import Thread
 import feedparser
 import time
@@ -15,50 +14,51 @@ import sqlite3
 from time  import mktime
 from datetime import datetime
 
+
+#################################################
+# Descarregar a lista de feeds do URL que foi passado.
+# Ex: Expresso.feeds, vai descarregar todos os links
+# para o site do expresso em que estao as novas 
+# noticias
+###################################################
 class FeedDownloader(Thread):         
-    __feedUrl = ""
-    __feed = ""
-    __updatePeriod = 60
-    __dbName = ""
-    __downloader = ""
 
     def __init__(self, feedUrl,dbName):
         Thread.__init__(self)
         self.__feedUrl = feedUrl
         self.__dbName = dbName
-        self.__downloader = ContentDownloader(dbName)
                           
     
+    #Thread que vai actualizar a lista de um determinado feed provider (expresso por exemplo)
     def run(self):
-        while(1):
             self.updateList()
-            time.sleep(self.__updatePeriod)
             
-            
+    ################################################################
+    #Descarregar a lista de feeds do feed provider, associar a cada
+    #um dos feeds a referencia para o site e a data da noticia
+    ###############################################################
     def updateList(self):
-        
+        print "FeedDownloader: "+self.__feedUrl
         #Download and parse the feed URL
-        self.__feed = feedparser.parse(self.__feedUrl)
+        feed = feedparser.parse(self.__feedUrl)
         
+        conn = sqlite3.connect(self.__dbName)     
+        cursor = conn.cursor()
+          
         #Store the Link and Date on Database
-        for entry in self.__feed.entries:
+        for entry in feed.entries:
             link = entry.link
             date = entry.published_parsed
             dt = datetime.fromtimestamp(mktime(date))
             
+            #Save at SQL Database
             try:
-                #Inserir novo link
-                conn = sqlite3.connect(self.__dbName)     
-                c = conn.cursor()
-                c.execute('INSERT INTO newsStorage(URL,DATE) values (?,?)',(link,dt))
-                conn.commit()
-                print "Date: "+str(dt), "New link: "+link
-                
-                #Descaregar o conteudo do novo link
-                self.__downloader.parseSite(link, dt);
-                
+                cursor.execute('Insert into newsStorage(URL,DATE,PROCESSED) values(?,?,"False")',(link,dt))
             except sqlite3.IntegrityError:
                 pass
-            
+                #already exists
+        conn.commit()
+        conn.close()
         
-                  
+    
+              

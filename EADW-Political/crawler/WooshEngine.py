@@ -10,10 +10,8 @@ import sqlite3
 
 
 class WooshEngine:
-    
     indexDir = "feedDir"
     dbName = ""
-    
     
     
     def setDBName(self,dbName):
@@ -22,10 +20,11 @@ class WooshEngine:
     
     
     def createIndexDirIfNotExist(self):
-        if not os.path.exists(self.indexDir):
-            os.makedirs(self.indexDir)
-            print "    Directorio Criado"
-    
+        if os.path.exists(self.indexDir):
+            return False
+        os.makedirs(self.indexDir)
+        print "    Directorio Criado"
+        return True
     
               
     def addLink(self, url, title, summary, txt):
@@ -41,21 +40,13 @@ class WooshEngine:
         writer.add_document(id=url, content=unicode(text)) 
         writer.commit()
         ix.close()
-        print "        Whoosh Added Titulo: " + title
-        
-        
-        
-    def createEmptyIndex(self):
-        
-        self.createIndexDirIfNotExist()
-        schema = Schema(id = TEXT(stored = True), content=TEXT)
-        ix = create_in(self.indexDir, schema, indexname='MAIN')
-        ix.close()
+        # print "        Whoosh Added Titulo: " + title
+    
     
     
     def createIndex(self):
         print "    Whoosh Loading from SQL "      
-        self.createIndexDirIfNotExist
+        self.createIndexDirIfNotExist()
         
         conn = sqlite3.connect(self.dbName)
         c = conn.cursor()
@@ -64,6 +55,10 @@ class WooshEngine:
         conn.close()
         
         linkN = 1
+        schema = Schema(id = TEXT(stored = True), content=TEXT)
+        ix = create_in(self.indexDir, schema, indexname='MAIN')
+        writer = AsyncWriter(ix)
+
         for feed in feeds:
             
             # Descartar links sem Titulo
@@ -72,7 +67,7 @@ class WooshEngine:
                 continue
             
             index = feed[0]
-            print "    Whoosh Loaded Titulo " + str(linkN) + ":" + feed[3]
+            # print "    Whoosh Loaded Titulo " + str(linkN) + ":" + feed[3]
             linkN += 1
             
             titolo = feed[3] + " "
@@ -81,14 +76,12 @@ class WooshEngine:
             sumario2 = sumario + sumario
             text = titolo10 + sumario2 + " " +feed[5]
             
-            schema = Schema(id = TEXT(stored = True), content=TEXT)
-            ix = create_in(self.indexDir, schema, indexname='MAIN')
-            writer = AsyncWriter(ix)
             writer.add_document(id=index, content=unicode(text))
-            writer.commit()
-            ix.close()   
+            
+        writer.commit()
+        ix.close()   
         
-        print "Whoosh Load End"
+        # print "Whoosh Load End"
         
         
     def searchWord(self, word):
@@ -108,16 +101,16 @@ class WooshEngine:
             return returnList
         
         
-    def searchTop(self, word, max):
-        res = self.searchWord(word).most_common(max)
-        list = []
+    def searchTop(self, word, maximum):
+        res = self.searchWord(word).most_common(maximum)
+        lista = []
         for result in res:
-            list.append([result[1], result[0]])
-        return list
+            lista.append([result[1], result[0]])
+        return lista
 
-    def searchTopWithEntity(self, word, max):
-        res = self.searchWord(word).most_common(max)
-        list = []
+    def searchTopWithEntity(self, word, maximum):
+        res = self.searchWord(word).most_common(maximum)
+        lista = []
         # pesquisar as entidades
         conn = sqlite3.connect(self.dbName)
         n = conn.cursor()
@@ -125,8 +118,9 @@ class WooshEngine:
             url = result[0]
             n.execute('SELECT ENTITY FROM  newsStorage NATURAL JOIN opinion WHERE URL = ?', [url])
             entities = n.fetchall()
-            list.append([result[1], result[0], entities])
+            #TODO utilizar a popularidade da entidade para alterar a noticia
+            lista.append([result[1], result[0], entities])
         conn.close()
-        return list
+        return lista
         
         
