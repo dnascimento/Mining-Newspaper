@@ -94,6 +94,7 @@ class ContentDownloader(Thread):
                 return;
             
             self.storeNew(url,date,domain,title,summary,article);
+            
         except IndexError:
             print "####IndexError: Ignore entry: "+url
             return
@@ -134,6 +135,7 @@ class ContentDownloader(Thread):
         connEntities = sqlite3.connect(self.__dBEntitiesLocation)
         cursorEntities = connEntities.cursor()
         cursorOpinion = self.__conn.cursor()
+        
         for (entity,value) in results.items():
             cursorEntities.execute('UPDATE personalities SET REPUTATION=(REPUTATION+?) where NAME=?',(value[0],unicode(entity)))
             try:
