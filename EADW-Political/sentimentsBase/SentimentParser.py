@@ -9,10 +9,10 @@ class Parser:
     wordWritedSet = set()
     
     def SentiFlexProcess(self):
-        file = open('SentiLex-flex-PT03.txt')
+        file = open('in/SentiLex-flex-PT03.txt')
         
-        outExpression = open("lexiconExpressions.txt","w+")
-        outWord = open("lexiconWords.txt","w+")
+        outExpression = open("out/lexiconExpressions.txt","w+")
+        outWord = open("out/lexiconWords.txt","w+")
         
         for linha in file:
             line = unicode(linha[:-1])
@@ -78,8 +78,8 @@ class Parser:
     
     
     def TagFileProcess(self):
-        file = open('TagFile.txt')
-        outWord = open("lexiconWords.txt","a")
+        file = open('in/TagFile.txt')
+        outWord = open("out/lexiconWords.txt","a")
         
         for linha in file:
             line = unicode(linha[:-1])
@@ -92,6 +92,9 @@ class Parser:
                 continue
                 
             meta = lineSplit[1]
+            #start by common text
+            if  re.match('^([a-zA-Z])+',word) == None:
+                continue
             
             if meta == "ADJ":
                 meta = "Adj"
@@ -106,17 +109,21 @@ class Parser:
             self.wordWritedSet.add(name_norm)
 
     def SortFileLines(self):
-        f = open('lexiconWords.txt',"r")
+        f = open('out/lexiconWords.txt',"r")
         # omit empty lines and lines containing only whitespace
         lines = [line for line in f if line.strip()]
-        os.remove(f)
+        f.close()
+        os.remove('out/lexiconWords.txt')
         lines.sort()
-        f = open('lexiconWords.txt',"w+")
+        f = open('out/lexiconWords.txt',"w+")
         f.writelines(lines)
         
+    
+    def SaveDatabaseProunsToFile(self):
+        #converter a tabela properNouns do  
     
 parser = Parser()   
 parser.SentiFlexProcess()  
 parser.TagFileProcess()
-#parser.SortFileLines()
+parser.SortFileLines()
 
