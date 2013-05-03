@@ -2,6 +2,7 @@
 Created on May 1, 2013
 '''
 import sqlite3
+import unicodedata
 from operator import itemgetter, attrgetter
 
 class ProperNameProcessor:
@@ -11,6 +12,8 @@ class ProperNameProcessor:
         self.__cursor = self.conn.cursor() 
         self.knowEntities = self.LoadKnownEntitiesToMemory()
         self.stopWords = ['dos','das','de','do','da']
+        self.stopWord = ""
+        self.nameEquiv = self.LoadKnownEquivalentsToMemory()
         
     def init(self):
         self.properNounCandidate = ""
@@ -22,18 +25,23 @@ class ProperNameProcessor:
         
     #Recebe um nome
     def updateNewName(self,name,proper):
-        self.nounColletingMode(name,proper)
+        #Apanhar palavras separadas por .
+        for name in name.split("."):
+            self.nounColletingMode(name,proper)
  
     
     
     #Apenas se pertencer a tabela de nomes conhecidos ou for stopword
     def restrictMode(self,name,proper):
         if proper and self.isKnownProperNoun(name):
+                if(self.stopWord != ""):
+                    self.nameBuilder += self.stopWord
+                    self.stopWord = ""
                 self.nameBuilder += name + " "
         else:
             #Its not a proper name 
             if name in self.stopWords and self.nameBuilder != "":
-                self.nameBuilder += name + " "
+                self.stopWord = name
             else:
                 #Terminar a concatenacao and clean state
                 self.finishNameBuilding()
@@ -41,11 +49,15 @@ class ProperNameProcessor:
                 
     def nounColletingMode(self,name,proper):
         if proper:
+            if(self.stopWord != ""):
+                    self.nameBuilder += self.stopWord
+                    self.stopWord = ""
+                    
             if self.properNounCandidate != "":
                 #Im the next name so it is a noun
                 self.nameBuilder += self.properNounCandidate
                 self.confirmProperNounCandidate() 
-            
+                
             #if pertence a  tabela de ProperNoun, concatenar 
             if self.isKnownProperNoun(name):
                 self.nameBuilder += name + " "
@@ -57,7 +69,7 @@ class ProperNameProcessor:
             #Its not a proper name 
             self.properNounCandidate = ""
             if name in self.stopWords and self.nameBuilder != "":
-                self.nameBuilder += name + " "
+                self.stopWord = name
             else:
                 #Terminar a concatenacao and clean state
                 self.finishNameBuilding()
@@ -84,14 +96,23 @@ class ProperNameProcessor:
             try:
                 unknownEntityOrg = str(unknownEntity)
             except UnicodeEncodeError:
-                continue
-            unknownEntity = str(unknownEntity).lower()
+                unknownEntityOrg = str(unicode(unknownEntity.encode('utf8')))
+            
+            unknownEntity = unknownEntityOrg.lower()
+            unknownEntity_norm = unicode(unicodedata.normalize('NFKD', unicode(unknownEntity).lower()).encode('ASCII', 'ignore'))
+            #Procurar entidade equivalente
+            unknownEntity_norm = self.checkEquivalent(unknownEntity_norm)
+            
+            
             for entity in self.knowEntities:
-                    known_name = str(entity[0]).lower()
+                    #NAME,NAME_NORM,,REPUTATION,PRE_REPUTATION
+                    known_name = str(entity[1]).lower()
                     #how percent of name1 must be contanined by name2?
-                    if(self.NameIsContained(known_name,unknownEntity)):
-                        #print "Known Entity: "+entity[0]+" famous level: "+str(entity[1])+", reputation: "+str(entity[2])                        
-                        candidates.append([entity[0],entity[1],entity[2]])
+                    #normalizar o nome da entidade
+                    
+                    if(self.NameIsContained(unknownEntity_norm,known_name)):
+                        #print "Known Entity: "+entity[0]+" famous level: "+str(entity[3])+", reputation: "+str(entity[2])                        
+                        candidates.append([entity[0],entity[2],entity[3]])
             
             if len(candidates) == 0:
                 self.newEntity(unknownEntityOrg)
@@ -127,9 +148,11 @@ class ProperNameProcessor:
     def LoadKnownEntitiesToMemory(self):
         result = []
 
-        for row in self.__cursor.execute("Select * from personalities"):
-            result.append([row[0],row[2],row[1]]) 
+        for row in self.__cursor.execute("Select NAME,NAME_NORM,PRE_REPUTATION,REPUTATION from personalities"):
+            result.append([row[0],row[1],row[3],row[2]]) 
         return result
+    
+
     
     def isKnownProperNoun(self,noun):
         resultsCount = self.__cursor.execute("Select * from properNouns where NOUN = ?",[noun.lower()]).rowcount
@@ -149,6 +172,7 @@ class ProperNameProcessor:
         self.unknownEntities.append(self.nameBuilder[:-1])
         self.properNounCandidate = ""
         self.nameBuilder = ""
+        self.stopWord = ""
         
     #Select the best match candidate
     def selectBestCandidate(self,unkown,candidates):
@@ -167,10 +191,26 @@ class ProperNameProcessor:
     #Adicionar esta entidade a base de dados
     def newEntity(self,entityName):
         #print "New entity: "+entityName
-        self.__cursor.execute('INSERT INTO personalities(NAME,PRE_REPUTATION,REPUTATION) values (?,?,?)',(unicode(entityName),0,1))
+        name_norm = unicode(unicodedata.normalize('NFKD', unicode(entityName).lower()).encode('ASCII', 'ignore'))
+        try:
+            self.__cursor.execute('INSERT INTO personalities(NAME,NAME_NORM,PRE_REPUTATION,REPUTATION) values (?,?,?,?)',(unicode(entityName),name_norm,0,1))
+        except sqlite3.IntegrityError:
+            pass
         self.knowEntities.append([unicode(entityName),1,0])
 
 
+    def LoadKnownEquivalentsToMemory(self):
+        result = []
+        for row in self.__cursor.execute("Select NAME,EQUIV from nameEquiv"):
+            result.append([row[0],row[1]]) 
+        return result
+    
+    def checkEquivalent(self,name):
+        #name|equiv
+        for pair in self.nameEquiv:
+            if pair[0] == name:
+                return pair[1]
+        return name
         
         
 """        

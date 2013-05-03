@@ -38,6 +38,8 @@ def GetNames():
     c.execute('delete from personalities')
     c.execute('''CREATE TABLE properNouns (NOUN text primary key)''')
     c.execute('delete from properNouns')
+    c.execute('''CREATE TABLE nameEquiv (NAME text,EQUIV text)''')
+
      
     print "names"
     print a
@@ -96,7 +98,29 @@ def GetCountries():
         c.execute('INSERT INTO personalities(NAME,NAME_NORM,PRE_REPUTATION,REPUTATION) values (?,?,?,?)',(unicode(name),name_norm,200,0))
     conn.commit()
     conn.close()
+    
+    
+def GetEquiv():
+    nomeSet = set()
+    file = open("equivalent.txt")
+    for line in file:
+        nomeSet.add(unicode(line[:-1]))
+            
+    conn = sqlite3.connect("../../../entities.db")     
+    c = conn.cursor()       
+
+    print "equiv"
+    print nomeSet
+    for name in nomeSet:
+        name_norm = unicode(unicodedata.normalize('NFKD', unicode(name)).encode('ASCII', 'ignore'))
+        n = name_norm.split(":")
+        c.execute('INSERT INTO nameEquiv(NAME,EQUIV) values (?,?)',(unicode(n[0]),unicode(n[1])))
+    conn.commit()
+    conn.close()
+    
+    
 
 GetRubish()
 GetNames()
 GetCountries()
+GetEquiv()

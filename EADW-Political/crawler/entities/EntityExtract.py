@@ -37,13 +37,13 @@ class EntityExtractor:
         #Resultado: {"NomeEntidade", [N_Ocorrencias, Sentimento_Acumulado]}
         results = dict()
         #sentences = nltk.sent_tokenize(doc)
+        tagger = nltk.data.load(nltk.tag._POS_TAGGER)
         sentences = sent_tokenizer.tokenize(doc)
         for sentence in sentences:
             self.ProperNameProcessor.init()
             #split the sentence in words
             words = nltk.word_tokenize(sentence)
             #PostOfSpeak (sintax) analysis [('dario',EN),('artur','en')]
-            tagger = nltk.data.load(nltk.tag._POS_TAGGER)
             
             taggedWords = tagger.tag(words)
             
