@@ -8,7 +8,7 @@ import unicodedata
 from time  import mktime
 from datetime import datetime
 import time
-
+import os
 #
 #Extracts a name:reputation list and a  nomial names list
 #
@@ -30,7 +30,19 @@ def GetFeeds():
     
     print list
     
-    conn2 = sqlite3.connect("../../../news.db")     
+    dbpath = "../../../news.db"
+    
+    if not os.path.exists(dbpath):
+        print "Base de dados nao encontrada, Vamos Criar uma Nova"
+        conn = sqlite3.connect(dbpath)     
+        c = conn.cursor()
+        c.execute('CREATE TABLE newsStorage (URL text  PRIMARY KEY DEFAULT NULL,DATE date DEFAULT NULL,DOMAIN text DEFAULT NULL,TITLE text DEFAULT NULL,SUMMARY text DEFAULT NULL,ARTICLE text DEFAULT NULL,PROCESSED Boolean DEFAULT FALSE)')
+        c.execute('CREATE TABLE opinion (URL TEXT  NOT NULL,ENTITY TEXT  NOT NULL ,OPINION integer,Primary Key(URL,ENTITY))')
+        conn.commit()
+        print "Base de dados Criada"
+    
+    
+    conn2 = sqlite3.connect(dbpath)     
     c2 = conn2.cursor()  
     for pair in list:
         #Save at SQL Database

@@ -15,11 +15,12 @@ engine.setDBName(dbpath);
 #search_word =  raw_input()
 #search_word =  "Artur"
 
-##Loop De Pesquisas
-while(True):
-    print "Search Word? :"
-    search_word =  raw_input()    
-    for score, link, entities in engine.searchTopWithEntity(search_word, 5):
-        print "Score: "+str(score), "Link: "+link, "Entities: ", entities
-        
+
+class EADWSearch():
+
+    def searchNews(self,search_word):
+        for score, link, entities in engine.searchTopWithEntity(search_word, 5):
+            return "Score: "+str(score), "Link: "+link, "Entities: ", entities
+
+     
         
