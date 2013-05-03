@@ -118,9 +118,14 @@ class Parser:
         f = open('out/lexiconWords.txt',"w+")
         f.writelines(lines)
         
-    
-    def SaveDatabaseProunsToFile(self):
-        #converter a tabela properNouns do  
+        
+        
+    #converter a tabela properNouns do entities para ficheiro para ser limpa manualmente
+    def SaveDatabaseProperNounsToFile(self):
+        print "TODO"
+        
+    def AddProperNounsFromDatabaseFile(self):    
+        print "TODO"
     
 parser = Parser()   
 parser.SentiFlexProcess()  
