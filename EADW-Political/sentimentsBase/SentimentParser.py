@@ -4,6 +4,7 @@ Created on May 3, 2013
 import re
 import unicodedata
 import os
+import sqlite3
 
 class Parser:
     wordWritedSet = set()
@@ -122,11 +123,29 @@ class Parser:
         
     #converter a tabela properNouns do entities para ficheiro para ser limpa manualmente
     def SaveDatabaseProperNounsToFile(self):
-        print "TODO"
+        out = open("dbProperNouns.txt","w+")
+        self.__conn = sqlite3.connect("../entities.db")     
+        self.__cursor = self.__conn.cursor()   
+        for row in self.__cursor.execute("Select * from properNouns"):
+            out.write(row[0])
+        out.close()
         
     def AddProperNounsFromDatabaseFile(self):    
-        print "TODO"
-    
+        f = open("dbProperNouns.txt","r")
+        outWord = open("out/lexiconWords.txt","a")
+        
+        for row in f:
+            word = unicode(row[:-1]) 
+            name_norm = unicode(unicodedata.normalize('NFKD', unicode(word).lower()).encode('ASCII', 'ignore'))
+            if name_norm in self.wordWritedSet:
+                continue 
+            meta = "NPROP"
+            outWord.write(word+":"+meta+":"+":")
+        
+        outWord.close()
+            
+            
+            
 parser = Parser()   
 parser.SentiFlexProcess()  
 parser.TagFileProcess()
