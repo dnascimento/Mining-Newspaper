@@ -1,0 +1,8 @@
+/feedDir
+*.pyc
+/__init__.py
+/__init__.pyc
+/ContentDownloader.pyc
+/FeedDownloader.pyc
+/NewsSearcher.pyc
+/WooshEngine.pyc

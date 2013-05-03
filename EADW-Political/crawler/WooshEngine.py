@@ -78,9 +78,10 @@ class WooshEngine:
             
             writer.add_document(id=index, content=unicode(text))
             
+            
         writer.commit()
         ix.close()   
-        
+        print "    Done Loading from SQL"
         # print "Whoosh Load End"
         
         
