@@ -30,8 +30,14 @@ class ContentDownloader(Thread):
         self.__cursor = self.__conn.cursor()   
         print "Download Content Start"
         #Take a pendent processing elements snapshot
+        i = 0
         for row in self.__cursor.execute("Select * from newsStorage where PROCESSED='False'"):
             self.parseSite(row[0],row[1])
+            i +=1
+            if(i > 10):
+                self.__conn .commit()
+                i = 0 #part commit
+                
         self.__conn .commit()
         self.__conn .close()      
      
@@ -84,11 +90,16 @@ class ContentDownloader(Thread):
                 summary = ""
                 article =  unicode(soup.select("#video_detail")[0].h2.get_text().decode('utf8'))
             
+            if title == "":
+                return;
+            
             self.storeNew(url,date,domain,title,summary,article);
         except IndexError:
             print "####IndexError: Ignore entry: "+url
+            return
         except UnboundLocalError:
             print "####Invalid domain: "+url
+            return
         #except OperationalError:
         #   print "####Base de dados Fechada, (MultiTHread) tentando outra vez"
         #  self.storeNew(url,date,domain,title,summary,article);

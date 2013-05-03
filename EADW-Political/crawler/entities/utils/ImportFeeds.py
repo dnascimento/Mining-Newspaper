@@ -35,7 +35,7 @@ def GetFeeds():
     for pair in list:
         #Save at SQL Database
         try:
-            c2.execute('Insert into newsStorage(URL,DATE,PROCESSED) values(?,?,"False")',(link,dt))
+            c2.execute('Insert into newsStorage(URL,DATE,PROCESSED) values(?,?,"False")',(pair[0],pair[1]))
         except sqlite3.IntegrityError:
             pass
             #already exists

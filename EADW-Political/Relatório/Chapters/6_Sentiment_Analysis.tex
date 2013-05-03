@@ -1,0 +1,32 @@
+%!TEX encoding = UTF-8 Unicode
+\subsection{Sentiment Analysis}
+\label{sec:sentiment_analysis}
+A análise de sentimento permite determinar a reputação e ter um feedback em tempo real do panorama político nacional. A opinião que os média publicam sobre um determinado político ou partido político é extremamente relevante e decisiva para o futuro político-partidário de um país. Em 2013, as eleições em Itália sofreram uma forte influência por parte dos média. A maioria dos média televisivos italianos são propriedade de Silvio Berlusconi, então candidato à liderança, fizeram campanhas de opinião posítiva ao político e fazendo com que a opinião de um político envolvido em vários escandalos se altera-se e deste modo obtivesse quase o mesmo número de votos que Luigi Bersani.\\
+A análise de sentimento foi realizada ao nível de -------------------
+A nossa análise de sentimento consiste em várias fases:
+
+1º - Pré-processamos o texto e extraímos as entidades de cada frase, como explicado na secção anterior. 
+
+
+\subsubsection{Sentence-Level Sentiment Analysis}
+Através do mecanismo da secção anterior, extraimos as entidades de cada frase. Assumimos que existe apenas 1 opinião por cada frase. No entanto, caso exista mais do que uma entidade, tentámos dividir a frase em subfrases. \\
+Uma das maiores difículdades, especialmente em notícias políticas, é a análise de opiniões contídas nas citações de outros políticos. Estas citações são muitas vezes sarcásticas e dificeis de analisar. 
+1º - A frase é objectiva ou subjectiva, isto é, a frase contém alguma opinião, visão ou crença subjacente? Apenas considerámos frases subjectivas porque frases objectivas tem uma análise muito mais complexa. 
+
+VER O MÉTODO DO Hai e o Pang and Lee (32 e 26) Ler o 35 sobre sarcasmo
+
+TENTAR INDENTIFICAR SARCARMOS
+
+
+2º 
+
+\subsubsection{Document-Level Sentiment Analysis}
+Admitimos um método de análise de \i{Supervied Learning} em que classificamos o documento em 3 classes: Positivo, Negativo e Neutro. 
+Ao nível do documento
+USAR UM MÉTODO COMO O SVM, BAYES, Logistic Regression o KNN
+USAR TFIDF, POS e Sentiment Lexicon para analisar 
+
+
+\subsubsection{Sentiment Lexicon Acquisition}
+Existem 3 formas de obter o léxico de sentimentos: \i{Manualmente}, \i{Dictionary-based} e \i{Corpus-based}. Uma hipótese possível de criação do léxico seria criar uma pequena lista de adjectivos manualmente. Utilizando um dicionário online, como a infopedia \cite{infopedia}, verificar que se trata de um adjectivo, extrair os seus sinónimos e antónimos e realizar a mesma análise iterativamente para cada um. Um processo semelhante a um url-crawler mas com palavras num dicionário. Este processo geraria um léxico classificado como palavras positivas ou palavras negativas.\\
+Em alternativa, utilizámos o léxico Sentilex \cite{sentilex}

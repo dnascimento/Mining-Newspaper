@@ -35,7 +35,7 @@ class ProperNameProcessor:
     def restrictMode(self,name,proper):
         if proper and self.isKnownProperNoun(name):
                 if(self.stopWord != ""):
-                    self.nameBuilder += self.stopWord
+                    self.nameBuilder += self.stopWord + " "
                     self.stopWord = ""
                 self.nameBuilder += name + " "
         else:
@@ -50,7 +50,7 @@ class ProperNameProcessor:
     def nounColletingMode(self,name,proper):
         if proper:
             if(self.stopWord != ""):
-                    self.nameBuilder += self.stopWord
+                    self.nameBuilder += self.stopWord + " "
                     self.stopWord = ""
                     
             if self.properNounCandidate != "":
