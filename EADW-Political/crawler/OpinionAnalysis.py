@@ -1,5 +1,6 @@
 #!/usr/bin/python
 import nltk.classify.util, nltk.metrics
+from nltk.corpus import stopwords
 from nltk.corpus import floresta
 from nltk.corpus import mac_morpho
 from nltk.corpus import PlaintextCorpusReader
@@ -12,44 +13,43 @@ import nltk.classify.util, nltk.metrics
 import os
 import pickle
 import re
-
-
-
-#ADJ(ective), N(oun), V(erb) and IDIOM), and
-#Polarity (POL), which can be positive (1), negative (-1) or neutral (0);
-#Some entries also include an additional code (REV), which refers to specific notes included by the annotator. At this point, we can find the following notations:
-
-
-
-fileName = "/home/artur-adm/teste/SentiLex-flex-PT03.txt"
-#fileName = "/home/artur-adm/teste/SentiLex-flex-PT03.txt"
-
-positive = set()
-negative = set()
-
-lex = open(fileName, "r")
-for line in lex:
-    #print line
-    palavras = line.split('.')[0].split(',')
-    pos = line.split('Po')[1].split('=')[1].split(';')[0]
-    polarity = int(line.split('POL:N')[1].split('=')[1].split(';')[0])
-    
-    #print len(palavras),
-    #    print line
-    
-    #print pos, polarity, palavras
-
-    if(polarity > 0):
-        positive.update(palavras)
-    else:
-        negative.update(palavras)
-        
-#print "Pos", positive
-#print "Neg", list(negative)[:100]
-
-
-
 #nltk.download()
+
+customstopwords = ['a', 'de', 'e']
+
+p = open('positive.txt', 'r')
+n = open('negative.txt', 'r')
+
+postxt = p.read().split(":")
+negtxt = n.read().split(":")
+
+
+neglist = []
+poslist = []
+
+#Create a list of 'negatives' with the exact length of our negative tweet list.
+for i in range(0,len(negtxt)):
+    neglist.append('negative')
+
+#Likewise for positive.
+for i in range(0,len(postxt)):
+    poslist.append('positive')
+
+#Creates a list of tuples, with sentiment tagged.
+postagged = zip(postxt, poslist)
+negtagged = zip(negtxt, neglist)
+
+
+# Combina Tudo
+taggedTotal = postagged + negtagged
+
+
+print postagged
+
+
+
+
+
 
 
 
