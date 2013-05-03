@@ -169,17 +169,11 @@ class Parser:
         conn.close()
            
             
-            
-#parser = Parser()   
+parser = Parser()   
 #parser.SentiFlexProcess()  
 #parser.TagFileProcess()
 #parser.SortFileLines()
 #parser.SaveDatabaseProperNounsToFile()
 #parser.AddProperNounsFromDatabaseFile()
-#parser.SentiFlexProcess()  
-#parser.TagFileProcess()
-#parser.SortFileLines()
-#parser.SaveDatabaseProperNounsToFile()
-#parser.AddProperNounsFromDatabaseFile()
-#parser.ExportToDatabase()
+parser.ExportToDatabase()
 
