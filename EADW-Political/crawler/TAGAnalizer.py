@@ -7,15 +7,25 @@ import sqlite3
 class TAGAnalizer:
     
     TagFile = "../sentimentsBase/in/TagFile.txt"
-
+    TagDBPath = "TAG.db"
     def __init__(self):
-        print "Carregando LIB TAG Libs"
-        TagFileDict = self.loadDictionary(self.TagFile)
-        print self.TagFileDict
+        #print "Carregando LIB TAG Libs"
+        #TagFileDict = self.loadDictionary(self.TagFile)
+        #print self.TagFileDict
         #TagNomeDict = self.loadDictionary(self.TagNomes)
         print "Done Loading Libs"
 
+    
+    
+    def loadToDB(self):
         
+        if os.path.exists(self.TagDBPath):
+            os.remove(self.TagDBPath)
+        
+        fd = open(self.TagFile, 'r')
+        for line in fd:
+            print line
+        fd.close()
 
 
 
@@ -70,3 +80,4 @@ class TAGAnalizer:
 #print floresta.tagged_words()
 #mac_morphoDict = dict(mac_morpho.tagged_words())
 x = TAGAnalizer()
+x.loadToDB()

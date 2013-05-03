@@ -20,6 +20,7 @@ if not os.path.exists(dbpath):
     c.execute('CREATE TABLE newsStorage (URL text  PRIMARY KEY DEFAULT NULL,DATE date DEFAULT NULL,DOMAIN text DEFAULT NULL,TITLE text DEFAULT NULL,SUMMARY text DEFAULT NULL,ARTICLE text DEFAULT NULL,PROCESSED Boolean DEFAULT FALSE)')
     c.execute('CREATE TABLE opinion (URL TEXT  NOT NULL,ENTITY TEXT  NOT NULL ,OPINION integer,Primary Key(URL,ENTITY))')
     conn.commit()
+    conn.close()
     print "Base de dados Criada"
 
 
