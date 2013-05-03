@@ -123,26 +123,28 @@ class Parser:
         
     #converter a tabela properNouns do entities para ficheiro para ser limpa manualmente
     def SaveDatabaseProperNounsToFile(self):
-        out = open("dbProperNouns.txt","w+")
+        out = open("out/dbProperNouns.txt","w+")
         self.__conn = sqlite3.connect("../entities.db")     
         self.__cursor = self.__conn.cursor()   
         for row in self.__cursor.execute("Select * from properNouns"):
-            out.write(row[0])
+            out.write(row[0]+"\n")
         out.close()
         
     def AddProperNounsFromDatabaseFile(self):    
-        f = open("dbProperNouns.txt","r")
+        f = open("out/dbProperNouns.txt","r")
         outWord = open("out/lexiconWords.txt","a")
         
         for row in f:
             word = unicode(row[:-1]) 
             name_norm = unicode(unicodedata.normalize('NFKD', unicode(word).lower()).encode('ASCII', 'ignore'))
             if name_norm in self.wordWritedSet:
+                print "exists: "+name_norm
                 continue 
             meta = "NPROP"
-            outWord.write(word+":"+meta+":"+":")
+            outWord.write(word+":"+meta+":"+":"+"\n")
         
         outWord.close()
+        os.remove("out/dbProperNouns.txt")
             
             
             
@@ -150,4 +152,6 @@ parser = Parser()
 parser.SentiFlexProcess()  
 parser.TagFileProcess()
 parser.SortFileLines()
+parser.SaveDatabaseProperNounsToFile()
+parser.AddProperNounsFromDatabaseFile()
 
