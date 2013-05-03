@@ -24,7 +24,7 @@ class ProperNameProcessor:
         self.__cursor = self.conn.cursor() 
         
     #Recebe um nome
-    def updateNewName(self,name,proper):
+    def updateNewName(self,name,proper):        
         #Apanhar palavras separadas por .
         for name in name.split("."):
             self.nounColletingMode(name,proper)

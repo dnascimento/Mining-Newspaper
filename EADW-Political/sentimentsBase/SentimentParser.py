@@ -61,7 +61,7 @@ class Parser:
                         out = outExpression
                     else:
                         out = outWord
-                        
+                                            
                     if len(opinions) == 0:
                         result = sentence+":"+POS+":"+":"+Sex
                     else:
@@ -139,6 +139,7 @@ class Parser:
             name_norm = unicode(unicodedata.normalize('NFKD', unicode(word).lower()).encode('ASCII', 'ignore'))
             if name_norm in self.wordWritedSet:
                 print "exists: "+name_norm
+                #TODO Verificar se ao existir, e um nome proprio ou nao
                 continue 
             meta = "NPROP"
             outWord.write(word+":"+meta+":"+":"+"\n")
