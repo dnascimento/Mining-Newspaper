@@ -27,13 +27,13 @@ class ProperNameProcessor:
     def updateNewName(self,name,proper):        
         #Apanhar palavras separadas por .
         for name in name.split("."):
-            self.nounColletingMode(name,proper)
- 
+            #self.nounColletingMode(name,proper)
+            self.restrictMode(name,proper)
     
     
-    #Apenas se pertencer a tabela de nomes conhecidos ou for stopword
+    #Confia no facto de ser proper ou nao e com base nisso gera os nomes
     def restrictMode(self,name,proper):
-        if proper and self.isKnownProperNoun(name):
+        if proper: 
                 if(self.stopWord != ""):
                     self.nameBuilder += self.stopWord + " "
                     self.stopWord = ""
@@ -147,7 +147,6 @@ class ProperNameProcessor:
     
     def LoadKnownEntitiesToMemory(self):
         result = []
-
         for row in self.__cursor.execute("Select NAME,NAME_NORM,PRE_REPUTATION,REPUTATION from personalities"):
             result.append([row[0],row[1],row[3],row[2]]) 
         return result
