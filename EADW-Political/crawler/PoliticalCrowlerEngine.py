@@ -1,9 +1,9 @@
 from FeedDownloader import FeedDownloader
 from WooshEngine import WooshEngine
+from TAGAnalizer import TAGAnalizer
+from ContentDownloader import ContentDownloader
 import os
 import sqlite3
-from ContentDownloader import ContentDownloader
-
 
 #
 #Inicializa o Woosh e a database
@@ -22,6 +22,10 @@ if not os.path.exists(dbpath):
     conn.commit()
     conn.close()
     print "Base de dados Criada"
+
+##Criar a base de dados de pesquisa de TAGS
+tag = TAGAnalizer()
+tag.loadToDB()
 
 
 ##Criar motor de Pesquisa Baseado no Woosh se nao existir

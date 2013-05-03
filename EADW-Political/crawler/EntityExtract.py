@@ -9,16 +9,19 @@ Created on Mar 25, 2013
 import nltk
 from nltk.corpus import floresta
 from pprint import pprint
-import  WordProcessor
+import  entities.WordProcessor as WordProcessor
 import sqlite3
 import re
+import unicodedata
 from collections import Counter
+from TAGAnalizer import TAGAnalizer
 #Ler cada um dos textos nao processados
 #Realizar a analise com o NLTK
 
 
 class EntityExtractor:
     __dBEntitiesLocation = "../entities.db"
+    
     def __init__(self):
         self.ProperNameProcessor = WordProcessor.ProperNameProcessor()
         conn = sqlite3.connect(self.__dBEntitiesLocation)
@@ -36,32 +39,40 @@ class EntityExtractor:
     def ParseEntitiesFromDoc(self,url,doc):
         self.ProperNameProcessor.init()
         #split the doc in sentences
-        sent_tokenizer=nltk.data.load('tokenizers/punkt/portuguese.pickle')
+        #sent_tokenizer = nltk.data.load('tokenizers/punkt/portuguese.pickle')
         
         #Resultado: {"NomeEntidade", [N_Ocorrencias, Sentimento_Acumulado]}
         results = dict()
         #sentences = nltk.sent_tokenize(doc)
-        tagger = nltk.data.load(nltk.tag._POS_TAGGER)
-        sentences = sent_tokenizer.tokenize(doc)
+        #tagger = nltk.data.load(nltk.tag._POS_TAGGER)
+        
+        #print "---->"
+        print str(doc)
+        #print "<---->"
+        doc = unicode(unicodedata.normalize('NFKD', unicode(doc).lower()).encode('ASCII', 'ignore'))
+        print doc 
+        #print "<----"
+        
+        sentences = nltk.sent_tokenize(doc)
         for sentence in sentences:
+            #print sentence
+            #print "---->"
             self.ProperNameProcessor.init()
             #split the sentence in words
             words = nltk.word_tokenize(sentence)
-            #PostOfSpeak (sintax) analysis [('dario',EN),('artur','en')]
-    
-    
-    ########################################################################################
-            #Taggar cada uma das palavras
-            #taggedWords = tagger.tag(words)
-            #Convert to tree
-            #ne_tree = nltk.ne_chunk(taggedWords,binary=False) 
+            tagger = TAGAnalizer()
             
-            #For each word, get opinion and POS
+            #print words
+            for word in words:
+                
+                # retira lixo
+                #if(len(word) < 2):
+                #    continue
+                 
+                POS = tagger.getTagFromBD(word)
             
-            #TODO Invoke OpinionAnalysis
-            #Return array de TAGs
-            
-            if  POS == "NPROP" & self.itsNotRubisProperNoun(word) :
+            if  POS == 'NPROP':# and self.itsNotRubisProperNoun(word):
+                print "------------------------------------------------------------>>>>>"
                 #its properNoun
                 self.ProperNameProcessor.updateNewName(word,True) 
             else:
@@ -75,14 +86,16 @@ class EntityExtractor:
             
             feeling = self.getFeeling(entities.keys(),sentence)
             
-            #Somar ocorrencias e sentimento da frase
+            
+            ## TODO descomentar
+            # Somar ocorrencias e sentimento da frase
             for (entity,appears) in counting.items():
                 if entity not in results:
                     results[entity] = [appears,feeling]
                 else:
                     results[entity][0] += appears
                     results[entity][1] += feeling
-        
+            
         #Store results
         print results
         return results

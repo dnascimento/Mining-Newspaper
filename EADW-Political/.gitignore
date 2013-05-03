@@ -3,3 +3,4 @@
 *.pyc
 /entities.db
 /news.db
+/tags.db

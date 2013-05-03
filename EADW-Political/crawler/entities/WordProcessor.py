@@ -7,6 +7,7 @@ from operator import itemgetter, attrgetter
 
 class ProperNameProcessor:
     __dBLocation = "../entities.db"
+    
     def __init__(self):
         self.conn = sqlite3.connect(self.__dBLocation)     
         self.__cursor = self.conn.cursor() 
