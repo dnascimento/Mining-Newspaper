@@ -5,8 +5,6 @@ import sqlite3
 from ContentDownloader import ContentDownloader
 
 
-
-
 #
 #Inicializa o Woosh e a database
 #Descarregar os links de cada um dos sites de feeds

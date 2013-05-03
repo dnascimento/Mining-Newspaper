@@ -147,7 +147,6 @@ class ProperNameProcessor:
     
     def LoadKnownEntitiesToMemory(self):
         result = []
-
         for row in self.__cursor.execute("Select NAME,NAME_NORM,PRE_REPUTATION,REPUTATION from personalities"):
             result.append([row[0],row[1],row[3],row[2]]) 
         return result
