@@ -2,71 +2,121 @@
 Created on May 3, 2013
 '''
 import re
+import unicodedata
+import os
 
-def SentiFlexProcess():
-    file = open('SentiLex-flex-PT03.txt')
+class Parser:
+    wordWritedSet = set()
     
-    outExpression = open("lexiconExpressions.txt","w+")
-    outWord = open("lexiconWords.txt","w+")
-    
-    for linha in file:
-        line = unicode(linha[:-1])
-        #separar palavras e metadados
-        lineSplit = line.split(".")
+    def SentiFlexProcess(self):
+        file = open('SentiLex-flex-PT03.txt')
         
-        #separar palavras_frases
-        sentences = lineSplit[0].split(',')
+        outExpression = open("lexiconExpressions.txt","w+")
+        outWord = open("lexiconWords.txt","w+")
         
-        #extrair os metadados
-        meta = lineSplit[1]
-        
-        #POS
-        match = re.search("PoS=[a-zA-Z]+",meta)
-        try:
-            POS = match.group(0).replace("PoS=","")
-        except AttributeError:
-            print "POS Pass:"+meta
-            pass
-        
-        #Sexo
-        Sex = ""
-        if POS == "Adj":
-            #print "try: "+meta
-            match = re.search("FLEX=[a-zA-Z]+",meta)
+        for linha in file:
+            line = unicode(linha[:-1])
+            #separar palavras e metadados
+            lineSplit = line.split(".")
+            
+            #separar palavras_frases
+            sentences = lineSplit[0].split(',')
+            
+            #extrair os metadados
+            meta = lineSplit[1]
+            
+            #POS
+            match = re.search("PoS=[a-zA-Z]+",meta)
             try:
-                Sex = match.group(0).replace("FLEX=","")
+                POS = match.group(0).replace("PoS=","")
             except AttributeError:
-                print "SEX Pass:"+meta
+                print "POS Pass:"+meta
                 pass
-        
-        
-        #Opinions
-        opinions = re.findall("POL:N\d=-?\d+",meta)
-        
-        i = 0
-        if len(sentences) > 1:
-            out = outExpression
-        else:
-            out = outWord
+            
+            #Sexo
+            Sex = ""
+            if POS == "Adj":
+                #print "try: "+meta
+                match = re.search("FLEX=[a-zA-Z]+",meta)
+                try:
+                    Sex = match.group(0).replace("FLEX=","")
+                except AttributeError:
+                    print "SEX Pass:"+meta
+                    pass
+            
+            
+            #Opinions
+            opinions = re.findall("POL:N\d=-?\d+",meta)
+            
+            i = 0
 
-        for sentence in sentences:
-                if len(opinions) == 0:
-                    result = sentence+":"+POS+":"+":"+Sex
-                else:
-                    result = sentence+":"+POS+":"+opinions[i].split("=")[1]+":"+Sex
-                    if i < (len(opinions) - 1):
-                        i += 1
+    
+            for sentence in sentences:
+                    name_norm = unicode(unicodedata.normalize('NFKD', unicode(sentence).lower()).encode('ASCII', 'ignore'))
+                    if name_norm in self.wordWritedSet:
+                        continue
+                    
+                    if len(sentence.split(" ")) > 1:
+                        out = outExpression
+                    else:
+                        out = outWord
                         
-                print result
-                out.write(result+"\n")
+                    if len(opinions) == 0:
+                        result = sentence+":"+POS+":"+":"+Sex
+                    else:
+                        result = sentence+":"+POS+":"+opinions[i].split("=")[1]+":"+Sex
+                        if i < (len(opinions) - 1):
+                            i += 1
+                            
+                    print result
+                    out.write(result+"\n")
+                    self.wordWritedSet.add(name_norm)
+                    
+        outWord.close()            
+        outExpression.close()
+        file.close()     
+    
+    
+    def TagFileProcess(self):
+        file = open('TagFile.txt')
+        outWord = open("lexiconWords.txt","a")
+        
+        for linha in file:
+            line = unicode(linha[:-1])
+            #separar palavras e metadados
+            lineSplit = line.split(":")
+            word = lineSplit[0]
+            
+            name_norm = unicode(unicodedata.normalize('NFKD', unicode(word).lower()).encode('ASCII', 'ignore'))
+            if name_norm in self.wordWritedSet:
+                continue
                 
-                
-    outWord.close()            
-    outExpression.close()
-    file.close()     
+            meta = lineSplit[1]
+            
+            if meta == "ADJ":
+                meta = "Adj"
+            if meta == "NUM":
+                continue
+            if meta == "N|DAT":
+                continue
+                    
+            result = word+":"+meta+":"+":"
+            outWord.write(result+"\n")
+            print result
+            self.wordWritedSet.add(name_norm)
 
+    def SortFileLines(self):
+        f = open('lexiconWords.txt',"r")
+        # omit empty lines and lines containing only whitespace
+        lines = [line for line in f if line.strip()]
+        os.remove(f)
+        lines.sort()
+        f = open('lexiconWords.txt',"w+")
+        f.writelines(lines)
+        
+    
+parser = Parser()   
+parser.SentiFlexProcess()  
+parser.TagFileProcess()
+#parser.SortFileLines()
 
-def TagFileProcess:
-    file = open('SentiLex-flex-PT03.txt')
-
-SentiFlexProcess()  
