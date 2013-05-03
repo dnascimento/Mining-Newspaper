@@ -16,8 +16,13 @@ def homepage():
     
 @route('/search/:id', method='GET')
 def get_event(id):
-    return NewsSearcher.EADWSearch().searchNews("dario")
-    #return dict(name = 'Event ' + str(id))
+    #return "dario"
+    #return NewsSearcher.EADWSearch().searchNews("dario")
+    return dict(name = 'Event ' + str(id))
+
+@error(404)
+def error_route(code):
+    redirect('/index')
    
 bottle.debug(True) 
-run(host='localhost', port=8888)
+run(host='194.210.221.72', port=8080)
