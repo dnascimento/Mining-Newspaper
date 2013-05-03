@@ -147,12 +147,28 @@ class Parser:
         outWord.close()
         os.remove("out/dbProperNouns.txt")
             
-            
+    
+    def ExportToDatabase(self):
+        f = open("out/lexiconWords.txt","a")
+        conn = sqlite3.connect("../lexicon.db")     
+        c = conn.cursor()
+        
+        c.execute('''CREATE TABLE lexicon (WORD text primary key,POS text,OPINION int,SEX text)''')
+           
+        for linha in f:
+            line = unicode(linha[:-1])
+            #separar palavras e metadados
+            n = line.split(":")
+            c.execute("INSERT into lexicon(WORD,POS,OPINION,SEX) values(?,?,?,?)",[n[0],n[1],n[2],n[3]])
+        
+        conn.commit()
+        conn.close()
+           
             
 parser = Parser()   
 parser.SentiFlexProcess()  
 parser.TagFileProcess()
 parser.SortFileLines()
 parser.SaveDatabaseProperNounsToFile()
-parser.AddProperNounsFromDatabaseFile()
+#parser.AddProperNounsFromDatabaseFile()
 

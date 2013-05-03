@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 from WooshEngine import WooshEngine
 
-dbpath = "../Temp.db"
+dbpath = "../news.db"
 
 engine = WooshEngine()
 engine.setDBName(dbpath);

@@ -28,6 +28,10 @@ class EntityExtractor:
             self.rubishProperNounList.append(row[0]) 
         conn.close()
         
+        #self.LoadTagTree()
+        
+        
+        
         
     def ParseEntitiesFromDoc(self,url,doc):
         self.ProperNameProcessor.init()
@@ -44,24 +48,31 @@ class EntityExtractor:
             #split the sentence in words
             words = nltk.word_tokenize(sentence)
             #PostOfSpeak (sintax) analysis [('dario',EN),('artur','en')]
-            
-            taggedWords = tagger.tag(words)
-            
+    
+    
+    ########################################################################################
+            #Taggar cada uma das palavras
+            #taggedWords = tagger.tag(words)
             #Convert to tree
-            ne_tree = nltk.ne_chunk(taggedWords,binary=False) 
-                        
-            #Vamos procurar entidades
-            for n in ne_tree.leaves():
-                if (n[1] == "NNP") & self.itsNotRubisProperNoun(n[0]) :
-                    #its properNoun
-                    self.ProperNameProcessor.updateNewName(n[0],True) 
-                else:
-                    self.ProperNameProcessor.updateNewName(n[0],False) 
-
+            #ne_tree = nltk.ne_chunk(taggedWords,binary=False) 
+            
+            #For each word, get opinion and POS
+            
+            #TODO Invoke OpinionAnalysis
+            #Return array de TAGs
+            
+            if  POS == "NPROP" & self.itsNotRubisProperNoun(word) :
+                #its properNoun
+                self.ProperNameProcessor.updateNewName(word,True) 
+            else:
+                self.ProperNameProcessor.updateNewName(word,False) 
+            
             #contar o numero de ocorrencias
             #associar o feeling da frase a esta entidade
             entities = self.ProperNameProcessor.doFinal()
             counting = Counter(entities.values())
+            
+            
             feeling = self.getFeeling(entities.keys(),sentence)
             
             #Somar ocorrencias e sentimento da frase
@@ -80,7 +91,7 @@ class EntityExtractor:
    
     def getFeeling(self,entities,sentence):
         return 1
-        #TODO
+        #TODO ARTUR, para a frase, devolver a pontuacao dela
         
     #This doesnt noun belongs to "blacklist" and it start with capital letter
     def itsNotRubisProperNoun(self,noun):
@@ -90,7 +101,14 @@ class EntityExtractor:
         noun = noun.lower()
         return len(set([noun]).difference(self.rubishProperNounList)) != 0
     
-
-
+        
+    
+    
+    
+    
+    
+    
+    
+    
 
 

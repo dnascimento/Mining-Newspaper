@@ -2,6 +2,8 @@
 Created on May 3, 2013
 '''
 
+class Tagger:
+    
 #Tagger - Substituir o EntityExtract:45 e EntityExtract:48
 
 #Recebe a frase inteira
