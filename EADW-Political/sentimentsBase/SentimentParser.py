@@ -149,12 +149,16 @@ class Parser:
             
     
     def ExportToDatabase(self):
-        f = open("out/lexiconWords.txt","a")
+        f = open("out/lexiconWords.txt","r")
         conn = sqlite3.connect("../lexicon.db")     
         c = conn.cursor()
         
-        c.execute('''CREATE TABLE lexicon (WORD text primary key,POS text,OPINION int,SEX text)''')
-           
+        try:
+            c.execute('''CREATE TABLE lexicon (WORD text primary key,POS text,OPINION int,SEX text)''')
+        except sqlite3.OperationalError:
+            c.execute('DELETE from lexicon')
+            pass
+        
         for linha in f:
             line = unicode(linha[:-1])
             #separar palavras e metadados
@@ -166,9 +170,10 @@ class Parser:
            
             
 parser = Parser()   
-parser.SentiFlexProcess()  
-parser.TagFileProcess()
-parser.SortFileLines()
-parser.SaveDatabaseProperNounsToFile()
+#parser.SentiFlexProcess()  
+#parser.TagFileProcess()
+#parser.SortFileLines()
+#parser.SaveDatabaseProperNounsToFile()
 #parser.AddProperNounsFromDatabaseFile()
+parser.ExportToDatabase()
 
