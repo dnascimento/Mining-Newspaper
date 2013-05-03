@@ -170,16 +170,16 @@ class Parser:
            
             
             
-parser = Parser()   
-parser.SentiFlexProcess()  
-parser.TagFileProcess()
-#parser.SortFileLines()
-parser.SaveDatabaseProperNounsToFile()
-parser.AddProperNounsFromDatabaseFile()
+#parser = Parser()   
 #parser.SentiFlexProcess()  
 #parser.TagFileProcess()
 #parser.SortFileLines()
 #parser.SaveDatabaseProperNounsToFile()
 #parser.AddProperNounsFromDatabaseFile()
-parser.ExportToDatabase()
+#parser.SentiFlexProcess()  
+#parser.TagFileProcess()
+#parser.SortFileLines()
+#parser.SaveDatabaseProperNounsToFile()
+#parser.AddProperNounsFromDatabaseFile()
+#parser.ExportToDatabase()
 
