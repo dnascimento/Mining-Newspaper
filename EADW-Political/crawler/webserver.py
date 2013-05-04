@@ -6,12 +6,10 @@ from bottle import route, run, template
 
 import bottle
 from bottle import route, run
-import NewsSearcher
 from bottle import static_file 
 from bottle import response
 from json import dumps
 
-print NewsSearcher.EADWSearch().searchNews("COELHO")
 
 @route('/', method='GET')
 def homepage():
