@@ -1,3 +1,5 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 from nltk.corpus import mac_morpho
 import re
 import unicodedata

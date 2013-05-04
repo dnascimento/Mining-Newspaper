@@ -1,9 +1,5 @@
-'''
-Created on Mar 25, 2013
-
-1 Load the feed from feedURL and save it on SQLite DB
-2 The SQLite Schema doesnt allow to save the same url
-'''
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
 #import nltk
 import nltk
@@ -13,15 +9,20 @@ import  entities.WordProcessor as WordProcessor
 import sqlite3
 import re
 import unicodedata
+import string
 from collections import Counter
 from TAGAnalizer import TAGAnalizer
+from OpinionAnalysis import Opinion
 #Ler cada um dos textos nao processados
 #Realizar a analise com o NLTK
 
 
 class EntityExtractor:
-    __dBEntitiesLocation = "../entities.db"
     
+    __dBEntitiesLocation = "../entities.db"
+    lixo  = nltk.corpus.stopwords.words('portuguese')
+    opinionAnalist = Opinion()
+
     def __init__(self):
         self.ProperNameProcessor = WordProcessor.ProperNameProcessor()
         conn = sqlite3.connect(self.__dBEntitiesLocation)
@@ -33,50 +34,46 @@ class EntityExtractor:
         
         #self.LoadTagTree()
         
+       
         
         
         
     def ParseEntitiesFromDoc(self,url,doc):
+        
         self.ProperNameProcessor.init()
-        #split the doc in sentences
-        #sent_tokenizer = nltk.data.load('tokenizers/punkt/portuguese.pickle')
-        
-        #Resultado: {"NomeEntidade", [N_Ocorrencias, Sentimento_Acumulado]}
         results = dict()
-        #sentences = nltk.sent_tokenize(doc)
-        #tagger = nltk.data.load(nltk.tag._POS_TAGGER)
-        
-        #print "---->"
-        print str(doc)
-        #print "<---->"
-        doc = unicode(unicodedata.normalize('NFKD', unicode(doc).lower()).encode('ASCII', 'ignore'))
-        print doc 
-        #print "<----"
-        
-        sentences = nltk.sent_tokenize(doc)
+        sentences = nltk.sent_tokenize(doc.decode("utf8"))
+                    
         for sentence in sentences:
-            #print sentence
-            #print "---->"
+            
             self.ProperNameProcessor.init()
-            #split the sentence in words
-            words = nltk.word_tokenize(sentence)
+            
+            # Remove POntuacoo
+            # nao pode ser pelo ntlk senao faz parse as palavras
+            for c in string.punctuation:
+                sentence = sentence.replace(c,"")
+
+            words = sentence.split(" ")
             tagger = TAGAnalizer()
             
-            #print words
             for word in words:
+    
+                #retira lixo
+                if(len(word) < 2):
+                    continue
                 
-                # retira lixo
-                #if(len(word) < 2):
-                #    continue
-                 
+                # verifica se pretence a lista de stop words
+                if(word.lower() in self.lixo):
+                    continue
+                
                 POS = tagger.getTagFromBD(word)
             
-            if  POS == 'NPROP':# and self.itsNotRubisProperNoun(word):
-                print "------------------------------------------------------------>>>>>"
-                #its properNoun
-                self.ProperNameProcessor.updateNewName(word,True) 
-            else:
-                self.ProperNameProcessor.updateNewName(word,False) 
+                if  POS == 'NPROP': 
+                    
+                    #its properNoun
+                    self.ProperNameProcessor.updateNewName(word,True) 
+                else:
+                    self.ProperNameProcessor.updateNewName(word,False) 
             
             #contar o numero de ocorrencias
             #associar o feeling da frase a esta entidade
@@ -84,27 +81,27 @@ class EntityExtractor:
             counting = Counter(entities.values())
             
             
-            feeling = self.getFeeling(entities.keys(),sentence)
+            feeling = self.getFeelingAndAdjectives(sentence)[0]
+            adjectives = self.getFeelingAndAdjectives(sentence)[1]
+            # TODO Dario Usar os Ajectivos
             
-            
-            ## TODO descomentar
             # Somar ocorrencias e sentimento da frase
             for (entity,appears) in counting.items():
                 if entity not in results:
                     results[entity] = [appears,feeling]
+                    print entity, feeling
                 else:
                     results[entity][0] += appears
                     results[entity][1] += feeling
             
         #Store results
-        print results
+        #print results
         return results
         #TODO Check wich entities are recognized officialy
    
    
-    def getFeeling(self,entities,sentence):
-        return 1
-        #TODO ARTUR, para a frase, devolver a pontuacao dela
+    def getFeelingAndAdjectives(self,sentence):
+        return self.opinionAnalist.getSentenceOpinion(sentence)
         
     #This doesnt noun belongs to "blacklist" and it start with capital letter
     def itsNotRubisProperNoun(self,noun):

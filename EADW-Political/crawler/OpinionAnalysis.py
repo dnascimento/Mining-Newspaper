@@ -1,83 +1,57 @@
 #!/usr/bin/python
-import nltk.classify.util, nltk.metrics
-from nltk.corpus import stopwords
-from nltk.corpus import floresta
-from nltk.corpus import mac_morpho
-from nltk.corpus import PlaintextCorpusReader
-from nltk.corpus import toolbox
-from urllib import urlopen
-import collections, itertools
-import datetime
-import nltk
-import nltk.classify.util, nltk.metrics
-import os
-import pickle
-import re
+# -*- coding: utf-8 -*-
 
+import sqlite3
 #nltk.download()
 
-customstopwords = ['a', 'de', 'e']
+class Opinion():
+    
+    dbpath = "../lexicon.db"
+    
+    
+    # Devolve o tipo de Palavra e a sua opiniao, +-1
+    def getWordInfluence(self,word):
+        conn = sqlite3.connect(self.dbpath)     
+        c = conn.cursor()
+        c.execute('SELECT POS,OPINION FROM lexicon WHERE OPINION IS NOT NULL AND WORD=?', [word])
+        res = c.fetchall()
+        conn.commit()
+        conn.close()
+        return res
+    
+    # Devolve um tuplo composto por um valor que indicar se a frase é positiva ou negativa
+    # o valor é positivo se a opiniao for positiva, negativo caso contrario, o segundo campo
+    # inclui uma lista de adjectivo que aparece na frase
+    def getSentenceOpinion(self, sentence):
+        
+        words = sentence.split(" ")
+        adjectives = []
+        positive = 0;
+        negative = 0;
+        
+        for word in words:
+            res = self.getWordInfluence(word)
+            if(len(res) > 0):
+                # Guardar Adj
+                if("Adj" in res[0][0]):
+                    adjectives.append(word)
+                    
+                if res[0][1] is not None:
+                    if res[0][1] == 1:
+                        positive += 1
+                    elif res[0][1] == -1:
+                        negative += 1
+                                 
+        return positive - negative, adjectives
+                
+        
 
-p = open('positive.txt', 'r')
-n = open('negative.txt', 'r')
 
-postxt = p.read().split(":")
-negtxt = n.read().split(":")
-
-
-neglist = []
-poslist = []
-
-#cria uma lista com a tag em causa
-for i in range(0,len(negtxt)):
-    neglist.append('negative')
-
-#igual ao anterior
-for i in range(0,len(postxt)):
-    poslist.append('positive')
-
-#Cria tuplos, especifica tag
-postagged = zip(postxt, poslist)
-negtagged = zip(negtxt, neglist)
+#o = Opinion()
+#fraseboa = u" ola esta frase tem coisas boas e server para dar demonstrar a boa eficacia do nosso algoritmo que é muito sofisticado"
+#frasema = u"bater no governo é como as bestas do parlamento assustam o povo"
+#print o.getSentenceOpinion(fraseboa)
+#print o.getSentenceOpinion(frasema)
 
 
-# Combina Tudo
-taggedTotal = postagged + negtagged
 
-
-tweets = []
-
-#Create a list of words in the tweet, within a tuple.
-for (word, sentiment) in taggedTotal:
-    word_filter = [i.lower() for i in word.split()]
-    tweets.append((word_filter, sentiment))
-
-#Pull out all of the words in a list of tagged tweets, formatted in tuples.
-def getwords(tweets):
-    allwords = []
-    for (words, sentiment) in tweets:
-        allwords.extend(words)
-    return allwords
-
-#Order a list of tweets by their frequency.
-def getwordfeatures(listoftweets):
-    #Print out wordfreq if you want to have a look at the individual counts of words.
-    wordfreq = nltk.FreqDist(listoftweets)
-    words = wordfreq.keys()
-    return words
-
-#Calls above functions - gives us list of the words in the tweets, ordered by freq.
-print getwordfeatures(getwords(tweets))
-
-wordlist = [i for i in wordlist if not i in stopwords.words('english')]
-wordlist = [i for i in wordlist if not i in customstopwords]
-
-def feature_extractor(doc):
-    docwords = set(doc)
-    features = {}
-    for i in wordlist:
-        features['contains(%s)' % i] = (i in docwords)
-    return features
-
-#Creates a training set - classifier learns distribution of true/falses in the input.
-training_set = nltk.classify.apply_features(feature_extractor, tweets)

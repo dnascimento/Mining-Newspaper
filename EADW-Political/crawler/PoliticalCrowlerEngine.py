@@ -1,15 +1,19 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 from FeedDownloader import FeedDownloader
 from WooshEngine import WooshEngine
 from TAGAnalizer import TAGAnalizer
 from ContentDownloader import ContentDownloader
+from collections import Counter
 import os
 import sqlite3
+import string
 
 #
 #Inicializa o Woosh e a database
 #Descarregar os links de cada um dos sites de feeds
 #
-dbpath = "../news.db"
+dbpath = "../news14.db"
 
 
 ##Criar base de dados se nao exestir
@@ -32,20 +36,24 @@ tag.loadToDB()
 print "Adicionar Conteudo ao Woosh Indexer"
 engine = WooshEngine()
 engine.setDBName(dbpath);
-engine.createIndex()
+#engine.createIndex()
 
 
 #TODO Tornar async
 
 #Descarregar todas as feeds
+
+#.decode('ISO 8859-1')
 dn = FeedDownloader("http://feeds.dn.pt/DN-Politica",dbpath)
 dn.updateList()
 
 jn = FeedDownloader("http://feeds.jn.pt/JN-Politica",dbpath)
 jn.updateList()
 
+
 vg = FeedDownloader("http://economico.sapo.pt/rss/politica",dbpath)
 vg.updateList()
+
 
 sol = FeedDownloader("http://sol.sapo.pt/rss/",dbpath)
 sol.updateList()

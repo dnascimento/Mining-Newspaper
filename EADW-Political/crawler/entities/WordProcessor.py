@@ -28,8 +28,8 @@ class ProperNameProcessor:
     def updateNewName(self,name,proper):        
         #Apanhar palavras separadas por .
         for name in name.split("."):
-            #self.nounColletingMode(name,proper)
-            self.restrictMode(name,proper)
+            self.nounColletingMode(name,proper)
+            #self.restrictMode(name,proper)
     
     
     #Confia no facto de ser proper ou nao e com base nisso gera os nomes

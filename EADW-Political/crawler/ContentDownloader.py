@@ -1,10 +1,10 @@
-'''
-Created on Mar 25, 2013
-'''
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 from threading import Thread
 from bs4 import BeautifulSoup
 from sqlite3 import OperationalError
 from WooshEngine import WooshEngine
+from bs4 import UnicodeDammit
 import urllib
 import re
 import sqlite3
@@ -54,41 +54,42 @@ class ContentDownloader(Thread):
             
         doc = fileURL.read()        
         soup = BeautifulSoup(doc)
+        print soup.original_encoding
         try:
             if domain == "expresso.sapo":
-                title = unicode(soup.select("#artigo")[0].h1.get_text())
-                summary = unicode(soup.select("#artigo")[0].summary.get_text())
-                article =  unicode(soup.select("#conteudo")[0].get_text())
+                title = unicode(soup.select("#artigo")[0].h1.get_text().encode("utf8"))
+                summary = unicode(soup.select("#artigo")[0].summary.get_text().encode("utf8"))
+                article =  unicode(soup.select("#conteudo")[0].get_text().encode("utf8"))
                     
             if domain == "feeds.dn":
-                title = unicode(soup.select("#NewsTitle")[0].get_text())
-                summary = unicode(soup.select("#NewsSummary")[0].get_text())
-                article = unicode(soup.select("#Article")[0].get_text())
+                title = unicode(soup.select("#NewsTitle")[0].get_text().encode("utf8"))
+                summary = unicode(soup.select("#NewsSummary")[0].get_text().encode("utf8"))
+                article = unicode(soup.select("#Article")[0].get_text().encode("utf8"))
             
             
             if domain == "rss.feedsportal":
-                title = unicode(soup.select("#NewsTitle")[0].get_text())
-                summary = unicode(soup.select("#NewsSummary")[0].get_text())
-                article = unicode(soup.select("#Article")[0].get_text())
+                title = unicode(soup.select("#NewsTitle")[0].get_text().encode("utf8"))
+                summary = unicode(soup.select("#NewsSummary")[0].get_text().encode("utf8"))
+                article = unicode(soup.select("#Article")[0].get_text().encode("utf8"))
             
             
             if domain == "economico.sapo":
-                title = unicode(soup.select(".meta")[0].h2.get_text())
-                summary = unicode(soup.select(".mainText")[0].strong.get_text())
-                article = unicode(soup.select(".mainText")[0].get_text())
+                title = unicode(soup.select(".meta")[0].h2.get_text().encode("utf8"))
+                summary = unicode(soup.select(".mainText")[0].strong.get_text().encode("utf8"))
+                article = unicode(soup.select(".mainText")[0].get_text().encode("utf8"))
             
             if domain == "www.sol":
-                title = unicode(soup.select("#NewsTitle")[0].get_text())
+                title = unicode(soup.select("#NewsTitle")[0].get_text().encode("utf8"))
                 summary = ""
-                article = unicode(soup.select("#NewsSummary")[0].get_text())
+                article = unicode(soup.select("#NewsSummary")[0].get_text().encode("utf8"))
                 article.replace("SOL"," ")
                 article.replace("SOLTags"," ")
 
             
             if domain == "www.rtp":
-                title = unicode(soup.select("#video_detail")[0].h1.get_text())
+                title = unicode(soup.select("#video_detail")[0].h1.get_text().encode("utf8").encode("utf8"))
                 summary = ""
-                article =  unicode(soup.select("#video_detail")[0].h2.get_text().decode('utf8'))
+                article =  unicode(soup.select("#video_detail")[0].h2.get_text().decode('utf8').encode("utf8"))
             
             if title == "":
                 return;
