@@ -46,7 +46,7 @@ class ContentDownloader(Thread):
     ######################################################
     #####  Download site content and store it on database
     ######################################################
-    def parseSite(self,url,date):
+    def parseSite(self,url,date,justDownload=0):
         fileURL = urllib.urlopen(url)
         
         domain = re.split("http://",url)[1]        
@@ -54,7 +54,7 @@ class ContentDownloader(Thread):
             
         doc = fileURL.read()        
         soup = BeautifulSoup(doc)
-        print soup.original_encoding
+        #print soup.original_encoding
         try:
             if domain == "expresso.sapo":
                 title = unicode(soup.select("#artigo")[0].h1.get_text().encode("utf8"))
@@ -93,6 +93,9 @@ class ContentDownloader(Thread):
             
             if title == "":
                 return;
+            
+            if(justDownload == 1):
+                return article         
             
             self.storeNew(url,date,domain,title,summary,article);
             
