@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  3 MAY 2013 12:46
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  4 MAY 2013 02:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -559,42 +559,56 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 [1{/usr/local/texlive/2012/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
- <./Figures/arch.png>]) (./chapters/6_Sentiment_Analysis.tex)
-(./chapters/7_Other_Functionalities.tex) (./chapters/8_Experimental_Results.tex
-) (./chapters/9_Conclusion.tex) (./chapters/10_ref.tex
+ <./Figures/arch.png>]) (./chapters/6_Sentiment_Analysis.tex
+
+LaTeX Warning: Citation `infopedia' on page \thepage  undefined on input line 3
+1.
+
+
+LaTeX Warning: Citation `sentilex' on page \thepage  undefined on input line 32
+.
+
+) (./chapters/7_Other_Functionalities.tex
+Overfull \hbox (58.76692pt too wide) in paragraph at lines 31--2
+\T1/aer/m/n/9 mos este lé-xico para uma lista de expressão:Part-of-Speech:Gêner
+o:Opinião.
+ []
+
+) (./chapters/8_Experimental_Results.tex) (./chapters/9_Conclusion.tex)
+(./chapters/10_ref.tex
 
 LaTeX Warning: Citation `ex1' undefined on input line 3.
 
 
 LaTeX Warning: Citation `Ghemawat2003' undefined on input line 3.
 
-(./relatorio_eadw.bbl) [2
-
-] (./relatorio_eadw.aux)
+(./relatorio_eadw.bbl)) [2] (./relatorio_eadw.aux)
 
 LaTeX Warning: There were undefined references.
 
- ) ) 
+ ) 
 Here is how much of TeX's memory you used:
- 3472 strings out of 493488
- 44437 string characters out of 3141326
- 104743 words of memory out of 3000000
- 6632 multiletter control sequences out of 15000+200000
- 47146 words of font info for 63 fonts, out of 3000000 for 9000
+ 3484 strings out of 493488
+ 44592 string characters out of 3141326
+ 106783 words of memory out of 3000000
+ 6640 multiletter control sequences out of 15000+200000
+ 50435 words of font info for 67 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
  41i,10n,26p,891b,248s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/local/texlive/2012/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local
-/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/local/t
-exlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texl
-ive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texliv
-e/2012/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2012/
-texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb></usr/local/texlive/2012/texmf-
-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2012/texmf-dist/fo
-nts/type1/urw/times/utmb8a.pfb>
-Output written on relatorio_eadw.pdf (2 pages, 101249 bytes).
+{/usr/local/texlive/2012/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
+exlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/local/tex
+live/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texliv
+e/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2
+012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/201
+2/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2012/texmf
+-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb></usr/local/texlive/2012/texmf-dist/
+fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/t
+ype1/urw/times/utmb8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/t
+imes/utmri8a.pfb>
+Output written on relatorio_eadw.pdf (2 pages, 124089 bytes).
 PDF statistics:
- 43 PDF objects out of 1000 (max. 8388607)
- 29 compressed objects within 1 object stream
+ 51 PDF objects out of 1000 (max. 8388607)
+ 35 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

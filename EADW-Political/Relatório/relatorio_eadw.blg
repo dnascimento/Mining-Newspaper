@@ -2,20 +2,14 @@ This is BibTeX, Version 0.99d (TeX Live 2012)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: relatorio_eadw.aux
 I couldn't open style file latex8.bst
----line 15 of file relatorio_eadw.aux
+---line 21 of file relatorio_eadw.aux
  : \bibstyle{latex8
  :                 }
 I'm skipping whatever remains of this command
-I couldn't open database file ./bib/latex8.bib
----line 16 of file relatorio_eadw.aux
- : \bibdata{./bib/latex8
- :                      }
-I'm skipping whatever remains of this command
-I found no database files---while reading file relatorio_eadw.aux
 I found no style file---while reading file relatorio_eadw.aux
-You've used 2 entries,
+You've used 4 entries,
             0 wiz_defined-function locations,
-            88 strings with 547 characters,
+            90 strings with 561 characters,
 and the built_in function-call counts, 0 in all, are:
 = -- 0
 > -- 0
@@ -54,4 +48,4 @@ warning$ -- 0
 while$ -- 0
 width$ -- 0
 write$ -- 0
-(There were 4 error messages)
+(There were 2 error messages)
