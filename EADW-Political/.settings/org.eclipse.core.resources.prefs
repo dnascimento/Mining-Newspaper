@@ -1,6 +1,6 @@
 eclipse.preferences.version=1
 encoding//crawler/FeedDownloader.py=utf-8
-encoding//crawler/NewsSearcher.py=utf-8
 encoding//crawler/OpinionAnalysis.py=utf-8
 encoding//crawler/WooshEngine.py=utf-8
+encoding//crawler/commandInterface.py=utf-8
 encoding//crawler/entities/utils/ParseFileNames.py=utf-8

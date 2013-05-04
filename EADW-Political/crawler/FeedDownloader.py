@@ -11,6 +11,7 @@ import feedparser
 import time
 import re
 import sqlite3
+import random
 from time  import mktime
 from datetime import datetime
 
@@ -31,7 +32,9 @@ class FeedDownloader(Thread):
     
     #Thread que vai actualizar a lista de um determinado feed provider (expresso por exemplo)
     def run(self):
+        while(True):
             self.updateList()
+            time.sleep(5*60 + random.randrange(0, 60, 1))# 5min +- 60s
             
     ################################################################
     #Descarregar a lista de feeds do feed provider, associar a cada

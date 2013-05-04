@@ -8,7 +8,7 @@ from WooshEngine import WooshEngine
 import urllib
 import re
 import sqlite3
-import entities.EntityExtract
+import EntityExtract
 
 #News Parser:
 #Download the news from newsletter website and parse them. Retrieves database and parse it to a new database   
@@ -21,7 +21,7 @@ class ContentDownloader(Thread):
     def __init__(self,dbName):
         Thread.__init__(self)
         self.__dbName = dbName
-        self.entityExtraction = entities.EntityExtract.EntityExtractor()
+        self.entityExtraction = EntityExtract.EntityExtractor()
         self.whoosh = WooshEngine()
     
     #Read from DB each entry with: url and Date
@@ -94,6 +94,7 @@ class ContentDownloader(Thread):
                 return;
             
             self.storeNew(url,date,domain,title,summary,article);
+            
         except IndexError:
             print "####IndexError: Ignore entry: "+url
             return
@@ -134,6 +135,7 @@ class ContentDownloader(Thread):
         connEntities = sqlite3.connect(self.__dBEntitiesLocation)
         cursorEntities = connEntities.cursor()
         cursorOpinion = self.__conn.cursor()
+        
         for (entity,value) in results.items():
             cursorEntities.execute('UPDATE personalities SET REPUTATION=(REPUTATION+?) where NAME=?',(value[0],unicode(entity)))
             try:
