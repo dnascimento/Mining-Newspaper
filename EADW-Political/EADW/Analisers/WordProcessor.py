@@ -39,8 +39,8 @@ class ProperNameProcessor:
     def updateNewName(self,name,proper):        
         #Apanhar palavras separadas por .
         for name in name.split("."):
-            #self.nounColletingMode(name,proper)
-            self.restrictMode(name,proper)
+            self.nounColletingMode(name,proper)
+            #self.restrictMode(name,proper)
     
     ##########################################################
     #Confia no facto de ser proper ou nao e com base nisso gera os nomes
@@ -234,7 +234,8 @@ class ProperNameProcessor:
         try:
             cursor.execute('INSERT INTO personalities(NAME,NAME_NORM,PRE_REPUTATION,REPUTATION) values (?,?,?,?)',(unicode(entityName),name_norm,0,1))
         except sqlite3.IntegrityError:
-            cursor.execute('UPDATE personalities SET REPUTATION=(REPUTATION+?) where NAME_NORM=?',(1,name_norm)
+            cursor.execute('UPDATE personalities SET REPUTATION=(REPUTATION+?) where NAME_NORM=?',(1,name_norm))
+                           
         conn.commit()
         conn.close()
         self.knowEntities.append([unicode(entityName),1,0])

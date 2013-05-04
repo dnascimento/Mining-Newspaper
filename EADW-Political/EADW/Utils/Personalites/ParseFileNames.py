@@ -228,6 +228,7 @@ def GetThieves():
     ############# Government list #############################
     f = open("Personalites/input/governo.txt")
     for governante in f:
+        governante = governante[:-1]
         name = unicode(governante.split(":")[0])
         adjuntancy = unicode(governante.split(":")[1])
         name_norm = unicode(unicodedata.normalize('NFKD', unicode(name).lower()).encode('ASCII', 'ignore'))

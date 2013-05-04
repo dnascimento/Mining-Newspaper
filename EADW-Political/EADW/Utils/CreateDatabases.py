@@ -32,7 +32,8 @@ if not os.path.exists(dbpath):
     c.execute('''CREATE TABLE properNouns (NOUN text primary key)''')
     c.execute('''CREATE TABLE nameEquiv (NAME text,EQUIV text)''')
     c.execute('''CREATE TABLE rubishNames (RUBISH_NAME text primary key)''')
+    c.execute('CREATE TABLE tags (WORD TEXT  NOT NULL,TAG TEXT  NOT NULL ,Primary Key(WORD))')
     ParseFileNames.loadDatabase()
     SentimentParser.Parser(dbpath).DoIt()
-    
+
 print "DONE"

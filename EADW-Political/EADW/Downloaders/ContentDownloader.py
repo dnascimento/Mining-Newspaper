@@ -1,5 +1,3 @@
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
 from threading import Thread
 from bs4 import BeautifulSoup
 from sqlite3 import OperationalError

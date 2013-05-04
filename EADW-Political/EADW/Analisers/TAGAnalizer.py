@@ -8,11 +8,8 @@ import sqlite3
 
 class TAGAnalizer:
     TagDBPath = "../storage/lexicon.db"     
+    TagFile = "Utils/sentimentsBase/in/TagFile.txt"
     
-    def __init__(self):
-        # Liga a BD
-        self.conn = sqlite3.connect(self.TagDBPath)     
-        self.c = self.conn.cursor()
     
     def loadDictionary(self,Filename):
         list = []
@@ -28,14 +25,48 @@ class TAGAnalizer:
         f.close()
         return dict(list)
     
+    
+    def loadToDB(self):
+        # Apag BD antiga
+        conn = sqlite3.connect(self.TagDBPath)  
+        c = conn.cursor()   
+        c.execute('delete from tags')
+               
+        # Carega o ficheiro para a BD
+        fd = open(self.TagFile, 'r')
+        for line in fd:
+            word = line.split(":")[0]
+            tag  = line.split(":")[1].split("\n")[0]
+            
+            if '|' in tag:
+                tag = tag.split('|')[0]
+                
+            # Normalize
+            word = unicode(unicodedata.normalize('NFKD', unicode(word).lower()).encode('ASCII', 'ignore'))    
+            tag = unicode(tag)
+            
+            try:
+                c.execute('Insert into tags(WORD,TAG) values(?,?)',(word,tag))
+            except sqlite3.IntegrityError:
+                pass
+                
+        # Fecha Coneccoes
+        conn.commit()
+        conn.close() 
+        fd.close()
+        
+    
     # devolve o valor da tag a partir da BD           
     def getTagFromBD(self, word):
         #Normalize
+        conn = sqlite3.connect(self.TagDBPath)  
+        c = conn.cursor()   
         word = unicode(unicodedata.normalize('NFKD', unicode(word).lower()).encode('ASCII', 'ignore'))
         
-        self.c.execute('SELECT POS FROM lexicon WHERE WORD = ?', [word])
-        result = self.c.fetchone()
+        c.execute('SELECT POS FROM lexicon WHERE WORD = ?', [word])
+        result = c.fetchone()
         
+        conn.close()
         if(isinstance(result, type(None))):
             return str(unicode('null'))
         else:
