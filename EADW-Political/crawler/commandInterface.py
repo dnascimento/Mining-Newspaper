@@ -11,9 +11,11 @@ engine.setDBName(dbpath);
 #Return: link,title,score,summary,global_feeling, 
 #entities,global entity reputation,news opinion, partido
 def searchNews(search_word):
+    def searchTopWithEntity(self, word, maximum):
     result = []
     entities = []
     entities.append({"entityName":"Dario","entityGlobalReputation":"32","opinion":"1","partido":"PSD"})    
+    
     return {"link":"http://www.ist.utl.pt","title":"Dario IST","score":"12","summary":"Summary do texto",
                 "globalFeeling":"dario","entities":entities}
     #for score, link, entities,summary,title in engine.searchTopWithEntity(search_word, 5):
