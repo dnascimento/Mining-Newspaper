@@ -69,7 +69,9 @@ class EntityExtractor:
                 
                 POS = self.tagger.getTagFromBD(word)
             
-                if  POS == 'NPROP': 
+            
+                #se for nome proprio e comecar por letra maiuscula
+                if  (POS == 'NPROP') and self.checkFormat(word): 
                     #its properNoun
                     self.ProperNameProcessor.updateNewName(word,True) 
                 else:
@@ -116,7 +118,9 @@ class EntityExtractor:
         conn.commit()
         conn.close()
     
-    
+    #Um nome comeca sempre por uma letra maiuscula
+    def checkFormat(self,word):
+        return word[0].isupper()
     
     
     
