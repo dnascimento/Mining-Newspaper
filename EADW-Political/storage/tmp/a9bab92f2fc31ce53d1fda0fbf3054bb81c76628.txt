@@ -1,0 +1,885 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+    <!--[if IE]>
+     <script type="text/javascript">
+      function __flash__removeCallback(instance, name) {     
+         if (instance) instance[name] = null;
+      }
+    </script>
+    <![endif]-->
+	<title>PSD: PS tem 'obsessão" por eleições antecipadas' - Política - Sol</title><meta name="description" content="O vice-presidente do PSD Jorge Moreira da Silva acusou hoje o PS de ter uma &quot;obsessão&quot; por eleições antecipadas e de se furtar ao &quot;espírito de compromisso&quot; e não apresentar propostas alternativas que &quot;facilitem&quot;..."><meta name="keywords" content="Sol, semanário, jornal, imprensa, comunicação social, notícia,informação, última hora, destaque, Jorge Moreira da Silva, Política, PSD"><link rel="image_src" href="http://sol.sapo.pt/storage/Sol/2013/highlight/ng1350242_210x100.jpg?type=highlight"><meta property="og:image" content="http://sol.sapo.pt/storage/Sol/2013/highlight/ng1350242_210x100.jpg?type=highlight">
+<meta name="id" content="sol.sapo.pt"/>
+<meta name="author" content="Sol"/>
+<meta http-equiv="pragma" content="no-cache"/>
+
+<meta name="revisit-after" content="1 days"/>
+<meta name="robots" content="index,follow"/>
+<link rel="SHORTCUT ICON" href="/favicon.ico"/>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><link rel="alternate" type="application/rss+xml" title="Jornal SOL" href="http://sol.sapo.pt/rss/" /><link rel="stylesheet" type="text/css" href="/common/css/styles.css?v=1.6" />
+
+	<script type="text/javascript" src="/common/script/funcoes.js"></script>
+	<script type="text/javascript" src="/common/script/default.js"></script>
+	<script src="/Common/script/tween/tween.js" type="text/javascript" charset="utf-8"></script>
+    <script type="text/javascript" src="/common/script/scroller.js"></script>
+    <script type="text/javascript" src="/common/script/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>
+    <script type="text/javascript" src="/common/script/animatedcollapse.js">
+    /***********************************************
+    * Animated Collapsible DIV v2.2- (c) Dynamic Drive DHTML code library (www.dynamicdrive.com)
+    * This notice MUST stay intact for legal use
+    * Visit Dynamic Drive at http://www.dynamicdrive.com/ for this script and 100s more
+    ***********************************************/
+
+
+    </script>
+    
+   	<script type="text/javascript" src="/fancybox/jquery.mousewheel-3.0.4.pack.js"></script>
+	<script type="text/javascript" src="/fancybox/jquery.fancybox-1.3.2.js"></script>
+	<link rel="stylesheet" type="text/css" href="/fancybox/jquery.fancybox-1.3.2.css" media="screen" />
+ 
+        <script language="javascript" type="text/javascript"> 
+         AC_FL_RunContent = 0; 
+         DetectFlashVer = 0; 
+         requiredMajorVersion = 0;  
+         requiredMinorVersion = 0;  
+         requiredRevision = 0; 
+        </script>
+
+        <script src="/Common/Script/AC_RunActiveContent.js" type="text/javascript" language="javascript"></script>
+
+
+    <script type="text/javascript" src="/common/script/common.js?version=1.4.5"></script>
+	
+
+    <!-- Barra SAPO Universal v1.0 -->
+    <!-- Passo 1 de 3. Folha de estilos e TileID -->
+    <style type="text/css"> /* v1.0 */
+      .bsu_almofada {clear:both;margin-bottom:1.4em;overflow:hidden;height:1px;font-size:16px;}
+    </style>
+
+    <script type="text/javascript">
+      var TileID = Math.floor(Math.random()*10000);
+    </script>
+    <!-- /bsu -->
+
+<title>
+
+</title></head>
+<body>
+	<span id="ctl00_ctl00_ctl01_sActionTags">
+<script>document.write('<s'+'cript language="JavaScript" src="http://view.atdmt.com/jaction/7n1sol_A03Poltica_6"></s'+'cript>')</script><noscript><iframe src="http://view.atdmt.com/iaction/7n1sol_A03Poltica_6" width="1" height="1" frameborder="0" scrolling="No" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0"></iframe></noscript>
+</span>
+
+<!-- NETSCOPE Sol -->
+<!-- WEBO_ZONE e WEBO_PAGE-->
+<script type="text/javascript" language="javascript">
+WEBO_ZONE=2;
+WEBO_PAGE=73835;
+webo_ok=0;
+</script>
+<!-- Fim NETSCOPE Copyright Weborama-->
+
+
+
+
+
+<!--Inicio NETSCOPE Sol -->
+<script type="text/javascript" language="javascript">
+var WRP_ID= 341627;
+var WRP_SECTION="Pagina Inicial - Politica";
+var WRP_SUBSECTION="";
+var WRP_SECTION_GRP="Jornal SOL";
+var WRP_SUBSECTION_GRP=WRP_ID;
+var WRP_CONTENT="73835";
+var WRP_CHANNEL="Pagina Inicial";
+
+/* Profondeur Frame */
+var WRP_ACC ;
+wreport_ok=0;
+</script>
+<script type="text/javascript" src="/Common/Script/weboscope2sol.js"></script>
+<!-- Fim TAG Netscope v2 www.netscope.marktest.pt (C)Weborama/Marktest -->
+
+
+
+
+
+<!-- INICIO SCRIPT WEBSTATS -->
+<!-- FIM SCRIPT WEBSTATS -->
+
+<script type="text/javascript" src="http://js.sapo.pt/SAPOWebAnalytics/"></script>
+
+<script> SAPO.WebAnalytics.track({swakt:"F465F245-AEB0-4443-9CD0-98AA180FE9DE"}); </script>
+
+
+
+
+
+
+
+
+
+    <div id="bsu_root">
+      <div class="bsu_almofada"></div>
+      <div class="bsu_almofada"></div>
+    </div>
+    
+	<form name="aspnetForm" method="post" action="../../seccao/interior.aspx?content_id=73835" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUENTM4MQ9kFgJmD2QWAmYPZBYEAgEPZBYGAgIPFgIeBFRleHQFATJkAgQPFgIfAAUFNzM4MzVkAgYPZBYGAgEPFgIfAAUZUGFnaW5hIEluaWNpYWwgLSBQb2xpdGljYWQCAw8WAh8ABQU3MzgzNWQCBQ8WAh8ABQ5QYWdpbmEgSW5pY2lhbGQCAg9kFgYCAQ9kFgQCCQ8WAh4JaW5uZXJodG1sBSFkb21pbmdvLCA1IGRlIE1haW8gZGUgMjAxMywgMTg6MDdkAgsPZBYEZg8WBB4FdGl0bGUFCXBlc3F1aXNhch4Jb25rZXlkb3duBRpHb1NlYXJjaCh0aGlzLCBldmVudCwncHQnKWQCAQ8WAh4EaHJlZgVOamF2YXNjcmlwdDpGaW5kU2VhcmNoQ3JpdGVyaWEoJ2N0bDAwX2N0bDAwX2hlYWRlcnRvcDFfc2VhcmNoMV90eHRTZWFyY2gnLCdwdCcpZAICD2QWBAIJDxYCHgdWaXNpYmxlaGQCCw8WAh8FZ2QCBQ9kFgICAQ9kFgYCBw9kFgICAg8WAh8FZ2QCCQ9kFgJmD2QWBAICDxYCHwAFDzE1IENvbWVudMOhcmlvc2QCBA8WAh8BBb2RATxkaXYgY2xhc3M9Im9kZF9jb20iPjxhIG5hbWU9IkNvbTI1NjE0ODciPjwvYT48dGFibGUgY2VsbHBhZGRpbmc9IjAiIGNlbGxzcGFjaW5nPSIwIj48dHI+PHRkIHZhbGlnbj0idG9wIj48aW1nIGFsaWduPSJhYnNtaWRkbGUiIHdpZHRoPSIxNSIgaGVpZ2h0PSIxNSIgc3R5bGU9InZlcnRpY2FsLWFsaWduOiB0b3A7cGFkZGluZzo0cHggNHB4IDBweCAwcHg7IiBzcmM9Ii9jb21tb24vaW1hZ2VzL2xvZ29fc21hbGwuZ2lmIj48L3RkPjx0ZCB2YWxpZ249InRvcCI+PGRpdiBjbGFzcz0ibm9tZSI+PHNwYW4gaWQ9IlBvc3RBdXRob3IyNTYxNDg3Ij5BbnRvbnlqdW5pb3I8L3NwYW4+PGJyLz48c3BhbiBjbGFzcz0iZGF0YSI+MjkuMDQuMjAxMyAtIDE1OjUwPC9zcGFuPjwvZGl2PjwvdGQ+PHRkIHZhbGlnbj0idG9wIiBhbGlnbj0icmlnaHQiPjxkaXYgY2xhc3M9Imljb3MiIGlkPSJQb3N0SW1wcm9wZXIyNTYxNDg3Ij48aW1nIHdpZHRoPSIxNCIgaGVpZ2h0PSIxNCIgc3JjPSIvY29tbW9uL2ltYWdlcy9zdGF0aWMvaWNvX2RlbnVuY2lhci5naWYiPiZuYnNwOzxhIGNsYXNzPSJJTlYiIGhyZWY9ImphdmFzY3JpcHQ6UmVwb3J0SW1wcm9wZXJDb21tZW50KCcyNTYxNDg3JykiPmRlbnVuY2lhcjwvYT48L2Rpdj48L3RkPjwvdHI+PC90YWJsZT48ZGl2IGNsYXNzPSJjb21lbnRhcmlvIiBpZD0iUG9zdEJvZHkyNTYxNDg3Ij48YnIvPjxici8+QmVlZWVlbW1tbS4uLmRlcGVuZGUuLi5kYSBwZWlkYS4uLiBlIGRhIGRvbkEuLi48YnIvPjxici8+UG9yIGFxdWkgcyYjMjQzOyBoJiMyMjU7IGVzdHJ1bWUgcGFscmFudGUuLi50aXBvIEJhbmNhcnJvdGEuLi5jaG9yYW50ZSE8L2Rpdj48L2Rpdj48ZGl2IGNsYXNzPSJldmVuX2NvbSI+PGEgbmFtZT0iQ29tMjU2MTMzNCI+PC9hPjx0YWJsZSBjZWxscGFkZGluZz0iMCIgY2VsbHNwYWNpbmc9IjAiPjx0cj48dGQgdmFsaWduPSJ0b3AiPjxpbWcgYWxpZ249ImFic21pZGRsZSIgd2lkdGg9IjE1IiBoZWlnaHQ9IjE1IiBzdHlsZT0idmVydGljYWwtYWxpZ246IHRvcDtwYWRkaW5nOjRweCA0cHggMHB4IDBweDsiIHNyYz0iL2NvbW1vbi9pbWFnZXMvbG9nb19zbWFsbC5naWYiPjwvdGQ+PHRkIHZhbGlnbj0idG9wIj48ZGl2IGNsYXNzPSJub21lIj48c3BhbiBpZD0iUG9zdEF1dGhvcjI1NjEzMzQiPkFKUEM8L3NwYW4+PGJyLz48c3BhbiBjbGFzcz0iZGF0YSI+MjkuMDQuMjAxMyAtIDExOjM3PC9zcGFuPjwvZGl2PjwvdGQ+PHRkIHZhbGlnbj0idG9wIiBhbGlnbj0icmlnaHQiPjxkaXYgY2xhc3M9Imljb3MiIGlkPSJQb3N0SW1wcm9wZXIyNTYxMzM0Ij48aW1nIHdpZHRoPSIxNCIgaGVpZ2h0PSIxNCIgc3JjPSIvY29tbW9uL2ltYWdlcy9zdGF0aWMvaWNvX2RlbnVuY2lhci5naWYiPiZuYnNwOzxhIGNsYXNzPSJJTlYiIGhyZWY9ImphdmFzY3JpcHQ6UmVwb3J0SW1wcm9wZXJDb21tZW50KCcyNTYxMzM0JykiPmRlbnVuY2lhcjwvYT48L2Rpdj48L3RkPjwvdHI+PC90YWJsZT48ZGl2IGNsYXNzPSJjb21lbnRhcmlvIiBpZD0iUG9zdEJvZHkyNTYxMzM0Ij5BZ29yYSBhdCYjMjMzOyBhIHBodXRhIGRhIGNhbmFsaGEgdGVtIGRpcmVpdG8gZW0gb3BpbmFyLiBPIHF1ZSBmYXogaXN0byAmIzIzMzsgaGF2ZXIganVuaW9yemluaG9zIGEgbGFtYmVyLWxoZXMgYSBwZWlkYS48L2Rpdj48L2Rpdj48ZGl2IGNsYXNzPSJvZGRfY29tIj48YSBuYW1lPSJDb20yNTYxMjU4Ij48L2E+PHRhYmxlIGNlbGxwYWRkaW5nPSIwIiBjZWxsc3BhY2luZz0iMCI+PHRyPjx0ZCB2YWxpZ249InRvcCI+PGltZyBhbGlnbj0iYWJzbWlkZGxlIiB3aWR0aD0iMTUiIGhlaWdodD0iMTUiIHN0eWxlPSJ2ZXJ0aWNhbC1hbGlnbjogdG9wO3BhZGRpbmc6NHB4IDRweCAwcHggMHB4OyIgc3JjPSIvY29tbW9uL2ltYWdlcy9sb2dvX3NtYWxsLmdpZiI+PC90ZD48dGQgdmFsaWduPSJ0b3AiPjxkaXYgY2xhc3M9Im5vbWUiPjxzcGFuIGlkPSJQb3N0QXV0aG9yMjU2MTI1OCI+THVhTHVhcjE8L3NwYW4+PGJyLz48c3BhbiBjbGFzcz0iZGF0YSI+MjkuMDQuMjAxMyAtIDA5OjIwPC9zcGFuPjwvZGl2PjwvdGQ+PHRkIHZhbGlnbj0idG9wIiBhbGlnbj0icmlnaHQiPjxkaXYgY2xhc3M9Imljb3MiIGlkPSJQb3N0SW1wcm9wZXIyNTYxMjU4Ij48aW1nIHdpZHRoPSIxNCIgaGVpZ2h0PSIxNCIgc3JjPSIvY29tbW9uL2ltYWdlcy9zdGF0aWMvaWNvX2RlbnVuY2lhci5naWYiPiZuYnNwOzxhIGNsYXNzPSJJTlYiIGhyZWY9ImphdmFzY3JpcHQ6UmVwb3J0SW1wcm9wZXJDb21tZW50KCcyNTYxMjU4JykiPmRlbnVuY2lhcjwvYT48L2Rpdj48L3RkPjwvdHI+PC90YWJsZT48ZGl2IGNsYXNzPSJjb21lbnRhcmlvIiBpZD0iUG9zdEJvZHkyNTYxMjU4Ij5Qb3J0dWd1ZXNlczxici8+PGJyLz5BcyBEZWNsYXJhJiMyMzE7JiMyNDU7ZXMgZGVzdGUgVmljZSBQcmVzaWRlbnRlIGRvIFBTRCAgJiMyMzM7ICBCRU0gcmVwcmVzZW50YXRpdmEgZGEgUGVxdWluJiMyMzQ7cyBkZSBDJiMyMzM7cmVicm8gLi4uLi4uLjxici8+PGJyLz4gPC9kaXY+PC9kaXY+PGRpdiBjbGFzcz0iZXZlbl9jb20iPjxhIG5hbWU9IkNvbTI1NjEwMzYiPjwvYT48dGFibGUgY2VsbHBhZGRpbmc9IjAiIGNlbGxzcGFjaW5nPSIwIj48dHI+PHRkIHZhbGlnbj0idG9wIj48aW1nIGFsaWduPSJhYnNtaWRkbGUiIHdpZHRoPSIxNSIgaGVpZ2h0PSIxNSIgc3R5bGU9InZlcnRpY2FsLWFsaWduOiB0b3A7cGFkZGluZzo0cHggNHB4IDBweCAwcHg7IiBzcmM9Ii9jb21tb24vaW1hZ2VzL2xvZ29fc21hbGwuZ2lmIj48L3RkPjx0ZCB2YWxpZ249InRvcCI+PGRpdiBjbGFzcz0ibm9tZSI+PHNwYW4gaWQ9IlBvc3RBdXRob3IyNTYxMDM2Ij5BbnRvbnlqdW5pb3I8L3NwYW4+PGJyLz48c3BhbiBjbGFzcz0iZGF0YSI+MjguMDQuMjAxMyAtIDE4OjIyPC9zcGFuPjwvZGl2PjwvdGQ+PHRkIHZhbGlnbj0idG9wIiBhbGlnbj0icmlnaHQiPjxkaXYgY2xhc3M9Imljb3MiIGlkPSJQb3N0SW1wcm9wZXIyNTYxMDM2Ij48aW1nIHdpZHRoPSIxNCIgaGVpZ2h0PSIxNCIgc3JjPSIvY29tbW9uL2ltYWdlcy9zdGF0aWMvaWNvX2RlbnVuY2lhci5naWYiPiZuYnNwOzxhIGNsYXNzPSJJTlYiIGhyZWY9ImphdmFzY3JpcHQ6UmVwb3J0SW1wcm9wZXJDb21tZW50KCcyNTYxMDM2JykiPmRlbnVuY2lhcjwvYT48L2Rpdj48L3RkPjwvdHI+PC90YWJsZT48ZGl2IGNsYXNzPSJjb21lbnRhcmlvIiBpZD0iUG9zdEJvZHkyNTYxMDM2Ij4mIzIxMTsgRHIuIENhbGFkbywgSm9yZ2UgTW9yZWlyYSBkYSBTaWx2YSwgbyBwYXJ0aWRvIGRvcyBjYWxvdGVpcm9zIHF1ZXIgZWxlaSYjMjMxOyYjMjQ1O2VzIEFHT1JBIHBvcnF1ZSBzYWJlIHF1ZSBuJiMyMjc7byBhcyBoYXZlciYjMjI1OyE8YnIvPjxici8+RXNzYSBxdWFkcmlsaGEgZGUgaW52ZXN0aWdhZG9zIG4mIzIyNztvIHF1ZXIgZ292ZXJuYXIgY29tIG9zIGNhbG90ZXMgZSBhbGRyYWJpY2VzIHF1ZSBmaXplcmFtISBTYWJlbSBxdWUgYSBtZW0mIzI0MztyaWEgbiYjMjI3O28gJiMyMzM7IHQmIzIyNztvIGN1cnRhLi4uPGJyLz48YnIvPkRlc2NvbmZpbyBxdWUgcXVhbmRvIGFjb3JkYXJlbSB2JiMyMjc7byBjb250aW51YXIgYSBsYXRpciwgdGFsIGNvbW8gYSBnb3JhLjxici8+PGJyLz5FIHZvYyYjMjM0OywgJiMyNDM7IGRvY3RvciBjYWxhZG8sIHJlc29sdmV1IGRhciB1bWEgbGFkcmFkZWxhIHBhcmEgZGl6ZXIgcXVlIGVzdCYjMjI1OyB2aXZvIT88L2Rpdj48L2Rpdj48ZGl2IGNsYXNzPSJvZGRfY29tIj48YSBuYW1lPSJDb20yNTYwNzk5Ij48L2E+PHRhYmxlIGNlbGxwYWRkaW5nPSIwIiBjZWxsc3BhY2luZz0iMCI+PHRyPjx0ZCB2YWxpZ249InRvcCI+PGltZyBhbGlnbj0iYWJzbWlkZGxlIiB3aWR0aD0iMTUiIGhlaWdodD0iMTUiIHN0eWxlPSJ2ZXJ0aWNhbC1hbGlnbjogdG9wO3BhZGRpbmc6NHB4IDRweCAwcHggMHB4OyIgc3JjPSIvY29tbW9uL2ltYWdlcy9sb2dvX3NtYWxsLmdpZiI+PC90ZD48dGQgdmFsaWduPSJ0b3AiPjxkaXYgY2xhc3M9Im5vbWUiPjxzcGFuIGlkPSJQb3N0QXV0aG9yMjU2MDc5OSI+amNlc2FyPC9zcGFuPjxici8+PHNwYW4gY2xhc3M9ImRhdGEiPjI4LjA0LjIwMTMgLSAwMDowNjwvc3Bhbj48L2Rpdj48L3RkPjx0ZCB2YWxpZ249InRvcCIgYWxpZ249InJpZ2h0Ij48ZGl2IGNsYXNzPSJpY29zIiBpZD0iUG9zdEltcHJvcGVyMjU2MDc5OSI+PGltZyB3aWR0aD0iMTQiIGhlaWdodD0iMTQiIHNyYz0iL2NvbW1vbi9pbWFnZXMvc3RhdGljL2ljb19kZW51bmNpYXIuZ2lmIj4mbmJzcDs8YSBjbGFzcz0iSU5WIiBocmVmPSJqYXZhc2NyaXB0OlJlcG9ydEltcHJvcGVyQ29tbWVudCgnMjU2MDc5OScpIj5kZW51bmNpYXI8L2E+PC9kaXY+PC90ZD48L3RyPjwvdGFibGU+PGRpdiBjbGFzcz0iY29tZW50YXJpbyIgaWQ9IlBvc3RCb2R5MjU2MDc5OSI+VHVkbyBvIHF1ZSBzZSBzYWJlICYjMjMzOyBhIHJlZmVyJiMyMzQ7bmNpYSBhIHVtIGJ1cmFjbyBubyBPRSBkZSAyMDExLCBxdWUgYSBhdHVhbCBtYWlvcmlhIHMmIzI0Mzsgc2UgcmVmZXJpdSBhIGVsZSBjb21vIHNlbmRvIHVtIGJ1cmFjbyBjb2xvc3NhbCwgc2VtIGV4cGxpY2FyIGEgcXVlIHNlIGRldmlhLjxici8+PGJyLz5Gb2kgcHJlY2lzbyBzZXIgYSBVRSBhIGV4cGxpY2FyIHF1ZSBzZSBkZXZpYSBhIGNvbnRhcyBlc2NvbmRpZGFzIG5hIE1hZGVpcmEsIHBlbG8gSmFyZGltLCBlIG1haXMgYWxndW1hIHZlcmJhIHBhcmEgbyBjYXNvIEJQTi48YnIvPjxici8+SCYjMjI1OyBkZSBmYWN0byBhbGd1bnMgZXguIEdvdmVybmFudGVzIGRvIFBTIGEgc2VyIGludmVzdGlnYWRvcywgbyBxdWUgYWNobyBiZW0sIGUgc2UgaG91dmVyIGNyaW1lIGRldmVtIHNlciBjYXN0aWdhZG9zIGVtIGZ1biYjMjMxOyYjMjI3O28gZG8gY3JpbWUsIG1hcyBhdCYjMjMzOyBob2plIG5lbSBpbmQmIzIzNztjaW9zIGRlIGNyaW1lcyBlbmNvbnRyYXJhbS48YnIvPlZvYyYjMjM0OyBFbmdhbmEtc2UgdGFudG8gYSBtZXUgcmVzcGVpdG8uPGJyLz48YnIvPkUgYWluZGEgZGl6IHZvYyYjMjM0OyAmcXVvdDtxdWUgbyBwYXNzYWRvIG4mIzIyNztvIHNlIGFwYWdhLi4uIC4uLnBhZ2Etc2UhPGJyLz48YnIvPkVzdGEgYWZpbWEmIzIzMTsmIzIyNztvIGV2aWRlbmNpYSBiZW0gYSBzdWEgaWRpb3RpY2UhPGJyLz48YnIvPkVtIDIgYW5vcyBhdW1lbnRhcmFtIHVucyAzMCUgJiMyMjQ7IGRpdmlkYSBwJiMyNTA7YmxpY2EsIHNlICBhIGVzdGl2ZXNzZW0gYSBwYWdhciwgYSBkJiMyMzc7dmlkYSBlc3RhdmEgYSBkaW1pbnVpciwgZSBuJiMyMjc7byBhIGF1bWVudGFyLCBlIGVzdCYjMjI1OyBhIGF1bWVudGFyIGEgdW0gcml0bW8gZ2Fsb3BhbnRlLjwvZGl2PjwvZGl2PjxkaXYgY2xhc3M9ImV2ZW5fY29tIj48YSBuYW1lPSJDb20yNTYwNzg4Ij48L2E+PHRhYmxlIGNlbGxwYWRkaW5nPSIwIiBjZWxsc3BhY2luZz0iMCI+PHRyPjx0ZCB2YWxpZ249InRvcCI+PGltZyBhbGlnbj0iYWJzbWlkZGxlIiB3aWR0aD0iMTUiIGhlaWdodD0iMTUiIHN0eWxlPSJ2ZXJ0aWNhbC1hbGlnbjogdG9wO3BhZGRpbmc6NHB4IDRweCAwcHggMHB4OyIgc3JjPSIvY29tbW9uL2ltYWdlcy9sb2dvX3NtYWxsLmdpZiI+PC90ZD48dGQgdmFsaWduPSJ0b3AiPjxkaXYgY2xhc3M9Im5vbWUiPjxzcGFuIGlkPSJQb3N0QXV0aG9yMjU2MDc4OCI+QW50b255anVuaW9yPC9zcGFuPjxici8+PHNwYW4gY2xhc3M9ImRhdGEiPjI3LjA0LjIwMTMgLSAyMzozOTwvc3Bhbj48L2Rpdj48L3RkPjx0ZCB2YWxpZ249InRvcCIgYWxpZ249InJpZ2h0Ij48ZGl2IGNsYXNzPSJpY29zIiBpZD0iUG9zdEltcHJvcGVyMjU2MDc4OCI+PGltZyB3aWR0aD0iMTQiIGhlaWdodD0iMTQiIHNyYz0iL2NvbW1vbi9pbWFnZXMvc3RhdGljL2ljb19kZW51bmNpYXIuZ2lmIj4mbmJzcDs8YSBjbGFzcz0iSU5WIiBocmVmPSJqYXZhc2NyaXB0OlJlcG9ydEltcHJvcGVyQ29tbWVudCgnMjU2MDc4OCcpIj5kZW51bmNpYXI8L2E+PC9kaXY+PC90ZD48L3RyPjwvdGFibGU+PGRpdiBjbGFzcz0iY29tZW50YXJpbyIgaWQ9IlBvc3RCb2R5MjU2MDc4OCI+CTxici8+amNlc2FyPGJyLz4yNy4wNC4yMDEzIC0gMjA6MjY8YnIvPjxici8+JnF1b3Q7T2gmcXVvdDsgamNlc2FyLCBwb2RlIHBpbnRhciBvIEMmIzIzMzt1IGUgbyBJbmZlcm5vIGRhIGMmIzI0NDtyIHF1ZSBlbnRlbmRlci4uLm1hcyBhIHN1YSBxdWFkcmlsaGEgZGUgcHVsaGFzIGF0JiMyMzM7IGEgdHJvaWthIGFsZHJhYm91IGVtIDMwLjAwMCBtaWxoJiMyNDU7ZXMuLi48YnIvPjxici8+RW50cmV0YW50bywgbyAoc2V1KSBnb3Zlcm5vIGFudGVyaW9yIGNvbSBkZW1hc2lhZG9zIGNhc29zIG5hIGp1c3RpJiMyMzE7YSwgcHJvdmEgbyBxdWFudG8gZm9pIHJhZmVpcm8gZSBjYWxvdGVpcm8uLi4gZSBuJiMyMjc7byBmb2kgcG9yIGRhciBlc21vbGFzLi4uITxici8+PGJyLz5PbGhlLi4uY2hvcmUgY29tbyBvIHNldSBDaGVmZS4uLm1hcyBvIHBhc3NhZG8gbiYjMjI3O28gc2UgYXBhZ2EuLi4gLi4ucGFnYS1zZSE8YnIvPmFoYWhhaGFoYWguPC9kaXY+PC9kaXY+PGRpdiBjbGFzcz0ib2RkX2NvbSI+PGEgbmFtZT0iQ29tMjU2MDcwNiI+PC9hPjx0YWJsZSBjZWxscGFkZGluZz0iMCIgY2VsbHNwYWNpbmc9IjAiPjx0cj48dGQgdmFsaWduPSJ0b3AiPjxpbWcgYWxpZ249ImFic21pZGRsZSIgd2lkdGg9IjE1IiBoZWlnaHQ9IjE1IiBzdHlsZT0idmVydGljYWwtYWxpZ246IHRvcDtwYWRkaW5nOjRweCA0cHggMHB4IDBweDsiIHNyYz0iL2NvbW1vbi9pbWFnZXMvbG9nb19zbWFsbC5naWYiPjwvdGQ+PHRkIHZhbGlnbj0idG9wIj48ZGl2IGNsYXNzPSJub21lIj48c3BhbiBpZD0iUG9zdEF1dGhvcjI1NjA3MDYiPmpjZXNhcjwvc3Bhbj48YnIvPjxzcGFuIGNsYXNzPSJkYXRhIj4yNy4wNC4yMDEzIC0gMjA6MjY8L3NwYW4+PC9kaXY+PC90ZD48dGQgdmFsaWduPSJ0b3AiIGFsaWduPSJyaWdodCI+PGRpdiBjbGFzcz0iaWNvcyIgaWQ9IlBvc3RJbXByb3BlcjI1NjA3MDYiPjxpbWcgd2lkdGg9IjE0IiBoZWlnaHQ9IjE0IiBzcmM9Ii9jb21tb24vaW1hZ2VzL3N0YXRpYy9pY29fZGVudW5jaWFyLmdpZiI+Jm5ic3A7PGEgY2xhc3M9IklOViIgaHJlZj0iamF2YXNjcmlwdDpSZXBvcnRJbXByb3BlckNvbW1lbnQoJzI1NjA3MDYnKSI+ZGVudW5jaWFyPC9hPjwvZGl2PjwvdGQ+PC90cj48L3RhYmxlPjxkaXYgY2xhc3M9ImNvbWVudGFyaW8iIGlkPSJQb3N0Qm9keTI1NjA3MDYiPkgmIzI0MzshIEFudG9ueWp1bmlvcjxici8+PGJyLz5UYW1iJiMyMzM7bSBwcm9tZXRldSB0dWRvIGlzdG8gYW9zIGVsZWl0b3JlcywgbWFzIG1ldGV1IGVzdGFzIHByb21lc3NhcyB0b2RhcyBuYSBnYXZldGEsIGUgZXN0JiMyMjU7IGEgZmF6ZXIgdHVkbyBhbyDCk2NvbnRyJiMyMjU7cmlvwpQuPGJyLz48YnIvPi1WYW1vcyB0ZXIgZGUgY29ydGFyIGVtIGdvcmR1cmFzIGUgZGUgcG91cGFyLiBPIEVzdGFkbyB2YWkgdGVyIGRlIGZhemVyIGF1c3RlcmlkYWRlLCBiYXN0YSBkZSBhcGxpYyYjMjI1Oy1sYSBzJiMyNDM7IGFvcyBjaWRhZCYjMjI3O29zLiZxdW90Ozxici8+PGJyLz4mcXVvdDtOaW5ndSYjMjMzO20gbm9zIHZlciYjMjI1OyBpbXBvciBzYWNyaWYmIzIzNztjaW9zIGFvcyBxdWUgbWFpcyBwcmVjaXNhbS4gT3MgcXVlIHQmIzIzNDttIG1haXMgdGVyJiMyMjc7byBxdWUgYWp1ZGFyIG9zIHF1ZSB0JiMyMzQ7bSBtZW5vcy4mcXVvdDs8YnIvPjxici8+JnF1b3Q7UXVlcmVtb3MgdHJhbnNmZXJpciBwYXJ0ZSBkb3Mgc2FjcmlmJiMyMzc7Y2lvcyBxdWUgc2UgZXhpZ2VtICYjMjI0O3MgZmFtJiMyMzc7bGlhcyBlICYjMjI0O3MgZW1wcmVzYXMgcGFyYSBvIEVzdGFkby4mcXVvdDs8YnIvPjxici8+JnF1b3Q7U2UgZm9ybW9zIEdvdmVybm8sIHBvc3NvIGdhcmFudGlyIHF1ZSBuJiMyMjc7byBzZXImIzIyNTsgbmVjZXNzJiMyMjU7cmlvIGRlc3BlZGlyIHBlc3NvYXMgbmVtIGNvcnRhciBtYWlzIHNhbCYjMjI1O3Jpb3MgcGFyYSBzYW5lYXIgbyBzaXN0ZW1hIHBvcnR1Z3UmIzIzNDtzLiZxdW90Ozxici8+PGJyLz4mcXVvdDtBIGlkZWlhIHF1ZSBzZSBmb2kgZ2VyYW5kbyBkZSBxdWUgbyBQU0QgdmFpIGF1bWVudGFyIG8gSVZBIG4mIzIyNztvIHRlbSBmdW5kYW1lbnRvLiZxdW90Ozxici8+PGJyLz4mcXVvdDtPIFBTRCBjaHVtYm91IG8gUEVDIDQgcG9ycXVlIHRlbSBkZSBzZSBkaXplciBiYXN0YTogUmVwYXJlbSBiZW0gbmVzdGEgZGVzY3VscGEsIGUgYSBlbm9ybWUgY29udHJhZGkmIzIzMTsmIzIyNztvIHF1ZSB0ZW0gbGV2YWRvIGEgY2FibyBjb21vIEdvdmVybmFudGUgJiMxNzE7JiMxNzE7YSBhdXN0ZXJpZGFkZSBuJiMyMjc7byBwb2RlIGluY2lkaXIgc2VtcHJlIG5vIGF1bWVudG8gZGUgaW1wb3N0b3MgZSBubyBjb3J0ZSBkZSByZW5kaW1lbnRvJiMxODc7JiMxODc7Ljxici8+PGJyLz48YnIvPkFudG9ueWp1bmlvcjxici8+RW0gMiBhbm9zIGomIzIyNTsgYXVtZW50YXJhbSBvcyBjYWxvdGVzIGVtIHVucyAzMCUsICYjMjMzOyBpc3RvIHBhZ2FyIGNhbG90ZXMuPGJyLz48YnIvPkNhZGEgaW1iZWNpbGlkYWRlITxici8+PC9kaXY+PC9kaXY+PGRpdiBjbGFzcz0iZXZlbl9jb20iPjxhIG5hbWU9IkNvbTI1NjA3MDAiPjwvYT48dGFibGUgY2VsbHBhZGRpbmc9IjAiIGNlbGxzcGFjaW5nPSIwIj48dHI+PHRkIHZhbGlnbj0idG9wIj48aW1nIGFsaWduPSJhYnNtaWRkbGUiIHdpZHRoPSIxNSIgaGVpZ2h0PSIxNSIgc3R5bGU9InZlcnRpY2FsLWFsaWduOiB0b3A7cGFkZGluZzo0cHggNHB4IDBweCAwcHg7IiBzcmM9Ii9jb21tb24vaW1hZ2VzL2xvZ29fc21hbGwuZ2lmIj48L3RkPjx0ZCB2YWxpZ249InRvcCI+PGRpdiBjbGFzcz0ibm9tZSI+PHNwYW4gaWQ9IlBvc3RBdXRob3IyNTYwNzAwIj5qY2VzYXI8L3NwYW4+PGJyLz48c3BhbiBjbGFzcz0iZGF0YSI+MjcuMDQuMjAxMyAtIDIwOjEwPC9zcGFuPjwvZGl2PjwvdGQ+PHRkIHZhbGlnbj0idG9wIiBhbGlnbj0icmlnaHQiPjxkaXYgY2xhc3M9Imljb3MiIGlkPSJQb3N0SW1wcm9wZXIyNTYwNzAwIj48aW1nIHdpZHRoPSIxNCIgaGVpZ2h0PSIxNCIgc3JjPSIvY29tbW9uL2ltYWdlcy9zdGF0aWMvaWNvX2RlbnVuY2lhci5naWYiPiZuYnNwOzxhIGNsYXNzPSJJTlYiIGhyZWY9ImphdmFzY3JpcHQ6UmVwb3J0SW1wcm9wZXJDb21tZW50KCcyNTYwNzAwJykiPmRlbnVuY2lhcjwvYT48L2Rpdj48L3RkPjwvdHI+PC90YWJsZT48ZGl2IGNsYXNzPSJjb21lbnRhcmlvIiBpZD0iUG9zdEJvZHkyNTYwNzAwIj4JPGJyLz5IJiMyNDM7ISBBbnRvbnlqdW5pb3I8YnIvPjxici8+VGFtYiYjMjMzO20gcHJvbWV0ZXUgdHVkbyBpc3RvIGFvcyBlbGVpdG9yZXMsIG1hcyBtZXRldSBlc3RhcyBwcm9tZXNzYXMgdG9kYXMgbmEgZ2F2ZXRhLCBlIGVzdCYjMjI1OyBhIGZhemVyIHR1ZG8gYW8gY25yJiMyMjU7cmlvLjxici8+PGJyLz4tVmFtb3MgdGVyIGRlIGNvcnRhciBlbSBnb3JkdXJhcyBlIGRlIHBvdXBhci4gTyBFc3RhZG8gdmFpIHRlciBkZSBmYXplciBhdXN0ZXJpZGFkZSwgYmFzdGEgZGUgYXBsaWMmIzIyNTstbGEgcyYjMjQzOyBhb3MgY2lkYWQmIzIyNztvcy4mcXVvdDs8YnIvPjxici8+JnF1b3Q7TmluZ3UmIzIzMzttIG5vcyB2ZXImIzIyNTsgaW1wb3Igc2FjcmlmJiMyMzc7Y2lvcyBhb3MgcXVlIG1haXMgcHJlY2lzYW0uIE9zIHF1ZSB0JiMyMzQ7bSBtYWlzIHRlciYjMjI3O28gcXVlIGFqdWRhciBvcyBxdWUgdCYjMjM0O20gbWVub3MuJnF1b3Q7PGJyLz48YnIvPiZxdW90O1F1ZXJlbW9zIHRyYW5zZmVyaXIgcGFydGUgZG9zIHNhY3JpZiYjMjM3O2Npb3MgcXVlIHNlIGV4aWdlbSAmIzIyNDtzIGZhbSYjMjM3O2xpYXMgZSAmIzIyNDtzIGVtcHJlc2FzIHBhcmEgbyBFc3RhZG8uJnF1b3Q7PGJyLz48YnIvPiZxdW90O1NlIGZvcm1vcyBHb3Zlcm5vLCBwb3NzbyBnYXJhbnRpciBxdWUgbiYjMjI3O28gc2VyJiMyMjU7IG5lY2VzcyYjMjI1O3JpbyBkZXNwZWRpciBwZXNzb2FzIG5lbSBjb3J0YXIgbWFpcyBzYWwmIzIyNTtyaW9zIHBhcmEgc2FuZWFyIG8gc2lzdGVtYSBwb3J0dWd1JiMyMzQ7cy4mcXVvdDs8YnIvPjxici8+JnF1b3Q7QSBpZGVpYSBxdWUgc2UgZm9pIGdlcmFuZG8gZGUgcXVlIG8gUFNEIHZhaSBhdW1lbnRhciBvIElWQSBuJiMyMjc7byB0ZW0gZnVuZGFtZW50by4mcXVvdDs8YnIvPjxici8+JnF1b3Q7TyBQU0QgY2h1bWJvdSBvIFBFQyA0IHBvcnF1ZSB0ZW0gZGUgc2UgZGl6ZXIgYmFzdGE6ICAgICAgIFJlcGFyZW0gYmVtIG5lc3RhIGRlc2N1bHBhLCBlIGEgZW5vcm1lIGNvbnRyYWRpJiMyMzE7JiMyMjc7byBxdWUgdGVtIGxldmFkbyBhIGNhYm8gY29tbyBHb3Zlcm5hbnRlICAgICAmIzE3MTsmIzE3MTthIGF1c3RlcmlkYWRlIG4mIzIyNztvIHBvZGUgaW5jaWRpciBzZW1wcmUgbm8gYXVtZW50byBkZSBpbXBvc3RvcyBlIG5vIGNvcnRlIGRlIHJlbmRpbWVudG8mIzE4NzsmIzE4NzsuPGJyLz48YnIvPgk8YnIvPkFudG9ueWp1bmlvcjxici8+RW0gMiBhbm9zIGomIzIyNTsgYXVtZW50YXJhbSBvcyBjYWxvdGVzIGVtIHVucyAzMCUsICYjMjMzOyBpc3RvIHBhZ2FyIGNhbG90ZXMuPGJyLz48YnIvPkNhZGEgaW1iaWNpbGlkYWRlITxici8+PC9kaXY+PC9kaXY+PGRpdiBjbGFzcz0ib2RkX2NvbSI+PGEgbmFtZT0iQ29tMjU2MDY3MCI+PC9hPjx0YWJsZSBjZWxscGFkZGluZz0iMCIgY2VsbHNwYWNpbmc9IjAiPjx0cj48dGQgdmFsaWduPSJ0b3AiPjxpbWcgYWxpZ249ImFic21pZGRsZSIgd2lkdGg9IjE1IiBoZWlnaHQ9IjE1IiBzdHlsZT0idmVydGljYWwtYWxpZ246IHRvcDtwYWRkaW5nOjRweCA0cHggMHB4IDBweDsiIHNyYz0iL2NvbW1vbi9pbWFnZXMvbG9nb19zbWFsbC5naWYiPjwvdGQ+PHRkIHZhbGlnbj0idG9wIj48ZGl2IGNsYXNzPSJub21lIj48c3BhbiBpZD0iUG9zdEF1dGhvcjI1NjA2NzAiPkFudG9ueWp1bmlvcjwvc3Bhbj48YnIvPjxzcGFuIGNsYXNzPSJkYXRhIj4yNy4wNC4yMDEzIC0gMTg6NTc8L3NwYW4+PC9kaXY+PC90ZD48dGQgdmFsaWduPSJ0b3AiIGFsaWduPSJyaWdodCI+PGRpdiBjbGFzcz0iaWNvcyIgaWQ9IlBvc3RJbXByb3BlcjI1NjA2NzAiPjxpbWcgd2lkdGg9IjE0IiBoZWlnaHQ9IjE0IiBzcmM9Ii9jb21tb24vaW1hZ2VzL3N0YXRpYy9pY29fZGVudW5jaWFyLmdpZiI+Jm5ic3A7PGEgY2xhc3M9IklOViIgaHJlZj0iamF2YXNjcmlwdDpSZXBvcnRJbXByb3BlckNvbW1lbnQoJzI1NjA2NzAnKSI+ZGVudW5jaWFyPC9hPjwvZGl2PjwvdGQ+PC90cj48L3RhYmxlPjxkaXYgY2xhc3M9ImNvbWVudGFyaW8iIGlkPSJQb3N0Qm9keTI1NjA2NzAiPnNpYmlsYTxici8+MjcuMDQuMjAxMyAtIDE4OjQ0PGJyLz48YnIvPk8gUGFzc2l0b3MgY29tcHJvbWV0ZXUtc2UgaCYjMjI1OyBkb2lzIGFub3MgYSBwYWdhciBvcyBjYWxvdGVzIGRvIHBhcnRpZG8gZGEgc3VjYXRhISBQcm9tZXRldSBvIGluZmVybm8gZSAmIzIzMzsgbyBpbmZlcm5vIGNyaWFkbyBwZWxhIGVzcXVlcmRhbGhhIHF1ZSBlc3QmIzIyNTsgYSBkYXIhPGJyLz48YnIvPkFvIGNvbnRyJiMyMjU7cmlvLCBvcyBjYWxvdGVpcm9zIGomIzIyNTsgcHJvbWV0ZW0gbyBjJiMyMzM7dSwgbWFzIG4mIzIyNztvIGV4cGxpY2FtIG9uZGUgZXN0JiMyMjU7ITxici8+TyBjJiMyMzM7dSBkZXZlIHNlciBpcmVtIHBhcmEgbyBwb2xlaXJvLCBlIGxpdnJhcmVtLXNlIGRhcyBmYWxjYXRydWFzIHF1ZSBmaXplcmFtLjwvZGl2PjwvZGl2PjxkaXYgY2xhc3M9ImV2ZW5fY29tIj48YSBuYW1lPSJDb20yNTYwNjYxIj48L2E+PHRhYmxlIGNlbGxwYWRkaW5nPSIwIiBjZWxsc3BhY2luZz0iMCI+PHRyPjx0ZCB2YWxpZ249InRvcCI+PGltZyBhbGlnbj0iYWJzbWlkZGxlIiB3aWR0aD0iMTUiIGhlaWdodD0iMTUiIHN0eWxlPSJ2ZXJ0aWNhbC1hbGlnbjogdG9wO3BhZGRpbmc6NHB4IDRweCAwcHggMHB4OyIgc3JjPSIvY29tbW9uL2ltYWdlcy9sb2dvX3NtYWxsLmdpZiI+PC90ZD48dGQgdmFsaWduPSJ0b3AiPjxkaXYgY2xhc3M9Im5vbWUiPjxzcGFuIGlkPSJQb3N0QXV0aG9yMjU2MDY2MSI+dmVyaXRhdGlzPC9zcGFuPjxici8+PHNwYW4gY2xhc3M9ImRhdGEiPjI3LjA0LjIwMTMgLSAxODo0Nzwvc3Bhbj48L2Rpdj48L3RkPjx0ZCB2YWxpZ249InRvcCIgYWxpZ249InJpZ2h0Ij48ZGl2IGNsYXNzPSJpY29zIiBpZD0iUG9zdEltcHJvcGVyMjU2MDY2MSI+PGltZyB3aWR0aD0iMTQiIGhlaWdodD0iMTQiIHNyYz0iL2NvbW1vbi9pbWFnZXMvc3RhdGljL2ljb19kZW51bmNpYXIuZ2lmIj4mbmJzcDs8YSBjbGFzcz0iSU5WIiBocmVmPSJqYXZhc2NyaXB0OlJlcG9ydEltcHJvcGVyQ29tbWVudCgnMjU2MDY2MScpIj5kZW51bmNpYXI8L2E+PC9kaXY+PC90ZD48L3RyPjwvdGFibGU+PGRpdiBjbGFzcz0iY29tZW50YXJpbyIgaWQ9IlBvc3RCb2R5MjU2MDY2MSI+RXN0ZSBjYXZhcXVpc21vICYjMjMzOyAgY29ycnVwdG8sIGRlc29uZXN0bywgY2hlaW8gZGUgZXNjcm9xdWVzLCBsYWRyJiMyNDU7ZXMsIGRpdGFkb3Jlcywgc2VtIGRpZ25pZGFkZSAmIzIyNDsgdm9sdGEgZG8gcG90ZSBoJiMyMjU7IDIwIGFub3MuIEVzdGVzIGJhbmRpZG9zIGFycnVpbmFyYW0gbyBwYSYjMjM3O3MgY29tIG9zIGNvcnJ1cHRvcyBkbyBQUyBlIGRvIENEUy4uLi4uLi4uLi52b3RlbSBuZWxlcyBzZSBwdWRlcmVtIGVtaWdyYXIuLi4uLi4uLjwvZGl2PjwvZGl2PjxkaXYgY2xhc3M9Im9kZF9jb20iPjxhIG5hbWU9IkNvbTI1NjA2NTkiPjwvYT48dGFibGUgY2VsbHBhZGRpbmc9IjAiIGNlbGxzcGFjaW5nPSIwIj48dHI+PHRkIHZhbGlnbj0idG9wIj48aW1nIGFsaWduPSJhYnNtaWRkbGUiIHdpZHRoPSIxNSIgaGVpZ2h0PSIxNSIgc3R5bGU9InZlcnRpY2FsLWFsaWduOiB0b3A7cGFkZGluZzo0cHggNHB4IDBweCAwcHg7IiBzcmM9Ii9jb21tb24vaW1hZ2VzL2xvZ29fc21hbGwuZ2lmIj48L3RkPjx0ZCB2YWxpZ249InRvcCI+PGRpdiBjbGFzcz0ibm9tZSI+PHNwYW4gaWQ9IlBvc3RBdXRob3IyNTYwNjU5Ij5zaWJpbGE8L3NwYW4+PGJyLz48c3BhbiBjbGFzcz0iZGF0YSI+MjcuMDQuMjAxMyAtIDE4OjQ0PC9zcGFuPjwvZGl2PjwvdGQ+PHRkIHZhbGlnbj0idG9wIiBhbGlnbj0icmlnaHQiPjxkaXYgY2xhc3M9Imljb3MiIGlkPSJQb3N0SW1wcm9wZXIyNTYwNjU5Ij48aW1nIHdpZHRoPSIxNCIgaGVpZ2h0PSIxNCIgc3JjPSIvY29tbW9uL2ltYWdlcy9zdGF0aWMvaWNvX2RlbnVuY2lhci5naWYiPiZuYnNwOzxhIGNsYXNzPSJJTlYiIGhyZWY9ImphdmFzY3JpcHQ6UmVwb3J0SW1wcm9wZXJDb21tZW50KCcyNTYwNjU5JykiPmRlbnVuY2lhcjwvYT48L2Rpdj48L3RkPjwvdHI+PC90YWJsZT48ZGl2IGNsYXNzPSJjb21lbnRhcmlvIiBpZD0iUG9zdEJvZHkyNTYwNjU5Ij48YnIvPjxici8+b2JzZXNzJiMyMjc7byBwb3IgZWxlaSYjMjMxOyYjMjQ1O2VzIGFudGVjaXBhZGFzIHRpbmhhIG8gcHNkIGgmIzIyNTsgZG9pcyBhbm9zPGJyLz5lbnQmIzIyNztvIHBhcmEgcXVlIGlzc28gYWNvbnRlY2Vzc2UgbiYjMjI3O28gb2xob3UgYSBtZWlvcyBwYXJhIGF0aW5naXIgZmlucyA8YnIvPmNvbSBhanVkYSBkbyBjYXZhY28gbCYjMjI1OyBmb3JhbSBwYXJhIG8gcG9sZWlybzxici8+IGFnb3JhICYjMjMzOyBvIHF1ZSBzZSB2JiMyMzQ7IG51bmNhIG9zIHBvcnR1Z3Vlc2VzIHZpdmVyYW0gdGVtcG9zIG1pc2VyJiMyMjU7dmVpcyBkZSBmb21lIGUgcG9icmV6YSBjb21vIGVzdCYjMjI3O28gYSB2aXZlcjxici8+ZSBhaW5kYSB2JiMyMzQ7bSBjb20gcHJvbWVzc2FzIGRlIG1haXMgYWdyYXZhbWVudG8gZSBzZSBjb25ncmF0dWxhbSBwb3IgaXNzbyAuLi48YnIvPjxici8+PGJyLz48L2Rpdj48L2Rpdj48ZGl2IGNsYXNzPSJldmVuX2NvbSI+PGEgbmFtZT0iQ29tMjU2MDY1MyI+PC9hPjx0YWJsZSBjZWxscGFkZGluZz0iMCIgY2VsbHNwYWNpbmc9IjAiPjx0cj48dGQgdmFsaWduPSJ0b3AiPjxpbWcgYWxpZ249ImFic21pZGRsZSIgd2lkdGg9IjE1IiBoZWlnaHQ9IjE1IiBzdHlsZT0idmVydGljYWwtYWxpZ246IHRvcDtwYWRkaW5nOjRweCA0cHggMHB4IDBweDsiIHNyYz0iL2NvbW1vbi9pbWFnZXMvbG9nb19zbWFsbC5naWYiPjwvdGQ+PHRkIHZhbGlnbj0idG9wIj48ZGl2IGNsYXNzPSJub21lIj48c3BhbiBpZD0iUG9zdEF1dGhvcjI1NjA2NTMiPkFsZ2FydmV6PC9zcGFuPjxici8+PHNwYW4gY2xhc3M9ImRhdGEiPjI3LjA0LjIwMTMgLSAxODozNjwvc3Bhbj48L2Rpdj48L3RkPjx0ZCB2YWxpZ249InRvcCIgYWxpZ249InJpZ2h0Ij48ZGl2IGNsYXNzPSJpY29zIiBpZD0iUG9zdEltcHJvcGVyMjU2MDY1MyI+PGltZyB3aWR0aD0iMTQiIGhlaWdodD0iMTQiIHNyYz0iL2NvbW1vbi9pbWFnZXMvc3RhdGljL2ljb19kZW51bmNpYXIuZ2lmIj4mbmJzcDs8YSBjbGFzcz0iSU5WIiBocmVmPSJqYXZhc2NyaXB0OlJlcG9ydEltcHJvcGVyQ29tbWVudCgnMjU2MDY1MycpIj5kZW51bmNpYXI8L2E+PC9kaXY+PC90ZD48L3RyPjwvdGFibGU+PGRpdiBjbGFzcz0iY29tZW50YXJpbyIgaWQ9IlBvc3RCb2R5MjU2MDY1MyI+QXMgZWxlaSYjMjMxOyYjMjQ1O2VzIHMmIzIyNztvIHVtYSBtYW5laXJhIGxlZ2FsLCBjb20gbGVpcyBmZWl0YXMgJiMyMjQ7IGxhIGNhcnRlIGUgJiMyMjQ7IG1lZGlkYSwgcGFyYSBvcyBwYXJ0aWRvcyBpcmVtIGFvIHBvdGUuPGJyLz5TJiMyMjc7byBvcyBwYXJ0aWRvcyBlIG9zIGNvbXBvbmVudGVzIGRhcyBtZXNhcyBkZSB2b3RvLjxici8+U2UgY2FkYSB2ZXogcXVlIGgmIzIyNTsgZWxlaSYjMjMxOyYjMjQ1O2VzIGZvc3NlbSBvcyBwYXJ0aWRvcyBhIGFyY2FyIGNvbSBhcyBkZXNwZXNhcyBuJiMyMjc7byBjaG9yYXZhbSBwb3IgZWxhcy48YnIvPklzc28gZ2FyYW50byBldS48L2Rpdj48L2Rpdj48ZGl2IGNsYXNzPSJvZGRfY29tIj48YSBuYW1lPSJDb20yNTYwNjQ5Ij48L2E+PHRhYmxlIGNlbGxwYWRkaW5nPSIwIiBjZWxsc3BhY2luZz0iMCI+PHRyPjx0ZCB2YWxpZ249InRvcCI+PGltZyBhbGlnbj0iYWJzbWlkZGxlIiB3aWR0aD0iMTUiIGhlaWdodD0iMTUiIHN0eWxlPSJ2ZXJ0aWNhbC1hbGlnbjogdG9wO3BhZGRpbmc6NHB4IDRweCAwcHggMHB4OyIgc3JjPSIvY29tbW9uL2ltYWdlcy9sb2dvX3NtYWxsLmdpZiI+PC90ZD48dGQgdmFsaWduPSJ0b3AiPjxkaXYgY2xhc3M9Im5vbWUiPjxzcGFuIGlkPSJQb3N0QXV0aG9yMjU2MDY0OSI+bWVpb2RvaWRvPC9zcGFuPjxici8+PHNwYW4gY2xhc3M9ImRhdGEiPjI3LjA0LjIwMTMgLSAxODoyMzwvc3Bhbj48L2Rpdj48L3RkPjx0ZCB2YWxpZ249InRvcCIgYWxpZ249InJpZ2h0Ij48ZGl2IGNsYXNzPSJpY29zIiBpZD0iUG9zdEltcHJvcGVyMjU2MDY0OSI+PGltZyB3aWR0aD0iMTQiIGhlaWdodD0iMTQiIHNyYz0iL2NvbW1vbi9pbWFnZXMvc3RhdGljL2ljb19kZW51bmNpYXIuZ2lmIj4mbmJzcDs8YSBjbGFzcz0iSU5WIiBocmVmPSJqYXZhc2NyaXB0OlJlcG9ydEltcHJvcGVyQ29tbWVudCgnMjU2MDY0OScpIj5kZW51bmNpYXI8L2E+PC9kaXY+PC90ZD48L3RyPjwvdGFibGU+PGRpdiBjbGFzcz0iY29tZW50YXJpbyIgaWQ9IlBvc3RCb2R5MjU2MDY0OSI+byBnb3Zlcm5vIGRvIHNvY3JhdGVzIGVyYSBtYXUuLi5lc3RlIGNvbnNlZ3VlIHNlciBwaW9yIG1lc21vIGNvbSB0YW50b3MgZXNwZWNpYWxpc3RhcyBub21lYWRvcy4uLm4mIzIyNztvIGFjZXJ0YW0gdW1hLi4uYWdvcmEgcXVlcmlhbSBxdWUgbyBwYWRlaXJvIHF1ZSBwYXNzYSBhcXVpICYjMjI1OyBwb3J0YSBwYXJhIGRlaXhhciA0IGNhcmNhc3NhcywgZml6ZXNzZSB1bWEgZ3VpYSBjb20gY29uaGVjaW1lbnRvICYjMjI1OyBBVC4uLnRhZGluaG9zIGomIzIyNTsgZW1lbmRhcmFtIGEgbSYjMjI3O28gbmFzIGNhcmNhc3Nhcy4uLi5tYXMgY2hlZ2EgYSBzZXIgcGVub3NvIHZlciBhIGluY29tcGV0ZW5jaWEgZGVzdGVzIGVuZ3JhdmF0YWRpbmhvcy4uLm11ZGVtIGEgZnJvdGEgYXV0b21vdmVsIHBvciBmYXZvci4uLnBhc3NlbSB0b2RvcyBwYXJhIHJlbmF1bHQgY2xpbywgbW9kZWxvIG9rdS4uLmRhc3M8L2Rpdj48L2Rpdj48ZGl2IGNsYXNzPSJldmVuX2NvbSI+PGEgbmFtZT0iQ29tMjU2MDY0NiI+PC9hPjx0YWJsZSBjZWxscGFkZGluZz0iMCIgY2VsbHNwYWNpbmc9IjAiPjx0cj48dGQgdmFsaWduPSJ0b3AiPjxpbWcgYWxpZ249ImFic21pZGRsZSIgd2lkdGg9IjE1IiBoZWlnaHQ9IjE1IiBzdHlsZT0idmVydGljYWwtYWxpZ246IHRvcDtwYWRkaW5nOjRweCA0cHggMHB4IDBweDsiIHNyYz0iL2NvbW1vbi9pbWFnZXMvbG9nb19zbWFsbC5naWYiPjwvdGQ+PHRkIHZhbGlnbj0idG9wIj48ZGl2IGNsYXNzPSJub21lIj48c3BhbiBpZD0iUG9zdEF1dGhvcjI1NjA2NDYiPlNhbGVpcm88L3NwYW4+PGJyLz48c3BhbiBjbGFzcz0iZGF0YSI+MjcuMDQuMjAxMyAtIDE4OjEyPC9zcGFuPjwvZGl2PjwvdGQ+PHRkIHZhbGlnbj0idG9wIiBhbGlnbj0icmlnaHQiPjxkaXYgY2xhc3M9Imljb3MiIGlkPSJQb3N0SW1wcm9wZXIyNTYwNjQ2Ij48aW1nIHdpZHRoPSIxNCIgaGVpZ2h0PSIxNCIgc3JjPSIvY29tbW9uL2ltYWdlcy9zdGF0aWMvaWNvX2RlbnVuY2lhci5naWYiPiZuYnNwOzxhIGNsYXNzPSJJTlYiIGhyZWY9ImphdmFzY3JpcHQ6UmVwb3J0SW1wcm9wZXJDb21tZW50KCcyNTYwNjQ2JykiPmRlbnVuY2lhcjwvYT48L2Rpdj48L3RkPjwvdHI+PC90YWJsZT48ZGl2IGNsYXNzPSJjb21lbnRhcmlvIiBpZD0iUG9zdEJvZHkyNTYwNjQ2Ij5QJEQgZXN0JiMyMjU7ICYjMjI0OyByYXNjYSBjb20gYSBpZGVpYSBkZSBlbGVpJiMyMzE7JiMyNDU7ZXMgYW50ZWNpcGFkYXMuLi48L2Rpdj48L2Rpdj48ZGl2IGNsYXNzPSJvZGRfY29tIj48YSBuYW1lPSJDb20yNTYwNjQ1Ij48L2E+PHRhYmxlIGNlbGxwYWRkaW5nPSIwIiBjZWxsc3BhY2luZz0iMCI+PHRyPjx0ZCB2YWxpZ249InRvcCI+PGltZyBhbGlnbj0iYWJzbWlkZGxlIiB3aWR0aD0iMTUiIGhlaWdodD0iMTUiIHN0eWxlPSJ2ZXJ0aWNhbC1hbGlnbjogdG9wO3BhZGRpbmc6NHB4IDRweCAwcHggMHB4OyIgc3JjPSIvY29tbW9uL2ltYWdlcy9sb2dvX3NtYWxsLmdpZiI+PC90ZD48dGQgdmFsaWduPSJ0b3AiPjxkaXYgY2xhc3M9Im5vbWUiPjxzcGFuIGlkPSJQb3N0QXV0aG9yMjU2MDY0NSI+amNlc2FyPC9zcGFuPjxici8+PHNwYW4gY2xhc3M9ImRhdGEiPjI3LjA0LjIwMTMgLSAxODoxMTwvc3Bhbj48L2Rpdj48L3RkPjx0ZCB2YWxpZ249InRvcCIgYWxpZ249InJpZ2h0Ij48ZGl2IGNsYXNzPSJpY29zIiBpZD0iUG9zdEltcHJvcGVyMjU2MDY0NSI+PGltZyB3aWR0aD0iMTQiIGhlaWdodD0iMTQiIHNyYz0iL2NvbW1vbi9pbWFnZXMvc3RhdGljL2ljb19kZW51bmNpYXIuZ2lmIj4mbmJzcDs8YSBjbGFzcz0iSU5WIiBocmVmPSJqYXZhc2NyaXB0OlJlcG9ydEltcHJvcGVyQ29tbWVudCgnMjU2MDY0NScpIj5kZW51bmNpYXI8L2E+PC9kaXY+PC90ZD48L3RyPjwvdGFibGU+PGRpdiBjbGFzcz0iY29tZW50YXJpbyIgaWQ9IlBvc3RCb2R5MjU2MDY0NSI+SCYjMjQzOyByYXBhem9sYSBuJiMyMjc7byB0ZSBwcmVvY3VwZXMgcXVlIHMmIzI0MzsgaGF2ZXImIzIyNTsgZWxlaSYjMjMxOyYjMjQ1O2VzIGFudGVjaXBhZGFzLCBzZSBhIGF0dWFsIG1haW9yaWEgcXVpc2VyLCBvdSBhcyBwcm92b2NhciwgZSBwb3NzaXZlbG1lbnRlICYjMjMzOyBpc3NvIHF1ZSB2YWkgYWNvbnRlY2VyLCBwb3JxdWUgY2FkYSBkaWEgdGVtb3MgbWFpcyBtaXMmIzIzMztyaWEsIG1haXMgcG9icmV6YSwgbWFpcyBkZXNlbXByZWdvLCBtYWlzIHJlY2VzcyYjMjI3O28sIGUgbyBtYWlzIGdyYXZlIG11aXRvIG1haXMgZCYjMjM3O3ZpZGEuPGJyLz48YnIvPkUgZGl6IG8gcmFwYXpvbGEsIG8gUFNEIGVzcGVyYSBxdWUgbyBQUyBwb3NzYSBhcHJlc2VudGFyICZxdW90O3VtIG1vZGVsbyBkZSBjcmVzY2ltZW50byBlIGVtcHJlZ28sIHF1ZSBuJiMyMjc7byBzZWphIG8gZGUgcmVncmVzc28gYW8gcGFzc2FkbyBlIGRlIGFzc29jaWFyIGFvIGNyZXNjaW1lbnRvIGFwZW5hcyBvIGVuZGl2aWRhbWVudG8mcXVvdDsuPGJyLz48YnIvPlMmIzI0MzsgZW0gMjAxMiBhIGQmIzIzNzt2aWRhIHAmIzI1MDtibGljYSBwYXNzb3UgZGUgMTA4JSwgcGFyYSAxMjMuNiUgZG8gUElCLCB1bSBhdW1lbnRvIGRlIG1haXMgZGUgMjUlLCBlIGNvbnRpbnVhIGEgYXVtZW50YXIsIGEgcG9icmV6YSBlIGEgbWlzJiMyMzM7cmlhIGF1bWVudGEgdG9kb3Mgb3MgZGlhcywgYSBlY29ub21pYSB0ZXZlIHVtYSByZWNlc3MmIzIyNztvIGRlIDMuMiUsIG8gZGVzZW1wcmVnbyBhY2ltYSBkZSAxOCUsIGUgYSBzdWJpciwgYXMgcHJldmlzJiMyNDU7ZXMgZG8gZCYjMjMzO2ZpY2UgZXJhbSBkZSA0LjUlLCBkZXBvaXMgcGFzc291IHBhcmEgNSUsIGUgbWVzbW8gYXNzaW0gZm9pIGxhcmdhbWVudGUgdWx0cmFwYXNzYWRvIHBhcmEgb3MgNi40JS48YnIvPkUgZGUgRGV6ZW1icm8gcGFyYSBGZXZlcmVpcm8gYSBkJiMyMzc7dmlkYSBwJiMyNTA7YmxpY2EgaiYjMjI1OyBwYXNzb3UgZGUgMTIzLjYlLCBwYXJhIDEyNi4zJSBkbyBQSUIuPGJyLz48YnIvPkUgcGFyYSBxdWUgdGVtIHNlcnZpZG8gZXN0ZSBlbm9ybWUgYXVtZW50byBkbyBlbmRpdmlkYW1lbnRvLCBuJiMyMjc7byBjb250cmlidWl1IHBhcmEgbyBjcmVzY2ltZW50bywgbmVtIHBhcmEgYSBjcmlhJiMyMzE7JiMyMjc7byBkZSBlbXByZWdvLCBwZWxvIGNvbnRyJiMyMjU7cmlvLjwvZGl2PjwvZGl2PmQCCw8WAh8BBQQxMTM3ZGQ=" />
+
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAwKi56TYDALhy8OfAgLn3Pr3CQ==" />  
+		<input type="hidden" id="dataActual" name="dataActual" value="2013-05-05T18:07:55" />
+		<div style="display:none">
+			
+<script type="text/javascript" language="javascript">
+
+function loadFragmentInToElement(fragment_url)
+ {
+    var element = document.getElementById('divMaisNot');
+
+    if ( element ) 
+    {
+       var xmlhttp; 
+       if (window.ActiveXObject) // for IE 
+       { 
+          xmlhttp = new ActiveXObject("Microsoft.XMLHTTP"); 
+       } 
+       else if (window.XMLHttpRequest) // for other browsers 
+       { 
+          xmlhttp = new XMLHttpRequest(); 
+       } 
+
+       xmlhttp.open("GET", fragment_url);
+
+       xmlhttp.onreadystatechange = function() {
+           if (xmlhttp.readyState == 4 && xmlhttp.status == 200) 
+           {
+               element.innerHTML = xmlhttp.responseText;
+           }
+       }
+       xmlhttp.send(null);
+
+    }
+}
+
+   </script>
+   
+
+		</div>
+
+        <center>		
+            
+
+
+<!-- INICIO LINKS UTEIS -->
+
+
+
+
+
+<!-- FIM LINKS UTEIS --> 
+
+<!-- INICIO PESQUISA -->
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr>
+<td class="pesquisa">
+	<table width="980" align="center" cellpadding="0" cellspacing="0" border="0">
+	<tr>
+
+    <td width="190">
+    <table>
+    <tr>
+    <td>
+ <input name="ctl00$ctl00$headertop1$boAddr" type="hidden" id="ctl00_ctl00_headertop1_boAddr" /> 
+ </td>
+ </tr>
+   
+    <tr>
+    <td  valign="top" align="left"><a target="_parent"  href="/"><img src="/common/images/sol_primavera.jpg" width="165" height="90" /></a></td>
+    </tr>
+    <tr><td></td></tr>
+    <tr>
+    <td>
+    <div class="linksLogin">
+    <table align="right" height="35" cellpadding="0" cellspacing="0" border="0">	
+	        <tr>
+	        <td valign="bottom">
+    <div id="ctl00_ctl00_headertop1_divlogin" style="float:right;">
+        <img src="/common/images/logo_small.gif" style="vertical-align:bottom;" width="15" height="15" align="absmiddle" /><a onclick="window.open ('/connect/logincs.aspx','login','menubar=1,resizable=1,width=350,height=250');  return false" href="#"><strong>Login</strong></a>
+        |<img src="/common/images/static/ico_FB_mini.jpg" style="vertical-align:bottom;" width="15" height="15" align="absmiddle" /><a onclick="login(); return false;"  href="#"><strong>Connect</strong></a>
+        </div>
+        
+        </td></tr>
+        </table>
+        </div></td>
+     </tr>
+        
+     </table>   
+    </td>
+	<td width="290">
+		<table>
+		<tr><td><div class="data_hora">
+<table align="left" height="30px" cellpadding="0" cellspacing="0">	
+	<tr>
+	<td valign="top" align="left">	
+	    <div id="ctl00_ctl00_headertop1_datahora">domingo, 5 de Maio de 2013, 18:07</div>
+
+	</td>
+	<td><a href="http://meteorologia.sapo.pt/" target="_blank"><img src="/common/images/static/meteo_icone.png" width="35" height="28" style="padding-bottom:10px" /></a>
+	</td>
+	</tr>
+	</table>
+	</div></td></tr>
+		<tr>
+		<td>
+		    
+
+
+<div class="pesquisa_caixa" onclick="ClickText(this)">
+    <table>
+    <tr>
+    <td align="right" width="70px"><b>Pesquisa</b></td>
+
+    <td align="right" width="100px"><img src="/common/images/logo_sapo.gif" width="80" height="18" /></td>
+    </tr>
+    </table>
+    <table cellpadding="0" cellspacing="0">
+    <tr>
+    <td>
+    <div class="caixapesq">
+        <input name="ctl00$ctl00$headertop1$search1$txtSearch" type="text" id="ctl00_ctl00_headertop1_search1_txtSearch" class="inputPesqBg" onblur="BlurText(this)" size="50" title="pesquisar" onkeydown="GoSearch(this, event,'pt')" />
+    </div>
+    </td>
+
+    <td>
+    <div class="btnpesquisa">
+        <a href="javascript:FindSearchCriteria('ctl00_ctl00_headertop1_search1_txtSearch','pt')" id="ctl00_ctl00_headertop1_search1_linkSearch" target="_top"><img style="padding-bottom:5px" src="/common/images/static/btn_pesquisa.png" width="25" height="25" alt="pesquisar" /></a>
+    </div>
+    </td>
+    </tr>
+    </table>
+</div>
+
+		</td>
+		</tr>
+		<tr><td>
+			<div class="links_uteis">
+            <table align="right" height="35px" cellpadding="0" cellspacing="0" border="0">	
+	        <tr>
+	           <td valign="bottom" align="left" width="380px">	 
+	    <a target="_parent"  href="http://comunidade.sol.pt/">Comunidade</a>
+	      | <a target="_parent"  href="/inicio/institucional.aspx">Institucional</a>
+	      | <a target="_parent"  href="/inicio/publicidade.aspx">Publicidade</a>
+	      
+	       
+        </td>
+      
+
+	</tr>
+	</table>
+	</div></td></tr>
+		</table>
+		
+	</td>
+	
+	
+	<td align="right"><table cellpadding="0" cellspacing="0">
+	    <tr>
+	        <td valign="top" align="center" width="90"><a target="_blank"  href="http://emprego.sol.sapo.pt"><img alt="Emprego" src="/common/images/static/emprego.png" width="67" height="84"  /></a></td>
+	        <td valign="top" align="center" width="90"><a target="_blank"  href="http://imobiliario.sol.sapo.pt"><img alt="Imobiliário" src="/common/images/static/imobiliario.png" width="67" height="84"  /></a></td>
+	        <td valign="top" align="center" width="90"><a target="_blank"  href="http://motores.sol.sapo.pt"><img alt="Motores" src="/common/images/static/motores.png" width="67" height="84"  /></a></td>
+	      
+	    </tr>
+	    </table></td>
+	<td align="right" width="245"><table cellpadding="0" cellspacing="0">
+	    <tr>
+	        <td valign="bottom" width="122" align="left"><a href="http://canais.sol.pt/edicaoimpressa/" target="_parent"><img src="/storage/Sol/2013/small/ng1352188_120x144.jpg?type=small" width="120px"></a>
+	        </td>
+	       
+	        <td valign="bottom"><a href="http://itunes.apple.com/us/app/sol/id461729321?mt=8" target="_blank"><img alt="iPad" src="/common/images/static/sol_ipad.png" width="120" height="151"  /></a>
+	        </td>
+	    </tr>
+	    </table></td>
+	</tr>
+	
+	</table>
+</td>
+</tr>
+
+</table>
+<!-- FIM PESQUISA -->
+
+
+
+            
+<!-- INICIO MENU -->
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr>
+<td class="menu">
+	<table width="980" align="center" cellpadding="0" cellspacing="0">
+	<tr>
+
+	<td>
+    <div id="ctl00_ctl00_menu1_mp1" class="mp_home" onclick="parent.location.href='/'">In&iacute;cio</div>
+    
+
+	<div id="ctl00_ctl00_menu1_mp2" class="mp" onclick="parent.location.href='http://sol.sapo.pt/inicio/Opiniao/Default.aspx'">Opini&atilde;o</div>
+	
+
+	
+	<div id="ctl00_ctl00_menu1_mp3_sel" class="mp_sel" onclick="parent.location.href='http://sol.sapo.pt/inicio/Politica/Default.aspx'">Política</div>
+
+	<div id="ctl00_ctl00_menu1_mp4" class="mp" onclick="parent.location.href='http://sol.sapo.pt/inicio/Sociedade/Default.aspx'">Sociedade</div>
+	
+
+	<div id="ctl00_ctl00_menu1_mp5" class="mp" onclick="parent.location.href='http://sol.sapo.pt/inicio/Economia/Default.aspx'">Economia</div>
+	
+
+	<div id="ctl00_ctl00_menu1_mp6" class="mp" onclick="parent.location.href='http://sol.sapo.pt/inicio/Internacional/Default.aspx'">Internacional</div>
+	
+
+	<div id="ctl00_ctl00_menu1_mp7" class="mp" onclick="parent.location.href='http://sol.sapo.pt/inicio/Cultura/Default.aspx'">Cultura</div>
+	
+
+	<div id="ctl00_ctl00_menu1_mp8" class="mp" onclick="parent.location.href='http://sol.sapo.pt/inicio/Desporto/Default.aspx'">Desporto</div>
+	
+
+	<div id="ctl00_ctl00_menu1_mp9" class="mp" onclick="parent.location.href='http://sol.sapo.pt/inicio/Tecnologia/Default.aspx'">Tecnologia</div>
+	
+
+	<div id="ctl00_ctl00_menu1_mp10" class="mp" onclick="parent.location.href='http://sol.sapo.pt/inicio/Vida/Default.aspx'">Vida</div>
+	
+
+	<div id="ctl00_ctl00_menu1_mp12" class="mp" onclick="parent.location.href='http://sol.sapo.pt/inicio/galerias/videos.aspx'">Multimédia</div>
+	
+
+	</td>
+	<td>
+
+    <div id="ctl00_ctl00_menu1_mp11" class="mp2" onclick="parent.location.href='http://sol.sapo.ao';">Angola</div>
+    
+    </td>
+	</tr>
+	</table>
+	
+	
+	
+</td>
+</tr>
+</table>
+<!-- FIM MENU -->
+
+<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://pub.sapo.pt/ajs.php':'http://pub.sapo.pt/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=107");
+   document.write ('&cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&exclude=" + document.MAX_used);
+   document.write (document.charset ? '&charset='+document.charset : (document.characterSet ? '&charset='+document.characterSet : ''));
+   document.write ("&loc=" + escape(window.location));
+   if (document.referrer) document.write ("&referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script>
+<span id="ctl00_ctl00_menu1_moldurasection">
+<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://pub.sapo.pt/ajs.php':'http://pub.sapo.pt/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=460");
+   document.write ('&cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&exclude=" + document.MAX_used);
+   document.write (document.charset ? '&charset='+document.charset : (document.characterSet ? '&charset='+document.characterSet : ''));
+   document.write ("&loc=" + escape(window.location));
+   if (document.referrer) document.write ("&referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script>
+</span>
+
+
+
+		    
+	
+
+	        
+    	
+		    
+		        <div class="MainWrapper paddingT20">
+			        <div class="center-col-content">
+			            
+		
+	
+	
+	
+	<div id="NewsContainer" class="NewsContainerNormal">
+        <div class="detalhe_tit_noticia" id="NewsHead" xmlns:g="http://base.google.com/ns/1.0" xmlns:fb="http://www.google.com"><div class="titulo" id="NewsTitle">PSD: PS tem 'obsessão" por eleições antecipadas'</div><div class="google_partilha" style="float:left;padding-top:5px;"><script type="text/javascript" src="https://apis.google.com/js/plusone.js">
+        {lang: 'pt-PT'}
+      </script><g:plusone size="medium" /></div><div style="margin-top:0px;float:left;height:25px;padding-top:5px;"><fb:like href="http://sol.sapo.pt/inicio/Politica/Interior.aspx?content_id=73835" send="true" layout="button_count" width="150" show_faces="true" font="" /></div><div class="addthis_toolbox addthis_default_style" style="margin-top:0px;float:left;height:25px; padding-top:5px;"><a class="addthis_button_tweet"></a></div><div style="margin-top:0px;float:left;height:25px;padding-top:5px;"><script type="text/javascript" src="http://platform.linkedin.com/in.js"></script><script type="in/share" data-url="http://sol.sapo.pt/inicio/Politica/Interior.aspx?content_id=73835" data-counter="right"></script></div><br clear="all"><div class="legenda"><span class="data">27 de Abril, 2013</span></div></div><div class="detalhe_noticia fleft" id="NewsMain" xmlns:g="http://base.google.com/ns/1.0" xmlns:fb="http://www.google.com"><div><a><img src="/storage/Sol/2013/big/ng1350240_435x190.jpg?type=big" width="435"></a></div><div class="noticia" id="NewsSummary">O vice-presidente do PSD Jorge Moreira da Silva acusou hoje o PS de ter uma "obsessão" por eleições antecipadas e de se furtar ao "espírito de compromisso" e não apresentar propostas alternativas que "facilitem" o diálogo.<p>"Ao contrário do que foi afirmado, de que há um consenso nacional quanto à vontade de haver eleições, existe apenas uma vertigem, uma obsessão do PS por eleições" antecipadas, disse Jorge Moreira da Silva aos jornalistas, durante uma vista à feira agropecuária Ovibeja, em Beja.</p><p>Quanto ao congresso do PS, a decorrer até domingo, em Santa Maria da feira, Jorge Moreira da Silva disse esperar que os socialistas apresentem propostas concretas de consolidação orçamental e um modelo de crescimento e emprego.</p><p>"A expectativa que temos [PSD] em relação a esse congresso é que ele possa dar as respostas às perguntas mais importantes que estão na cabeça de toda a gente, dos portugueses", disse, referindo que "é importante saber qual é a opção de consolidação orçamental do PS".</p><p>Segundo o responsável, é "importante" saber se a consolidação orçamental na ótica do PS será feita "através do aumento de impostos, da redução da despesa, designadamente pela redefinição das funções do Estado, ou se passa por não cumprir as metas orçamentais para os próximos anos, caminhando na direcção de um segundo resgate".</p><p>Trata-se de "uma reposta que é importante obtermos", frisou, referindo que "não vale a pena estarmos com uma série de proclamações vagas sobre austeridade".</p><p>Por outro lado, continuou, o PSD espera que o PS possa apresentar "um modelo de crescimento e emprego, que não seja o de regresso ao passado e de associar ao crescimento apenas o endividamento".</p><p>"Aquilo que os portugueses esperam de qualquer congresso partidário, mas também do congresso do PS, é que sejam apresentadas propostas concretas e encontradas soluções para os grandes problemas que Portugal tem e, de preferência, que essas propostas sejam formuladas num ambiente, num espírito de compromisso", frisou.</p><p>Só é possível alcançar o compromisso "se as duas partes [Governo e PS] dispuserem de alternativas de propostas concretas", disse, referindo que não se consegue dialogar e chegar a um consenso ou a um compromisso "se uma das partes [PS] não apresenta as suas propostas e até se furta a esse espírito de compromisso".</p><p>"Infelizmente, até este momento, o PS não tem nem manifestado espírito de compromisso, que é necessário, nem identificado propostas alternativas, opções de política, que facilitem um diálogo, que dever ser feito com pontos de vista complementares", disse.</p><p>Neste sentido, Jorge Moreira da Silva considerou "positiva" a "iniciativa do Governo de convidar o PS para rondas e conversas sucessivas quanto à reforma do Estado e a uma agenda para o crescimento e o emprego" e disse não acreditar que "o PS não venha a participar activamente nessa discussão".</p><p>"Todos os portugueses consideram que deve haver diálogo e compromisso e estou, por isso, muito convicto de que isso acabará por acontecer nestas reuniões, pelo menos a capacidade de as pessoas se sentarem, em nome do interesse superior, que é o interesse nacional, que é um interesse superior ao partidário", disse.</p><p>Lusa/SOL</p><div class="tags"><b>Tags:</b> <a href="/inicio/tag.aspx?tag=Jorge%20Moreira%20da%20Silva">Jorge Moreira da Silva</a>, <a href="/inicio/tag.aspx?tag=Pol%EDtica">Política</a>, <a href="/inicio/tag.aspx?tag=PSD">PSD</a></div></div></div><div class="fright" xmlns:g="http://base.google.com/ns/1.0" xmlns:fb="http://www.google.com"><div id="divMaisNot"></div><div class="print border"><div class="corpo"><a href="javascript:PrintArticle('73835')"><img src="/common/images/static/ico_print_imprimir.gif" width="20" height="20" border="0"> Imprimir
+        </a><br><a href="javascript:ToggleFont()"><img src="/common/images/static/ico_print_aumentar.gif" id="imgToggleFont" width="20" height="20" border="0"><span id="txtToggleFontAu"> Aumentar texto</span><span id="txtToggleFontDi" style="display:none"> Diminuir texto</span></a><br><a href="#Comment"><img src="/common/images/static/ico_print_comentar.gif" width="20" height="20" border="0"> Comentar
+        </a><br><a href="http://www.addthis.com/bookmark.php?v=250&amp;username=solnewsgen" class="addthis_button_compact"><img src="/common/images/static/ico_print_partilha.gif" width="20" height="20" border="0"> Partilhar
+        </a><br><div class="visitas"><div class="visitastext" id="visitastext"></div></div><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=solnewsgen"></script></div></div></div>
+        <br clear="all" />
+        <br clear="all" />
+        
+
+<!-- INICIO COMENTARIOS -->
+
+<a name="Comment"></a>
+<div class="barra_comentarios">
+<div style="float:left" class="links_uteis">
+<a href="/inicio/regras.aspx">Regras de acesso</a>
+</div>
+<div id="ctl00_ctl00_ContentBody_ContentBody_ColCenter_ctl00_divlogin" class="links_uteis" style="float:right;">
+ Os comentários estão reservados a utilizadores identificados: <img src="/common/images/logo_small.gif" width="15" height="15" align="absmiddle" /><a onclick="window.open ('/connect/logincs.aspx','login','menubar=1,resizable=1,width=350,height=250');  return false" href="#"><strong>Login</strong></a>
+| <img src="/common/images/static/ico_FB_mini.jpg" width="15" height="15" align="absmiddle" /><a onclick="login(); return false;"  href="#"><strong>Connect</strong></a>
+</div>
+<br clear="all"/>
+
+
+
+
+
+
+
+
+</div>
+
+<!-- FIM COMENTARIOS -->
+
+        
+
+<!-- INICIO COMENTARIOS -->
+
+<div class="zona_comentarios" id="zona_comentarios">
+
+<div class="num_comentarios" style="float: left;">15 Comentários <img src="/common/images/static/ico_comentarios.gif" alt="" width="24" height="24" /></div>
+
+<div id="ctl00_ctl00_ContentBody_ContentBody_ColCenter__ctrl_0_divComs" class="tbl_tabs"><div class="odd_com"><a name="Com2561487"></a><table cellpadding="0" cellspacing="0"><tr><td valign="top"><img align="absmiddle" width="15" height="15" style="vertical-align: top;padding:4px 4px 0px 0px;" src="/common/images/logo_small.gif"></td><td valign="top"><div class="nome"><span id="PostAuthor2561487">Antonyjunior</span><br/><span class="data">29.04.2013 - 15:50</span></div></td><td valign="top" align="right"><div class="icos" id="PostImproper2561487"><img width="14" height="14" src="/common/images/static/ico_denunciar.gif">&nbsp;<a class="INV" href="javascript:ReportImproperComment('2561487')">denunciar</a></div></td></tr></table><div class="comentario" id="PostBody2561487"><br/><br/>Beeeeemmmm...depende...da peida... e da donA...<br/><br/>Por aqui s&#243; h&#225; estrume palrante...tipo Bancarrota...chorante!</div></div><div class="even_com"><a name="Com2561334"></a><table cellpadding="0" cellspacing="0"><tr><td valign="top"><img align="absmiddle" width="15" height="15" style="vertical-align: top;padding:4px 4px 0px 0px;" src="/common/images/logo_small.gif"></td><td valign="top"><div class="nome"><span id="PostAuthor2561334">AJPC</span><br/><span class="data">29.04.2013 - 11:37</span></div></td><td valign="top" align="right"><div class="icos" id="PostImproper2561334"><img width="14" height="14" src="/common/images/static/ico_denunciar.gif">&nbsp;<a class="INV" href="javascript:ReportImproperComment('2561334')">denunciar</a></div></td></tr></table><div class="comentario" id="PostBody2561334">Agora at&#233; a phuta da canalha tem direito em opinar. O que faz isto &#233; haver juniorzinhos a lamber-lhes a peida.</div></div><div class="odd_com"><a name="Com2561258"></a><table cellpadding="0" cellspacing="0"><tr><td valign="top"><img align="absmiddle" width="15" height="15" style="vertical-align: top;padding:4px 4px 0px 0px;" src="/common/images/logo_small.gif"></td><td valign="top"><div class="nome"><span id="PostAuthor2561258">LuaLuar1</span><br/><span class="data">29.04.2013 - 09:20</span></div></td><td valign="top" align="right"><div class="icos" id="PostImproper2561258"><img width="14" height="14" src="/common/images/static/ico_denunciar.gif">&nbsp;<a class="INV" href="javascript:ReportImproperComment('2561258')">denunciar</a></div></td></tr></table><div class="comentario" id="PostBody2561258">Portugueses<br/><br/>As Declara&#231;&#245;es deste Vice Presidente do PSD  &#233;  BEM representativa da Pequin&#234;s de C&#233;rebro .......<br/><br/> </div></div><div class="even_com"><a name="Com2561036"></a><table cellpadding="0" cellspacing="0"><tr><td valign="top"><img align="absmiddle" width="15" height="15" style="vertical-align: top;padding:4px 4px 0px 0px;" src="/common/images/logo_small.gif"></td><td valign="top"><div class="nome"><span id="PostAuthor2561036">Antonyjunior</span><br/><span class="data">28.04.2013 - 18:22</span></div></td><td valign="top" align="right"><div class="icos" id="PostImproper2561036"><img width="14" height="14" src="/common/images/static/ico_denunciar.gif">&nbsp;<a class="INV" href="javascript:ReportImproperComment('2561036')">denunciar</a></div></td></tr></table><div class="comentario" id="PostBody2561036">&#211; Dr. Calado, Jorge Moreira da Silva, o partido dos caloteiros quer elei&#231;&#245;es AGORA porque sabe que n&#227;o as haver&#225;!<br/><br/>Essa quadrilha de investigados n&#227;o quer governar com os calotes e aldrabices que fizeram! Sabem que a mem&#243;ria n&#227;o &#233; t&#227;o curta...<br/><br/>Desconfio que quando acordarem v&#227;o continuar a latir, tal como a gora.<br/><br/>E voc&#234;, &#243; doctor calado, resolveu dar uma ladradela para dizer que est&#225; vivo!?</div></div><div class="odd_com"><a name="Com2560799"></a><table cellpadding="0" cellspacing="0"><tr><td valign="top"><img align="absmiddle" width="15" height="15" style="vertical-align: top;padding:4px 4px 0px 0px;" src="/common/images/logo_small.gif"></td><td valign="top"><div class="nome"><span id="PostAuthor2560799">jcesar</span><br/><span class="data">28.04.2013 - 00:06</span></div></td><td valign="top" align="right"><div class="icos" id="PostImproper2560799"><img width="14" height="14" src="/common/images/static/ico_denunciar.gif">&nbsp;<a class="INV" href="javascript:ReportImproperComment('2560799')">denunciar</a></div></td></tr></table><div class="comentario" id="PostBody2560799">Tudo o que se sabe &#233; a refer&#234;ncia a um buraco no OE de 2011, que a atual maioria s&#243; se referiu a ele como sendo um buraco colossal, sem explicar a que se devia.<br/><br/>Foi preciso ser a UE a explicar que se devia a contas escondidas na Madeira, pelo Jardim, e mais alguma verba para o caso BPN.<br/><br/>H&#225; de facto alguns ex. Governantes do PS a ser investigados, o que acho bem, e se houver crime devem ser castigados em fun&#231;&#227;o do crime, mas at&#233; hoje nem ind&#237;cios de crimes encontraram.<br/>Voc&#234; Engana-se tanto a meu respeito.<br/><br/>E ainda diz voc&#234; &quot;que o passado n&#227;o se apaga... ...paga-se!<br/><br/>Esta afima&#231;&#227;o evidencia bem a sua idiotice!<br/><br/>Em 2 anos aumentaram uns 30% &#224; divida p&#250;blica, se  a estivessem a pagar, a d&#237;vida estava a diminuir, e n&#227;o a aumentar, e est&#225; a aumentar a um ritmo galopante.</div></div><div class="even_com"><a name="Com2560788"></a><table cellpadding="0" cellspacing="0"><tr><td valign="top"><img align="absmiddle" width="15" height="15" style="vertical-align: top;padding:4px 4px 0px 0px;" src="/common/images/logo_small.gif"></td><td valign="top"><div class="nome"><span id="PostAuthor2560788">Antonyjunior</span><br/><span class="data">27.04.2013 - 23:39</span></div></td><td valign="top" align="right"><div class="icos" id="PostImproper2560788"><img width="14" height="14" src="/common/images/static/ico_denunciar.gif">&nbsp;<a class="INV" href="javascript:ReportImproperComment('2560788')">denunciar</a></div></td></tr></table><div class="comentario" id="PostBody2560788">	<br/>jcesar<br/>27.04.2013 - 20:26<br/><br/>&quot;Oh&quot; jcesar, pode pintar o C&#233;u e o Inferno da c&#244;r que entender...mas a sua quadrilha de pulhas at&#233; a troika aldrabou em 30.000 milh&#245;es...<br/><br/>Entretanto, o (seu) governo anterior com demasiados casos na justi&#231;a, prova o quanto foi rafeiro e caloteiro... e n&#227;o foi por dar esmolas...!<br/><br/>Olhe...chore como o seu Chefe...mas o passado n&#227;o se apaga... ...paga-se!<br/>ahahahahah.</div></div><div class="odd_com"><a name="Com2560706"></a><table cellpadding="0" cellspacing="0"><tr><td valign="top"><img align="absmiddle" width="15" height="15" style="vertical-align: top;padding:4px 4px 0px 0px;" src="/common/images/logo_small.gif"></td><td valign="top"><div class="nome"><span id="PostAuthor2560706">jcesar</span><br/><span class="data">27.04.2013 - 20:26</span></div></td><td valign="top" align="right"><div class="icos" id="PostImproper2560706"><img width="14" height="14" src="/common/images/static/ico_denunciar.gif">&nbsp;<a class="INV" href="javascript:ReportImproperComment('2560706')">denunciar</a></div></td></tr></table><div class="comentario" id="PostBody2560706">H&#243;! Antonyjunior<br/><br/>Tamb&#233;m prometeu tudo isto aos eleitores, mas meteu estas promessas todas na gaveta, e est&#225; a fazer tudo ao “contr&#225;rio”.<br/><br/>-Vamos ter de cortar em gorduras e de poupar. O Estado vai ter de fazer austeridade, basta de aplic&#225;-la s&#243; aos cidad&#227;os.&quot;<br/><br/>&quot;Ningu&#233;m nos ver&#225; impor sacrif&#237;cios aos que mais precisam. Os que t&#234;m mais ter&#227;o que ajudar os que t&#234;m menos.&quot;<br/><br/>&quot;Queremos transferir parte dos sacrif&#237;cios que se exigem &#224;s fam&#237;lias e &#224;s empresas para o Estado.&quot;<br/><br/>&quot;Se formos Governo, posso garantir que n&#227;o ser&#225; necess&#225;rio despedir pessoas nem cortar mais sal&#225;rios para sanear o sistema portugu&#234;s.&quot;<br/><br/>&quot;A ideia que se foi gerando de que o PSD vai aumentar o IVA n&#227;o tem fundamento.&quot;<br/><br/>&quot;O PSD chumbou o PEC 4 porque tem de se dizer basta: Reparem bem nesta desculpa, e a enorme contradi&#231;&#227;o que tem levado a cabo como Governante &#171;&#171;a austeridade n&#227;o pode incidir sempre no aumento de impostos e no corte de rendimento&#187;&#187;.<br/><br/><br/>Antonyjunior<br/>Em 2 anos j&#225; aumentaram os calotes em uns 30%, &#233; isto pagar calotes.<br/><br/>Cada imbecilidade!<br/></div></div><div class="even_com"><a name="Com2560700"></a><table cellpadding="0" cellspacing="0"><tr><td valign="top"><img align="absmiddle" width="15" height="15" style="vertical-align: top;padding:4px 4px 0px 0px;" src="/common/images/logo_small.gif"></td><td valign="top"><div class="nome"><span id="PostAuthor2560700">jcesar</span><br/><span class="data">27.04.2013 - 20:10</span></div></td><td valign="top" align="right"><div class="icos" id="PostImproper2560700"><img width="14" height="14" src="/common/images/static/ico_denunciar.gif">&nbsp;<a class="INV" href="javascript:ReportImproperComment('2560700')">denunciar</a></div></td></tr></table><div class="comentario" id="PostBody2560700">	<br/>H&#243;! Antonyjunior<br/><br/>Tamb&#233;m prometeu tudo isto aos eleitores, mas meteu estas promessas todas na gaveta, e est&#225; a fazer tudo ao cnr&#225;rio.<br/><br/>-Vamos ter de cortar em gorduras e de poupar. O Estado vai ter de fazer austeridade, basta de aplic&#225;-la s&#243; aos cidad&#227;os.&quot;<br/><br/>&quot;Ningu&#233;m nos ver&#225; impor sacrif&#237;cios aos que mais precisam. Os que t&#234;m mais ter&#227;o que ajudar os que t&#234;m menos.&quot;<br/><br/>&quot;Queremos transferir parte dos sacrif&#237;cios que se exigem &#224;s fam&#237;lias e &#224;s empresas para o Estado.&quot;<br/><br/>&quot;Se formos Governo, posso garantir que n&#227;o ser&#225; necess&#225;rio despedir pessoas nem cortar mais sal&#225;rios para sanear o sistema portugu&#234;s.&quot;<br/><br/>&quot;A ideia que se foi gerando de que o PSD vai aumentar o IVA n&#227;o tem fundamento.&quot;<br/><br/>&quot;O PSD chumbou o PEC 4 porque tem de se dizer basta:       Reparem bem nesta desculpa, e a enorme contradi&#231;&#227;o que tem levado a cabo como Governante     &#171;&#171;a austeridade n&#227;o pode incidir sempre no aumento de impostos e no corte de rendimento&#187;&#187;.<br/><br/>	<br/>Antonyjunior<br/>Em 2 anos j&#225; aumentaram os calotes em uns 30%, &#233; isto pagar calotes.<br/><br/>Cada imbicilidade!<br/></div></div><div class="odd_com"><a name="Com2560670"></a><table cellpadding="0" cellspacing="0"><tr><td valign="top"><img align="absmiddle" width="15" height="15" style="vertical-align: top;padding:4px 4px 0px 0px;" src="/common/images/logo_small.gif"></td><td valign="top"><div class="nome"><span id="PostAuthor2560670">Antonyjunior</span><br/><span class="data">27.04.2013 - 18:57</span></div></td><td valign="top" align="right"><div class="icos" id="PostImproper2560670"><img width="14" height="14" src="/common/images/static/ico_denunciar.gif">&nbsp;<a class="INV" href="javascript:ReportImproperComment('2560670')">denunciar</a></div></td></tr></table><div class="comentario" id="PostBody2560670">sibila<br/>27.04.2013 - 18:44<br/><br/>O Passitos comprometeu-se h&#225; dois anos a pagar os calotes do partido da sucata! Prometeu o inferno e &#233; o inferno criado pela esquerdalha que est&#225; a dar!<br/><br/>Ao contr&#225;rio, os caloteiros j&#225; prometem o c&#233;u, mas n&#227;o explicam onde est&#225;!<br/>O c&#233;u deve ser irem para o poleiro, e livrarem-se das falcatruas que fizeram.</div></div><div class="even_com"><a name="Com2560661"></a><table cellpadding="0" cellspacing="0"><tr><td valign="top"><img align="absmiddle" width="15" height="15" style="vertical-align: top;padding:4px 4px 0px 0px;" src="/common/images/logo_small.gif"></td><td valign="top"><div class="nome"><span id="PostAuthor2560661">veritatis</span><br/><span class="data">27.04.2013 - 18:47</span></div></td><td valign="top" align="right"><div class="icos" id="PostImproper2560661"><img width="14" height="14" src="/common/images/static/ico_denunciar.gif">&nbsp;<a class="INV" href="javascript:ReportImproperComment('2560661')">denunciar</a></div></td></tr></table><div class="comentario" id="PostBody2560661">Este cavaquismo &#233;  corrupto, desonesto, cheio de escroques, ladr&#245;es, ditadores, sem dignidade &#224; volta do pote h&#225; 20 anos. Estes bandidos arruinaram o pa&#237;s com os corruptos do PS e do CDS..........votem neles se puderem emigrar........</div></div><div class="odd_com"><a name="Com2560659"></a><table cellpadding="0" cellspacing="0"><tr><td valign="top"><img align="absmiddle" width="15" height="15" style="vertical-align: top;padding:4px 4px 0px 0px;" src="/common/images/logo_small.gif"></td><td valign="top"><div class="nome"><span id="PostAuthor2560659">sibila</span><br/><span class="data">27.04.2013 - 18:44</span></div></td><td valign="top" align="right"><div class="icos" id="PostImproper2560659"><img width="14" height="14" src="/common/images/static/ico_denunciar.gif">&nbsp;<a class="INV" href="javascript:ReportImproperComment('2560659')">denunciar</a></div></td></tr></table><div class="comentario" id="PostBody2560659"><br/><br/>obsess&#227;o por elei&#231;&#245;es antecipadas tinha o psd h&#225; dois anos<br/>ent&#227;o para que isso acontecesse n&#227;o olhou a meios para atingir fins <br/>com ajuda do cavaco l&#225; foram para o poleiro<br/> agora &#233; o que se v&#234; nunca os portugueses viveram tempos miser&#225;veis de fome e pobreza como est&#227;o a viver<br/>e ainda v&#234;m com promessas de mais agravamento e se congratulam por isso ...<br/><br/><br/></div></div><div class="even_com"><a name="Com2560653"></a><table cellpadding="0" cellspacing="0"><tr><td valign="top"><img align="absmiddle" width="15" height="15" style="vertical-align: top;padding:4px 4px 0px 0px;" src="/common/images/logo_small.gif"></td><td valign="top"><div class="nome"><span id="PostAuthor2560653">Algarvez</span><br/><span class="data">27.04.2013 - 18:36</span></div></td><td valign="top" align="right"><div class="icos" id="PostImproper2560653"><img width="14" height="14" src="/common/images/static/ico_denunciar.gif">&nbsp;<a class="INV" href="javascript:ReportImproperComment('2560653')">denunciar</a></div></td></tr></table><div class="comentario" id="PostBody2560653">As elei&#231;&#245;es s&#227;o uma maneira legal, com leis feitas &#224; la carte e &#224; medida, para os partidos irem ao pote.<br/>S&#227;o os partidos e os componentes das mesas de voto.<br/>Se cada vez que h&#225; elei&#231;&#245;es fossem os partidos a arcar com as despesas n&#227;o choravam por elas.<br/>Isso garanto eu.</div></div><div class="odd_com"><a name="Com2560649"></a><table cellpadding="0" cellspacing="0"><tr><td valign="top"><img align="absmiddle" width="15" height="15" style="vertical-align: top;padding:4px 4px 0px 0px;" src="/common/images/logo_small.gif"></td><td valign="top"><div class="nome"><span id="PostAuthor2560649">meiodoido</span><br/><span class="data">27.04.2013 - 18:23</span></div></td><td valign="top" align="right"><div class="icos" id="PostImproper2560649"><img width="14" height="14" src="/common/images/static/ico_denunciar.gif">&nbsp;<a class="INV" href="javascript:ReportImproperComment('2560649')">denunciar</a></div></td></tr></table><div class="comentario" id="PostBody2560649">o governo do socrates era mau...este consegue ser pior mesmo com tantos especialistas nomeados...n&#227;o acertam uma...agora queriam que o padeiro que passa aqui &#225; porta para deixar 4 carcassas, fizesse uma guia com conhecimento &#225; AT...tadinhos j&#225; emendaram a m&#227;o nas carcassas....mas chega a ser penoso ver a incompetencia destes engravatadinhos...mudem a frota automovel por favor...passem todos para renault clio, modelo oku...dass</div></div><div class="even_com"><a name="Com2560646"></a><table cellpadding="0" cellspacing="0"><tr><td valign="top"><img align="absmiddle" width="15" height="15" style="vertical-align: top;padding:4px 4px 0px 0px;" src="/common/images/logo_small.gif"></td><td valign="top"><div class="nome"><span id="PostAuthor2560646">Saleiro</span><br/><span class="data">27.04.2013 - 18:12</span></div></td><td valign="top" align="right"><div class="icos" id="PostImproper2560646"><img width="14" height="14" src="/common/images/static/ico_denunciar.gif">&nbsp;<a class="INV" href="javascript:ReportImproperComment('2560646')">denunciar</a></div></td></tr></table><div class="comentario" id="PostBody2560646">P$D est&#225; &#224; rasca com a ideia de elei&#231;&#245;es antecipadas...</div></div><div class="odd_com"><a name="Com2560645"></a><table cellpadding="0" cellspacing="0"><tr><td valign="top"><img align="absmiddle" width="15" height="15" style="vertical-align: top;padding:4px 4px 0px 0px;" src="/common/images/logo_small.gif"></td><td valign="top"><div class="nome"><span id="PostAuthor2560645">jcesar</span><br/><span class="data">27.04.2013 - 18:11</span></div></td><td valign="top" align="right"><div class="icos" id="PostImproper2560645"><img width="14" height="14" src="/common/images/static/ico_denunciar.gif">&nbsp;<a class="INV" href="javascript:ReportImproperComment('2560645')">denunciar</a></div></td></tr></table><div class="comentario" id="PostBody2560645">H&#243; rapazola n&#227;o te preocupes que s&#243; haver&#225; elei&#231;&#245;es antecipadas, se a atual maioria quiser, ou as provocar, e possivelmente &#233; isso que vai acontecer, porque cada dia temos mais mis&#233;ria, mais pobreza, mais desemprego, mais recess&#227;o, e o mais grave muito mais d&#237;vida.<br/><br/>E diz o rapazola, o PSD espera que o PS possa apresentar &quot;um modelo de crescimento e emprego, que n&#227;o seja o de regresso ao passado e de associar ao crescimento apenas o endividamento&quot;.<br/><br/>S&#243; em 2012 a d&#237;vida p&#250;blica passou de 108%, para 123.6% do PIB, um aumento de mais de 25%, e continua a aumentar, a pobreza e a mis&#233;ria aumenta todos os dias, a economia teve uma recess&#227;o de 3.2%, o desemprego acima de 18%, e a subir, as previs&#245;es do d&#233;fice eram de 4.5%, depois passou para 5%, e mesmo assim foi largamente ultrapassado para os 6.4%.<br/>E de Dezembro para Fevereiro a d&#237;vida p&#250;blica j&#225; passou de 123.6%, para 126.3% do PIB.<br/><br/>E para que tem servido este enorme aumento do endividamento, n&#227;o contribuiu para o crescimento, nem para a cria&#231;&#227;o de emprego, pelo contr&#225;rio.</div></div></div>
+
+</div>
+
+<!-- FIM COMENTARIOS -->
+
+    </div>
+  <div id="AreaVisitas" style="display:none">
+    <div id="ctl00_ctl00_ContentBody_ContentBody_ColCenter_ngViews">1137</div>
+  </div>
+    <script type="text/javascript">
+      DisplayInnerStats();
+    </script>
+  
+
+    <br clear="all" />
+	
+
+<!-- INICIO GALERIAS  -->
+
+<div id="ctl00_ctl00_ContentBody_ContentBody_ColCenter_Galerias_divgalerias" class="galerias">
+<ul>
+<li>
+    <a href="/inicio/galerias/fotogalerias.aspx?content_id=73932"><img src="/storage/Galleries/ng1350804/ng1350883_435x200.JPG?type=small" width="210" height="100"></a><div class="tit_seccao"><a href="/inicio/galerias/fotogalerias.aspx?content_id=73932">Fotogalerias</a><img src="/common/images/static/bullet_blue.gif" width="10" height="10"></div>
+</li>
+</ul>
+<ul class="espaco"><li>&nbsp;</li></ul>
+<ul>
+<li>
+    <a href="/inicio/galerias/infografias.aspx?content_id=55013"><img src="/storage/Sol/2012/small/ng1264808_210x100.jpg?type=small" width="210" height="100"></a><div class="tit_seccao"><a href="/inicio/galerias/infografias.aspx?content_id=55013">Infografias</a><img src="/common/images/static/bullet_blue.gif" width="10" height="10"></div>
+</li>
+</ul>
+<ul class="espaco"><li>&nbsp;</li></ul>
+<ul>
+<li>
+    <a href="/inicio/galerias/videos.aspx?content_id=74349"><img src="http://img.youtube.com/vi/ssean1PhjYA/0.jpg" width="210" height="100" title=""></a><div class="tit_seccao"><a href="/inicio/galerias/videos.aspx?content_id=74349">Vídeos</a><img src="/common/images/static/bullet_blue.gif" width="10" height="10"></div>
+</li>
+</ul>
+</div>
+<br clear="all"/>
+<!-- FIM GALERIAS  -->
+
+
+
+
+ 
+
+			        </div>
+			        <div class="right-col-content">
+			            
+	
+<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://pub.sapo.pt/ajs.php':'http://pub.sapo.pt/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=455");
+   document.write ('&cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&exclude=" + document.MAX_used);
+   document.write (document.charset ? '&charset='+document.charset : (document.characterSet ? '&charset='+document.characterSet : ''));
+   document.write ("&loc=" + escape(window.location));
+   if (document.referrer) document.write ("&referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script>
+
+<div style="text-align:right;margin-bottom:6px"><small><small>PUB</small></small></div>
+<div style="margin: 0px 0px 6px 0px; text-align: left;">
+<ul id="mercado_list">
+  <li id="pubmercado0">
+
+<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://pub.sapo.pt/ajs.php':'http://pub.sapo.pt/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=2249");
+   document.write ('&cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&exclude=" + document.MAX_used);
+   document.write (document.charset ? '&charset='+document.charset : (document.characterSet ?'&charset='+document.characterSet : ''));
+   document.write ("&loc=" + escape(window.location));
+   if (document.referrer) document.write ("&referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://pub.sapo.pt/ck.php?n=a1644386&cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://pub.sapo.pt/avw.php?zoneid=2249&cb=INSERT_RANDOM_NUMBER_HERE&n=a1644386' border='0' alt='' /></a></noscript>
+  </li>
+</ul>
+<div style="text-align:right;margin-bottom:6px"><small><small>PUB</small></small></div>
+</div> 
+
+
+<div class="siga_nos border" style="margin-bottom:6px">
+<div class="tit">Siga-nos <img src="/common/images/static/bullet_red.gif" width="10" height="10" /></div>
+<table class="icos">
+<tr>
+
+<td><a href="http://www.facebook.com/jornalsol" target="_blank"><img src="/common/images/static/ico_FB.png" width="23" height="23" border="0" /></a> <a href="http://twitter.com/SolOnline" target="_blank"><img src="/common/images/static/ico_twitter.png" width="23" height="23" border="0" /></a> <a href="/rss"><img src="/common/images/static/ico_rss.png" width="23" height="23" border="0" /></a> <a href="http://itunes.apple.com/pt/app/sol-online/id394250721?mt=8" target="_blank"><img src="/common/images/static/apple.gif" width="23" height="23" border="0" /></a> <a href="http://m.sol.pt"><img src="/common/images/static/mobile.gif" width="10" height="23" border="0" /></a></td>
+</tr>
+</table>
+</div>
+
+
+<!--/* OpenX Javascript Tag v2.8.5 */-->
+
+
+
+<!--/*
+
+  * The backup image section of this tag has been generated for use on a
+
+  * non-SSL page. If this tag is to be placed on an SSL page, change the
+
+  *   'http://pub.sapo.pt/...'
+
+  * to
+
+  *   'https://pub.sapo.pt/...'
+
+  *
+
+  * This noscript section of this tag only shows image banners. There
+
+  * is no width or height in these banners, so if you want these tags to
+
+  * allocate space for the ad before it shows, you will need to add this
+
+  * information to the <img> tag.
+
+  *
+
+  * If you do not want to deal with the intricities of the noscript
+
+  * section, delete the tag (from <noscript>... to </noscript>). On
+
+  * average, the noscript tag is called from less than 1% of internet
+
+  * users.
+
+  */-->
+
+
+
+<script type='text/javascript'><!--//<![CDATA[
+
+   var m3_u = (location.protocol=='https:'?'https://pub.sapo.pt/ajs.php':'http://pub.sapo.pt/ajs.php');
+
+   var m3_r = Math.floor(Math.random()*99999999999);
+
+   if (!document.MAX_used) document.MAX_used = ',';
+
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+
+   document.write ("?zoneid=150");
+
+   document.write ('&cb=' + m3_r);
+
+   if (document.MAX_used != ',') document.write ("&exclude=" + document.MAX_used);
+
+   document.write (document.charset ? '&charset='+document.charset : (document.characterSet ? '&charset='+document.characterSet : ''));
+
+   document.write ("&loc=" + escape(window.location));
+
+   if (document.referrer) document.write ("&referer=" + escape(document.referrer));
+
+   if (document.context) document.write ("&context=" + escape(document.context));
+
+   if (document.mmm_fo) document.write ("&;mmm_fo=1");
+
+   document.write ("'><\/scr"+"ipt>");
+
+//]]>--></script><noscript><a href='http://pub.sapo.pt/ck.php?n=a0407f30&cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://pub.sapo.pt/avw.php?zoneid=150&cb=INSERT_RANDOM_NUMBER_HERE&n=a0407f30' border='0' alt='' /></a></noscript>
+ 
+
+ 
+
+
+
+
+<div class="tabs">
+<div id="tbTabUltimas1L" class="tabEsq_off"></div>
+<div id="tbTabUltimas1"  class="tab_off" onclick="ChangeTab('Ultimas', 3, 1)"><a name="int" class="INV">+ Vistas</a></div>
+<div id="tbTabUltimas1R" class="tabDir_off"></div>
+
+<div id="tbTabUltimas2L" class="tabEsq_off"></div>
+<div id="tbTabUltimas2"  class="tab_off" onclick="ChangeTab('Ultimas', 3, 2)"><a name="int" class="INV">+ Comentadas</a></div>
+<div id="tbTabUltimas2R" class="tabDir_off"></div>
+
+<div id="tbTabUltimas3L" class="tabEsq_on"></div>
+<div id="tbTabUltimas3"  class="tab_on" onclick="ChangeTab('Ultimas', 3, 3)"><a name="int" class="">Últimas</a></div>
+<div id="tbTabUltimas3R" class="tabDir_on"></div>
+</div>
+
+<div id="tbContentUltimas1" style="display:none">
+    <iframe src="/common/usercontrols/cs/topviews.aspx" width="300px" height="520px" frameborder="0" scrolling="no" ></iframe>
+</div>
+<div id="tbContentUltimas2" style="display:none">
+    <iframe src="/common/usercontrols/cs/topcomments.aspx" width="300px" height="520px" frameborder="0" scrolling="no" ></iframe>
+</div>
+<div id="tbContentUltimas3">
+    
+
+
+<div class="tbl_tabs" style="margin-bottom:6px">
+    <div class="odd"><a target="_top" href="/inicio/Economia/Interior.aspx?content_id=74352"><img src="/storage/Sol/2013/thumbnail/ng1352878_60x45.jpg?type=thumbnail" width="60" height="45" class="right"></a><span class="tit">Economia</span><br><a target="_top" class="INV" href="/inicio/Economia/Interior.aspx?content_id=74352">CM Lisboa acusada de má gestão e de favorecer banco</a><span class="tempo_red">
+           <input type="hidden" name="date-issue" class="date-issue" value="2013-05-05 17:37:00"><span></span>
+     
+  </span></div><div class="even"><a target="_top" href="/inicio/Politica/Interior.aspx?content_id=74351"><img src="/storage/Sol/2013/thumbnail/ng1352872_60x45.jpg?type=thumbnail" width="60" height="45" class="right"></a><span class="tit">Política</span><br><a target="_top" class="INV" href="/inicio/Politica/Interior.aspx?content_id=74351">Seguro: Portugal está à beira de uma tragédia social</a><span class="tempo_red">
+           <input type="hidden" name="date-issue" class="date-issue" value="2013-05-05 14:29:00"><span></span>
+     
+  </span></div><div class="odd"><a target="_top" href="/inicio/Internacional/Interior.aspx?content_id=74350"><img src="/storage/Sol/2013/thumbnail/ng1352867_60x45.jpeg?type=thumbnail" width="60" height="45" class="right"></a><span class="tit">Internacional</span><br><a target="_top" class="INV" href="/inicio/Internacional/Interior.aspx?content_id=74350">Hospital espanhol retira prótese a doente por falta...</a><span class="tempo_red">
+           <input type="hidden" name="date-issue" class="date-issue" value="2013-05-05 14:10:00"><span></span>
+     
+  </span></div><div class="even"><span class="tit">Vídeos</span><br><a target="_top" class="INV" href="/inicio/galerias/videos.aspx?content_id=74349">Tornado atinge norte de Itália</a><span class="tempo_red">
+           <input type="hidden" name="date-issue" class="date-issue" value="2013-05-05 13:44:00"><span></span>
+     
+  </span></div><div class="odd"><a target="_top" href="/inicio/Internacional/Interior.aspx?content_id=74348"><img src="/storage/Sol/2013/thumbnail/ng1352862_60x45.jpg?type=thumbnail" width="60" height="45" class="right"></a><span class="tit">Internacional</span><br><a target="_top" class="INV" href="/inicio/Internacional/Interior.aspx?content_id=74348">EUA: Incêndio em limusina mata cinco mulheres</a><span class="tempo_red">
+           <input type="hidden" name="date-issue" class="date-issue" value="2013-05-05 13:40:00"><span></span>
+     
+  </span></div><div class="even"><a target="_top" href="/inicio/Sociedade/Interior.aspx?content_id=74347"><img src="/storage/Sol/2013/thumbnail/ng1352857_60x45.jpg?type=thumbnail" width="60" height="45" class="right"></a><span class="tit">Sociedade</span><br><a target="_top" class="INV" href="/inicio/Sociedade/Interior.aspx?content_id=74347">Guardas prisionais avançam para greve na segunda-feira</a><span class="tempo_red">
+           <input type="hidden" name="date-issue" class="date-issue" value="2013-05-05 13:01:00"><span></span>
+     
+  </span></div><div class="odd"><a target="_top" href="/inicio/Sociedade/Interior.aspx?content_id=74346"><img src="/storage/Sol/2013/thumbnail/ng1352852_60x45.jpg?type=thumbnail" width="60" height="45" class="right"></a><span class="tit">Sociedade</span><br><a target="_top" class="INV" href="/inicio/Sociedade/Interior.aspx?content_id=74346">PSP detém autores de assalto violento na linha de Cascais</a><span class="tempo_red">
+           <input type="hidden" name="date-issue" class="date-issue" value="2013-05-05 12:49:00"><span></span>
+     
+  </span></div><div class="even"><a target="_top" href="/inicio/Politica/Interior.aspx?content_id=74344"><img src="/storage/Sol/2013/thumbnail/ng1352842_60x45.jpg?type=thumbnail" width="60" height="45" class="right"></a><span class="tit">Política</span><br><a target="_top" class="INV" href="/inicio/Politica/Interior.aspx?content_id=74344">Portas fala às 19h sobre os novos cortes</a><span class="tempo_red">
+           <input type="hidden" name="date-issue" class="date-issue" value="2013-05-05 12:31:00"><span></span>
+     
+  </span></div>
+</div> 
+</div>
+
+<div style="margin: 0px 0px 6px 0px; text-align: center"><a href="/inicio/Interior.aspx?content_id=74238"><img src="/Storage/Sol/2013/medium/ng1352365_300x300.jpg" width="300" alt="CONFERÊNCIA INTERNACIONAL &quot;Marrocos Portugal uma parceria estratégica&quot;"></a></div><div style="margin: 0px 0px 6px 0px; text-align: center"><a href="/inicio/Interior.aspx?content_id=73755"><img src="/Storage/Sol/2013/medium/ng1349712_300x200.jpg" width="300" alt="Passatempo SOL &amp; ZOO: Ganhe bilhetes duplos para o Jardim Zoológico de Lisboa."></a></div><div style="margin: 0px 0px 6px 0px; text-align: center"><a href="/inicio/dossiers/default.aspx?dossier=Best Leader Awards 2013"><img src="/Storage/Sol/2013/medium/ng1342965_300x150.jpg" width="300" alt=""></a></div>
+	
+  	 
+ 
+ 
+
+
+<div style="margin: 0px 0px 0px; text-align: left;"><a href="http://www.facebook.com/jornalsol" target="_blank"><img width="300" alt="Siga o SOL no Facebook" src="/Common/Images/Banner_SOL_FB.jpg"/></a></div>
+<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fjornalsol&amp;width=300&amp;connections=10&amp;stream=false&amp;header=false&amp;height=260" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:260px; margin-bottom:6px;" allowTransparency="true"></iframe>
+<iframe src="http://www.facebook.com/plugins/activity.php?site=sol.sapo.pt&amp;action&amp;width=300&amp;height=265&amp;header=false&amp;colorscheme=light&amp;linktarget=_blank&amp;border_color&amp;font&amp;recommendations=false" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:265px;" allowTransparency="true"></iframe>
+
+<div style="margin: 0px 0px 6px 0px; text-align: left;">
+<script type="text/javascript">
+
+var sas_affiliate_id = '41';
+
+var sas_site_id  = '365';
+
+var sas_position_id  = '973';
+
+var sas_cluster = '1';
+
+var sas_ad_width = '300';
+
+var sas_ad_height= '250';
+
+var sas_ad_format = '300x250_2';
+
+var sas_c = '2';
+
+var sas_ad_type = 'text';
+
+var sas_location_id = '5';
+
+var sas_color_border = '666666';
+
+var sas_color_link = '666666';
+
+var sas_color_bg = 'F2F2F2';
+
+var sas_color_text = '666666';
+
+var sas_color_url = '666666';
+
+var sas_ic = '1bf0f4c8ec9bdba5fde9ce3076256e54';
+
+var sas_medium = '0';
+
+</script><script type="text/javascript" src="http://js.sl.pt/Snippets/SAS.js"></script>
+</div>
+
+ 
+<div id="ctl00_ctl00_ContentBody_ContentBody_ColRight_ContentBody_ColRight__ctrl_1_Tagcloud1_divTagCloud" style="margin-bottom:6px;"><table class="tags border" cellpadding="0" cellspacing="0"><tr><td><div class="tit">
+            Tags mais populares <img src="/common/images/static/bullet_red.gif" width="10" height="10"></div><div class="font"><h3><a href="/inicio/tag.aspx?tag=Passos%20Coelho">Passos Coelho</a></h3><h5><a href="/inicio/tag.aspx?tag=Parlamento">Parlamento</a></h5><h5><a href="/inicio/tag.aspx?tag=Paulo%20Portas">Paulo Portas</a></h5><h5><a href="/inicio/tag.aspx?tag=Cavaco%20Silva">Cavaco Silva</a></h5><h5><a href="/inicio/tag.aspx?tag=Economia">Economia</a></h5><h5><a href="/inicio/tag.aspx?tag=PCP">PCP</a></h5><h3><a href="/inicio/tag.aspx?tag=Despesa%20do%20Estado">Despesa do Estado</a></h3><h4><a href="/inicio/tag.aspx?tag=Medidas%20de%20austeridade">Medidas de austeridade</a></h4><h4><a href="/inicio/tag.aspx?tag=reforma%20do%20Estado">reforma do Estado</a></h4><h5><a href="/inicio/tag.aspx?tag=Despesa%20P%FAblica">Despesa Pública</a></h5><h4><a href="/inicio/tag.aspx?tag=OE2013">OE2013</a></h4><h5><a href="/inicio/tag.aspx?tag=Miguel%20Poiares%20Maduro">Miguel Poiares Maduro</a></h5><h4><a href="/inicio/tag.aspx?tag=Ant%F3nio%20Jos%E9%20Seguro">António José Seguro</a></h4><h1><a href="/inicio/tag.aspx?tag=Pol%EDtica">Política</a></h1><h4><a href="/inicio/tag.aspx?tag=Governo">Governo</a></h4><h5><a href="/inicio/tag.aspx?tag=cortes%20or%E7amentais">cortes orçamentais</a></h5><h5><a href="/inicio/tag.aspx?tag=Conselho%20de%20Ministros">Conselho de Ministros</a></h5><h4><a href="/inicio/tag.aspx?tag=PS">PS</a></h4><h5><a href="/inicio/tag.aspx?tag=PSD">PSD</a></h5><h5><a href="/inicio/tag.aspx?tag=austeridade">austeridade</a></h5></div></td></tr></table></div>
+ 
+
+
+ 
+
+			        </div>
+    		        <br clear="all" />
+		        </div>
+		        <br clear="all" />
+		    
+    							
+		    
+		    
+
+<!-- INICIO ZONA MAPA -->
+<table class="MAP" cellpadding="10" cellspacing="10">
+<tr>
+<td align="center">
+
+      <div>
+
+      © 2007 Sol. 
+      Todos os direitos reservados. 
+      Mantido por <a href="mailto:webmaster@sol.pt">webmaster@sol.pt</a>   
+   </div>
+
+</td>
+</tr>
+</table>
+
+        </center>		
+		
+
+	
+<script language="JavaScript">loadFragmentInToElement('/common/services/get_morenews.aspx?id_content=73835&section_path=politica');</script></form>
+	
+
+<script type="text/javascript">
+var w_counter;
+if(wreport_ok==1){w_counter = new wreport_counter(WRP_SECTION, WRP_SUBSECTION, WRP_ID, WRP_ACC, WRP_CHANNEL, WRP_SECTION_GRP, WRP_SUBSECTION_GRP);
+w_counter.add_content(WRP_CONTENT);
+w_counter.count();}
+</script>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-4957686-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+
+
+
+	<!-- Barra SAPO Universal v1.0 -->
+    <!-- Passo 3 de 3. Adicionar a barra -->
+    
+    <script type="text/javascript" src="http://bars.sapo.pt/bsu_v1.0/barra.js?parceiro=true"></script>
+    <!-- /bsu -->
+
+<div id="fb-root"></div>
+
+<script>
+
+window.fbAsyncInit = function() {
+			FB.init({appId: '156258201067846', status: true, cookie: true, xfbml: true});
+		};
+		(function() {
+			var e = document.createElement('script'); e.async = true;
+			e.src = document.location.protocol +
+				'//connect.facebook.net/en_US/all.js';
+			document.getElementById('fb-root').appendChild(e);
+		}());
+		
+     function login()
+      {
+        FB.login(handleSessionResponse);
+      };
+
+     function logout()
+      {
+        FB.logout(handleSessionResponse);
+        DeleteCookie("SolUser");
+        window.location.reload();
+      };
+     function logoutSol()
+      {
+        DeleteCookie("SolUser");
+        window.location.reload();
+      };
+       
+      // no user, clear display
+      function clearDisplay() {
+        document.getElementById('user-info').innerHTML = '';
+      }
+
+      // handle a session response from any of the auth related calls
+      function handleSessionResponse(response) {
+        // if we dont have a session, just hide the user info
+//        if (!response.session) {
+//          clearDisplay();
+//          return;
+//        }
+
+        // if we have a session, query for the user's profile picture and name
+        FB.api(
+          {
+            method: 'fql.query',
+            query: 'SELECT name, pic FROM profile WHERE id=' + FB.getSession().uid
+          },
+          function(response) {
+            var user = response[0];
+//            var userInfo = document.getElementById('user-info');
+//            userInfo.innerHTML = '<img src="' + user.pic + '">' + user.name;
+            SaveCookie('FBname', (user.name!=null ? user.name : ""),true);
+            SaveCookie('FBpic', (user.pic!=null ? user.pic : ""),true);
+            window.location.reload();
+          }
+        );
+      }
+</script>
+
+    <script type="text/javascript">
+      SetPage();
+    </script>
+</body>
+
+
+</html>

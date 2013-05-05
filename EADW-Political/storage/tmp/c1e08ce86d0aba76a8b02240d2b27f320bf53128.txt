@@ -1,0 +1,326 @@
+      <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pt" lang="pt">
+       
+    <head><title>Jornal de Notícias</title>
+    
+   
+    <meta http-equiv="refresh" content="8; url=http://www.jn.pt" />
+    <link rel="shortcut icon" type="image/ico" href="/favicon.ico" />
+
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <style type="text/css"> body { font-size: 69%; } 
+        .gecko #caixa_pesquisa {float: left;width: 232px;}.safari .menu-2-middle {text-align:left}</style>
+        <link rel="stylesheet" href="/themes/jn/style/default.css" type="text/css" media="screen" />
+        <link rel="stylesheet" href="/themes/jn/style/claudio.css" type="text/css" media="screen" />
+        <link rel="stylesheet" href="/themes/jn/style/filipe.css" type="text/css" media="screen" />
+        <link rel="stylesheet" href="/themes/jn/style/DynamicStyle.aspx" type="text/css" media="screen" />        
+        
+        <script language="JavaScript" type="text/javascript">ord=Math.random()*10000000000000000;function getOrd(){return ord;}</script>
+        <script language="javascript" type="text/javascript"> AC_FL_RunContent = 0;</script>
+        <script language="javascript" type="text/javascript"> DetectFlashVer = 0;</script>
+        <script language="JavaScript" type="text/javascript">
+        <!--
+        // -----------------------------------------------------------------------------
+        // Globals
+        // Major version of Flash required
+        var requiredMajorVersion = 9;
+        // Minor version of Flash required
+        var requiredMinorVersion = 0;
+        // Revision of Flash required
+        var requiredRevision = 45;
+        // -----------------------------------------------------------------------------
+        // -->
+        var css_browser_selector = function() {
+			  var 
+				  ua=navigator.userAgent.toLowerCase(),
+				  is=function(t){ return ua.indexOf(t) != -1; },
+				  h=document.getElementsByTagName('html')[0],
+				  b=(!(/opera|webtv/i.test(ua))&&/msie (\d)/.test(ua))?('ie ie'+RegExp.$1):is('gecko/')? 'gecko':is('opera/9')?'opera opera9':/opera (\d)/.test(ua)?'opera opera'+RegExp.$1:is('konqueror')?'konqueror':is('applewebkit/')?'webkit safari':is('mozilla/')?'gecko':'',
+				  os=(is('x11')||is('linux'))?' linux':is('mac')?' mac':is('win')?' win':'';
+			  var c=b+os+' js';
+			  h.className += h.className?' '+c:c;
+		  }();  
+        </script>  
+        
+        
+
+
+        
+    </head>
+	<body>
+
+
+						
+      <center>
+	<iframe id="BarraCI" src="/common/barra/header.html" marginwidth="0" marginheight="0" width="100%" height="35" frameborder="0" scrolling="no" allowTransparency="true"></iframe>
+	
+ 
+
+<div id="header_jn_2" onclick="event.cancelBubble=true;">
+<div id="header_jn_3">
+
+<div id="header_logo_jn"><a href="/"><img alt="JN" src="/common/images/header/LogoHeaderJN.jpg" width="410" height="110" /></a>
+<input name="boAddr" type="hidden" id="boAddr" /> 
+		
+</div>
+
+
+<div id="destaques_header">
+
+
+
+<div id="destaques_header1">
+ 
+<span id="DestaquesHeader_NewsGenContent1"><div id="DestaquesHeader_NewsGenContent1_ctl00_contentDiv"><script type="text/javascript">
+
+				var x=document.getElementById("teste");
+
+				if (x)
+
+				document.getElementById('teste').className='PhotoDestaqueHeader';
+
+
+
+			 </script><div class="mask"><div id="box"><div class="font-over-img-wrapper-0"><div class="font-over-img-wrapper-1"><div class="h2-envolvente" onmouseover="document.getElementById('teste').className='on'" onmouseout="document.getElementById('teste').className='PhotoDestaqueHeader'"><h2 class="NewsDestaqueHeaderTitle"><a href="/multimedia/infografia970.aspx?content_id=3191722">Quiz</a></h2><br></div></div><a href="/multimedia/infografia970.aspx?content_id=3191722"><img src="/storage/JN/2013/Destaque Pequena/ng2521007.jpg" id="teste" alt="" class="PhotoDestaqueHeader" width="165" height="95" style="margin-top:5px"></a></div></div></div></div>
+</span>
+
+</div>
+<div id="destaques_header2">
+<span id="DestaquesHeader_ThisContent"><div id="DestaquesHeader_ThisContent_ctl00_contentDiv"><div class="mask"><div id="DestaqueHeaderIniImg"><a href="http://www.jn.pt/iniciativasjn/iniciativa.aspx?content_id=3120506&amp;utm_source=site_jn&amp;utm_medium=destaque_header_fixo&amp;utm_campaign=concurso_125anos_2013" target="_blank"><img src="/storage/JN/2013/small/ng2520347.jpg" alt="" class="PhotoInciativaHeader" width="165" height="95" style="margin-top:5px"></a></div></div></div>
+</span>
+
+
+</div>
+
+
+
+
+</div>
+<div id="edicao_impressa">
+  <div class="header_jn_3_directores">Diretor</div>
+  <div class="header_jn_3_directores1">Manuel Tavares</div>
+	 <div class="header_jn_options"><a href="/Iniciativasjn">Iniciativas</a></div>
+	 <div class="header_jn_options"><a href="http://www.lojadojornal.pt/LojaWeb/" target="_blank">Loja do Jornal</a></div>
+	 <div class="header_jn_options"><a href="http://ad.doubleclick.net/clk;236245702;26831472;d?http://www.jn.pt/epaper" target="_blank">Assine o JN</a></div>
+	 <div class="header_jn_options"><a href="http://www.tuti.pt/jn/Pesquisa.aspx" target="_blank">Classificados</a></div>
+</div>
+
+</div>
+
+</div>
+
+
+
+<div id="menu_jn" onclick="event.cancelBubble=true;">
+<div id="menu_top">
+  <div class="header-menu-top">
+	  <a href="/" style="margin-right:7px">Início</a>|<a href="/multimedia" style="margin-right:7px;margin-left:7px">Multimédia</a>|<a href="/blogues" style="margin-right:7px;margin-left:7px">Blogues</a>|<a href="/tendencias" style="margin-right:7px;margin-left:7px">Tendências</a>|<a href="/opiniao" style="margin-right:7px;margin-left:7px">Opinião</a>|<a href="/dossies" style="margin-right:7px;margin-left:7px">Dossiês</a>|<a href="/cidadaoreporter" style="margin-right:7px;margin-left:7px">Cidadão Repórter</a>|<a href="/servicos" style="margin-left:7px">Serviços</a>
+  </div>
+		
+  <div id="jn_links">
+	 <div class="jn_links_1 jQToolTip_1">
+		<a href="/edicaoimpressa/capa.aspx"><img src="/common/images/header/new/jornal.jpg" border="0" alt="" width="12px" height="12px" onmouseover="this.src='/common/images/header/new/jornal_hover.jpg';" onmouseout="this.src='/common/images/header/new/jornal.jpg';" /></a>
+		<div class="TTBox_2 HeaderCapa jQTT"><i></i><strong><span id="Porto"><div id="Porto_ctl00_contentDiv"><a href="/edicaoimpressa/Capa.aspx" xmlns:g="http://base.google.com/ns/1.0" xmlns:fb="http://www.facebook.com/2008/fbml"><img src="/Storage/JN/2013/small/ng2531662.jpg" border="0" class="CapaHeaderImg" alt="05 de maio de 2013"></a></div>
+</span></strong></div>
+	 </div>
+	 
+	 <div class="jn_links_1 jQToolTip_1">
+		<a href="http://www.facebook.com/pages/Jornal-de-Not%C3%ADcias/216390522994" target="_blank"><img src="/common/images/header/new/fb.jpg" alt="" width="12px" height="12px" border="0"  onmouseover="this.src='/common/images/header/new/fb_hover.jpg';" onmouseout="this.src='/common/images/header/new/fb.jpg';" /></a>
+		<div class="TTBox_1 jQTT"><i></i><strong>
+		<b class="TTBCont_1"><a href="http://www.facebook.com/pages/Jornal-de-Not%C3%ADcias/216390522994" target="_blank"><img src="/common/images/header/new/fb_frame.jpg" width="130px" height="55px" alt="" border="0"  /></a></b>
+		<b class="TTBCont_2"><iframe src="http://www.facebook.com/plugins/like.php?href=http://www.facebook.com/pages/Jornal-de-Not%C3%ADcias/216390522994&amp;layout=button_count" scrolling="no" frameborder="0" width="100px" height="20px"  allowtransparency="true"></iframe></b>
+		</strong></div>
+	 </div>
+	 <div class="jn_links_1 jQToolTip_1">
+		<a href="http://twitter.com/#!/JornalNoticias" target="_blank"><img src="/common/images/header/new/twitter.jpg" alt="" width="12px" height="12px" border="0"  onmouseover="this.src='/common/images/header/new/twitter_hover.jpg';" onmouseout="this.src='/common/images/header/new/twitter.jpg';" /></a>
+		<div class="TTBox_1 jQTT"><i></i><strong>
+		<b class="TTBCont_1"><a href="http://twitter.com/#!/JornalNoticias" target="_blank"><img src="/common/images/header/new/twitter_frame.jpg" width="130px" height="55px" alt="" border="0"  /></a></b><b class="TTBCont_2"><a href="http://twitter.com/#!/JornalNoticias" target="_blank"><img src="/common/images/header/new/btn_twitter.jpg" alt="" border="0"  /></a></b></strong></div>
+	 </div>
+	 <div class="jn_links_1 jQToolTip_1">
+		<a href="https://plus.google.com/109122905454922246211/" target="_blank"><img src="/common/images/header/new/gplus.jpg" alt="" width="12px" height="12px" border="0"  onmouseover="this.src='/common/images/header/new/gplus_hover.jpg';" onmouseout="this.src='/common/images/header/new/gplus.jpg';" /></a>
+		<div class="TTBox_1 jQTT"><i></i><strong>
+		<b class="TTBCont_1"><a href="https://plus.google.com/109122905454922246211/" target="_blank"><img src="/common/images/header/new/gplus_frame.jpg" width="130px" height="55px" alt="" border="0"  /></a></b>
+		<b class="TTBCont_2">
+						<g:plusone href="https://plus.google.com/109122905454922246211" size="standard" annotation="bubble"></g:plusone>
+
+						<!-- Place this render call where appropriate -->
+						<script type="text/javascript">
+						  window.___gcfg = {lang: 'pt-PT'};
+
+						  (function() {
+						  var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+						  po.src = 'https://apis.google.com/js/plusone.js';
+						  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+						  })();
+						</script>		
+		</b>
+		</strong></div>
+	 </div>
+	 <div class="jn_links_1 jQToolTip_1">
+		<a href="http://arquivosvivos.tumblr.com/" target="_blank"><img src="/common/images/header/new/tumblr.jpg" alt="" width="12px" height="12px" border="0"  onmouseover="this.src='/common/images/header/new/tumblr_hover.jpg';" onmouseout="this.src='/common/images/header/new/tumblr.jpg';" /></a>
+		<div class="TTBox_1 jQTT"><i></i><strong>
+		<b class="TTBCont_1"><a href="http://arquivosvivos.tumblr.com/" target="_blank"><img src="/common/images/header/new/tumblr_frame.jpg" width="130px" height="55px" alt="" border="0"  /></a></b><b class="TTBCont_2"><a href="http://arquivosvivos.tumblr.com/" target="_blank"><img src="/common/images/header/new/btn_tumblr.jpg" alt="" border="0"  /></a></b></strong></div>
+	 </div>
+	 <div class="jn_links_1 jQToolTip_1">
+		<a href="http://www.gramfeed.com/jornaldenoticias" target="_blank"><img src="/common/images/header/new/instagram.jpg" alt="" width="12px" height="12px" border="0"  onmouseover="this.src='/common/images/header/new/instagram_hover.jpg';" onmouseout="this.src='/common/images/header/new/instagram.jpg';" /></a>
+		<div class="TTBox_1 jQTT"><i></i><strong>
+		<b class="TTBCont_1"><a href="http://www.gramfeed.com/jornaldenoticias" target="_blank"><img src="/common/images/header/new/instagram_frame.jpg" width="130px" height="55px" alt="" border="0"  /></a></b><b class="TTBCont_2"><a href="http://www.gramfeed.com/jornaldenoticias" target="_blank"><img src="/common/images/header/new/btn_instagram.jpg" alt="" border="0"  /></a></b></strong></div>
+	 </div>
+	 <div class="jn_links_5 jQToolTip_1">
+		<a href="/pda"><img src="/common/images/header/new/mobile.jpg" alt="" width="8px" height="12px" border="0"  onmouseover="this.src='/common/images/header/new/mobile_hover.jpg';" onmouseout="this.src='/common/images/header/new/mobile.jpg';" /></a>
+		<div class="TTBox_1 jQTT"><i></i><strong>
+		<b class="TTBCont_1"><a href="/pda"><img src="/common/images/header/new/mobile_frame.jpg" width="130px" height="55px" alt="" border="0"  /></a></b><b class="TTBCont_2"><a href="/pda"><img src="/common/images/header/new/btn_mobile.jpg" alt="" border="0"  /></a></b></strong></div>
+	 </div>
+	 <div class="jn_links_1 jQToolTip_1">
+		<a href="/rss"><img src="/common/images/header/new/rss.jpg" alt="" width="12px" height="12px" border="0"  onmouseover="this.src='/common/images/header/new/rss_hover.jpg';" onmouseout="this.src='/common/images/header/new/rss.jpg';" /></a>
+		<div class="TTBox_1 jQTT"><i></i><strong>
+		<b class="TTBCont_1"><a href="/rss"><img src="/common/images/header/new/rss_frame.jpg" width="130px" height="55px" alt="" border="0"  /></a></b><b class="TTBCont_2"><a href="/rss"><img src="/common/images/header/new/btn_rss.jpg" alt="" border="0"  /></a></b></strong></div>
+	 </div>
+	 
+		
+
+  </div>
+
+  <div id="menu_top_login">
+
+
+<div class="thrbottom">
+                
+   <div class="user">
+  		  
+    
+    <span id="UW1_linkVariavelContainer">
+      <a href="/MeuJN/" id="UW1_linkVariavel">Login/Registo</a> 
+      
+    </span>
+    
+
+  </div>
+  
+
+</div>
+ </div>
+		
+</div> 
+</div>
+	  <div class="SiteLayout">
+         <div class="vspace10">&nbsp;</div>
+          
+
+          <div class="MainLayout">
+            <div class="Main">
+              
+
+
+
+<center>
+<div style="font-weight:bold; font-size:1.2em; width:460px; text-align:left">
+<br />
+<p>Lamentamos, mas ocorreu um erro que nos impossibilita de mostrar a página pretendida.</p>
+<p>Dentro de alguns segundos será encaminhado para a <a href="http://www.jn.pt">página de entrada</a> no site do JN.</p>
+</div>
+</center>
+
+<br /><br />
+
+
+            </div>
+          </div>
+          <div class="MainPageRight">
+            <div class="MainPageRightBottom" style="padding-left:4px">
+              
+  
+
+<script type="text/javascript">
+document.write('<script language="JavaScript" src="http://ad.pt.doubleclick.net/adj/jn.pt/pagina_erro;pos=topo;tile=1;dcopt=ist;sz=300x100,300x250,300x600,300x800;ord=' + ord + ';?"><\/script>');</script>
+<noscript><ahref="http://ad.pt.doubleclick.net/jump/jn.pt/pagina_erro;pos=topo;tile=1;sz=300x100,300x250,300x600,300x800;ord=123456789?" target="_blank">
+<img src="http://ad.pt.doubleclick.net/ad/jn.pt/pagina_erro;pos=topo;tile=1;sz=300x100,300x250,300x600,300x800;ord=123456789?" width="300" height="800" border="0" alt=""></a></noscript>
+<div class="MenuText2" align="right"><small>PUB</small></div>
+<div class="vspace10">&nbsp;</div>
+
+
+
+            </div>
+          </div>
+          <br clear="all" />
+        </div> 
+        <div class="FooterLayout">
+
+<br clear="all" />
+<table id="LeadTable" width="100%" align="center">
+	<tr>
+		<td style="width:41%" align="left"><div class="FooterTextCI">Controlinveste Media SGPS, S.A. Todos os direitos reservados</div></td>
+		<td style="width:64%; text-align: left;" align="center"><span class="FooterText"><a href="/info/termosdeuso.aspx" target="_parent">Termos de Uso e Política de Privacidade</a>&nbsp;|&nbsp;</span>
+        <span class="FooterText"><a href="/info/fichatecnica.aspx" target="_parent">Ficha Técnica</a>&nbsp;|&nbsp;</span>
+        <span class="FooterText"><a href="/info/quemsomos.aspx" target="_parent">Quem Somos</a>&nbsp;|&nbsp;</span>
+        <span class="FooterText"><a href="/info/contactos.aspx" target="_parent">Contactos</a>&nbsp;|&nbsp;</span>
+        <span class="FooterText"><a href="mailto:webmaster@jn.pt" target="_parent">Webmaster</a></span></td>
+		<td style="width:10%" align="center"><a href="http://the-acap.org/acap-enabled.php" target="_blank">
+  <img src="http://www.jn.pt/storage/logo/acap_enabled_small.gif"
+          ALT="This website is ACAP-enabled" title="This website is ACAP-enabled"
+          STYLE="border: 0;">
+</a></td>
+	</tr>
+</table>
+
+
+
+<center>
+<iframe id="FooterCI" src="/common/footer/footer980.html?url=www.jn.pt" marginwidth="0" marginheight="0" width="100%" height="100" frameborder="0" scrolling="no" allowTransparency="true"></iframe>
+</center>
+<br/>
+</div>    
+      </center>
+			
+      
+		
+
+<!-- START Google Analytics -->
+<script type="text/javascript">
+try {
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+} catch (exp) {}
+</script>
+<script type="text/javascript">
+  try {
+  var pageTracker = _gat._getTracker("UA-2804136-8");
+  pageTracker._initData();
+  pageTracker._trackPageview();
+  } catch (exp) {}
+</script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"/>
+<script type="text/javascript">
+try {
+_uacct = "2804136-8";
+urchinTracker();
+} catch (exp) {}
+</script>
+<!-- END Google Analytics -->
+
+
+<!--Inicio de TAG Netscope v2 JN (Ci) -->
+<script language="javascript">
+var WRP_ID= 443230;
+var WRP_SECTION='pagina_erro';
+var WRP_SUBSECTION='pagina_erro';
+/* -- Não alterar as 2 variaveis seguintes -- */
+        var WRP_SECTION_GRP= WRP_ID;
+        var WRP_SUBSECTION_GRP= WRP_SECTION;
+var WRP_CONTENT='pagina_erro';
+var WRP_CONTENT_GRP_ACTIVE = 0;
+var WRP_CHANNEL='site';
+/* Profondeur Frame */
+var WRP_ACC ;
+wreport_ok=0;
+</script>
+<script language="javascript" src="/Common/Script/Netscope/Netscope2.js"></SCRIPT>
+<SCRIPT>
+var w_counter;
+if(wreport_ok==1){w_counter = new wreport_counter(WRP_SECTION, WRP_SUBSECTION, WRP_ID, WRP_ACC, WRP_CHANNEL, WRP_SECTION_GRP, WRP_SUBSECTION_GRP, WRP_CONTENT_GRP_ACTIVE);
+w_counter.add_content(WRP_CONTENT);
+w_counter.count();}
+</script>
+<!-- Fim TAG Netscope v2 www.netscope.marktest.pt (C)Weborama/Marktest -->
+
+	</body>
+</html>

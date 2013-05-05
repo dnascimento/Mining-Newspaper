@@ -1,0 +1,383 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="pt" xml:lang="pt">
+
+    <head>
+    <title>
+	DN - Diário de Notícias
+</title>
+      <meta http-equiv="refresh" content="8; url=http://www.dn.pt" />
+
+      <META name="keywords" content="Diário de Notícias,DN,jornal,actualidade,Benfica,Bolsa,Desporto,Empresas,Globo,Europa,Futebol,Internacional,Investir,Lisboa,jogos,Musica,vídeo,tempo,Meteorologia,País,PDA,Política,Porto,Portugal,Psi-20,Sporting,FCPorto,Televisão,TV,Opinião,Ultimas,Nacional,Portugal,musicas,sociedade,crise,financeira,política,policia,crime,Economia,bolsa,País,artes,cartaz,cinema,cultura,Ronaldo, madeleine ,blog,ciência,tecnologia,vídeos,galerias,fotografia,sapo,fotos,download,famosos,emprego,imagens,teatro,news"><META name="description" content="DNonline ? Ao minuto, todas as notícias sobre a actualidade nacional, internacional, economia, deporto, cartaz, artes, bolsa, última hora, gente, pessoas, ciência, doping, portugal, globo, jogos"><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /><meta name="Author" content="Controlinveste" /><meta name="lang" content="pt" /><link rel="stylesheet" href="/Themes/dn/style/dn.css" type="text/css" media="screen" /><link href="/Common/Css/cores.css" rel="stylesheet" type="text/css" />	 <!-- estilos footer CI -->
+      <link href="/Common/Css/footer.css" rel="stylesheet" type="text/css" />	 
+      <link rel="stylesheet" href="/Common/Css/dn_menu.css" type="text/css" media="screen" />
+      <link rel="stylesheet" href="/Common/Css/dn_geral.css" type="text/css" media="screen" />
+      <link rel="stylesheet" href="/Common/Css/dn_uni.css" type="text/css" media="screen" />
+      <link rel="stylesheet" href="/Themes/dn/style/dn_override.css" type="text/css" media="screen" />
+       
+      <script src="/Common/Script/css_browser_selector.js" type="text/javascript"></script>
+      <script src="/Common/Script/Default.js" type="text/javascript"></script>
+      <script src="/Common/Script/Common.js" type="text/javascript"></script>
+      <meta http-equiv="X-UA-Compatible" content="IE=7" /> 
+
+          
+      <!-- o codigo seguinte serve como prevencao para quebrar
+      no IE qualquer texto que arrebente com as colunas -->
+
+      <!--[if IE]>
+      <style type="text/css" media="all">@import "/Common/Css/ie.css";</style>
+      <![endif]-->
+      <!--[if lte IE 6]>
+      <style type="text/css" media="all">@import "/Common/Css/ie6.css";</style>
+      <![endif]-->
+
+          
+      <meta name="description" content="DNonline - Todas as notícias sobre a actualidade nacional, internacional, economia, deporto, cartaz, artes, bolsa, última hora, gente, pessoas, ciência, doping, Portugal, mundo, jogos" />
+<meta name="keywords" content="Diário de Notícias,DN,jornal,actualidade,Benfica,Bolsa,Desporto,Empresas,Mundo,Europa,Futebol,Internacional,Investir,Lisboa,jogos,Musica,vídeo,tempo,Meteorologia,País,PDA,Política,Porto,Portugal,Psi-20,Sporting,FCPorto,Televisão,TV,Opinião,Ultimas,Nacional,Portugal,musicas,sociedade,crise,financeira,política,policia,crime,Economia,bolsa,País,artes,cartaz,cinema,cultura,Ronaldo, madeleine ,blog,ciência,tecnologia,vídeos,galerias,fotografia,sapo,fotos,download,famosos,emprego,imagens,teatro,news" />
+<meta name="GENERATOR" content="CommunityServer 2007.1 (Debug Build: 20917.1142)" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico" />
+
+          
+  
+<script src="/Common/script/Home.js?Version=3.1.20917.1142" type="text/javascript"></script>
+
+
+      
+
+        <script language="JavaScript" type="text/javascript">UseNet = true;</script>
+        <script language="JavaScript" type="text/javascript">ord=Math.random()*10000000000000000;function getOrd(){return ord;}</script>
+        <script language="javascript" type="text/javascript"> AC_FL_RunContent = 0;</script>
+        <script language="javascript" type="text/javascript"> DetectFlashVer = 0;</script>
+        <script language="javascript" type="text/javascript" src="/Player/AC_RunActiveContent.js"></script>
+        <script language="JavaScript" type="text/javascript">
+        <!--
+        // -----------------------------------------------------------------------------
+        // Globals
+        // Major version of Flash required
+        var requiredMajorVersion = 9;
+        // Minor version of Flash required
+        var requiredMinorVersion = 0;
+        // Revision of Flash required
+        var requiredRevision = 45;
+        // -----------------------------------------------------------------------------
+        // -->
+        </script> 
+      <script language="JavaScript" type="text/javascript">
+      <!--
+	      var jsReady = false;
+      // -->
+      </script>   
+	
+<!-- REVENUE SCIENCE AD TAG CODE TOP--> 
+
+<script type="text/javascript">
+<!--
+var rsi_segs = [];
+var segs_beg=document.cookie.indexOf('rsi_segs=');
+if(segs_beg>=0){
+ segs_beg=document.cookie.indexOf('=',segs_beg)+1;
+ if(segs_beg>0){
+ var segs_end=document.cookie.indexOf(';',segs_beg);
+ if(segs_end==-1)segs_end=document.cookie.length;
+ rsi_segs=document.cookie.substring(segs_beg,segs_end).split('|');
+}}
+var segLen=20
+var segQS="";
+if (rsi_segs.length<segLen){segLen=rsi_segs.length}
+for (var i=0;i<segLen;i++){
+   segQS+=("rsi"+"="+rsi_segs[i]+";")
+}
+//-->
+</script>
+
+<!-- END REVENUE SCIENCE AD TAG CODE -->
+
+
+
+
+
+</head>
+    
+    
+<body id="dn-erro"><a name="topo"></a> 
+<form name="aspnetForm" method="post" action="Default.aspx" id="aspnetForm">
+	<iframe id="BarraCI" src="/common/barra/header.html" marginwidth="0" marginheight="0" width="100%" height="35" frameborder="0" scrolling="no" allowTransparency="true"></iframe>
+  
+
+<!-- inicio do cabecalho/header -->
+<div id="blc-cabecalho" style="height:150px; display:block; clear: both">
+
+  <div style="height:150px; display:block; clear: both; overflow:hidden">
+    <div style="width:500px; height:150px; float:right">
+      <table cellpadding="0" cellspacing="0" border="0" style="width:100%; height:100%">
+      <tr>
+        <td valign="middle" align="right">
+          <!-- begin ad tag -->
+          <script type="text/javascript">
+          document.write('<script language="JavaScript" src="http://ad.pt.doubleclick.net/adj/dn.pt/homepage;pos=destaque_topo;tile=1;dcopt=ist;sz=300x100,300x150,460x150,500x150;ord=' + ord + ';' + segQS + '?"><\/script>');
+          </script><noscript><a href="http://ad.pt.doubleclick.net/jump/dn.pt/homepage;pos=destaque_topo;tile=1;sz=300x100,300x150,460x150,500x150;ord=123456789?" target="_blank"><img src="http://ad.pt.doubleclick.net/ad/dn.pt/homepage;pos=destaque_topo;tile=1;sz=300x100,300x150,460x150,500x150;ord=123456789?" width="500" height="150" border="0" alt=""></a>
+          </noscript>
+          <!-- End ad tag -->
+        </td>
+      </tr>
+      </table>
+    </div>
+    <div style="width:445px; height:150px; overflow:hidden">
+	    
+
+ 
+<div id="cx-rssticker"></div>
+
+
+      <MAP NAME="logomap">
+      <AREA
+         HREF="/inicio/" ALT="Diário de Notícias" TITLE="Diário de Notícias"
+         SHAPE=RECT coords="1,1,90,60">
+      <AREA
+         HREF="/inicio/" ALT="Diário de Notícias" TITLE="Diário de Notícias"
+         SHAPE=RECT COORDS="90,1,446,60">
+      </MAP>
+      <img src="/common/images/1x1t.gif" width="446" height="150" />
+    </div>	
+    <br clear="all" />
+  </div>
+  <div id="cx-logo" style="position:relative; margin-top: -116px"><img src="/Common/Images/img_dn/img_logo.gif" usemap="#logomap" alt="Diário de Notícias" title="Diário de Notícias" /></div>
+  <br clear="all" />
+  
+</div>
+
+
+	<div id="blc-mn-principaltopo-n0">
+
+		<div id="blc-mn-principaltopo-n1">
+
+			<ul id="mn-1">
+			<li id="mn-1-dn"><a href="/inicio">In&iacute;cio</a></li>
+			<li id="mn-1-desporto"><a href="/desporto">Desporto</a></li>
+			<li id="mn-1-cartaz"><a href="/cartaz">Cartaz</a></li>
+			<li id="mn-1-bolsa"><a href="/bolsa">Bolsa</a></li>
+			<li id="mn-1-gente"><a href="/gente">Gente</a></li>
+			<li id="mn-1-dossiers"><a href="/especiais">Especiais</a></li>
+			<li id="mn-1-galerias"><a href="/galerias">Galerias</a></li>
+			<li id="mn-1-arquivo"><a href="/arquivo">Arquivo</a></li>
+			</ul>
+			<div id="cx-data"></div>
+			<div id="cx-procura"></div>
+		</div> 
+	</div> 
+
+	<div id="blc-mn-secundariotopo-n0">
+
+		<div id="blc-mn-secundariotopo-n1">
+       
+      <div id="menuExtra">
+        <ul id="mn-extra">
+	        <li id="mn-extra-mobile"><a href="/mobile">DN Mobile</a>|</li>
+	        <li id="mn-extra-iniciativas"><a href="/iniciativasDN">Iniciativas DN</a>|</li>
+	        <li id="mn-extra-classificados"><a href="http://classificados.lojadojornal.pt/dn/Pesquisa.aspx" target="_blank">Classificados</a>|</li>
+	        <li id="mn-extra-lojajornal"><a href="http://www.lojadojornal.pt/" target="_blank">Loja do Jornal</a></li>
+        </ul>
+      </div>      
+   
+      <ul id="mn-3">
+				<li id="mn-3-pt"><a href="/inicio/portugal">Portugal</a></li>
+				<li id="mn-3-mundo"><a href="/inicio/globo">Globo</a></li>
+				<li id="mn-3-economia"><a href="/inicio/economia">Economia</a></li>
+				<li id="mn-3-ciencia"><a href="/inicio/ciencia">Ci&ecirc;ncia</a></li>
+				<li id="mn-3-artes"><a href="/inicio/artes">Artes</a></li>
+				<li id="mn-3-tv"><a href="/inicio/tv">TV & Media</a></li>
+				<li id="mn-3-opiniao"><a href="/inicio/opiniao">Opini&atilde;o</a></li>
+				<li id="mn-3-pessoas"><a href="/inicio/pessoas">Pessoas</a></li>
+			</ul>
+		</div> 
+	</div> 
+
+  <div id="blc-extra"><div id="blc-conteudos">
+  
+  <div class="cln-esqmid" style="BACKGROUND: url('/Common/Images/img_dn/bg_cln_degrade.gif') repeat-x;">
+
+		  <div style="padding:40px; font-weight: bold; font-size:1.4em; font-family: arial">
+		    <p style="margin-bottom:20px">Lamentamos, mas ocorreu um erro que nos <br />impossibilita de mostrar a página pretendida.</p>
+        <p>Dentro de alguns segundos será encaminhado para a <br />página de entrada no <a href="/" style="color:#1e86ad">site do DN</a>.</p>
+      </div>
+  
+  </div>  
+    
+    
+    
+		<div id="cln-dir-n0">
+			<div id="cln-dir-n1">
+
+<div>
+<script type="text/javascript">
+document.write('<script language="JavaScript" src="http://ad.pt.doubleclick.net/adj/dn.pt/pagina_erro;' + segQS + ';pos=topo;tile=1;dcopt=ist;sz=300x100,300x250,300x600,300x800;ord=' + ord + ';?"><\/script>');</script>
+<noscript><ahref="http://ad.pt.doubleclick.net/jump/dn.pt/pagina_erro;pos=topo;tile=1;sz=300x100,300x250,300x600,300x800;ord=123456789?" target="_blank">
+<img src="http://ad.pt.doubleclick.net/ad/dn.pt/pagina_erro;pos=topo;tile=1;sz=300x100,300x250,300x600,300x800;ord=123456789?" width="300" height="800" border="0" alt=""></a></noscript>
+</div>
+<h5 class="pub">PUBLICIDADE</h5>
+
+
+
+		  </div> 
+	  </div>	
+	   <br clear="all" /></div>
+		<br clear="all" /> 
+	  </div>
+
+	<div id="blc-mn-principalfundo-n0">
+
+		<div id="blc-mn-principalfundo-n1">
+
+			<ul id="mn-2">
+			<li id="mn-2-topo"><a href="#" style="float:right">Voltar ao Topo</a></li>
+			<li id="mn-2-dn"><a href="/inicio">In&iacute;cio</a></li>
+			<li id="mn-2-desporto"><a href="/desporto">Desporto</a></li>
+			<li id="mn-2-cartaz"><a href="/cartaz">Cartaz</a></li>
+			<li id="mn-2-bolsa"><a href="/bolsa">Bolsa</a></li>
+			<li id="mn-2-gente"><a href="/gente">Gente</a></li>
+			<li id="mn-2-dossiers"><a href="/especiais">Especiais</a></li>
+			<li id="mn-2-galerias"><a href="/galerias">Galerias</a></li>
+			<li id="mn-2-hemeroteca"><a href="/arquivo">Arquivo</a></li>
+			</ul>
+
+			<img class="icn-setatopo" src="/Common/Images/img_comum/icn_setatopo.gif" alt="" />
+
+		</div>
+
+	</div>
+
+  
+
+	<!-- inicio menu secundario do fundo -->
+
+	<div id="blc-mn-secundariofundo-n0">
+
+		<div id="blc-mn-secundariofundo-n1">
+
+			<ul id="mn-4">
+				<li id="mn-4-pt"><a href="/inicio/portugal">Portugal</a></li>
+				<li id="mn-4-mundo"><a href="/inicio/globo">Globo</a></li>
+				<li id="mn-4-economia"><a href="/inicio/economia">Economia</a></li>
+				<li id="mn-4-ciencia"><a href="/inicio/ciencia">Ci&ecirc;ncia</a></li>
+				<li id="mn-4-artes"><a href="/inicio/artes">Artes</a></li>
+				<li id="mn-4-tv"><a href="/inicio/tv">TV & Media</a></li>
+				<li id="mn-4-opiniao"><a href="/inicio/opiniao">Opini&atilde;o</a></li>
+				<li id="mn-4-pessoas"><a href="/inicio/pessoas">Pessoas</a></li>
+			</ul>
+		</div>
+
+	</div>
+
+	<!-- fim menu secundario do fundo -->
+
+	<!-- inicio rodape -->
+
+	<div id="blc-rodape"><p>Di&aacute;rio de Notícias, 2009 &copy; Todos os direitos reservados  |  <a href="/info/termosdeuso.aspx">Termos de Uso e Política de Privacidade</a> | <a href="#">Estatuto editorial</a>  |  <a href="/info/fichatecnica.aspx">Ficha Técnica</a>  |  <a href="http://www.controlinveste.pt/multimedia/?referrer=www.dn.pt" target="_blank">Publicidade</a>  |  <!--<a href="#">Perguntas Frequentes</a>  |  --><a href="/info/contactos.aspx">Contactos</a></p></div>
+
+
+<!-- inicio footer controlinveste -->
+
+
+<script type="text/javascript"><!--
+var sas_affiliate_id = '64';
+var sas_site_id  = '448';
+var sas_position_id  = '364';
+var sas_cluster = '1';
+var sas_ad_width = '728';
+var sas_ad_height= '90';
+var sas_ad_format = '728x90_controlinveste';
+var sas_c = '4';
+var sas_ad_type = 'text';
+var sas_location_id = '8';
+var sas_color_border = 'E6E6E6';
+var sas_color_link = '1E86AD';
+var sas_color_bg = 'FFFFFF';
+var sas_color_text = '000000';
+var sas_color_url = '1E86AD';
+var sas_ic = '9bbf4305953c49522abf91c0310dc065';
+var sas_medium = '0';
+//-->
+</script><script type="text/javascript" src="http://js.sl.pt/Snippets/SAS.js"></script>
+
+
+
+	<div id="blc-rodape-ci">
+<table width="960" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+      <tr>
+        <td width="10%" rowspan="2" align="right" style="vertical-align:middle"><div align="left"><a href="http://www.controlinveste.pt?referrer=www.dn.pt" target="_parent"><img src="/common/images/Control_vertical_2.gif" width="88" height="60" border="0" /></a></div></td>
+        <td height="32" colspan="2" align="center" style="vertical-align:middle" class="separador_footer_CI">
+          <a href="http://www.acorianooriental.pt?referrer=www.dn.pt" class="link_footer_CI" target="_parent">A&ccedil;oriano Oriental</a>|<a href="http://dn.sapo.pt?referrer=www.dn.pt" class="link_footer_CI" target="_parent">Di&aacute;rio de Not&iacute;cias</a>|<a href="http://www.dnoticias.pt?referrer=www.dn.pt" class="link_footer_CI" target="_parent" >DN Madeira</a>|<a href="http://www.globalnoticias.pt?referrer=www.dn.pt" class="link_footer_CI" target="_parent">Global Not&iacute;cias</a>|<a href="http://www.jornaldofundao.pt?referrer=www.dn.pt" class="link_footer_CI" target="_parent">Jornal do Fund&atilde;o</a>|<a href="http://jn.sapo.pt?referrer=www.dn.pt" class="link_footer_CI" target="_parent">Jornal de Not&iacute;cias</a>|<a href="http://www.ocasiao.pt?referrer=www.dn.pt" class="link_footer_CI" target="_parent">Ocasi&atilde;o-Classificados</a>|<a href="http://www.ojogo.pt?referrer=www.dn.pt" class="link_footer_CI" target="_parent">O Jogo</a>|<a href="http://www.sporttv.pt?referrer=www.dn.pt" class="link_footer_CI" target="_parent">SportTV</a>|<a href="http://tsf.sapo.pt?referrer=www.dn.pt" class="link_footer_CI" target="_parent">TSF</a>
+        </td>
+      </tr>
+      
+      <tr>
+        <td width="10%" height="23" align="right" style="vertical-align:middle" class="copyright_footer_CI">&nbsp;</td>
+        <td width="90%" align="left" style="vertical-align:middle" class="copyright_footer">
+          <a href="http://assinaturas.lojadojornal.pt?referrer=www.dn.pt" class="link_footer_CI" target="_parent">Assinaturas</a>|<a href="http://www.ojogo.pt/JogoMais/bilhetesonline.asp?referrer=www.dn.pt" class="link_footer_CI" target="_parent">Bilhetes</a>|<a href="http://www.tuti.pt?referrer=www.dn.pt" class="link_footer_CI" target="_parent">Classificados Tuti</a>|<a href="http://www.cosmos-viagens.pt?referrer=www.dn.pt" class="link_footer_CI" target="_parent">Cosmos</a>|<a href="http://www.globalviagens.pt?referrer=www.dn.pt" class="link_footer_CI" target="_parent">Global Viagens</a>|<a href="http://www.indiscutivel.com?referrer=www.dn.pt" class="link_footer_CI" target="_parent">Indiscutível</a>|<a href="http://www.lojadojornal.pt?referrer=www.dn.pt" class="link_footer_CI" target="_parent">Loja do Jornal</a>|<a href="http://www.lovemail.pt?referrer=www.dn.pt" class="link_footer_CI" target="_parent">Lovemail</a>|<a href="http://pt.managerzone.com?referrer=www.dn.pt" class="link_footer_CI" target="_parent">ManagerZone</a>|<a href="http://pt.powerchallenge.com/?referrer=www.dn.pt" class="link_footer_CI" target="_parent">Power Soccer</a>
+        </td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+
+	</div>
+
+</form>
+
+  
+
+<script language="JavaScript" type="text/javascript">
+<!--
+  linkInit();
+// -->
+</script>   
+
+
+<!-- START REVENUE SCIENCE PIXELLING CODE FOOTER --> 
+<script type="text/javascript" src="http://js.revsci.net/gateway/gw.js?csid=D08736"></script>
+<script type="text/javascript">DM_tag();</script>
+<!-- END REVENUE SCIENCE PIXELLING CODE -->
+
+<!--Inicio de TAG Netscope v2 DN (Ci) -->
+<script language="javascript">
+var WRP_ID= 443228;
+var WRP_SECTION='pagina_erro';
+var WRP_SUBSECTION='pagina_erro';
+/* -- Não alterar as 2 variaveis seguintes -- */
+        var WRP_SECTION_GRP= WRP_ID;
+        var WRP_SUBSECTION_GRP= WRP_SECTION;
+var WRP_CONTENT='pagina_erro';
+var WRP_CONTENT_GRP_ACTIVE =0;
+var WRP_CHANNEL='site';
+/* Profondeur Frame */
+var WRP_ACC ;
+wreport_ok=0;
+</script>
+<script language="javascript" src="/Common/Script/Netscope/Netscope2.js"></SCRIPT>
+<SCRIPT>
+var w_counter;
+if(wreport_ok==1){w_counter = new wreport_counter(WRP_SECTION, WRP_SUBSECTION, WRP_ID, WRP_ACC, WRP_CHANNEL, WRP_SECTION_GRP, WRP_SUBSECTION_GRP, WRP_CONTENT_GRP_ACTIVE);
+w_counter.add_content(WRP_CONTENT);
+w_counter.count();}
+</script>
+<!-- Fim TAG Netscope v2 www.netscope.marktest.pt (C)Weborama/Marktest -->
+
+
+<!--Inicio de TAG Google Analytics DN -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-2804136-9");
+pageTracker._trackPageview();
+</script>
+<!-- Fim TAG Google Analytics DN -->
+
+
+
+</body>
+</html>

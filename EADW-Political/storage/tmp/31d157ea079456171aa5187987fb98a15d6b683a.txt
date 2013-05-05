@@ -1,0 +1,885 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+    <!--[if IE]>
+     <script type="text/javascript">
+      function __flash__removeCallback(instance, name) {     
+         if (instance) instance[name] = null;
+      }
+    </script>
+    <![endif]-->
+	<title>Israel: Cantora árabe ganha reality show musical - Internacional - Sol</title><meta name="description" content="A interpretação de Hallelujah, canção emblemática de Leonard Cohen, garantiu à cantora árabe Lina Makhoul a vitória na versão israelita do programa de talentos The Voice."><meta name="keywords" content="Sol, semanário, jornal, imprensa, comunicação social, notícia,informação, última hora, destaque, Israel, Música, Concurso, Internacional"><link rel="image_src" href="http://sol.sapo.pt/storage/Sol/2013/highlight/ng1340107_210x100.jpg?type=highlight"><meta property="og:image" content="http://sol.sapo.pt/storage/Sol/2013/highlight/ng1340107_210x100.jpg?type=highlight">
+<meta name="id" content="sol.sapo.pt"/>
+<meta name="author" content="Sol"/>
+<meta http-equiv="pragma" content="no-cache"/>
+
+<meta name="revisit-after" content="1 days"/>
+<meta name="robots" content="index,follow"/>
+<link rel="SHORTCUT ICON" href="/favicon.ico"/>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><link rel="alternate" type="application/rss+xml" title="Jornal SOL" href="http://sol.sapo.pt/rss/" /><link rel="stylesheet" type="text/css" href="/common/css/styles.css?v=1.6" />
+
+	<script type="text/javascript" src="/common/script/funcoes.js"></script>
+	<script type="text/javascript" src="/common/script/default.js"></script>
+	<script src="/Common/script/tween/tween.js" type="text/javascript" charset="utf-8"></script>
+    <script type="text/javascript" src="/common/script/scroller.js"></script>
+    <script type="text/javascript" src="/common/script/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>
+    <script type="text/javascript" src="/common/script/animatedcollapse.js">
+    /***********************************************
+    * Animated Collapsible DIV v2.2- (c) Dynamic Drive DHTML code library (www.dynamicdrive.com)
+    * This notice MUST stay intact for legal use
+    * Visit Dynamic Drive at http://www.dynamicdrive.com/ for this script and 100s more
+    ***********************************************/
+
+
+    </script>
+    
+   	<script type="text/javascript" src="/fancybox/jquery.mousewheel-3.0.4.pack.js"></script>
+	<script type="text/javascript" src="/fancybox/jquery.fancybox-1.3.2.js"></script>
+	<link rel="stylesheet" type="text/css" href="/fancybox/jquery.fancybox-1.3.2.css" media="screen" />
+ 
+        <script language="javascript" type="text/javascript"> 
+         AC_FL_RunContent = 0; 
+         DetectFlashVer = 0; 
+         requiredMajorVersion = 0;  
+         requiredMinorVersion = 0;  
+         requiredRevision = 0; 
+        </script>
+
+        <script src="/Common/Script/AC_RunActiveContent.js" type="text/javascript" language="javascript"></script>
+
+
+    <script type="text/javascript" src="/common/script/common.js?version=1.4.5"></script>
+	
+
+    <!-- Barra SAPO Universal v1.0 -->
+    <!-- Passo 1 de 3. Folha de estilos e TileID -->
+    <style type="text/css"> /* v1.0 */
+      .bsu_almofada {clear:both;margin-bottom:1.4em;overflow:hidden;height:1px;font-size:16px;}
+    </style>
+
+    <script type="text/javascript">
+      var TileID = Math.floor(Math.random()*10000);
+    </script>
+    <!-- /bsu -->
+
+<title>
+
+</title></head>
+<body>
+	<span id="ctl00_ctl00_ctl01_sActionTags">
+<script>document.write('<s'+'cript language="JavaScript" src="http://view.atdmt.com/jaction/7n1sol_A06Internacional_6"></s'+'cript>')</script><noscript><iframe src="http://view.atdmt.com/iaction/7n1sol_A06Internacional_6" width="1" height="1" frameborder="0" scrolling="No" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0"></iframe></noscript>
+</span>
+
+<!-- NETSCOPE Sol -->
+<!-- WEBO_ZONE e WEBO_PAGE-->
+<script type="text/javascript" language="javascript">
+WEBO_ZONE=5;
+WEBO_PAGE=71840;
+webo_ok=0;
+</script>
+<!-- Fim NETSCOPE Copyright Weborama-->
+
+
+
+
+
+<!--Inicio NETSCOPE Sol -->
+<script type="text/javascript" language="javascript">
+var WRP_ID= 341627;
+var WRP_SECTION="Pagina Inicial - Internacional";
+var WRP_SUBSECTION="";
+var WRP_SECTION_GRP="Jornal SOL";
+var WRP_SUBSECTION_GRP=WRP_ID;
+var WRP_CONTENT="71840";
+var WRP_CHANNEL="Pagina Inicial";
+
+/* Profondeur Frame */
+var WRP_ACC ;
+wreport_ok=0;
+</script>
+<script type="text/javascript" src="/Common/Script/weboscope2sol.js"></script>
+<!-- Fim TAG Netscope v2 www.netscope.marktest.pt (C)Weborama/Marktest -->
+
+
+
+
+
+<!-- INICIO SCRIPT WEBSTATS -->
+<!-- FIM SCRIPT WEBSTATS -->
+
+<script type="text/javascript" src="http://js.sapo.pt/SAPOWebAnalytics/"></script>
+
+<script> SAPO.WebAnalytics.track({swakt:"F465F245-AEB0-4443-9CD0-98AA180FE9DE"}); </script>
+
+
+
+
+
+
+
+
+
+    <div id="bsu_root">
+      <div class="bsu_almofada"></div>
+      <div class="bsu_almofada"></div>
+    </div>
+    
+	<form name="aspnetForm" method="post" action="../../seccao/interior.aspx?content_id=71840" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUENTM4MQ9kFgJmD2QWAmYPZBYEAgEPZBYGAgIPFgIeBFRleHQFATVkAgQPFgIfAAUFNzE4NDBkAgYPZBYGAgEPFgIfAAUeUGFnaW5hIEluaWNpYWwgLSBJbnRlcm5hY2lvbmFsZAIDDxYCHwAFBTcxODQwZAIFDxYCHwAFDlBhZ2luYSBJbmljaWFsZAICD2QWBgIBD2QWBAIJDxYCHglpbm5lcmh0bWwFIWRvbWluZ28sIDUgZGUgTWFpbyBkZSAyMDEzLCAxODowMWQCCw9kFgRmDxYEHgV0aXRsZQUJcGVzcXVpc2FyHglvbmtleWRvd24FGkdvU2VhcmNoKHRoaXMsIGV2ZW50LCdwdCcpZAIBDxYCHgRocmVmBU5qYXZhc2NyaXB0OkZpbmRTZWFyY2hDcml0ZXJpYSgnY3RsMDBfY3RsMDBfaGVhZGVydG9wMV9zZWFyY2gxX3R4dFNlYXJjaCcsJ3B0JylkAgIPZBYEAhUPFgIeB1Zpc2libGVoZAIXDxYCHwVnZAIFD2QWAgIBD2QWBgIHD2QWAgICDxYCHwVnZAIJD2QWAmYPZBYEAgIPFgIfAAUPMTUgQ29tZW50w6FyaW9zZAIEDxYCHwEFj5YBPGRpdiBjbGFzcz0ib2RkX2NvbSI+PGEgbmFtZT0iQ29tMjU0NDAxOCI+PC9hPjx0YWJsZSBjZWxscGFkZGluZz0iMCIgY2VsbHNwYWNpbmc9IjAiPjx0cj48dGQgdmFsaWduPSJ0b3AiPjxpbWcgYWxpZ249ImFic21pZGRsZSIgd2lkdGg9IjE1IiBoZWlnaHQ9IjE1IiBzdHlsZT0idmVydGljYWwtYWxpZ246IHRvcDtwYWRkaW5nOjRweCA0cHggMHB4IDBweDsiIHNyYz0iL2NvbW1vbi9pbWFnZXMvbG9nb19zbWFsbC5naWYiPjwvdGQ+PHRkIHZhbGlnbj0idG9wIj48ZGl2IGNsYXNzPSJub21lIj48c3BhbiBpZD0iUG9zdEF1dGhvcjI1NDQwMTgiPk1pY2hpbzwvc3Bhbj48YnIvPjxzcGFuIGNsYXNzPSJkYXRhIj4yOS4wMy4yMDEzIC0gMDA6Mzc8L3NwYW4+PC9kaXY+PC90ZD48dGQgdmFsaWduPSJ0b3AiIGFsaWduPSJyaWdodCI+PGRpdiBjbGFzcz0iaWNvcyIgaWQ9IlBvc3RJbXByb3BlcjI1NDQwMTgiPjxpbWcgd2lkdGg9IjE0IiBoZWlnaHQ9IjE0IiBzcmM9Ii9jb21tb24vaW1hZ2VzL3N0YXRpYy9pY29fZGVudW5jaWFyLmdpZiI+Jm5ic3A7PGEgY2xhc3M9IklOViIgaHJlZj0iamF2YXNjcmlwdDpSZXBvcnRJbXByb3BlckNvbW1lbnQoJzI1NDQwMTgnKSI+ZGVudW5jaWFyPC9hPjwvZGl2PjwvdGQ+PC90cj48L3RhYmxlPjxkaXYgY2xhc3M9ImNvbWVudGFyaW8iIGlkPSJQb3N0Qm9keTI1NDQwMTgiPmhlaGVoZWhlaGUgYSBjb211bmFkYSBhbmRhIHBpdXJzYSBoZWhlaGVoZWhlaGUgZSBxdWFuZG8gcmVzb2x2ZW0gY29tZW50YXIgZGVwb2lzIGRlIGphbnRhciB1bSBiZW0gcmVnYWRvICYjMjMzOyBvIHF1ZSBzZSB2JiMyMzQ7Li4uLjwvZGl2PjwvZGl2PjxkaXYgY2xhc3M9ImV2ZW5fY29tIj48YSBuYW1lPSJDb20yNTQzOTk3Ij48L2E+PHRhYmxlIGNlbGxwYWRkaW5nPSIwIiBjZWxsc3BhY2luZz0iMCI+PHRyPjx0ZCB2YWxpZ249InRvcCI+PGltZyBhbGlnbj0iYWJzbWlkZGxlIiB3aWR0aD0iMTUiIGhlaWdodD0iMTUiIHN0eWxlPSJ2ZXJ0aWNhbC1hbGlnbjogdG9wO3BhZGRpbmc6NHB4IDRweCAwcHggMHB4OyIgc3JjPSIvY29tbW9uL2ltYWdlcy9sb2dvX3NtYWxsLmdpZiI+PC90ZD48dGQgdmFsaWduPSJ0b3AiPjxkaXYgY2xhc3M9Im5vbWUiPjxzcGFuIGlkPSJQb3N0QXV0aG9yMjU0Mzk5NyI+UkwxOTc1PC9zcGFuPjxici8+PHNwYW4gY2xhc3M9ImRhdGEiPjI4LjAzLjIwMTMgLSAyMzo0NTwvc3Bhbj48L2Rpdj48L3RkPjx0ZCB2YWxpZ249InRvcCIgYWxpZ249InJpZ2h0Ij48ZGl2IGNsYXNzPSJpY29zIiBpZD0iUG9zdEltcHJvcGVyMjU0Mzk5NyI+PGltZyB3aWR0aD0iMTQiIGhlaWdodD0iMTQiIHNyYz0iL2NvbW1vbi9pbWFnZXMvc3RhdGljL2ljb19kZW51bmNpYXIuZ2lmIj4mbmJzcDs8YSBjbGFzcz0iSU5WIiBocmVmPSJqYXZhc2NyaXB0OlJlcG9ydEltcHJvcGVyQ29tbWVudCgnMjU0Mzk5NycpIj5kZW51bmNpYXI8L2E+PC9kaXY+PC90ZD48L3RyPjwvdGFibGU+PGRpdiBjbGFzcz0iY29tZW50YXJpbyIgaWQ9IlBvc3RCb2R5MjU0Mzk5NyI+bWFzIG5vdGljaWFzIHBhcmEgbyBjYXBpdGFsaXN0YShzZW0gY2FwaXRhbCksIHF1ZSBhZmluYWwgZSB1bSBlbWlncmFudGUuLi48L2Rpdj48L2Rpdj48ZGl2IGNsYXNzPSJvZGRfY29tIj48YSBuYW1lPSJDb20yNTQzOTczIj48L2E+PHRhYmxlIGNlbGxwYWRkaW5nPSIwIiBjZWxsc3BhY2luZz0iMCI+PHRyPjx0ZCB2YWxpZ249InRvcCI+PGltZyBhbGlnbj0iYWJzbWlkZGxlIiB3aWR0aD0iMTUiIGhlaWdodD0iMTUiIHN0eWxlPSJ2ZXJ0aWNhbC1hbGlnbjogdG9wO3BhZGRpbmc6NHB4IDRweCAwcHggMHB4OyIgc3JjPSIvY29tbW9uL2ltYWdlcy9sb2dvX3NtYWxsLmdpZiI+PC90ZD48dGQgdmFsaWduPSJ0b3AiPjxkaXYgY2xhc3M9Im5vbWUiPjxzcGFuIGlkPSJQb3N0QXV0aG9yMjU0Mzk3MyI+TWljaGlvPC9zcGFuPjxici8+PHNwYW4gY2xhc3M9ImRhdGEiPjI4LjAzLjIwMTMgLSAyMzowNzwvc3Bhbj48L2Rpdj48L3RkPjx0ZCB2YWxpZ249InRvcCIgYWxpZ249InJpZ2h0Ij48ZGl2IGNsYXNzPSJpY29zIiBpZD0iUG9zdEltcHJvcGVyMjU0Mzk3MyI+PGltZyB3aWR0aD0iMTQiIGhlaWdodD0iMTQiIHNyYz0iL2NvbW1vbi9pbWFnZXMvc3RhdGljL2ljb19kZW51bmNpYXIuZ2lmIj4mbmJzcDs8YSBjbGFzcz0iSU5WIiBocmVmPSJqYXZhc2NyaXB0OlJlcG9ydEltcHJvcGVyQ29tbWVudCgnMjU0Mzk3MycpIj5kZW51bmNpYXI8L2E+PC9kaXY+PC90ZD48L3RyPjwvdGFibGU+PGRpdiBjbGFzcz0iY29tZW50YXJpbyIgaWQ9IlBvc3RCb2R5MjU0Mzk3MyI+ZGVwb2lzIG4mIzIyNztvIHF1ZXJlbSBxdWUgY2hhbWVtIGFvcyBhcmFiZXMgYnVycm9zLi4uPGJyLz48YnIvPklzcmFlbGkgbW92aWUgZGlyZWN0b3IgYmVhdGVuIGJ5IEFyYWIgeW91dGhzIGluIEZyYW5jZTxici8+PGJyLz5PIHRpdHVsbyBuJiMyMjc7byBzdWdlcmUgbmFkYSBkZSBlc3BlY2lhbCwgYWZpbmFsIGphICYjMjMzOyBuYXR1cmFsIG9zIGFyYWJlcyBhdGFjYXJlbSBpc3JhZWxpdGFzLiBPIGNhcmljYXRvICYjMjMzOyBxdWUgbyBpc3JhZWxpdGEgZW0gcXVlc3QmIzIyNztvIGUgbyBmaWxtZSBxdWUgZGlyaWdpdSBzJiMyMjc7byBhbnRpIG9jdXBhJiMyMzE7JiMyMjc7byBpc3JhZWxpdGEgZGUgdGVycml0b3Jpb3MuIE91IHNlamEgb3MgYXJhYmVzIGF0YWNhcmFtIGUgZGVpeGFyYW0gaW5jb25zY2llbnRlIHVtIGlzcmFlbGl0YSBxdWUgb3MgZGVmZW5kZSBoZWhlaGVoZWhlaGUgZ3J1bmhvc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3NzPC9kaXY+PC9kaXY+PGRpdiBjbGFzcz0iZXZlbl9jb20iPjxhIG5hbWU9IkNvbTI1NDMzMzAiPjwvYT48dGFibGUgY2VsbHBhZGRpbmc9IjAiIGNlbGxzcGFjaW5nPSIwIj48dHI+PHRkIHZhbGlnbj0idG9wIj48aW1nIGFsaWduPSJhYnNtaWRkbGUiIHdpZHRoPSIxNSIgaGVpZ2h0PSIxNSIgc3R5bGU9InZlcnRpY2FsLWFsaWduOiB0b3A7cGFkZGluZzo0cHggNHB4IDBweCAwcHg7IiBzcmM9Ii9jb21tb24vaW1hZ2VzL2xvZ29fc21hbGwuZ2lmIj48L3RkPjx0ZCB2YWxpZ249InRvcCI+PGRpdiBjbGFzcz0ibm9tZSI+PHNwYW4gaWQ9IlBvc3RBdXRob3IyNTQzMzMwIj5CYXJ1Y2gxMDA8L3NwYW4+PGJyLz48c3BhbiBjbGFzcz0iZGF0YSI+MjguMDMuMjAxMyAtIDAxOjI3PC9zcGFuPjwvZGl2PjwvdGQ+PHRkIHZhbGlnbj0idG9wIiBhbGlnbj0icmlnaHQiPjxkaXYgY2xhc3M9Imljb3MiIGlkPSJQb3N0SW1wcm9wZXIyNTQzMzMwIj48aW1nIHdpZHRoPSIxNCIgaGVpZ2h0PSIxNCIgc3JjPSIvY29tbW9uL2ltYWdlcy9zdGF0aWMvaWNvX2RlbnVuY2lhci5naWYiPiZuYnNwOzxhIGNsYXNzPSJJTlYiIGhyZWY9ImphdmFzY3JpcHQ6UmVwb3J0SW1wcm9wZXJDb21tZW50KCcyNTQzMzMwJykiPmRlbnVuY2lhcjwvYT48L2Rpdj48L3RkPjwvdHI+PC90YWJsZT48ZGl2IGNsYXNzPSJjb21lbnRhcmlvIiBpZD0iUG9zdEJvZHkyNTQzMzMwIj4mIzE5MztyYWJlIE1pcm9kcmkgJiMyMzM7IENVTFRVUkEgISBOJiMyMjc7byAmIzIzMzsgcmEmIzIzMTthIGUgdGFtcG91Y28gJ3Bvdm8nICEgSCYjMjI1OyBqdWRldXMgJyYjMjI1O3JhYmVzJyBjcmlzdCYjMjI3O29zLCBlIG11c2xpbnMgJnF1b3Q7JiMyMjU7cmFiZXMmcXVvdDsgISBqdWR1ZXMgZG8gaWVtZW4sIElyYXF1ZSwgUyYjMjM3O3Jpb3MgZXRjIHMmIzIyNztvICYjMTkzO1JBQkVTICEgaWRpb21hLCBoJiMyMjU7Yml0b3MgZXRjICBkYSBjdWx0dXJhICYjMjI1O3JhYmUuIE5vIGludGVyaW9yIGRvIE1hcnJvY29zIHBvciBleGVtcGxvLCBzJiMyNDM7IHNhYmUtc2UgcXVlbSAmIzIzMzsgbXVzbGltIG91IGp1ZGV1IG5hcyBzZXh0YXMgZmVpcmFzLCBvbmRlIHVucyBlbnRyYW0gbmEgc2luYWdvZ2EgZSBvdXRyb3MgbmEgbWVzcXVpdGEgISBQb2lzIGFzIHJvdXBhcywgaWRpb21hcyBlIGRpYWxlY3RvcywgY3VsaW4mIzIyNTtyaWEsIGV0YyBzJiMyMjc7byAnRVhBVEFNRU5URSBPUyBNRVNNT1MmcXVvdDsgSW5jbHVzaXZlIG9zIG5vbWVzLCB0ZW1vcyBKdWRldXMgTWFuc3VyLCBIYWRkYWQsIEdhbWFsLi4uIERhaSBvIHVzbyBkZSBkaXN0aW50aXZvcyB1c2Fkb3Mgbm9zIHBhJiMyMzc7c2VzICYjMjI1O3JhYmVzIGVtICYjMjMzO3BvY2FzIGRlIGNvbmZsaWN0b3MgY29tbyBuYSBBbGVtYW5oYSwgb25kZSBzJiMyNDM7IHNhYmVtb3MgcXVlbSAmIzIzMzsganVkZXUgcGVsYSBjYXNhLCBwZWxhIGZhbSYjMjM3O2xpYSwgaWRlbSBlbSBQb3J0dWdhbCwgRXNwYW5oYSwgSXQmIzIyNTtsaWEgZXRjIEomIzIyNTsgbm8gJ0xlc3RlJyBldXJvcGV1LCBvcyBqdWRldXMgZGUgb3JpZ2VtIGNvbnZlcnRpZGEgb3MgS0hBWkFSRVMsIGFvIGVuY29udHJhcmVtLXNlIGUgbWlzdHVyYXJlbS1zZSBjb20gb3MgcGVyc2VndWlkb3MganVkZXVzIGRhIEFsZW1hbmhhLCBhZG90YXJhbSBvIElkZGlzY2ggZSBsb2dvIHBlcmNlYmlhLXNlIHF1ZW0gZXJhICdqdWRldScgcHEgdGluaGFtIEFwZWxpZG9zIGZhbWlsaWFyZXMgYWxlbSYjMjI3O2VzLCB2aXZpYW0gZW0gZ2hldHRvcyBlIG1hbnRpdmVyYW0gYSB2ZXN0aW1lbnRhIHByZXRhIG1lZGlldmFsIHBvbG9uZXNhLCBnYWxlZ2EgZSBydXNzby11Y3JhbmlhbmEsIHBvcnRhbnRvICdmJiMyMjU7Y2lsJyBkZSBzZSBpZGVudGlmaWNhciB1bSBqdWRldSAhICYjMTkzO3JhYmUgJiMyMzM7IENVTFRVUkEgISBQb3IgaXNzbyBxdWFuZG8gJ0RlZmlubycgdW0gZmlsaG8gZGEgcHV0aGEgJiMyMjU7cmFiZSAsIHNlbXByZSBlc2NyZXZvIDsgJiMxOTM7cmFiZSBNdXNsaW0sIGhhbWl0YSBGZHAsIHBhcmEgbiYjMjI3O28gZ2VyYXIgY29uZnVzJiMyMjc7byBlIG9mZW5zYXMgYW9zIGNyaXN0JiMyMjc7b3MgZGUgY3VsdHVyYSAmIzIyNTtyYWJlLCBhbyBwYXNzbyBxdWUgYW9zIG11c2xpbnMsIGNoYW1hLWxvcyBkZSBGRFAsIG4mIzIyNztvICYjMjMzOyBvZmVuZGUtbG9zLCBtYXMgREVGSU5JLUxPUyAhIHBlcmNlYmVzdGUgPyAgJiMyMDE7IGNhc28gcXVlIGRlc2NyZXZpIGFiYWl4byBjb20gbyBTci4gSXNzYSAsIHVtIGNyaXN0JiMyMjc7byAmIzIyNTtyYWJlLiBFIHBvcnRhbnRvLCBlbGUgZGV0ZXN0YSBvcyBtYWxkaXRvcyBoYW1pdGFzIG11c2xpbnMgYW8gcXVhbCByZWZlcmUtc2UgYSBlbGVzIGNvbW8gOiBBIFJhJiMyMzE7YSBEZXNncmEmIzIzMTthZGEuLi4gT3MgY3Jpc3QmIzIyNztvcyAmIzIyNTtyYWJlcyBuJiMyMjc7byBzJiMyMjc7byBIQU1JVEFTICEgUyYjMjI3O28gSmFwaGV0aXN0YXMuIEFicmEmIzIzMTsmIzIyNztvPC9kaXY+PC9kaXY+PGRpdiBjbGFzcz0ib2RkX2NvbSI+PGEgbmFtZT0iQ29tMjU0MzI1OSI+PC9hPjx0YWJsZSBjZWxscGFkZGluZz0iMCIgY2VsbHNwYWNpbmc9IjAiPjx0cj48dGQgdmFsaWduPSJ0b3AiPjxpbWcgYWxpZ249ImFic21pZGRsZSIgd2lkdGg9IjE1IiBoZWlnaHQ9IjE1IiBzdHlsZT0idmVydGljYWwtYWxpZ246IHRvcDtwYWRkaW5nOjRweCA0cHggMHB4IDBweDsiIHNyYz0iL2NvbW1vbi9pbWFnZXMvbG9nb19zbWFsbC5naWYiPjwvdGQ+PHRkIHZhbGlnbj0idG9wIj48ZGl2IGNsYXNzPSJub21lIj48c3BhbiBpZD0iUG9zdEF1dGhvcjI1NDMyNTkiPm1pcm9kcmk8L3NwYW4+PGJyLz48c3BhbiBjbGFzcz0iZGF0YSI+MjcuMDMuMjAxMyAtIDIzOjMzPC9zcGFuPjwvZGl2PjwvdGQ+PHRkIHZhbGlnbj0idG9wIiBhbGlnbj0icmlnaHQiPjxkaXYgY2xhc3M9Imljb3MiIGlkPSJQb3N0SW1wcm9wZXIyNTQzMjU5Ij48aW1nIHdpZHRoPSIxNCIgaGVpZ2h0PSIxNCIgc3JjPSIvY29tbW9uL2ltYWdlcy9zdGF0aWMvaWNvX2RlbnVuY2lhci5naWYiPiZuYnNwOzxhIGNsYXNzPSJJTlYiIGhyZWY9ImphdmFzY3JpcHQ6UmVwb3J0SW1wcm9wZXJDb21tZW50KCcyNTQzMjU5JykiPmRlbnVuY2lhcjwvYT48L2Rpdj48L3RkPjwvdHI+PC90YWJsZT48ZGl2IGNsYXNzPSJjb21lbnRhcmlvIiBpZD0iUG9zdEJvZHkyNTQzMjU5Ij5zZSAmIzIzMzsgZmlsaGEgZGUgcGFpcyBjcmlzdCYjMjI3O29zIGUgbmFzY2V1IGVtIElzcmFlbCBwb3JxdWUgcmF6JiMyMjc7byAmIzIzMzsgJiMyMjU7cmFiZT8gcG9yIGNhdXNhIGRvIG1hcmlkbz88YnIvPjxici8+b3MganVkZXVzIHMmIzIyNztvIHQmIzIyNztvIGRlbWVudGVzIHF1YW50byBvcyBpc2wmIzIyNjttaWNvcyBlIGNvbnYmIzIzMzttIHNlcGFyYXIgaXNyYWVsaXRhIGUganVkZXUgcG9pcyBoJiMyMjU7IGNhZGEgdmV6IG1haXMgaXNyYWVsaXRhcyBub3JtYWlzPGJyLz48YnIvPjxici8+PGJyLz48L2Rpdj48L2Rpdj48ZGl2IGNsYXNzPSJldmVuX2NvbSI+PGEgbmFtZT0iQ29tMjU0MzEyNyI+PC9hPjx0YWJsZSBjZWxscGFkZGluZz0iMCIgY2VsbHNwYWNpbmc9IjAiPjx0cj48dGQgdmFsaWduPSJ0b3AiPjxpbWcgYWxpZ249ImFic21pZGRsZSIgd2lkdGg9IjE1IiBoZWlnaHQ9IjE1IiBzdHlsZT0idmVydGljYWwtYWxpZ246IHRvcDtwYWRkaW5nOjRweCA0cHggMHB4IDBweDsiIHNyYz0iL2NvbW1vbi9pbWFnZXMvbG9nb19zbWFsbC5naWYiPjwvdGQ+PHRkIHZhbGlnbj0idG9wIj48ZGl2IGNsYXNzPSJub21lIj48c3BhbiBpZD0iUG9zdEF1dGhvcjI1NDMxMjciPk1pY2hpbzwvc3Bhbj48YnIvPjxzcGFuIGNsYXNzPSJkYXRhIj4yNy4wMy4yMDEzIC0gMjE6Mjc8L3NwYW4+PC9kaXY+PC90ZD48dGQgdmFsaWduPSJ0b3AiIGFsaWduPSJyaWdodCI+PGRpdiBjbGFzcz0iaWNvcyIgaWQ9IlBvc3RJbXByb3BlcjI1NDMxMjciPjxpbWcgd2lkdGg9IjE0IiBoZWlnaHQ9IjE0IiBzcmM9Ii9jb21tb24vaW1hZ2VzL3N0YXRpYy9pY29fZGVudW5jaWFyLmdpZiI+Jm5ic3A7PGEgY2xhc3M9IklOViIgaHJlZj0iamF2YXNjcmlwdDpSZXBvcnRJbXByb3BlckNvbW1lbnQoJzI1NDMxMjcnKSI+ZGVudW5jaWFyPC9hPjwvZGl2PjwvdGQ+PC90cj48L3RhYmxlPjxkaXYgY2xhc3M9ImNvbWVudGFyaW8iIGlkPSJQb3N0Qm9keTI1NDMxMjciPmUgamEgYWdvcmEgcGFyYSBvIGFuaW1hciAmIzI0MzsgY2FtYXJhZGEgdmVuZGFwb3YuLi4uPGJyLz48YnIvPlUuUy4gaGFzIHBpbnBvaW50IGF0dGFjayByZWFkeSBvbiBJcmFuLCBzYXlzIElzcmFlbGkgb2ZmaWNpYWw8YnIvPlBvdGVudGlhbCBBbWVyaWNhbiBzdHJpa2UgbWVhbnQgdG8gYXZvaWQgbWFqb3IgcmVnaW9uYWwgY29uZmxhZ3JhdGlvbiwgc291cmNlIGNsYWltcy48L2Rpdj48L2Rpdj48ZGl2IGNsYXNzPSJvZGRfY29tIj48YSBuYW1lPSJDb20yNTQzMTI1Ij48L2E+PHRhYmxlIGNlbGxwYWRkaW5nPSIwIiBjZWxsc3BhY2luZz0iMCI+PHRyPjx0ZCB2YWxpZ249InRvcCI+PGltZyBhbGlnbj0iYWJzbWlkZGxlIiB3aWR0aD0iMTUiIGhlaWdodD0iMTUiIHN0eWxlPSJ2ZXJ0aWNhbC1hbGlnbjogdG9wO3BhZGRpbmc6NHB4IDRweCAwcHggMHB4OyIgc3JjPSIvY29tbW9uL2ltYWdlcy9sb2dvX3NtYWxsLmdpZiI+PC90ZD48dGQgdmFsaWduPSJ0b3AiPjxkaXYgY2xhc3M9Im5vbWUiPjxzcGFuIGlkPSJQb3N0QXV0aG9yMjU0MzEyNSI+TWljaGlvPC9zcGFuPjxici8+PHNwYW4gY2xhc3M9ImRhdGEiPjI3LjAzLjIwMTMgLSAyMToyMzwvc3Bhbj48L2Rpdj48L3RkPjx0ZCB2YWxpZ249InRvcCIgYWxpZ249InJpZ2h0Ij48ZGl2IGNsYXNzPSJpY29zIiBpZD0iUG9zdEltcHJvcGVyMjU0MzEyNSI+PGltZyB3aWR0aD0iMTQiIGhlaWdodD0iMTQiIHNyYz0iL2NvbW1vbi9pbWFnZXMvc3RhdGljL2ljb19kZW51bmNpYXIuZ2lmIj4mbmJzcDs8YSBjbGFzcz0iSU5WIiBocmVmPSJqYXZhc2NyaXB0OlJlcG9ydEltcHJvcGVyQ29tbWVudCgnMjU0MzEyNScpIj5kZW51bmNpYXI8L2E+PC9kaXY+PC90ZD48L3RyPjwvdGFibGU+PGRpdiBjbGFzcz0iY29tZW50YXJpbyIgaWQ9IlBvc3RCb2R5MjU0MzEyNSI+c2ltIG9rIHF1YXNlLi4ubWFzIG9uZGUgJiMyMzM7IHF1ZSBmYWxhIGlzc28gbm8gbGluayBxdWUgaW5kaWNvdT8/PyAgYmViYSBtZW5vcy4uLi4uIDxici8+PGJyLz5lIGphIGFnb3JhLCBldSB0YiBkZXZpYSBhcHJlbmRlciBhIG4mIzIyNztvIGZhemVyIGNvcHkgcGFzdCBkYXMgc3VhcyBmcmFzZXMsIHBxIGRlcG9pcyBzYWllbSBwcmVjaW9zaWRhZGVzIGNvbW8gJnF1b3Q7cG9icmVzYSZxdW90Oy4uLjwvZGl2PjwvZGl2PjxkaXYgY2xhc3M9ImV2ZW5fY29tIj48YSBuYW1lPSJDb20yNTQzMTE4Ij48L2E+PHRhYmxlIGNlbGxwYWRkaW5nPSIwIiBjZWxsc3BhY2luZz0iMCI+PHRyPjx0ZCB2YWxpZ249InRvcCI+PGltZyBhbGlnbj0iYWJzbWlkZGxlIiB3aWR0aD0iMTUiIGhlaWdodD0iMTUiIHN0eWxlPSJ2ZXJ0aWNhbC1hbGlnbjogdG9wO3BhZGRpbmc6NHB4IDRweCAwcHggMHB4OyIgc3JjPSIvY29tbW9uL2ltYWdlcy9sb2dvX3NtYWxsLmdpZiI+PC90ZD48dGQgdmFsaWduPSJ0b3AiPjxkaXYgY2xhc3M9Im5vbWUiPjxzcGFuIGlkPSJQb3N0QXV0aG9yMjU0MzExOCI+dmVuZGFwPC9zcGFuPjxici8+PHNwYW4gY2xhc3M9ImRhdGEiPjI3LjAzLjIwMTMgLSAyMTowODwvc3Bhbj48L2Rpdj48L3RkPjx0ZCB2YWxpZ249InRvcCIgYWxpZ249InJpZ2h0Ij48ZGl2IGNsYXNzPSJpY29zIiBpZD0iUG9zdEltcHJvcGVyMjU0MzExOCI+PGltZyB3aWR0aD0iMTQiIGhlaWdodD0iMTQiIHNyYz0iL2NvbW1vbi9pbWFnZXMvc3RhdGljL2ljb19kZW51bmNpYXIuZ2lmIj4mbmJzcDs8YSBjbGFzcz0iSU5WIiBocmVmPSJqYXZhc2NyaXB0OlJlcG9ydEltcHJvcGVyQ29tbWVudCgnMjU0MzExOCcpIj5kZW51bmNpYXI8L2E+PC9kaXY+PC90ZD48L3RyPjwvdGFibGU+PGRpdiBjbGFzcz0iY29tZW50YXJpbyIgaWQ9IlBvc3RCb2R5MjU0MzExOCI+TWljaGlvPGJyLz4yNy4wMy4yMDEzIC0gMTk6NTg8YnIvPjxici8+RXUgZGlzc2UgcXVhc2UgdW0gbWlsaCYjMjI3O28uPC9kaXY+PC9kaXY+PGRpdiBjbGFzcz0ib2RkX2NvbSI+PGEgbmFtZT0iQ29tMjU0MzA3NiI+PC9hPjx0YWJsZSBjZWxscGFkZGluZz0iMCIgY2VsbHNwYWNpbmc9IjAiPjx0cj48dGQgdmFsaWduPSJ0b3AiPjxpbWcgYWxpZ249ImFic21pZGRsZSIgd2lkdGg9IjE1IiBoZWlnaHQ9IjE1IiBzdHlsZT0idmVydGljYWwtYWxpZ246IHRvcDtwYWRkaW5nOjRweCA0cHggMHB4IDBweDsiIHNyYz0iL2NvbW1vbi9pbWFnZXMvbG9nb19zbWFsbC5naWYiPjwvdGQ+PHRkIHZhbGlnbj0idG9wIj48ZGl2IGNsYXNzPSJub21lIj48c3BhbiBpZD0iUG9zdEF1dGhvcjI1NDMwNzYiPkJhcnVjaDEwMDwvc3Bhbj48YnIvPjxzcGFuIGNsYXNzPSJkYXRhIj4yNy4wMy4yMDEzIC0gMjA6MDU8L3NwYW4+PC9kaXY+PC90ZD48dGQgdmFsaWduPSJ0b3AiIGFsaWduPSJyaWdodCI+PGRpdiBjbGFzcz0iaWNvcyIgaWQ9IlBvc3RJbXByb3BlcjI1NDMwNzYiPjxpbWcgd2lkdGg9IjE0IiBoZWlnaHQ9IjE0IiBzcmM9Ii9jb21tb24vaW1hZ2VzL3N0YXRpYy9pY29fZGVudW5jaWFyLmdpZiI+Jm5ic3A7PGEgY2xhc3M9IklOViIgaHJlZj0iamF2YXNjcmlwdDpSZXBvcnRJbXByb3BlckNvbW1lbnQoJzI1NDMwNzYnKSI+ZGVudW5jaWFyPC9hPjwvZGl2PjwvdGQ+PC90cj48L3RhYmxlPjxkaXYgY2xhc3M9ImNvbWVudGFyaW8iIGlkPSJQb3N0Qm9keTI1NDMwNzYiPlVtIHBvYnJlIGVtIElzcmFlbCBlbSBlc3RhZG8gZGUgbWlzJiMyMzM7cmlhIHRlbSBjYXJybywgdGVsZW0mIzI0Mzt2ZWwsICBtb3JhZGlhIGNvbSBnZWxhZGVpcmEsIERWRCwgTWljcm9vbmRhcywgZmF0b3MgZW0gbGluaG8gZSBvdSBhbGdvZCYjMjI3O28sIHNhcGF0b3MgZGUgY291cm8sdmlhamFtIGEgR3ImIzIzMztjaWEsIFR1cnF1aWEsRWdpdG8sIEpvcmQmIzIyNjtuaWEsIFR1biYjMjM3O3NpYSBlbSBjcnV6ZWlyb3MgLi4uIFMmIzIyNztvIG9zIFBBVVAmIzIwMTtSUklNT1MgSWd1YWlzIGFvcyAnUG9icmVzIHByZXRvcyBkZSBOZXcgT3JsZWFucycsIGRldmFzdGFkb3MgZG8gRnVyYWMmIzIyNztvIEthdHJpbmEsIG1vcmF2YW0gZW0gY2FzYXImIzI0NTtlcyBjb20gNSBjYXJyb3MgIG5hIGdhcmFnZW0sIGNvbSBUT0RPUyBlbGV0cm9kb20mIzIzMztzdGljb3MgcG9zcyYjMjM3O3ZlaXMgZSBpbWFnaW5hdmVpcywgTmEgQWxlbWFuaGEsIFN1aSYjMjMxO2EuLi4gSURFTSAhICZxdW90O1BvYnJlcyBtaXNlciYjMjI1O3ZlaXMnZWhlaGVoZWhlICByZWNsYW1hbSwgcmVjbGFtYW0uLi4gUyYjMjQzOyB0ZW0gRkRQIHBvciBtMiBzZW5zYWNpb25hbGlzdGFzLjxici8+PGJyLz5RdWVyIHZlciBwb2JyZXphICdSZWFsJyA/IFYmIzIyNztvIGEgQ1ViYSwgYW8gVWx0cmFtYXIgZGVzY29sb25pemFkbywgQWxpJiMyMjU7cyBlbSBUT0RBUyBhcyBhbnRpZ2FzIFBvc3Nlc3MmIzI0NTtlcywgYWdvcmEgJ0luZGVwZW5kZW50ZXMnIGEgY29tZSYjMjMxO2FyIHBlbGEgMS5hIGRlbGFzIDogSEFJVEkgISBlaGVoZWhlaGUgTCYjMjI1OyBzaW0gIHZlciYjMjI3O28gbyBxdWUgJiMyMzM7IFBvYnJlemEsIGZvbWUsIG1pcyYjMjMzO3JpYSBlIHR1ZG8gaXNzbyBHUkEmIzE5OTtBUyBBIFZDUyBERU1PQ1JBVEFTIEUgRVNRVUVSRElTVEFTICEgUEFSQUImIzIwMTtOUyBCQU5ETyBERSBGRFBzICEgQ1JJTUlOT1NPUyAhIFRPRE8gREVNT0NSQVRBIEUgRVNRVUVSRElTVEEgLCAmIzIzMzsgdW0gQkFORElETywgdW0gQ1JJTUlOT1NPPC9kaXY+PC9kaXY+PGRpdiBjbGFzcz0iZXZlbl9jb20iPjxhIG5hbWU9IkNvbTI1NDMwNjkiPjwvYT48dGFibGUgY2VsbHBhZGRpbmc9IjAiIGNlbGxzcGFjaW5nPSIwIj48dHI+PHRkIHZhbGlnbj0idG9wIj48aW1nIGFsaWduPSJhYnNtaWRkbGUiIHdpZHRoPSIxNSIgaGVpZ2h0PSIxNSIgc3R5bGU9InZlcnRpY2FsLWFsaWduOiB0b3A7cGFkZGluZzo0cHggNHB4IDBweCAwcHg7IiBzcmM9Ii9jb21tb24vaW1hZ2VzL2xvZ29fc21hbGwuZ2lmIj48L3RkPjx0ZCB2YWxpZ249InRvcCI+PGRpdiBjbGFzcz0ibm9tZSI+PHNwYW4gaWQ9IlBvc3RBdXRob3IyNTQzMDY5Ij5NaWNoaW88L3NwYW4+PGJyLz48c3BhbiBjbGFzcz0iZGF0YSI+MjcuMDMuMjAxMyAtIDE5OjU4PC9zcGFuPjwvZGl2PjwvdGQ+PHRkIHZhbGlnbj0idG9wIiBhbGlnbj0icmlnaHQiPjxkaXYgY2xhc3M9Imljb3MiIGlkPSJQb3N0SW1wcm9wZXIyNTQzMDY5Ij48aW1nIHdpZHRoPSIxNCIgaGVpZ2h0PSIxNCIgc3JjPSIvY29tbW9uL2ltYWdlcy9zdGF0aWMvaWNvX2RlbnVuY2lhci5naWYiPiZuYnNwOzxhIGNsYXNzPSJJTlYiIGhyZWY9ImphdmFzY3JpcHQ6UmVwb3J0SW1wcm9wZXJDb21tZW50KCcyNTQzMDY5JykiPmRlbnVuY2lhcjwvYT48L2Rpdj48L3RkPjwvdHI+PC90YWJsZT48ZGl2IGNsYXNzPSJjb21lbnRhcmlvIiBpZD0iUG9zdEJvZHkyNTQzMDY5Ij5DYW1hcmFkYSBWZW5kYXBvdiB2JiMyMjU7IHRyb2NhciBkZSBjb21wcmltaWRvcy4uLm9uZGUgJiMyMzM7IHF1ZSBuZXNzZSBsaW5rIGZhbGEgZW0gMSBtaWxoJiMyMjc7byBkZSBjcmlhbiYjMjMxO2FzIGEgdml2ZXIgZW0gcG9icmVzYT8/IHZjIGUgYXMgc3VhcyBhbHVjaW5hJiMyMzE7JiMyNDU7ZXMuLi4uLjxici8+PGJyLz5Hb3N0YXZhIHF1ZSBtZSBpbmRpY2Fzc2VtICYjMjMzOyBzZSBlbSBhbGd1bSBwYWlzIG11JiMyMzE7dWxtYW5vIGhvdXZlIGFsZ3VtIGlzcmFlbGl0YSBhIHBhcnRpY2lwYXIgZW0gY29uY3Vyc29zIHRlbGV2aXNpdm9zIGRvIGVzdGlsbyBtZW5jaW9uYWRvIG5hIG5vdGljaWEgZSBzZSBnYW5oYXJhbSBhbGd1bSBwcmltZWlvLi4uLjwvZGl2PjwvZGl2PjxkaXYgY2xhc3M9Im9kZF9jb20iPjxhIG5hbWU9IkNvbTI1NDI5OTIiPjwvYT48dGFibGUgY2VsbHBhZGRpbmc9IjAiIGNlbGxzcGFjaW5nPSIwIj48dHI+PHRkIHZhbGlnbj0idG9wIj48aW1nIGFsaWduPSJhYnNtaWRkbGUiIHdpZHRoPSIxNSIgaGVpZ2h0PSIxNSIgc3R5bGU9InZlcnRpY2FsLWFsaWduOiB0b3A7cGFkZGluZzo0cHggNHB4IDBweCAwcHg7IiBzcmM9Ii9jb21tb24vaW1hZ2VzL2xvZ29fc21hbGwuZ2lmIj48L3RkPjx0ZCB2YWxpZ249InRvcCI+PGRpdiBjbGFzcz0ibm9tZSI+PHNwYW4gaWQ9IlBvc3RBdXRob3IyNTQyOTkyIj52ZW5kYXA8L3NwYW4+PGJyLz48c3BhbiBjbGFzcz0iZGF0YSI+MjcuMDMuMjAxMyAtIDE4OjI1PC9zcGFuPjwvZGl2PjwvdGQ+PHRkIHZhbGlnbj0idG9wIiBhbGlnbj0icmlnaHQiPjxkaXYgY2xhc3M9Imljb3MiIGlkPSJQb3N0SW1wcm9wZXIyNTQyOTkyIj48aW1nIHdpZHRoPSIxNCIgaGVpZ2h0PSIxNCIgc3JjPSIvY29tbW9uL2ltYWdlcy9zdGF0aWMvaWNvX2RlbnVuY2lhci5naWYiPiZuYnNwOzxhIGNsYXNzPSJJTlYiIGhyZWY9ImphdmFzY3JpcHQ6UmVwb3J0SW1wcm9wZXJDb21tZW50KCcyNTQyOTkyJykiPmRlbnVuY2lhcjwvYT48L2Rpdj48L3RkPjwvdHI+PC90YWJsZT48ZGl2IGNsYXNzPSJjb21lbnRhcmlvIiBpZD0iUG9zdEJvZHkyNTQyOTkyIj5BZmluYWwgbyBlc3BpJiMyMjc7byBzYWJlIHVtYXMgY29pc2l0YXMgZG8gbm9zc28gcHJlc2lkZW50ZS4uLi48L2Rpdj48L2Rpdj48ZGl2IGNsYXNzPSJldmVuX2NvbSI+PGEgbmFtZT0iQ29tMjU0Mjk4NSI+PC9hPjx0YWJsZSBjZWxscGFkZGluZz0iMCIgY2VsbHNwYWNpbmc9IjAiPjx0cj48dGQgdmFsaWduPSJ0b3AiPjxpbWcgYWxpZ249ImFic21pZGRsZSIgd2lkdGg9IjE1IiBoZWlnaHQ9IjE1IiBzdHlsZT0idmVydGljYWwtYWxpZ246IHRvcDtwYWRkaW5nOjRweCA0cHggMHB4IDBweDsiIHNyYz0iL2NvbW1vbi9pbWFnZXMvbG9nb19zbWFsbC5naWYiPjwvdGQ+PHRkIHZhbGlnbj0idG9wIj48ZGl2IGNsYXNzPSJub21lIj48c3BhbiBpZD0iUG9zdEF1dGhvcjI1NDI5ODUiPnZlbmRhcDwvc3Bhbj48YnIvPjxzcGFuIGNsYXNzPSJkYXRhIj4yNy4wMy4yMDEzIC0gMTg6MTM8L3NwYW4+PC9kaXY+PC90ZD48dGQgdmFsaWduPSJ0b3AiIGFsaWduPSJyaWdodCI+PGRpdiBjbGFzcz0iaWNvcyIgaWQ9IlBvc3RJbXByb3BlcjI1NDI5ODUiPjxpbWcgd2lkdGg9IjE0IiBoZWlnaHQ9IjE0IiBzcmM9Ii9jb21tb24vaW1hZ2VzL3N0YXRpYy9pY29fZGVudW5jaWFyLmdpZiI+Jm5ic3A7PGEgY2xhc3M9IklOViIgaHJlZj0iamF2YXNjcmlwdDpSZXBvcnRJbXByb3BlckNvbW1lbnQoJzI1NDI5ODUnKSI+ZGVudW5jaWFyPC9hPjwvZGl2PjwvdGQ+PC90cj48L3RhYmxlPjxkaXYgY2xhc3M9ImNvbWVudGFyaW8iIGlkPSJQb3N0Qm9keTI1NDI5ODUiPiYjMjAxOyBvIEhBQVJFVFogcXVlIG8gZGl6OiBxdWFzZSAxIG1pbGgmIzIyNztvIGRlIGNyaWFuJiMyMzE7YXMgdml2ZW0gbmEgcG9icmVzYS48YnIvPjxici8+aHR0cDovL3d3dy5oYWFyZXR6LmNvbS9jdWx0dXJlL2FydHMtbGVpc3VyZS9pc3JhZWxpLWFyYWItd2lucy1zZWNvbmQtc2Vhc29uLW9mLWlzcmFlbC1zLXRoZS12b2ljZS5wcmVtaXVtLTEuNTExNTI1PGJyLz48L2Rpdj48L2Rpdj48ZGl2IGNsYXNzPSJvZGRfY29tIj48YSBuYW1lPSJDb20yNTQyODMzIj48L2E+PHRhYmxlIGNlbGxwYWRkaW5nPSIwIiBjZWxsc3BhY2luZz0iMCI+PHRyPjx0ZCB2YWxpZ249InRvcCI+PGltZyBhbGlnbj0iYWJzbWlkZGxlIiB3aWR0aD0iMTUiIGhlaWdodD0iMTUiIHN0eWxlPSJ2ZXJ0aWNhbC1hbGlnbjogdG9wO3BhZGRpbmc6NHB4IDRweCAwcHggMHB4OyIgc3JjPSIvY29tbW9uL2ltYWdlcy9sb2dvX3NtYWxsLmdpZiI+PC90ZD48dGQgdmFsaWduPSJ0b3AiPjxkaXYgY2xhc3M9Im5vbWUiPjxzcGFuIGlkPSJQb3N0QXV0aG9yMjU0MjgzMyI+QmFydWNoMTAwPC9zcGFuPjxici8+PHNwYW4gY2xhc3M9ImRhdGEiPjI3LjAzLjIwMTMgLSAxNDozNjwvc3Bhbj48L2Rpdj48L3RkPjx0ZCB2YWxpZ249InRvcCIgYWxpZ249InJpZ2h0Ij48ZGl2IGNsYXNzPSJpY29zIiBpZD0iUG9zdEltcHJvcGVyMjU0MjgzMyI+PGltZyB3aWR0aD0iMTQiIGhlaWdodD0iMTQiIHNyYz0iL2NvbW1vbi9pbWFnZXMvc3RhdGljL2ljb19kZW51bmNpYXIuZ2lmIj4mbmJzcDs8YSBjbGFzcz0iSU5WIiBocmVmPSJqYXZhc2NyaXB0OlJlcG9ydEltcHJvcGVyQ29tbWVudCgnMjU0MjgzMycpIj5kZW51bmNpYXI8L2E+PC9kaXY+PC90ZD48L3RyPjwvdGFibGU+PGRpdiBjbGFzcz0iY29tZW50YXJpbyIgaWQ9IlBvc3RCb2R5MjU0MjgzMyI+RSBvcyAmcXVvdDsmIzE5MztyYWJlcyBDcmlzdCYjMjI3O29zJnF1b3Q7LCBzJiMyMjc7byBQUk9QUklFVCYjMTkyO1JJT1MgZGUgdGVycmFzIGgmIzIyNTsgbWlsJiMyMzQ7bmlvcy4gTiYjMjI3O28gcyYjMjI3O28gSU5WQVNPUkVTIGUgTlVOQ0EgZm9yYW0gZmVsYWhpbnMgYnJhJiMyMzE7YWlzICEgUyYjMjI3O28gcHImIzI0MzstSXNyYWVsLCBwciYjMjQzOy1KdWRldXMgMTAwICUgT0RJQU0gb3MgJiMyMjU7cmFiZXMgbXVzbGlucyBxdWUgb3MgcGVyc2VndWVtIHRiIGUgZXN0JiMyMjc7byBhIFJPVUJBUkVNIGUgSU5WQURJUkVNIHN1YXMgcHJvcHJpZWRhZGVzIG5hcyBjaWRhZGVzIG9uZGUgJ0FOVEVTIGVyYW0gbWFpb3JpYScgY29tbyBBY3JlLCBOYXphciYjMjMzOyBlIEJlbCYjMjMzO20gISAgRSBpc3NvIGEgTSYjMjM3O2RpYSBOZW8tTWFyeGlzdGEgcXVlIGRvbWluYSBvIHBsYW5ldGEsIHBvciBzZXJlbSBtZXJvcyBhZ2VudGVzIG1hbmlwdWxhZG9yZXMgYSBzZXJ2aSYjMjMxO28gZGEgRWxpdGUgR2xpYmFsaXN0YSwgTkFEQSBESVNTTyBSRUxBVEEgRSBJTkZPUk1BICEgU29tZW50ZSBmYXplbSBzZW5zYWNpb25hbGlzbW9zIHZpdGltaXN0YXMgIGNvbSBvcyBwYWxlc3Rpbm9zIG11c2xpbnMsIHJhJiMyMzE7YSBkZSBmaWxob3MgZGEgcHV0aGFzICEgPGJyLz48YnIvPkVtIEZyZW50ZSBhIGlncmVqYSBkYSBOYXRpdmlkYWRlIGVtIEJlbCYjMjMzO20sIHRlbSB1bSBzZW5ob3IgJiMyMjU7cmFiZSBjcmlzdCYjMjI3O28sIGNoYW1hZG8gJnF1b3Q7SXNzYSZxdW90OyAoIGplc3VzIGVtICYjMjI1O3JhYmUgKSBxdWUgdmVuZGUgc291dmVuaXJzIGUgZWxlIGZvaSBuYXNjaWRvIG5hIEJhaGlhLCBjJiMyMjU7IG5hIEJyYXp1a2EgZSBsJiMyMjU7IGVzfiZhbXA7IzE4MDthIHBhcmEgRVhQVUxTQVIgb3MgbWFsZGl0b3MgaW52YXNvcmVzIGUgbWUgZXhwbGljb3UgbyBxdWUgZXNzZXMgdmVybWVzIG11c2xpbnMgZmF6ZW0gZSBoaiBCZWwmIzIzMzttLCBlc3QmIzIyNTsgYSBtZXJjJiMyMzQ7IGRlc3NlcyBtYWxkaXRvcy4gQ0hPUk9VIHBvciBJc3JhZWwgdGVyICdlbnRyZWd1ZSBhIGNpZGFkZSBhb3MgbWFsZGl0b3MgaXNsJiMyMjY7bWljb3MgZSBob2plIGVzdCYjMjI3O28gaW5kZWZlc29zLCBpbmp1c3RpJiMyMzE7YWRvcywgZXh0b3JxdWlkb3MuLi5wZWxhICdBdXRvcmlkYWRlIHBhbGVzdGluYScuIG9zIGNyaXN0JiMyMjc7b3MgcXVlIGVyYW0gZW0gOTUlIGF0JiMyMzM7IDE5OTMsIGhvamUgbiYjMjI3O28gcyYjMjI3O28gbmVtIDggJSAhIEEgbWFpb3JpYSBlc21hZ2Fkb3JhIHRldmUgZGUgZnVnaXIgcGFyYSBJc3JhZWwgISBQb3IgZXNzYXMgZSBvdXRyYXMgYXF1ZWxlIEZJTEhPIERBIFBVVEhBIGRvIFJBQklOLCBsZXZvdSB1bnMgY2h1bWJvcyBiZW0gZGFkb3MuIFRSQUlET1IgISBMRVNBIFAmIzE5MztUUklBICEgQVNTQVNTSU5PICEgUG9pcyBzYWJpYSBvIHF1ZSBmYXJpYW0gb3MgSXNsJiMyMjc7bWljb3MgY29tIGEgcyBtaW5vcmlhcyBjcmlzdCYjMjI3O3MsIERydXNhcywgQ2lyY2Fzc2lhbmFzLCBBc3MmIzIzNztyaWFzICggcXVlIHMmIzIyNztvIHRiIGNyaXN0JiMyMjc7b3MgKSwgLi4uIE8gbWVzbW8gZGV1LXNlIGVtIGplcmljJiMyNDM7IGUgZW0gVE9ET1Mgb3MgdGVycml0JiMyNDM7cmlvcyAnb2ZlcnRhZG9zIGdyYXR1aXRhbWVudGUgZSBJTEVHSVRJTUFNRU5URSBhb3MgbWFsZGl0b3MgZmlsaG9zIGRlIEhBTSAsIG9zIE1BTERJVE9TIElTTCYjMTk0O01JQ09TICEgRSArIGJhbmRpZG8sICYjMjMzOyBxdWVtIERFRkVOREUgZXNzZXMgdmVybWVzIHNlbSBjb25oZWNpbWVudG8gZGUgY2F1c2EgISA8L2Rpdj48L2Rpdj48ZGl2IGNsYXNzPSJldmVuX2NvbSI+PGEgbmFtZT0iQ29tMjU0MjgyOCI+PC9hPjx0YWJsZSBjZWxscGFkZGluZz0iMCIgY2VsbHNwYWNpbmc9IjAiPjx0cj48dGQgdmFsaWduPSJ0b3AiPjxpbWcgYWxpZ249ImFic21pZGRsZSIgd2lkdGg9IjE1IiBoZWlnaHQ9IjE1IiBzdHlsZT0idmVydGljYWwtYWxpZ246IHRvcDtwYWRkaW5nOjRweCA0cHggMHB4IDBweDsiIHNyYz0iL2NvbW1vbi9pbWFnZXMvbG9nb19zbWFsbC5naWYiPjwvdGQ+PHRkIHZhbGlnbj0idG9wIj48ZGl2IGNsYXNzPSJub21lIj48c3BhbiBpZD0iUG9zdEF1dGhvcjI1NDI4MjgiPkJhcnVjaDEwMDwvc3Bhbj48YnIvPjxzcGFuIGNsYXNzPSJkYXRhIj4yNy4wMy4yMDEzIC0gMTQ6MTg8L3NwYW4+PC9kaXY+PC90ZD48dGQgdmFsaWduPSJ0b3AiIGFsaWduPSJyaWdodCI+PGRpdiBjbGFzcz0iaWNvcyIgaWQ9IlBvc3RJbXByb3BlcjI1NDI4MjgiPjxpbWcgd2lkdGg9IjE0IiBoZWlnaHQ9IjE0IiBzcmM9Ii9jb21tb24vaW1hZ2VzL3N0YXRpYy9pY29fZGVudW5jaWFyLmdpZiI+Jm5ic3A7PGEgY2xhc3M9IklOViIgaHJlZj0iamF2YXNjcmlwdDpSZXBvcnRJbXByb3BlckNvbW1lbnQoJzI1NDI4MjgnKSI+ZGVudW5jaWFyPC9hPjwvZGl2PjwvdGQ+PC90cj48L3RhYmxlPjxkaXYgY2xhc3M9ImNvbWVudGFyaW8iIGlkPSJQb3N0Qm9keTI1NDI4MjgiPiYjMjAxOyAmIzIyNTtyYWJlIENSSVNUJiMxOTU7ICEgLCBwb3J0YW50bywgbiYjMjI3O28gJiMyMzM7IHVtYSBIQU1JVEEgRklMSEEgREEgUFVUSEEgTEFEUkEsIEZPRk9RVUVJUkEsIENBTE9URUlSQSwgQkFORElEQSwgRkFMU0EsIE1FRCYjMjA1O09DUkUsIERJU1NJTVVMQURBLCBWSVRJTUlTVEEsIEJBR0FDRUlSQSBQSUxBTlRSQSxWSUdBUklTVEEsIE1FTlRJUk9TQSwgRElGQU1BRE9SQSwgSU5URVJFU1NFSVJBLCBGSU5HSURBLCBjb21vIGFzIGRlbWFpcyAhICYjMTkzO3JhYmVzIHRlbW9zIGF0JiMyMzM7IGp1ZGV1cyAhIE9zIHF1ZSBuJiMyMjc7byBwcmVzdGFtIHMmIzIyNztvIG9zIGhhbWl0YXMgLCBxdWUgcyYjMjI3O28gb3MgaXNsJiMyMjY7bWljb3MsIHJhJiMyMzE7YSBkZSBmaWxob3MgZGEgcHV0aGFzICEgPGJyLz48YnIvPiYjMjI1O3JhYmVzIG11c2xpbnMsIHMmIzIyNztvIElOVkFTT1JFUyAhIEZFTEFISU5TIElNSUdSQU5URVMgcXVlIHZpZXJhbSBlbSBtYXNzYSAmIzIyNDsgSXNyYWVsIG5hcyBkJiMyMzM7Y2FkYXMgZGUgMTAgYSAzMCBkbyBTJiMyMzM7YyBYWCBhIHRyYWJhbGhhcmVtIG5vcyBzZXJ2aSYjMjMxO29zIHBlc2Fkb3MsIGJyYSYjMjMxO2FpcyAgZSBuYSBhZ3JpY3VsdHVyYSAgcXVlIGZvcmFtIG9zIGdyYW5kZXMgZW1wcmVlbmRpbWVudG9zICBTaW9uaXN0YXMsIGNvbnRydSYjMjM3O3JhbSBub3ZhcyBjaWRhZGVzLCBqdWRhaWNhcywgZXN0cmFkYXMgZXRjIGVyYW0gRkVMQUhJTlMsIHBvcnRhbnRvIHRyYWJhbGhhZG9yZXMgYnJhJiMyMzE7YWlzLCBvcGVyJiMyMjU7cmlvcyBxdWUgTlVOQ0EgIHBvc3N1JiMyMzc7cmFtIHRlcnJhcyBhdCYjMjMzOyAxOTE5LCBxdWFuZG8gb3MgJ0luZ2xlc2VzJyBkZXJlbS1saGVzIHQmIzIzNzt0dWxvcyBkZSBwcm9wcmllZGFkZXMgcGFyYSAnY29udGVyZW0gbyBhdmFuJiMyMzE7byBzaW9uaXN0YSBtaWxlbmFyJyBlIGNvbSBpc3NvIHRlcmVtIGEgJ0VzcGVyYW4mIzIzMTthJyBkZSBmdW5kYXJlbSB1bSBvdXRybyBwYSYjMjM3O3MgJiMyMjU7cmFiZSBpc2wmIzE5OTthbWljb3MgYSBzZXVzIGludGVyZXNzZXMgaW1wZXJpYXFsaXN0YXMgcG9yIGNhdXNhIGRvIHBldHImIzI0MztsZW8gZSBuJiMyMjc7byBkZSBSRUZVTkRBUkVNIG8gRXN0YWRvIEp1ZGV1LCBtYXMgY29ub3NtbyBqdWRldXMgdW5pZG9zIE5JTkdVJiMyMDE7TSBQT0RFICEgUyYjMjQzOyBEJ3VzIGUgJnF1b3Q7RWxlJyBlc3QmIzIyNTsgY29ub3Njbywgc29tb3Mgc2V1cyBmaWxob3MgcHJlZmVyaWRvcyBlIGVzY29saGlkb3MgYSByZWNlYmVybW9zIGEgc3VhIFRPUkFIICEgQW0mIzIzMzttICEgICBGT1JBICYjMjI1O3JhYmVzIG11c2xpbnMgZmlsaG9zIGRhIHB1dGhhcyAhICZhbXA7IzE4MDtGaWxpc3Rpbm9zIHF1ZSAoIG5hZGEgdGVtIGhhdmVyIGNvbSBlc3NlcyAncGFsZXN0aW5vcycgYWN0dWFpcywgcXVlIHMmIzIyNztvIG9yaXVuZG9zIGRlIHJlZ2kmIzIzMTsmIzI0NTtlcyB2aXppbmhhcyBhIElzcmFlbCkgRSBmaWxpc3Rpbm9zIHMmIzIyNztvIG9yaXVuZG9zIGRlIENSRVRBID0gQ3JldGlub3MgISEgIEZpbGlzdGlub3MgPSAgcGFsZXN0aW5vcyA9IHBlbGVzY2hldCA9IElOVkFTT1IgITwvZGl2PjwvZGl2PjxkaXYgY2xhc3M9Im9kZF9jb20iPjxhIG5hbWU9IkNvbTI1NDI4MDQiPjwvYT48dGFibGUgY2VsbHBhZGRpbmc9IjAiIGNlbGxzcGFjaW5nPSIwIj48dHI+PHRkIHZhbGlnbj0idG9wIj48aW1nIGFsaWduPSJhYnNtaWRkbGUiIHdpZHRoPSIxNSIgaGVpZ2h0PSIxNSIgc3R5bGU9InZlcnRpY2FsLWFsaWduOiB0b3A7cGFkZGluZzo0cHggNHB4IDBweCAwcHg7IiBzcmM9Ii9jb21tb24vaW1hZ2VzL2xvZ29fc21hbGwuZ2lmIj48L3RkPjx0ZCB2YWxpZ249InRvcCI+PGRpdiBjbGFzcz0ibm9tZSI+PHNwYW4gaWQ9IlBvc3RBdXRob3IyNTQyODA0Ij5LYWdheVBhRWxlPC9zcGFuPjxici8+PHNwYW4gY2xhc3M9ImRhdGEiPjI3LjAzLjIwMTMgLSAxMzozNzwvc3Bhbj48L2Rpdj48L3RkPjx0ZCB2YWxpZ249InRvcCIgYWxpZ249InJpZ2h0Ij48ZGl2IGNsYXNzPSJpY29zIiBpZD0iUG9zdEltcHJvcGVyMjU0MjgwNCI+PGltZyB3aWR0aD0iMTQiIGhlaWdodD0iMTQiIHNyYz0iL2NvbW1vbi9pbWFnZXMvc3RhdGljL2ljb19kZW51bmNpYXIuZ2lmIj4mbmJzcDs8YSBjbGFzcz0iSU5WIiBocmVmPSJqYXZhc2NyaXB0OlJlcG9ydEltcHJvcGVyQ29tbWVudCgnMjU0MjgwNCcpIj5kZW51bmNpYXI8L2E+PC9kaXY+PC90ZD48L3RyPjwvdGFibGU+PGRpdiBjbGFzcz0iY29tZW50YXJpbyIgaWQ9IlBvc3RCb2R5MjU0MjgwNCI+SXNyYWVsICYjMjMzOyB1bWEgZGVtb2NyYWNpYSwgbWFpcyB0cmFuc3BhcmVudGUgZSBtZW5vcyBjb3JydXB0YSBxdWUgYSBwb3J0dWd1ZXNhOiB1bSBleGVtcGxvIGEgc2VndWlyITxici8+SCYjMjI1OyBwb3Vjb3MgYW5vcyBJc3JhZWwgZXNjb2xoZXUgdW0gdHJhbnNzZXh1YWwgcGFyYSByZXByZXNlbnRhciBvIHBhJiMyMzc7cyBubyBFdXJvZmVzdGl2YWwgZGEgY2FuJiMyMzE7JiMyMjc7bywgZSBnYW5ob3UuPGJyLz5OZW0gdHVkbyAmIzIzMzsgbWF1IGVtIElzcmFlbCwgZW1ib3JhIGRldmEgZGl6ZXIgcXVlIHNpbXBhdGl6byBjb20gYSBjYXVzYSBwYWxlc3RpbmlhbmEuPC9kaXY+PC9kaXY+ZAILDxYCHwEFBDExODlkZA==" />
+
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAwKq0LuDDwLhy8OfAgLn3Pr3CQ==" />  
+		<input type="hidden" id="dataActual" name="dataActual" value="2013-05-05T18:01:19" />
+		<div style="display:none">
+			
+<script type="text/javascript" language="javascript">
+
+function loadFragmentInToElement(fragment_url)
+ {
+    var element = document.getElementById('divMaisNot');
+
+    if ( element ) 
+    {
+       var xmlhttp; 
+       if (window.ActiveXObject) // for IE 
+       { 
+          xmlhttp = new ActiveXObject("Microsoft.XMLHTTP"); 
+       } 
+       else if (window.XMLHttpRequest) // for other browsers 
+       { 
+          xmlhttp = new XMLHttpRequest(); 
+       } 
+
+       xmlhttp.open("GET", fragment_url);
+
+       xmlhttp.onreadystatechange = function() {
+           if (xmlhttp.readyState == 4 && xmlhttp.status == 200) 
+           {
+               element.innerHTML = xmlhttp.responseText;
+           }
+       }
+       xmlhttp.send(null);
+
+    }
+}
+
+   </script>
+   
+
+		</div>
+
+        <center>		
+            
+
+
+<!-- INICIO LINKS UTEIS -->
+
+
+
+
+
+<!-- FIM LINKS UTEIS --> 
+
+<!-- INICIO PESQUISA -->
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr>
+<td class="pesquisa">
+	<table width="980" align="center" cellpadding="0" cellspacing="0" border="0">
+	<tr>
+
+    <td width="190">
+    <table>
+    <tr>
+    <td>
+ <input name="ctl00$ctl00$headertop1$boAddr" type="hidden" id="ctl00_ctl00_headertop1_boAddr" /> 
+ </td>
+ </tr>
+   
+    <tr>
+    <td  valign="top" align="left"><a target="_parent"  href="/"><img src="/common/images/sol_primavera.jpg" width="165" height="90" /></a></td>
+    </tr>
+    <tr><td></td></tr>
+    <tr>
+    <td>
+    <div class="linksLogin">
+    <table align="right" height="35" cellpadding="0" cellspacing="0" border="0">	
+	        <tr>
+	        <td valign="bottom">
+    <div id="ctl00_ctl00_headertop1_divlogin" style="float:right;">
+        <img src="/common/images/logo_small.gif" style="vertical-align:bottom;" width="15" height="15" align="absmiddle" /><a onclick="window.open ('/connect/logincs.aspx','login','menubar=1,resizable=1,width=350,height=250');  return false" href="#"><strong>Login</strong></a>
+        |<img src="/common/images/static/ico_FB_mini.jpg" style="vertical-align:bottom;" width="15" height="15" align="absmiddle" /><a onclick="login(); return false;"  href="#"><strong>Connect</strong></a>
+        </div>
+        
+        </td></tr>
+        </table>
+        </div></td>
+     </tr>
+        
+     </table>   
+    </td>
+	<td width="290">
+		<table>
+		<tr><td><div class="data_hora">
+<table align="left" height="30px" cellpadding="0" cellspacing="0">	
+	<tr>
+	<td valign="top" align="left">	
+	    <div id="ctl00_ctl00_headertop1_datahora">domingo, 5 de Maio de 2013, 18:01</div>
+
+	</td>
+	<td><a href="http://meteorologia.sapo.pt/" target="_blank"><img src="/common/images/static/meteo_icone.png" width="35" height="28" style="padding-bottom:10px" /></a>
+	</td>
+	</tr>
+	</table>
+	</div></td></tr>
+		<tr>
+		<td>
+		    
+
+
+<div class="pesquisa_caixa" onclick="ClickText(this)">
+    <table>
+    <tr>
+    <td align="right" width="70px"><b>Pesquisa</b></td>
+
+    <td align="right" width="100px"><img src="/common/images/logo_sapo.gif" width="80" height="18" /></td>
+    </tr>
+    </table>
+    <table cellpadding="0" cellspacing="0">
+    <tr>
+    <td>
+    <div class="caixapesq">
+        <input name="ctl00$ctl00$headertop1$search1$txtSearch" type="text" id="ctl00_ctl00_headertop1_search1_txtSearch" class="inputPesqBg" onblur="BlurText(this)" size="50" title="pesquisar" onkeydown="GoSearch(this, event,'pt')" />
+    </div>
+    </td>
+
+    <td>
+    <div class="btnpesquisa">
+        <a href="javascript:FindSearchCriteria('ctl00_ctl00_headertop1_search1_txtSearch','pt')" id="ctl00_ctl00_headertop1_search1_linkSearch" target="_top"><img style="padding-bottom:5px" src="/common/images/static/btn_pesquisa.png" width="25" height="25" alt="pesquisar" /></a>
+    </div>
+    </td>
+    </tr>
+    </table>
+</div>
+
+		</td>
+		</tr>
+		<tr><td>
+			<div class="links_uteis">
+            <table align="right" height="35px" cellpadding="0" cellspacing="0" border="0">	
+	        <tr>
+	           <td valign="bottom" align="left" width="380px">	 
+	    <a target="_parent"  href="http://comunidade.sol.pt/">Comunidade</a>
+	      | <a target="_parent"  href="/inicio/institucional.aspx">Institucional</a>
+	      | <a target="_parent"  href="/inicio/publicidade.aspx">Publicidade</a>
+	      
+	       
+        </td>
+      
+
+	</tr>
+	</table>
+	</div></td></tr>
+		</table>
+		
+	</td>
+	
+	
+	<td align="right"><table cellpadding="0" cellspacing="0">
+	    <tr>
+	        <td valign="top" align="center" width="90"><a target="_blank"  href="http://emprego.sol.sapo.pt"><img alt="Emprego" src="/common/images/static/emprego.png" width="67" height="84"  /></a></td>
+	        <td valign="top" align="center" width="90"><a target="_blank"  href="http://imobiliario.sol.sapo.pt"><img alt="Imobiliário" src="/common/images/static/imobiliario.png" width="67" height="84"  /></a></td>
+	        <td valign="top" align="center" width="90"><a target="_blank"  href="http://motores.sol.sapo.pt"><img alt="Motores" src="/common/images/static/motores.png" width="67" height="84"  /></a></td>
+	      
+	    </tr>
+	    </table></td>
+	<td align="right" width="245"><table cellpadding="0" cellspacing="0">
+	    <tr>
+	        <td valign="bottom" width="122" align="left"><a href="http://canais.sol.pt/edicaoimpressa/" target="_parent"><img src="/storage/Sol/2013/small/ng1352188_120x144.jpg?type=small" width="120px"></a>
+	        </td>
+	       
+	        <td valign="bottom"><a href="http://itunes.apple.com/us/app/sol/id461729321?mt=8" target="_blank"><img alt="iPad" src="/common/images/static/sol_ipad.png" width="120" height="151"  /></a>
+	        </td>
+	    </tr>
+	    </table></td>
+	</tr>
+	
+	</table>
+</td>
+</tr>
+
+</table>
+<!-- FIM PESQUISA -->
+
+
+
+            
+<!-- INICIO MENU -->
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr>
+<td class="menu">
+	<table width="980" align="center" cellpadding="0" cellspacing="0">
+	<tr>
+
+	<td>
+    <div id="ctl00_ctl00_menu1_mp1" class="mp_home" onclick="parent.location.href='/'">In&iacute;cio</div>
+    
+
+	<div id="ctl00_ctl00_menu1_mp2" class="mp" onclick="parent.location.href='http://sol.sapo.pt/inicio/Opiniao/Default.aspx'">Opini&atilde;o</div>
+	
+
+	<div id="ctl00_ctl00_menu1_mp3" class="mp" onclick="parent.location.href='http://sol.sapo.pt/inicio/Politica/Default.aspx'">Política</div>
+	
+
+	<div id="ctl00_ctl00_menu1_mp4" class="mp" onclick="parent.location.href='http://sol.sapo.pt/inicio/Sociedade/Default.aspx'">Sociedade</div>
+	
+
+	<div id="ctl00_ctl00_menu1_mp5" class="mp" onclick="parent.location.href='http://sol.sapo.pt/inicio/Economia/Default.aspx'">Economia</div>
+	
+
+	
+	<div id="ctl00_ctl00_menu1_mp6_sel" class="mp_sel" onclick="parent.location.href='http://sol.sapo.pt/inicio/Internacional/Default.aspx'">Internacional</div>
+
+	<div id="ctl00_ctl00_menu1_mp7" class="mp" onclick="parent.location.href='http://sol.sapo.pt/inicio/Cultura/Default.aspx'">Cultura</div>
+	
+
+	<div id="ctl00_ctl00_menu1_mp8" class="mp" onclick="parent.location.href='http://sol.sapo.pt/inicio/Desporto/Default.aspx'">Desporto</div>
+	
+
+	<div id="ctl00_ctl00_menu1_mp9" class="mp" onclick="parent.location.href='http://sol.sapo.pt/inicio/Tecnologia/Default.aspx'">Tecnologia</div>
+	
+
+	<div id="ctl00_ctl00_menu1_mp10" class="mp" onclick="parent.location.href='http://sol.sapo.pt/inicio/Vida/Default.aspx'">Vida</div>
+	
+
+	<div id="ctl00_ctl00_menu1_mp12" class="mp" onclick="parent.location.href='http://sol.sapo.pt/inicio/galerias/videos.aspx'">Multimédia</div>
+	
+
+	</td>
+	<td>
+
+    <div id="ctl00_ctl00_menu1_mp11" class="mp2" onclick="parent.location.href='http://sol.sapo.ao';">Angola</div>
+    
+    </td>
+	</tr>
+	</table>
+	
+	
+	
+</td>
+</tr>
+</table>
+<!-- FIM MENU -->
+
+<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://pub.sapo.pt/ajs.php':'http://pub.sapo.pt/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=107");
+   document.write ('&cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&exclude=" + document.MAX_used);
+   document.write (document.charset ? '&charset='+document.charset : (document.characterSet ? '&charset='+document.characterSet : ''));
+   document.write ("&loc=" + escape(window.location));
+   if (document.referrer) document.write ("&referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script>
+<span id="ctl00_ctl00_menu1_moldurasection">
+<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://pub.sapo.pt/ajs.php':'http://pub.sapo.pt/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=460");
+   document.write ('&cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&exclude=" + document.MAX_used);
+   document.write (document.charset ? '&charset='+document.charset : (document.characterSet ? '&charset='+document.characterSet : ''));
+   document.write ("&loc=" + escape(window.location));
+   if (document.referrer) document.write ("&referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script>
+</span>
+
+
+
+		    
+	
+
+	        
+    	
+		    
+		        <div class="MainWrapper paddingT20">
+			        <div class="center-col-content">
+			            
+		
+	
+	
+	
+	<div id="NewsContainer" class="NewsContainerNormal">
+        <div class="detalhe_tit_noticia" id="NewsHead" xmlns:g="http://base.google.com/ns/1.0" xmlns:fb="http://www.google.com"><div class="titulo" id="NewsTitle">Israel: Cantora árabe ganha reality show musical</div><div class="google_partilha" style="float:left;padding-top:5px;"><script type="text/javascript" src="https://apis.google.com/js/plusone.js">
+        {lang: 'pt-PT'}
+      </script><g:plusone size="medium" /></div><div style="margin-top:0px;float:left;height:25px;padding-top:5px;"><fb:like href="http://sol.sapo.pt/inicio/Internacional/Interior.aspx?content_id=71840" send="true" layout="button_count" width="150" show_faces="true" font="" /></div><div class="addthis_toolbox addthis_default_style" style="margin-top:0px;float:left;height:25px; padding-top:5px;"><a class="addthis_button_tweet"></a></div><div style="margin-top:0px;float:left;height:25px;padding-top:5px;"><script type="text/javascript" src="http://platform.linkedin.com/in.js"></script><script type="in/share" data-url="http://sol.sapo.pt/inicio/Internacional/Interior.aspx?content_id=71840" data-counter="right"></script></div><br clear="all"><div class="legenda"><span class="data">27 de Março, 2013</span></div></div><div class="detalhe_noticia fleft" id="NewsMain" xmlns:g="http://base.google.com/ns/1.0" xmlns:fb="http://www.google.com"><div><a><img src="/storage/Sol/2013/big/ng1340105_435x190.jpg?type=big" width="435"></a></div><div class="noticia" id="NewsSummary">A interpretação de Hallelujah, canção emblemática de Leonard Cohen, garantiu à cantora árabe Lina Makhoul a vitória na versão israelita do programa de talentos The Voice.<p>&ldquo;Estou feliz pelas pessoas estarem a votar em mim, por acharem que canto bem, mas também estou feliz pelos votos das pessoas que vêem em mim uma representante de um sector da sociedade israelita&rdquo;, declarou Makhoul no passado sábado, minutos antes de subir ao palco. &ldquo;Se ganhar, não será uma vitória apenas desse sector mas de uma nação inteira&rdquo;.</p><p>Depois de se ter sagrado vencedora do concurso, Lina confessou ter sido &ldquo;vítima de racismo&rdquo; durante a duração do programa mas acrescentou que também recebeu muito feedback positivo depois das suas actuações. &ldquo;A maioria decide, certo?&rdquo;, perguntou a cantora à plateia.</p><p>Shlomi Shabbat, cantora israelita e mentora de Lina no concurso, admitiu que não se importou com o facto de Lina ser árabe. &ldquo;Quando a ouvi pela primeira vez, foquei-me apenas na sua voz única. Não sabia que era árabe mas não me importei quando fiquei a saber. Não interessa se alguém é árabe, religioso, etíope ou georgiano. Ela podia ser qualquer coisa mas a sua voz é única&rdquo;.</p><p>Apesar de não ser a primeira árabe a vencer uma importante competição de canto em Israel, Lina foi a primeira a ganhar o primeiro prémio durante um programa de televisão em horário nobre no canal comercial líder de audiências.</p><p>Estudante de biologia numa das mais prestigiadas universidades israelitas, Lina nasceu em Acre, norte de Israel, e é filha de pais cristãos. <br/></p><p>SOL com agências<br/></p><div class="tags"><b>Tags:</b> <a href="/inicio/tag.aspx?tag=Israel">Israel</a>, <a href="/inicio/tag.aspx?tag=M%FAsica">Música</a>, <a href="/inicio/tag.aspx?tag=Concurso">Concurso</a>, <a href="/inicio/tag.aspx?tag=Internacional">Internacional</a></div></div></div><div class="fright" xmlns:g="http://base.google.com/ns/1.0" xmlns:fb="http://www.google.com"><div id="divMaisNot"></div><div class="print border"><div class="corpo"><a href="javascript:PrintArticle('71840')"><img src="/common/images/static/ico_print_imprimir.gif" width="20" height="20" border="0"> Imprimir
+        </a><br><a href="javascript:ToggleFont()"><img src="/common/images/static/ico_print_aumentar.gif" id="imgToggleFont" width="20" height="20" border="0"><span id="txtToggleFontAu"> Aumentar texto</span><span id="txtToggleFontDi" style="display:none"> Diminuir texto</span></a><br><a href="#Comment"><img src="/common/images/static/ico_print_comentar.gif" width="20" height="20" border="0"> Comentar
+        </a><br><a href="http://www.addthis.com/bookmark.php?v=250&amp;username=solnewsgen" class="addthis_button_compact"><img src="/common/images/static/ico_print_partilha.gif" width="20" height="20" border="0"> Partilhar
+        </a><br><div class="visitas"><div class="visitastext" id="visitastext"></div></div><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=solnewsgen"></script></div></div></div>
+        <br clear="all" />
+        <br clear="all" />
+        
+
+<!-- INICIO COMENTARIOS -->
+
+<a name="Comment"></a>
+<div class="barra_comentarios">
+<div style="float:left" class="links_uteis">
+<a href="/inicio/regras.aspx">Regras de acesso</a>
+</div>
+<div id="ctl00_ctl00_ContentBody_ContentBody_ColCenter_ctl00_divlogin" class="links_uteis" style="float:right;">
+ Os comentários estão reservados a utilizadores identificados: <img src="/common/images/logo_small.gif" width="15" height="15" align="absmiddle" /><a onclick="window.open ('/connect/logincs.aspx','login','menubar=1,resizable=1,width=350,height=250');  return false" href="#"><strong>Login</strong></a>
+| <img src="/common/images/static/ico_FB_mini.jpg" width="15" height="15" align="absmiddle" /><a onclick="login(); return false;"  href="#"><strong>Connect</strong></a>
+</div>
+<br clear="all"/>
+
+
+
+
+
+
+
+
+</div>
+
+<!-- FIM COMENTARIOS -->
+
+        
+
+<!-- INICIO COMENTARIOS -->
+
+<div class="zona_comentarios" id="zona_comentarios">
+
+<div class="num_comentarios" style="float: left;">15 Comentários <img src="/common/images/static/ico_comentarios.gif" alt="" width="24" height="24" /></div>
+
+<div id="ctl00_ctl00_ContentBody_ContentBody_ColCenter__ctrl_0_divComs" class="tbl_tabs"><div class="odd_com"><a name="Com2544018"></a><table cellpadding="0" cellspacing="0"><tr><td valign="top"><img align="absmiddle" width="15" height="15" style="vertical-align: top;padding:4px 4px 0px 0px;" src="/common/images/logo_small.gif"></td><td valign="top"><div class="nome"><span id="PostAuthor2544018">Michio</span><br/><span class="data">29.03.2013 - 00:37</span></div></td><td valign="top" align="right"><div class="icos" id="PostImproper2544018"><img width="14" height="14" src="/common/images/static/ico_denunciar.gif">&nbsp;<a class="INV" href="javascript:ReportImproperComment('2544018')">denunciar</a></div></td></tr></table><div class="comentario" id="PostBody2544018">hehehehehe a comunada anda piursa hehehehehehe e quando resolvem comentar depois de jantar um bem regado &#233; o que se v&#234;....</div></div><div class="even_com"><a name="Com2543997"></a><table cellpadding="0" cellspacing="0"><tr><td valign="top"><img align="absmiddle" width="15" height="15" style="vertical-align: top;padding:4px 4px 0px 0px;" src="/common/images/logo_small.gif"></td><td valign="top"><div class="nome"><span id="PostAuthor2543997">RL1975</span><br/><span class="data">28.03.2013 - 23:45</span></div></td><td valign="top" align="right"><div class="icos" id="PostImproper2543997"><img width="14" height="14" src="/common/images/static/ico_denunciar.gif">&nbsp;<a class="INV" href="javascript:ReportImproperComment('2543997')">denunciar</a></div></td></tr></table><div class="comentario" id="PostBody2543997">mas noticias para o capitalista(sem capital), que afinal e um emigrante...</div></div><div class="odd_com"><a name="Com2543973"></a><table cellpadding="0" cellspacing="0"><tr><td valign="top"><img align="absmiddle" width="15" height="15" style="vertical-align: top;padding:4px 4px 0px 0px;" src="/common/images/logo_small.gif"></td><td valign="top"><div class="nome"><span id="PostAuthor2543973">Michio</span><br/><span class="data">28.03.2013 - 23:07</span></div></td><td valign="top" align="right"><div class="icos" id="PostImproper2543973"><img width="14" height="14" src="/common/images/static/ico_denunciar.gif">&nbsp;<a class="INV" href="javascript:ReportImproperComment('2543973')">denunciar</a></div></td></tr></table><div class="comentario" id="PostBody2543973">depois n&#227;o querem que chamem aos arabes burros...<br/><br/>Israeli movie director beaten by Arab youths in France<br/><br/>O titulo n&#227;o sugere nada de especial, afinal ja &#233; natural os arabes atacarem israelitas. O caricato &#233; que o israelita em quest&#227;o e o filme que dirigiu s&#227;o anti ocupa&#231;&#227;o israelita de territorios. Ou seja os arabes atacaram e deixaram inconsciente um israelita que os defende hehehehehehe grunhosssssssssssssssssssssssssss</div></div><div class="even_com"><a name="Com2543330"></a><table cellpadding="0" cellspacing="0"><tr><td valign="top"><img align="absmiddle" width="15" height="15" style="vertical-align: top;padding:4px 4px 0px 0px;" src="/common/images/logo_small.gif"></td><td valign="top"><div class="nome"><span id="PostAuthor2543330">Baruch100</span><br/><span class="data">28.03.2013 - 01:27</span></div></td><td valign="top" align="right"><div class="icos" id="PostImproper2543330"><img width="14" height="14" src="/common/images/static/ico_denunciar.gif">&nbsp;<a class="INV" href="javascript:ReportImproperComment('2543330')">denunciar</a></div></td></tr></table><div class="comentario" id="PostBody2543330">&#193;rabe Mirodri &#233; CULTURA ! N&#227;o &#233; ra&#231;a e tampouco 'povo' ! H&#225; judeus '&#225;rabes' crist&#227;os, e muslins &quot;&#225;rabes&quot; ! judues do iemen, Iraque, S&#237;rios etc s&#227;o &#193;RABES ! idioma, h&#225;bitos etc  da cultura &#225;rabe. No interior do Marrocos por exemplo, s&#243; sabe-se quem &#233; muslim ou judeu nas sextas feiras, onde uns entram na sinagoga e outros na mesquita ! Pois as roupas, idiomas e dialectos, culin&#225;ria, etc s&#227;o 'EXATAMENTE OS MESMOS&quot; Inclusive os nomes, temos Judeus Mansur, Haddad, Gamal... Dai o uso de distintivos usados nos pa&#237;ses &#225;rabes em &#233;pocas de conflictos como na Alemanha, onde s&#243; sabemos quem &#233; judeu pela casa, pela fam&#237;lia, idem em Portugal, Espanha, It&#225;lia etc J&#225; no 'Leste' europeu, os judeus de origem convertida os KHAZARES, ao encontrarem-se e misturarem-se com os perseguidos judeus da Alemanha, adotaram o Iddisch e logo percebia-se quem era 'judeu' pq tinham Apelidos familiares alem&#227;es, viviam em ghettos e mantiveram a vestimenta preta medieval polonesa, galega e russo-ucraniana, portanto 'f&#225;cil' de se identificar um judeu ! &#193;rabe &#233; CULTURA ! Por isso quando 'Defino' um filho da putha &#225;rabe , sempre escrevo ; &#193;rabe Muslim, hamita Fdp, para n&#227;o gerar confus&#227;o e ofensas aos crist&#227;os de cultura &#225;rabe, ao passo que aos muslins, chama-los de FDP, n&#227;o &#233; ofende-los, mas DEFINI-LOS ! percebeste ?  &#201; caso que descrevi abaixo com o Sr. Issa , um crist&#227;o &#225;rabe. E portanto, ele detesta os malditos hamitas muslins ao qual refere-se a eles como : A Ra&#231;a Desgra&#231;ada... Os crist&#227;os &#225;rabes n&#227;o s&#227;o HAMITAS ! S&#227;o Japhetistas. Abra&#231;&#227;o</div></div><div class="odd_com"><a name="Com2543259"></a><table cellpadding="0" cellspacing="0"><tr><td valign="top"><img align="absmiddle" width="15" height="15" style="vertical-align: top;padding:4px 4px 0px 0px;" src="/common/images/logo_small.gif"></td><td valign="top"><div class="nome"><span id="PostAuthor2543259">mirodri</span><br/><span class="data">27.03.2013 - 23:33</span></div></td><td valign="top" align="right"><div class="icos" id="PostImproper2543259"><img width="14" height="14" src="/common/images/static/ico_denunciar.gif">&nbsp;<a class="INV" href="javascript:ReportImproperComment('2543259')">denunciar</a></div></td></tr></table><div class="comentario" id="PostBody2543259">se &#233; filha de pais crist&#227;os e nasceu em Israel porque raz&#227;o &#233; &#225;rabe? por causa do marido?<br/><br/>os judeus s&#227;o t&#227;o dementes quanto os isl&#226;micos e conv&#233;m separar israelita e judeu pois h&#225; cada vez mais israelitas normais<br/><br/><br/><br/></div></div><div class="even_com"><a name="Com2543127"></a><table cellpadding="0" cellspacing="0"><tr><td valign="top"><img align="absmiddle" width="15" height="15" style="vertical-align: top;padding:4px 4px 0px 0px;" src="/common/images/logo_small.gif"></td><td valign="top"><div class="nome"><span id="PostAuthor2543127">Michio</span><br/><span class="data">27.03.2013 - 21:27</span></div></td><td valign="top" align="right"><div class="icos" id="PostImproper2543127"><img width="14" height="14" src="/common/images/static/ico_denunciar.gif">&nbsp;<a class="INV" href="javascript:ReportImproperComment('2543127')">denunciar</a></div></td></tr></table><div class="comentario" id="PostBody2543127">e ja agora para o animar &#243; camarada vendapov....<br/><br/>U.S. has pinpoint attack ready on Iran, says Israeli official<br/>Potential American strike meant to avoid major regional conflagration, source claims.</div></div><div class="odd_com"><a name="Com2543125"></a><table cellpadding="0" cellspacing="0"><tr><td valign="top"><img align="absmiddle" width="15" height="15" style="vertical-align: top;padding:4px 4px 0px 0px;" src="/common/images/logo_small.gif"></td><td valign="top"><div class="nome"><span id="PostAuthor2543125">Michio</span><br/><span class="data">27.03.2013 - 21:23</span></div></td><td valign="top" align="right"><div class="icos" id="PostImproper2543125"><img width="14" height="14" src="/common/images/static/ico_denunciar.gif">&nbsp;<a class="INV" href="javascript:ReportImproperComment('2543125')">denunciar</a></div></td></tr></table><div class="comentario" id="PostBody2543125">sim ok quase...mas onde &#233; que fala isso no link que indicou???  beba menos..... <br/><br/>e ja agora, eu tb devia aprender a n&#227;o fazer copy past das suas frases, pq depois saiem preciosidades como &quot;pobresa&quot;...</div></div><div class="even_com"><a name="Com2543118"></a><table cellpadding="0" cellspacing="0"><tr><td valign="top"><img align="absmiddle" width="15" height="15" style="vertical-align: top;padding:4px 4px 0px 0px;" src="/common/images/logo_small.gif"></td><td valign="top"><div class="nome"><span id="PostAuthor2543118">vendap</span><br/><span class="data">27.03.2013 - 21:08</span></div></td><td valign="top" align="right"><div class="icos" id="PostImproper2543118"><img width="14" height="14" src="/common/images/static/ico_denunciar.gif">&nbsp;<a class="INV" href="javascript:ReportImproperComment('2543118')">denunciar</a></div></td></tr></table><div class="comentario" id="PostBody2543118">Michio<br/>27.03.2013 - 19:58<br/><br/>Eu disse quase um milh&#227;o.</div></div><div class="odd_com"><a name="Com2543076"></a><table cellpadding="0" cellspacing="0"><tr><td valign="top"><img align="absmiddle" width="15" height="15" style="vertical-align: top;padding:4px 4px 0px 0px;" src="/common/images/logo_small.gif"></td><td valign="top"><div class="nome"><span id="PostAuthor2543076">Baruch100</span><br/><span class="data">27.03.2013 - 20:05</span></div></td><td valign="top" align="right"><div class="icos" id="PostImproper2543076"><img width="14" height="14" src="/common/images/static/ico_denunciar.gif">&nbsp;<a class="INV" href="javascript:ReportImproperComment('2543076')">denunciar</a></div></td></tr></table><div class="comentario" id="PostBody2543076">Um pobre em Israel em estado de mis&#233;ria tem carro, telem&#243;vel,  moradia com geladeira, DVD, Microondas, fatos em linho e ou algod&#227;o, sapatos de couro,viajam a Gr&#233;cia, Turquia,Egito, Jord&#226;nia, Tun&#237;sia em cruzeiros ... S&#227;o os PAUP&#201;RRIMOS Iguais aos 'Pobres pretos de New Orleans', devastados do Furac&#227;o Katrina, moravam em casar&#245;es com 5 carros  na garagem, com TODOS eletrodom&#233;sticos poss&#237;veis e imaginaveis, Na Alemanha, Sui&#231;a... IDEM ! &quot;Pobres miser&#225;veis'ehehehehe  reclamam, reclamam... S&#243; tem FDP por m2 sensacionalistas.<br/><br/>Quer ver pobreza 'Real' ? V&#227;o a CUba, ao Ultramar descolonizado, Ali&#225;s em TODAS as antigas Possess&#245;es, agora 'Independentes' a come&#231;ar pela 1.a delas : HAITI ! ehehehehe L&#225; sim  ver&#227;o o que &#233; Pobreza, fome, mis&#233;ria e tudo isso GRA&#199;AS A VCS DEMOCRATAS E ESQUERDISTAS ! PARAB&#201;NS BANDO DE FDPs ! CRIMINOSOS ! TODO DEMOCRATA E ESQUERDISTA , &#233; um BANDIDO, um CRIMINOSO</div></div><div class="even_com"><a name="Com2543069"></a><table cellpadding="0" cellspacing="0"><tr><td valign="top"><img align="absmiddle" width="15" height="15" style="vertical-align: top;padding:4px 4px 0px 0px;" src="/common/images/logo_small.gif"></td><td valign="top"><div class="nome"><span id="PostAuthor2543069">Michio</span><br/><span class="data">27.03.2013 - 19:58</span></div></td><td valign="top" align="right"><div class="icos" id="PostImproper2543069"><img width="14" height="14" src="/common/images/static/ico_denunciar.gif">&nbsp;<a class="INV" href="javascript:ReportImproperComment('2543069')">denunciar</a></div></td></tr></table><div class="comentario" id="PostBody2543069">Camarada Vendapov v&#225; trocar de comprimidos...onde &#233; que nesse link fala em 1 milh&#227;o de crian&#231;as a viver em pobresa?? vc e as suas alucina&#231;&#245;es.....<br/><br/>Gostava que me indicassem &#233; se em algum pais mu&#231;ulmano houve algum israelita a participar em concursos televisivos do estilo mencionado na noticia e se ganharam algum primeio....</div></div><div class="odd_com"><a name="Com2542992"></a><table cellpadding="0" cellspacing="0"><tr><td valign="top"><img align="absmiddle" width="15" height="15" style="vertical-align: top;padding:4px 4px 0px 0px;" src="/common/images/logo_small.gif"></td><td valign="top"><div class="nome"><span id="PostAuthor2542992">vendap</span><br/><span class="data">27.03.2013 - 18:25</span></div></td><td valign="top" align="right"><div class="icos" id="PostImproper2542992"><img width="14" height="14" src="/common/images/static/ico_denunciar.gif">&nbsp;<a class="INV" href="javascript:ReportImproperComment('2542992')">denunciar</a></div></td></tr></table><div class="comentario" id="PostBody2542992">Afinal o espi&#227;o sabe umas coisitas do nosso presidente....</div></div><div class="even_com"><a name="Com2542985"></a><table cellpadding="0" cellspacing="0"><tr><td valign="top"><img align="absmiddle" width="15" height="15" style="vertical-align: top;padding:4px 4px 0px 0px;" src="/common/images/logo_small.gif"></td><td valign="top"><div class="nome"><span id="PostAuthor2542985">vendap</span><br/><span class="data">27.03.2013 - 18:13</span></div></td><td valign="top" align="right"><div class="icos" id="PostImproper2542985"><img width="14" height="14" src="/common/images/static/ico_denunciar.gif">&nbsp;<a class="INV" href="javascript:ReportImproperComment('2542985')">denunciar</a></div></td></tr></table><div class="comentario" id="PostBody2542985">&#201; o HAARETZ que o diz: quase 1 milh&#227;o de crian&#231;as vivem na pobresa.<br/><br/>http://www.haaretz.com/culture/arts-leisure/israeli-arab-wins-second-season-of-israel-s-the-voice.premium-1.511525<br/></div></div><div class="odd_com"><a name="Com2542833"></a><table cellpadding="0" cellspacing="0"><tr><td valign="top"><img align="absmiddle" width="15" height="15" style="vertical-align: top;padding:4px 4px 0px 0px;" src="/common/images/logo_small.gif"></td><td valign="top"><div class="nome"><span id="PostAuthor2542833">Baruch100</span><br/><span class="data">27.03.2013 - 14:36</span></div></td><td valign="top" align="right"><div class="icos" id="PostImproper2542833"><img width="14" height="14" src="/common/images/static/ico_denunciar.gif">&nbsp;<a class="INV" href="javascript:ReportImproperComment('2542833')">denunciar</a></div></td></tr></table><div class="comentario" id="PostBody2542833">E os &quot;&#193;rabes Crist&#227;os&quot;, s&#227;o PROPRIET&#192;RIOS de terras h&#225; mil&#234;nios. N&#227;o s&#227;o INVASORES e NUNCA foram felahins bra&#231;ais ! S&#227;o pr&#243;-Israel, pr&#243;-Judeus 100 % ODIAM os &#225;rabes muslins que os perseguem tb e est&#227;o a ROUBAREM e INVADIREM suas propriedades nas cidades onde 'ANTES eram maioria' como Acre, Nazar&#233; e Bel&#233;m !  E isso a M&#237;dia Neo-Marxista que domina o planeta, por serem meros agentes manipuladores a servi&#231;o da Elite Glibalista, NADA DISSO RELATA E INFORMA ! Somente fazem sensacionalismos vitimistas  com os palestinos muslins, ra&#231;a de filhos da puthas ! <br/><br/>Em Frente a igreja da Natividade em Bel&#233;m, tem um senhor &#225;rabe crist&#227;o, chamado &quot;Issa&quot; ( jesus em &#225;rabe ) que vende souvenirs e ele foi nascido na Bahia, c&#225; na Brazuka e l&#225; es~&amp;#180;a para EXPULSAR os malditos invasores e me explicou o que esses vermes muslins fazem e hj Bel&#233;m, est&#225; a merc&#234; desses malditos. CHOROU por Israel ter 'entregue a cidade aos malditos isl&#226;micos e hoje est&#227;o indefesos, injusti&#231;ados, extorquidos...pela 'Autoridade palestina'. os crist&#227;os que eram em 95% at&#233; 1993, hoje n&#227;o s&#227;o nem 8 % ! A maioria esmagadora teve de fugir para Israel ! Por essas e outras aquele FILHO DA PUTHA do RABIN, levou uns chumbos bem dados. TRAIDOR ! LESA P&#193;TRIA ! ASSASSINO ! Pois sabia o que fariam os Isl&#227;micos com a s minorias crist&#227;s, Drusas, Circassianas, Ass&#237;rias ( que s&#227;o tb crist&#227;os ), ... O mesmo deu-se em jeric&#243; e em TODOS os territ&#243;rios 'ofertados gratuitamente e ILEGITIMAMENTE aos malditos filhos de HAM , os MALDITOS ISL&#194;MICOS ! E + bandido, &#233; quem DEFENDE esses vermes sem conhecimento de causa ! </div></div><div class="even_com"><a name="Com2542828"></a><table cellpadding="0" cellspacing="0"><tr><td valign="top"><img align="absmiddle" width="15" height="15" style="vertical-align: top;padding:4px 4px 0px 0px;" src="/common/images/logo_small.gif"></td><td valign="top"><div class="nome"><span id="PostAuthor2542828">Baruch100</span><br/><span class="data">27.03.2013 - 14:18</span></div></td><td valign="top" align="right"><div class="icos" id="PostImproper2542828"><img width="14" height="14" src="/common/images/static/ico_denunciar.gif">&nbsp;<a class="INV" href="javascript:ReportImproperComment('2542828')">denunciar</a></div></td></tr></table><div class="comentario" id="PostBody2542828">&#201; &#225;rabe CRIST&#195; ! , portanto, n&#227;o &#233; uma HAMITA FILHA DA PUTHA LADRA, FOFOQUEIRA, CALOTEIRA, BANDIDA, FALSA, MED&#205;OCRE, DISSIMULADA, VITIMISTA, BAGACEIRA PILANTRA,VIGARISTA, MENTIROSA, DIFAMADORA, INTERESSEIRA, FINGIDA, como as demais ! &#193;rabes temos at&#233; judeus ! Os que n&#227;o prestam s&#227;o os hamitas , que s&#227;o os isl&#226;micos, ra&#231;a de filhos da puthas ! <br/><br/>&#225;rabes muslins, s&#227;o INVASORES ! FELAHINS IMIGRANTES que vieram em massa &#224; Israel nas d&#233;cadas de 10 a 30 do S&#233;c XX a trabalharem nos servi&#231;os pesados, bra&#231;ais  e na agricultura  que foram os grandes empreendimentos  Sionistas, contru&#237;ram novas cidades, judaicas, estradas etc eram FELAHINS, portanto trabalhadores bra&#231;ais, oper&#225;rios que NUNCA  possu&#237;ram terras at&#233; 1919, quando os 'Ingleses' derem-lhes t&#237;tulos de propriedades para 'conterem o avan&#231;o sionista milenar' e com isso terem a 'Esperan&#231;a' de fundarem um outro pa&#237;s &#225;rabe isl&#199;amicos a seus interesses imperiaqlistas por causa do petr&#243;leo e n&#227;o de REFUNDAREM o Estado Judeu, mas conosmo judeus unidos NINGU&#201;M PODE ! S&#243; D'us e &quot;Ele' est&#225; conosco, somos seus filhos preferidos e escolhidos a recebermos a sua TORAH ! Am&#233;m !   FORA &#225;rabes muslins filhos da puthas ! &amp;#180;Filistinos que ( nada tem haver com esses 'palestinos' actuais, que s&#227;o oriundos de regi&#231;&#245;es vizinhas a Israel) E filistinos s&#227;o oriundos de CRETA = Cretinos !!  Filistinos =  palestinos = peleschet = INVASOR !</div></div><div class="odd_com"><a name="Com2542804"></a><table cellpadding="0" cellspacing="0"><tr><td valign="top"><img align="absmiddle" width="15" height="15" style="vertical-align: top;padding:4px 4px 0px 0px;" src="/common/images/logo_small.gif"></td><td valign="top"><div class="nome"><span id="PostAuthor2542804">KagayPaEle</span><br/><span class="data">27.03.2013 - 13:37</span></div></td><td valign="top" align="right"><div class="icos" id="PostImproper2542804"><img width="14" height="14" src="/common/images/static/ico_denunciar.gif">&nbsp;<a class="INV" href="javascript:ReportImproperComment('2542804')">denunciar</a></div></td></tr></table><div class="comentario" id="PostBody2542804">Israel &#233; uma democracia, mais transparente e menos corrupta que a portuguesa: um exemplo a seguir!<br/>H&#225; poucos anos Israel escolheu um transsexual para representar o pa&#237;s no Eurofestival da can&#231;&#227;o, e ganhou.<br/>Nem tudo &#233; mau em Israel, embora deva dizer que simpatizo com a causa palestiniana.</div></div></div>
+
+</div>
+
+<!-- FIM COMENTARIOS -->
+
+    </div>
+  <div id="AreaVisitas" style="display:none">
+    <div id="ctl00_ctl00_ContentBody_ContentBody_ColCenter_ngViews">1189</div>
+  </div>
+    <script type="text/javascript">
+      DisplayInnerStats();
+    </script>
+  
+
+    <br clear="all" />
+	
+
+<!-- INICIO GALERIAS  -->
+
+<div id="ctl00_ctl00_ContentBody_ContentBody_ColCenter_Galerias_divgalerias" class="galerias">
+<ul>
+<li>
+    <a href="/inicio/galerias/fotogalerias.aspx?content_id=73932"><img src="/storage/Galleries/ng1350804/ng1350883_435x200.JPG?type=small" width="210" height="100"></a><div class="tit_seccao"><a href="/inicio/galerias/fotogalerias.aspx?content_id=73932">Fotogalerias</a><img src="/common/images/static/bullet_blue.gif" width="10" height="10"></div>
+</li>
+</ul>
+<ul class="espaco"><li>&nbsp;</li></ul>
+<ul>
+<li>
+    <a href="/inicio/galerias/infografias.aspx?content_id=55013"><img src="/storage/Sol/2012/small/ng1264808_210x100.jpg?type=small" width="210" height="100"></a><div class="tit_seccao"><a href="/inicio/galerias/infografias.aspx?content_id=55013">Infografias</a><img src="/common/images/static/bullet_blue.gif" width="10" height="10"></div>
+</li>
+</ul>
+<ul class="espaco"><li>&nbsp;</li></ul>
+<ul>
+<li>
+    <a href="/inicio/galerias/videos.aspx?content_id=74349"><img src="http://img.youtube.com/vi/ssean1PhjYA/0.jpg" width="210" height="100" title=""></a><div class="tit_seccao"><a href="/inicio/galerias/videos.aspx?content_id=74349">Vídeos</a><img src="/common/images/static/bullet_blue.gif" width="10" height="10"></div>
+</li>
+</ul>
+</div>
+<br clear="all"/>
+<!-- FIM GALERIAS  -->
+
+
+
+
+ 
+
+			        </div>
+			        <div class="right-col-content">
+			            
+	
+<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://pub.sapo.pt/ajs.php':'http://pub.sapo.pt/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=455");
+   document.write ('&cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&exclude=" + document.MAX_used);
+   document.write (document.charset ? '&charset='+document.charset : (document.characterSet ? '&charset='+document.characterSet : ''));
+   document.write ("&loc=" + escape(window.location));
+   if (document.referrer) document.write ("&referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script>
+
+<div style="text-align:right;margin-bottom:6px"><small><small>PUB</small></small></div>
+<div style="margin: 0px 0px 6px 0px; text-align: left;">
+<ul id="mercado_list">
+  <li id="pubmercado0">
+
+<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://pub.sapo.pt/ajs.php':'http://pub.sapo.pt/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=2249");
+   document.write ('&cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&exclude=" + document.MAX_used);
+   document.write (document.charset ? '&charset='+document.charset : (document.characterSet ?'&charset='+document.characterSet : ''));
+   document.write ("&loc=" + escape(window.location));
+   if (document.referrer) document.write ("&referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://pub.sapo.pt/ck.php?n=a1644386&cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://pub.sapo.pt/avw.php?zoneid=2249&cb=INSERT_RANDOM_NUMBER_HERE&n=a1644386' border='0' alt='' /></a></noscript>
+  </li>
+</ul>
+<div style="text-align:right;margin-bottom:6px"><small><small>PUB</small></small></div>
+</div> 
+
+
+<div class="siga_nos border" style="margin-bottom:6px">
+<div class="tit">Siga-nos <img src="/common/images/static/bullet_red.gif" width="10" height="10" /></div>
+<table class="icos">
+<tr>
+
+<td><a href="http://www.facebook.com/jornalsol" target="_blank"><img src="/common/images/static/ico_FB.png" width="23" height="23" border="0" /></a> <a href="http://twitter.com/SolOnline" target="_blank"><img src="/common/images/static/ico_twitter.png" width="23" height="23" border="0" /></a> <a href="/rss"><img src="/common/images/static/ico_rss.png" width="23" height="23" border="0" /></a> <a href="http://itunes.apple.com/pt/app/sol-online/id394250721?mt=8" target="_blank"><img src="/common/images/static/apple.gif" width="23" height="23" border="0" /></a> <a href="http://m.sol.pt"><img src="/common/images/static/mobile.gif" width="10" height="23" border="0" /></a></td>
+</tr>
+</table>
+</div>
+
+
+<!--/* OpenX Javascript Tag v2.8.5 */-->
+
+
+
+<!--/*
+
+  * The backup image section of this tag has been generated for use on a
+
+  * non-SSL page. If this tag is to be placed on an SSL page, change the
+
+  *   'http://pub.sapo.pt/...'
+
+  * to
+
+  *   'https://pub.sapo.pt/...'
+
+  *
+
+  * This noscript section of this tag only shows image banners. There
+
+  * is no width or height in these banners, so if you want these tags to
+
+  * allocate space for the ad before it shows, you will need to add this
+
+  * information to the <img> tag.
+
+  *
+
+  * If you do not want to deal with the intricities of the noscript
+
+  * section, delete the tag (from <noscript>... to </noscript>). On
+
+  * average, the noscript tag is called from less than 1% of internet
+
+  * users.
+
+  */-->
+
+
+
+<script type='text/javascript'><!--//<![CDATA[
+
+   var m3_u = (location.protocol=='https:'?'https://pub.sapo.pt/ajs.php':'http://pub.sapo.pt/ajs.php');
+
+   var m3_r = Math.floor(Math.random()*99999999999);
+
+   if (!document.MAX_used) document.MAX_used = ',';
+
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+
+   document.write ("?zoneid=150");
+
+   document.write ('&cb=' + m3_r);
+
+   if (document.MAX_used != ',') document.write ("&exclude=" + document.MAX_used);
+
+   document.write (document.charset ? '&charset='+document.charset : (document.characterSet ? '&charset='+document.characterSet : ''));
+
+   document.write ("&loc=" + escape(window.location));
+
+   if (document.referrer) document.write ("&referer=" + escape(document.referrer));
+
+   if (document.context) document.write ("&context=" + escape(document.context));
+
+   if (document.mmm_fo) document.write ("&;mmm_fo=1");
+
+   document.write ("'><\/scr"+"ipt>");
+
+//]]>--></script><noscript><a href='http://pub.sapo.pt/ck.php?n=a0407f30&cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://pub.sapo.pt/avw.php?zoneid=150&cb=INSERT_RANDOM_NUMBER_HERE&n=a0407f30' border='0' alt='' /></a></noscript>
+ 
+
+ 
+
+
+
+
+<div class="tabs">
+<div id="tbTabUltimas1L" class="tabEsq_off"></div>
+<div id="tbTabUltimas1"  class="tab_off" onclick="ChangeTab('Ultimas', 3, 1)"><a name="int" class="INV">+ Vistas</a></div>
+<div id="tbTabUltimas1R" class="tabDir_off"></div>
+
+<div id="tbTabUltimas2L" class="tabEsq_off"></div>
+<div id="tbTabUltimas2"  class="tab_off" onclick="ChangeTab('Ultimas', 3, 2)"><a name="int" class="INV">+ Comentadas</a></div>
+<div id="tbTabUltimas2R" class="tabDir_off"></div>
+
+<div id="tbTabUltimas3L" class="tabEsq_on"></div>
+<div id="tbTabUltimas3"  class="tab_on" onclick="ChangeTab('Ultimas', 3, 3)"><a name="int" class="">Últimas</a></div>
+<div id="tbTabUltimas3R" class="tabDir_on"></div>
+</div>
+
+<div id="tbContentUltimas1" style="display:none">
+    <iframe src="/common/usercontrols/cs/topviews.aspx" width="300px" height="520px" frameborder="0" scrolling="no" ></iframe>
+</div>
+<div id="tbContentUltimas2" style="display:none">
+    <iframe src="/common/usercontrols/cs/topcomments.aspx" width="300px" height="520px" frameborder="0" scrolling="no" ></iframe>
+</div>
+<div id="tbContentUltimas3">
+    
+
+
+<div class="tbl_tabs" style="margin-bottom:6px">
+    <div class="odd"><a target="_top" href="/inicio/Economia/Interior.aspx?content_id=74352"><img src="/storage/Sol/2013/thumbnail/ng1352878_60x45.jpg?type=thumbnail" width="60" height="45" class="right"></a><span class="tit">Economia</span><br><a target="_top" class="INV" href="/inicio/Economia/Interior.aspx?content_id=74352">CM Lisboa acusada de má gestão e de favorecer banco</a><span class="tempo_red">
+           <input type="hidden" name="date-issue" class="date-issue" value="2013-05-05 17:37:00"><span></span>
+     
+  </span></div><div class="even"><a target="_top" href="/inicio/Politica/Interior.aspx?content_id=74351"><img src="/storage/Sol/2013/thumbnail/ng1352872_60x45.jpg?type=thumbnail" width="60" height="45" class="right"></a><span class="tit">Política</span><br><a target="_top" class="INV" href="/inicio/Politica/Interior.aspx?content_id=74351">Seguro: Portugal está à beira de uma tragédia social</a><span class="tempo_red">
+           <input type="hidden" name="date-issue" class="date-issue" value="2013-05-05 14:29:00"><span></span>
+     
+  </span></div><div class="odd"><a target="_top" href="/inicio/Internacional/Interior.aspx?content_id=74350"><img src="/storage/Sol/2013/thumbnail/ng1352867_60x45.jpeg?type=thumbnail" width="60" height="45" class="right"></a><span class="tit">Internacional</span><br><a target="_top" class="INV" href="/inicio/Internacional/Interior.aspx?content_id=74350">Hospital espanhol retira prótese a doente por falta...</a><span class="tempo_red">
+           <input type="hidden" name="date-issue" class="date-issue" value="2013-05-05 14:10:00"><span></span>
+     
+  </span></div><div class="even"><span class="tit">Vídeos</span><br><a target="_top" class="INV" href="/inicio/galerias/videos.aspx?content_id=74349">Tornado atinge norte de Itália</a><span class="tempo_red">
+           <input type="hidden" name="date-issue" class="date-issue" value="2013-05-05 13:44:00"><span></span>
+     
+  </span></div><div class="odd"><a target="_top" href="/inicio/Internacional/Interior.aspx?content_id=74348"><img src="/storage/Sol/2013/thumbnail/ng1352862_60x45.jpg?type=thumbnail" width="60" height="45" class="right"></a><span class="tit">Internacional</span><br><a target="_top" class="INV" href="/inicio/Internacional/Interior.aspx?content_id=74348">EUA: Incêndio em limusina mata cinco mulheres</a><span class="tempo_red">
+           <input type="hidden" name="date-issue" class="date-issue" value="2013-05-05 13:40:00"><span></span>
+     
+  </span></div><div class="even"><a target="_top" href="/inicio/Sociedade/Interior.aspx?content_id=74347"><img src="/storage/Sol/2013/thumbnail/ng1352857_60x45.jpg?type=thumbnail" width="60" height="45" class="right"></a><span class="tit">Sociedade</span><br><a target="_top" class="INV" href="/inicio/Sociedade/Interior.aspx?content_id=74347">Guardas prisionais avançam para greve na segunda-feira</a><span class="tempo_red">
+           <input type="hidden" name="date-issue" class="date-issue" value="2013-05-05 13:01:00"><span></span>
+     
+  </span></div><div class="odd"><a target="_top" href="/inicio/Sociedade/Interior.aspx?content_id=74346"><img src="/storage/Sol/2013/thumbnail/ng1352852_60x45.jpg?type=thumbnail" width="60" height="45" class="right"></a><span class="tit">Sociedade</span><br><a target="_top" class="INV" href="/inicio/Sociedade/Interior.aspx?content_id=74346">PSP detém autores de assalto violento na linha de Cascais</a><span class="tempo_red">
+           <input type="hidden" name="date-issue" class="date-issue" value="2013-05-05 12:49:00"><span></span>
+     
+  </span></div><div class="even"><a target="_top" href="/inicio/Politica/Interior.aspx?content_id=74344"><img src="/storage/Sol/2013/thumbnail/ng1352842_60x45.jpg?type=thumbnail" width="60" height="45" class="right"></a><span class="tit">Política</span><br><a target="_top" class="INV" href="/inicio/Politica/Interior.aspx?content_id=74344">Portas fala às 19h sobre os novos cortes</a><span class="tempo_red">
+           <input type="hidden" name="date-issue" class="date-issue" value="2013-05-05 12:31:00"><span></span>
+     
+  </span></div>
+</div> 
+</div>
+
+<div style="margin: 0px 0px 6px 0px; text-align: center"><a href="/inicio/Interior.aspx?content_id=74238"><img src="/Storage/Sol/2013/medium/ng1352365_300x300.jpg" width="300" alt="CONFERÊNCIA INTERNACIONAL &quot;Marrocos Portugal uma parceria estratégica&quot;"></a></div><div style="margin: 0px 0px 6px 0px; text-align: center"><a href="/inicio/Interior.aspx?content_id=73755"><img src="/Storage/Sol/2013/medium/ng1349712_300x200.jpg" width="300" alt="Passatempo SOL &amp; ZOO: Ganhe bilhetes duplos para o Jardim Zoológico de Lisboa."></a></div><div style="margin: 0px 0px 6px 0px; text-align: center"><a href="/inicio/dossiers/default.aspx?dossier=Best Leader Awards 2013"><img src="/Storage/Sol/2013/medium/ng1342965_300x150.jpg" width="300" alt=""></a></div>
+	
+  	 
+ 
+ 
+
+
+<div style="margin: 0px 0px 0px; text-align: left;"><a href="http://www.facebook.com/jornalsol" target="_blank"><img width="300" alt="Siga o SOL no Facebook" src="/Common/Images/Banner_SOL_FB.jpg"/></a></div>
+<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fjornalsol&amp;width=300&amp;connections=10&amp;stream=false&amp;header=false&amp;height=260" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:260px; margin-bottom:6px;" allowTransparency="true"></iframe>
+<iframe src="http://www.facebook.com/plugins/activity.php?site=sol.sapo.pt&amp;action&amp;width=300&amp;height=265&amp;header=false&amp;colorscheme=light&amp;linktarget=_blank&amp;border_color&amp;font&amp;recommendations=false" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:265px;" allowTransparency="true"></iframe>
+
+<div style="margin: 0px 0px 6px 0px; text-align: left;">
+<script type="text/javascript">
+
+var sas_affiliate_id = '41';
+
+var sas_site_id  = '365';
+
+var sas_position_id  = '973';
+
+var sas_cluster = '1';
+
+var sas_ad_width = '300';
+
+var sas_ad_height= '250';
+
+var sas_ad_format = '300x250_2';
+
+var sas_c = '2';
+
+var sas_ad_type = 'text';
+
+var sas_location_id = '5';
+
+var sas_color_border = '666666';
+
+var sas_color_link = '666666';
+
+var sas_color_bg = 'F2F2F2';
+
+var sas_color_text = '666666';
+
+var sas_color_url = '666666';
+
+var sas_ic = '1bf0f4c8ec9bdba5fde9ce3076256e54';
+
+var sas_medium = '0';
+
+</script><script type="text/javascript" src="http://js.sl.pt/Snippets/SAS.js"></script>
+</div>
+
+ 
+<div id="ctl00_ctl00_ContentBody_ContentBody_ColRight_ContentBody_ColRight__ctrl_1_Tagcloud1_divTagCloud" style="margin-bottom:6px;"><table class="tags border" cellpadding="0" cellspacing="0"><tr><td><div class="tit">
+            Tags mais populares <img src="/common/images/static/bullet_red.gif" width="10" height="10"></div><div class="font"><h4><a href="/inicio/tag.aspx?tag=Barack%20Obama">Barack Obama</a></h4><h4><a href="/inicio/tag.aspx?tag=Bangladesh">Bangladesh</a></h4><h5><a href="/inicio/tag.aspx?tag=Economia">Economia</a></h5><h5><a href="/inicio/tag.aspx?tag=Acidente">Acidente</a></h5><h5><a href="/inicio/tag.aspx?tag=M%E9xico">México</a></h5><h4><a href="/inicio/tag.aspx?tag=S%EDria">Síria</a></h4><h5><a href="/inicio/tag.aspx?tag=Alemanha">Alemanha</a></h5><h1><a href="/inicio/tag.aspx?tag=Internacional">Internacional</a></h1><h5><a href="/inicio/tag.aspx?tag=Uni%E3o%20Europeia">União Europeia</a></h5><h5><a href="/inicio/tag.aspx?tag=Angela%20Merkel">Angela Merkel</a></h5><h5><a href="/inicio/tag.aspx?tag=Coreia%20do%20Norte">Coreia do Norte</a></h5><h5><a href="/inicio/tag.aspx?tag=Holanda">Holanda</a></h5><h4><a href="/inicio/tag.aspx?tag=Praga">Praga</a></h4><h4><a href="/inicio/tag.aspx?tag=Estados%20Unidos">Estados Unidos</a></h4><h5><a href="/inicio/tag.aspx?tag=Israel">Israel</a></h5><h5><a href="/inicio/tag.aspx?tag=Espanha">Espanha</a></h5><h4><a href="/inicio/tag.aspx?tag=It%E1lia">Itália</a></h4><h5><a href="/inicio/tag.aspx?tag=Dur%E3o%20Barroso">Durão Barroso</a></h5><h5><a href="/inicio/tag.aspx?tag=EUA">EUA</a></h5><h4><a href="/inicio/tag.aspx?tag=Explos%E3o">Explosão</a></h4></div></td></tr></table></div>
+ 
+
+
+ 
+
+			        </div>
+    		        <br clear="all" />
+		        </div>
+		        <br clear="all" />
+		    
+    							
+		    
+		    
+
+<!-- INICIO ZONA MAPA -->
+<table class="MAP" cellpadding="10" cellspacing="10">
+<tr>
+<td align="center">
+
+      <div>
+
+      © 2007 Sol. 
+      Todos os direitos reservados. 
+      Mantido por <a href="mailto:webmaster@sol.pt">webmaster@sol.pt</a>   
+   </div>
+
+</td>
+</tr>
+</table>
+
+        </center>		
+		
+
+	
+<script language="JavaScript">loadFragmentInToElement('/common/services/get_morenews.aspx?id_content=71840&section_path=internacional');</script></form>
+	
+
+<script type="text/javascript">
+var w_counter;
+if(wreport_ok==1){w_counter = new wreport_counter(WRP_SECTION, WRP_SUBSECTION, WRP_ID, WRP_ACC, WRP_CHANNEL, WRP_SECTION_GRP, WRP_SUBSECTION_GRP);
+w_counter.add_content(WRP_CONTENT);
+w_counter.count();}
+</script>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-4957686-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+
+
+
+	<!-- Barra SAPO Universal v1.0 -->
+    <!-- Passo 3 de 3. Adicionar a barra -->
+    
+    <script type="text/javascript" src="http://bars.sapo.pt/bsu_v1.0/barra.js?parceiro=true"></script>
+    <!-- /bsu -->
+
+<div id="fb-root"></div>
+
+<script>
+
+window.fbAsyncInit = function() {
+			FB.init({appId: '156258201067846', status: true, cookie: true, xfbml: true});
+		};
+		(function() {
+			var e = document.createElement('script'); e.async = true;
+			e.src = document.location.protocol +
+				'//connect.facebook.net/en_US/all.js';
+			document.getElementById('fb-root').appendChild(e);
+		}());
+		
+     function login()
+      {
+        FB.login(handleSessionResponse);
+      };
+
+     function logout()
+      {
+        FB.logout(handleSessionResponse);
+        DeleteCookie("SolUser");
+        window.location.reload();
+      };
+     function logoutSol()
+      {
+        DeleteCookie("SolUser");
+        window.location.reload();
+      };
+       
+      // no user, clear display
+      function clearDisplay() {
+        document.getElementById('user-info').innerHTML = '';
+      }
+
+      // handle a session response from any of the auth related calls
+      function handleSessionResponse(response) {
+        // if we dont have a session, just hide the user info
+//        if (!response.session) {
+//          clearDisplay();
+//          return;
+//        }
+
+        // if we have a session, query for the user's profile picture and name
+        FB.api(
+          {
+            method: 'fql.query',
+            query: 'SELECT name, pic FROM profile WHERE id=' + FB.getSession().uid
+          },
+          function(response) {
+            var user = response[0];
+//            var userInfo = document.getElementById('user-info');
+//            userInfo.innerHTML = '<img src="' + user.pic + '">' + user.name;
+            SaveCookie('FBname', (user.name!=null ? user.name : ""),true);
+            SaveCookie('FBpic', (user.pic!=null ? user.pic : ""),true);
+            window.location.reload();
+          }
+        );
+      }
+</script>
+
+    <script type="text/javascript">
+      SetPage();
+    </script>
+</body>
+
+
+</html>

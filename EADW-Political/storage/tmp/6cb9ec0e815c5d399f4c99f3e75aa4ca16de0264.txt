@@ -1,0 +1,9 @@
+<HTML>
+<HEAD>
+<TITLE>Moved Permanently</TITLE>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000">
+<H1>Moved Permanently</H1>
+The document has moved <A HREF="http://rss.feedsportal.com/c/32443/f/619491/s/2a8ce493/l/0L0Sdn0Bpt0Cpolitica0Cinterior0Baspx0Dcontent0Iid0F3157720A/story01.htm?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+DN-Politica+%28DN+-+Politica%29">here</A>.
+</BODY>
+</HTML>

@@ -34,7 +34,7 @@ class LinkDowloader(Thread):
 class Processor(Thread):
 
     links = ""
-    path = "../storage/tmp/"
+    path = "../storage/tmpArticle/"
     def set(self,links):
         self.links = links
 
@@ -53,6 +53,7 @@ class Processor(Thread):
         
         for link in self.links:
             if not os.path.exists(self.path+hashlib.sha1(link[0]).hexdigest()+"Article.txt"):
+                print ""
                 continue
             
             f = open(self.path+hashlib.sha1(link[0]).hexdigest()+"Article.txt", "r")
@@ -108,7 +109,7 @@ tag.loadToDB()
 lixo = set()
 ignoreList = set()
 links = ""
-Threads = 10
+Threads = 20
 Nnoticias = 0
 newProcessedNames = []
 
@@ -139,7 +140,7 @@ Nnoticias = 0
 print len(links), " Links to Be Processed"
 
 myDonwloadThreads = []
-Dthreads = 10
+Dthreads = 20
 for i in range(Dthreads):
     linkN = (len(links)/Threads)
     d = LinkDowloader()
