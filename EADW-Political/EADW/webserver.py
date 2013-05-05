@@ -79,7 +79,7 @@ def send_static():
     return static_file('index.php', root='./webPage/')
 
 @route('/static/<path:path>')
-def send_static(path):
+def send_staticPath(path):
     return static_file(path, root='./webPage/')
    
 bottle.debug(True) 
