@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 '''
 Importar a lista de nomes de personalidades, a lista de palavras que nao sao nomes pessoais,
 lista de paises e a lista de equivalencias entre palavras para a base de dados
@@ -238,5 +240,27 @@ def GetThieves():
             c.execute('UPDATE personalities set GOVERNO=?, PARTIDO=? where NAME_NORM=?',[adjuntancy,'PSD',name_norm])        
     conn.commit()
     conn.close()
-
-
+    
+    
+##################### Entity Parser
+def EntityParsertoFile():
+    nomeSet = set()
+    file = open("input/personalities.txt")
+    line = file.readline()
+    list = []
+    entities = re.split(',',line)
+    for word in entities:
+        word = word.replace('"',"")
+        word = word.replace('"',"")
+        entityValue = re.split(":",word)
+        name = unicode(entityValue[0])
+        value = entityValue[1]
+        for nomePart in name.split(" "):
+            if nomePart != '' :
+                nomeSet.add(nomePart)
+   
+    fd = open("NewEntities.txt", "a+")
+    for n in nomeSet:
+        fd.write(n+":NPROP\n")
+    fd.flush()
+    fd.close()

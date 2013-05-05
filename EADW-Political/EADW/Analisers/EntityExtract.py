@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 import nltk
 from nltk.corpus import floresta
 from pprint import pprint
@@ -18,21 +20,32 @@ class EntityExtractor:
     __dBLexiconLocation = "../storage/lexicon.db"
     lixo  = nltk.corpus.stopwords.words('portuguese')
     opinionAnalist = Opinion()
+    tagger = TAGAnalizer()
+    IgnoreFile = "Utils/SentimentsBase/in/IgnoreNamesTrainingSet.txt"
 
     ########################################################
     #Load rubish names list and init properNameProcessor
     #########################################################
     def __init__(self):
         self.ProperNameProcessor = WordProcessor.ProperNameProcessor()
-        conn = sqlite3.connect(self.__dBLexiconLocation)
-        cursor = conn.cursor()
-        self.rubishProperNounList = []
-        for row in cursor.execute("Select * from rubishNames"):
-            self.rubishProperNounList.append(row[0]) 
-        conn.close()
-               
+        self.LoadIgnoreList(self.IgnoreFile)#Adiciona a lista "lixo" palavras geradas pelo traning set
+        #conn = sqlite3.connect(self.__dBLexiconLocation)
+        #cursor = conn.cursor()
+        #self.rubishProperNounList = []
+        #for row in cursor.execute("Select * from rubishNames"):
+        #    self.rubishProperNounList.append(row[0]) 
+        #conn.close()
         
-        
+    def LoadIgnoreList(self,IgnoreFilePath):
+        fd = open(IgnoreFilePath, "r")
+        list = fd.read().split(":")
+        print "Loaded ignore list\n"
+        self.lixo += list
+    
+    def strip_punctuation(self,text):
+        punctutation_cats = set(['Pc', 'Pd', 'Ps', 'Pe', 'Pi', 'Pf', 'Po'])
+        return ''.join(x for x in text if unicodedata.category(x) not in punctutation_cats)
+    
     ########################################################
     #Parse the doc, get entities, analysis etc
     ########################################################
@@ -43,16 +56,8 @@ class EntityExtractor:
         sentences = nltk.sent_tokenize(doc.decode("utf8"))
                     
         for sentence in sentences:
-            
-            self.ProperNameProcessor.init()
-            
-            # Remove Pontuacoo
-            for c in string.punctuation:
-                sentence = sentence.replace(c,"")
-
+            sentence = self.strip_punctuation(sentence)
             words = sentence.split(" ")
-            tagger = TAGAnalizer()
-            
             for word in words:
                 #retira lixo
                 if(len(word) < 2):
@@ -62,7 +67,7 @@ class EntityExtractor:
                 if(word.lower() in self.lixo):
                     continue
                 
-                POS = tagger.getTagFromBD(word)
+                POS = self.tagger.getTagFromBD(word)
             
                 if  POS == 'NPROP': 
                     #its properNoun

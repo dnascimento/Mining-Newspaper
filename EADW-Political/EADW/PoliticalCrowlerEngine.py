@@ -1,4 +1,5 @@
-#!/usr/bin/python
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 from EADW.Analisers.WooshEngine import WooshEngine
 from EADW.Downloaders.FeedDownloader import FeedDownloader
 from  EADW.Downloaders.ContentDownloader import ContentDownloader
@@ -24,7 +25,7 @@ def justRecentNews():
 if not os.path.exists(dbpath):
     print "Base de dados nao encontrada. Inicie o sistema pelo Utils, create Databases"
 else:
-    justRecentNews()
+    #justRecentNews()
     
     
     ##Criar motor de Pesquisa Baseado no Woosh se nao existir

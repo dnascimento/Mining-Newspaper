@@ -8,8 +8,10 @@ import sqlite3
 
 class TAGAnalizer:
     TagDBPath = "../storage/lexicon.db"     
-    TagFile = "Utils/sentimentsBase/in/TagFile.txt"
+    TagFile = "Utils/SentimentsBase/in/TagFile.txt"    
     
+    def __init__(self):
+        self.loadToDB()
     
     def loadDictionary(self,Filename):
         list = []
@@ -28,10 +30,10 @@ class TAGAnalizer:
     
     def loadToDB(self):
         # Apag BD antiga
-        conn = sqlite3.connect(self.TagDBPath)  
-        c = conn.cursor()   
-        c.execute('delete from tags')
-               
+        conn = sqlite3.connect(self.TagDBPath)
+        c = conn.cursor()
+        c.execute('DELETE FROM tags')
+        conn.commit()       
         # Carega o ficheiro para a BD
         fd = open(self.TagFile, 'r')
         for line in fd:
@@ -42,12 +44,18 @@ class TAGAnalizer:
                 tag = tag.split('|')[0]
                 
             # Normalize
-            word = unicode(unicodedata.normalize('NFKD', unicode(word).lower()).encode('ASCII', 'ignore'))    
+            word = unicode(word).lower() 
             tag = unicode(tag)
+            
+            #Apenas precisamos destes
+            if (tag != 'NPROP' and tag != 'ADJ'):
+				continue
             
             try:
                 c.execute('Insert into tags(WORD,TAG) values(?,?)',(word,tag))
             except sqlite3.IntegrityError:
+                if(tag == 'NPROP'):
+                    c.execute('UPDATE tags set TAG = ? WHERE WORD = ?',(tag,word))
                 pass
                 
         # Fecha Coneccoes
@@ -61,9 +69,9 @@ class TAGAnalizer:
         #Normalize
         conn = sqlite3.connect(self.TagDBPath)  
         c = conn.cursor()   
-        word = unicode(unicodedata.normalize('NFKD', unicode(word).lower()).encode('ASCII', 'ignore'))
+        word = unicode(word).lower()
         
-        c.execute('SELECT POS FROM lexicon WHERE WORD = ?', [word])
+        c.execute('SELECT TAG FROM tags WHERE WORD = ?', [word])
         result = c.fetchone()
         
         conn.close()
