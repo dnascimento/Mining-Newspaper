@@ -9,7 +9,7 @@ from nltk.downloader import download
 
 class LinkDowloader(Thread):
 
-    path = "../storage/tmp/"
+    path = "../storage/tmpArticle/"
     salt = ""
     links = ""
     def set(self,links,salt):
@@ -20,11 +20,11 @@ class LinkDowloader(Thread):
         global cntdown
         global Nnoticias
         for link in self.links:
-            if not os.path.exists(self.path+hashlib.sha1(link[0]).hexdigest()+".txt"):
+            if not os.path.exists(self.path+hashlib.sha1(link[0]).hexdigest()+"Article.txt"):
                 text = cntdown.parseSite(link[0],"",1)
                 if text is None:
                     continue
-                f = open(self.path+hashlib.sha1(link[0]).hexdigest()+".txt", "w+")
+                f = open(self.path+hashlib.sha1(link[0]).hexdigest()+"Article.txt", "w+")
                 f.write(text)
                 f.flush()
                 f.close()
@@ -52,10 +52,10 @@ class Processor(Thread):
         global downloaded
         
         for link in self.links:
-            if not os.path.exists(self.path+hashlib.sha1(link[0]).hexdigest()+".txt"):
+            if not os.path.exists(self.path+hashlib.sha1(link[0]).hexdigest()+"Article.txt"):
                 continue
             
-            f = open(self.path+hashlib.sha1(link[0]).hexdigest()+".txt", "r")
+            f = open(self.path+hashlib.sha1(link[0]).hexdigest()+"Article.txt", "r")
             text = f.read()
             f.close()
             

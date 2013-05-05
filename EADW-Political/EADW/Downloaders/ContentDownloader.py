@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 from sqlite3 import OperationalError
 from EADW.Analisers.WooshEngine import WooshEngine
 from bs4 import UnicodeDammit
-import urllib
+import urllib, os, hashlib
 import re
 import sqlite3
 from EADW.Analisers import EntityExtract
@@ -17,6 +17,7 @@ class ContentDownloader(Thread):
     __dbName = ""
     whoosh = ""
     __dBEntitiesLocation = "../storage/lexicon.db"
+    TMPpath = "../storage/tmp/"
     
     def __init__(self,dbName):
         Thread.__init__(self)
@@ -44,12 +45,30 @@ class ContentDownloader(Thread):
     #####  Download site content and store it on database
     ######################################################
     def parseSite(self,url,date,justDownload=0):
-        fileURL = urllib.urlopen(url)
+        
+        doc = ""
+
+        # Verificar se o ficheiro já existe em Cache
+        #Caso nao vamos tb guardalo em cache
+        if not os.path.exists(self.TMPpath+hashlib.sha1(url).hexdigest()+".txt"):
+            fileURL = urllib.urlopen(url)
+            doc = fileURL.read()
+            f = open(self.TMPpath+hashlib.sha1(url).hexdigest()+".txt", "w+")
+            f.write(doc)
+            f.flush()
+            f.close()
+        
+        # Se existir vamos caregalo do disco
+        else:
+            f = open(self.TMPpath+hashlib.sha1(url).hexdigest()+".txt", "r")
+            doc = f.read()
+            f.close()
+
         
         domain = re.split("http://",url)[1]   
         domain = re.split("\.pt|\.com",domain)[0]
             
-        doc = fileURL.read()        
+            
         soup = BeautifulSoup(doc)
         #print soup.original_encoding
         try:
@@ -117,7 +136,7 @@ class ContentDownloader(Thread):
     
     #Store the article at database and add to whoosh index
     def storeNew(self,url,date,domain,title,summary,article):
-        print "Store content of " + url
+        #print "Store content of " + url
         try:
             self.__cursor.execute('Update newsStorage set DOMAIN=?, TITLE=?, SUMMARY=?, ARTICLE=?, DATE=?,PROCESSED="True" where URL=?',(domain,title,summary,article,date,url))
         except sqlite3.IntegrityError:

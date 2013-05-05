@@ -231,7 +231,7 @@ class ProperNameProcessor:
         
         try:
             cursor.execute('INSERT INTO personalities(NAME,NAME_NORM,PRE_REPUTATION,REPUTATION) values (?,?,?,?)',(unicode(entityName),name_norm,0,1))
-            print "NEW ENTITY:"+entityName
+            #print "NEW ENTITY:"+entityName
         except sqlite3.IntegrityError:
             cursor.execute('UPDATE personalities SET REPUTATION=(REPUTATION+?) where NAME_NORM=?',(1,name_norm))
                            
