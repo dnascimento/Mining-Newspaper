@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 from threading import Thread
 from bs4 import BeautifulSoup
 from sqlite3 import OperationalError
@@ -44,7 +46,7 @@ class ContentDownloader(Thread):
     def parseSite(self,url,date,justDownload=0):
         fileURL = urllib.urlopen(url)
         
-        domain = re.split("http://",url)[1]        
+        domain = re.split("http://",url)[1]   
         domain = re.split("\.pt|\.com",domain)[0]
             
         doc = fileURL.read()        
@@ -73,7 +75,7 @@ class ContentDownloader(Thread):
                 summary = unicode(soup.select(".mainText")[0].strong.get_text().encode("utf8"))
                 article = unicode(soup.select(".mainText")[0].get_text().encode("utf8"))
             
-            if domain == "www.sol":
+            if domain == "www.sol" or domain == "sol.sapo":
                 title = unicode(soup.select("#NewsTitle")[0].get_text().encode("utf8"))
                 summary = ""
                 article = unicode(soup.select("#NewsSummary")[0].get_text().encode("utf8"))
@@ -90,7 +92,7 @@ class ContentDownloader(Thread):
                 return;
             
             if(justDownload == 1):
-                return article         
+                return article        
             
             self.storeNew(url,date,domain,title,summary,article);
         except IndexError:
@@ -99,8 +101,9 @@ class ContentDownloader(Thread):
         except UnboundLocalError:
             print "####Invalid domain: "+url
             return
-        #except: 
-            #print "####Unexpected error: ignore entry:"+url
+        except: 
+            print "####Unexpected error: ignore entry:"+url
+            return
         
         print url
         #Sacar as entidades e guardar na base de dados das entidades e opinioes

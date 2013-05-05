@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 '''
 Parsing dos ficheiros de lexico: Sentiflex e TagFiles e ainda dos pronoums da base de dados
 Guarda os dados em lexiconWords (TAGs) e em lexiconExpressions as expressoes de opiniao

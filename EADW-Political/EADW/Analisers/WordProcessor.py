@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 '''
 Created on May 1, 2013
 '''
@@ -39,8 +41,8 @@ class ProperNameProcessor:
     def updateNewName(self,name,proper):        
         #Apanhar palavras separadas por .
         for name in name.split("."):
-            self.nounColletingMode(name,proper)
-            #self.restrictMode(name,proper)
+            #self.nounColletingMode(name,proper)
+            self.restrictMode(name,proper)
     
     ##########################################################
     #Confia no facto de ser proper ou nao e com base nisso gera os nomes
@@ -98,8 +100,8 @@ class ProperNameProcessor:
         #Save the pendent name
         self.finishNameBuilding()
         result = self.ProcessEntities()
-        self.conn.commit()
-        self.conn.close()
+        #self.conn.commit()
+        #self.conn.close()
         return result
 
     #########################################################################
