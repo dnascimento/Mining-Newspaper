@@ -123,7 +123,7 @@ def GetCountries():
     #print "countries"
     #print nomeSet
     for name in nomeSet:
-        name_norm = unicode(unicodedata.normalize('NFKD', unicode(name)).encode('ASCII', 'ignore'))
+        name_norm = unicode(unicodedata.normalize('NFKD', unicode(name).lower()).encode('ASCII', 'ignore'))
         c.execute('INSERT INTO personalities(NAME,NAME_NORM,PRE_REPUTATION,REPUTATION) values (?,?,?,?)',(unicode(name),name_norm,200,0))
     conn.commit()
     conn.close()

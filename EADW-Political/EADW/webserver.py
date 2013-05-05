@@ -16,7 +16,7 @@ import CommandInterface
 
 @route('/', method='GET')
 def homepage():
-    return static_file('index.php', root='./webPage/')
+    return bottle.redirect('/static/')
 
 @route('/favicon.ico', method='GET')
 def favicon():

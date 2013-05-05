@@ -46,11 +46,13 @@ function createGraph(data){
              .clipVoronoi(false);
 
    chart.xAxis
+   	  .axisLabel('Data')
       .tickFormat(function(d) {
-          return d3.time.format('%x')(new Date(d))
+          return d3.time.format('%d/%m/%Y')(new Date(d))
         });
         
    chart.yAxis
+   	  .axisLabel('Data')
       .tickFormat(d3.format('d'));
 
 
@@ -104,6 +106,18 @@ function createGraph(data){
 		$.getJSON('../partidos'+type+'/', function(result) {
 					$("#results").empty();
 					$("#results").append("<h3>TOP Political Parties "+type+"</h3>");
+					if(type=="Positive"){
+						$("#results").append("<p>Número de referêcias positivas existentes relativamente aos deputados de cada partido em cada dia</p><br>");
+					}
+					if(type=="Neutral"){
+						$("#results").append("<p>Número de referêcias neutras existentes relativamente aos deputados de cada partido em cada dia</p><br>");
+					}
+					if(type=="Negative"){
+						$("#results").append("<p>Número de referêcias negativas existentes relativamente aos deputados de cada partido em cada dia</p><br>");
+					}
+					if(type=="Opinion"){
+						$("#results").append("<p>Soma das opiniões relativas aos deputados de cada partido politico em cada dia</p><br>");
+					}
 					//iterarar cada resultado
 					console.log(result);
 					createGraph(result);
@@ -142,16 +156,17 @@ function createGraph(data){
 				string += "<p>Partido: "+entity.partido+"</p>";
 			}
 			string += "<p>Reputation: "+entity.reputation+"</p>";
-			string += "<p>Adjectives: "+entity.adjectives	+"</p>";
+			string += "<p>Adjectives</p>";
+			string += "<textarea readonly style='width:500px; height:70px'>"+entity.adjectives	+"</textarea>";
 			string += "</div>";
 			createGraph(entity);
 			return string;
 		}
 		
-		function template(linke,title,summary,entities){
+		function template(linke,title,summary,entities,globalFeeling){
 			string = '<div class="result_entry">';
 			
-			string += '<a href="'+linke+'"><h4 class="title">'+title+'</h4></a>';
+			string += '<a href="'+linke+'"><h4 class="title">'+title+'   ('+globalFeeling+')</h4></a>';
 		   string += '<p class="summary">'+summary+'</p>';
 		   console.log(entities);
 		   string += '<p class="entities">';
@@ -169,14 +184,15 @@ function createGraph(data){
 				var textToSearch = $("#searchBox").val();
 				$.getJSON('../search/'+textToSearch, function(result) {
 					$("#results").empty();
+					console.log(result);
 					//iterarar cada resultado
-					if(result == []){
+					if(result.length == 0){
 						setTimeout(function(){$("#results").append("<h1>Not found</h1>");}, 500);
 						
 					}
 					$.each(result, function() {
 						  console.log(this);
-						  $("#results").append(template(this.link,this.title,this.summary,this.entities));
+						  $("#results").append(template(this.link,this.title,this.summary,this.entities,this.globalFeeling));
 						});
 
 					//preencher o template
@@ -199,19 +215,25 @@ function createGraph(data){
                     <!-- Your name and position -->
                     <h1>EADW Political Searcher</h1>
                     <h2>Artur Balanuta, Dário Nascimento</h2>
-                   
-                    <form action="" method="post" onsubmit="return myFunction();" id="searchForm" >
-                    	<input style="width:400px" type="text" id="searchBox"></input>
-                    </form>
-                    <button type="button" onclick="myFunction()">Search</button>
+                    <br />
+                    <br />
+                   					<hr />
+
+                    
                     <button type="button" onclick="showTopWords()">Top Words</button>
                     <button type="button" onclick="showTopCountries()">Top Countries</button>
                     <button type="button" onclick="showTopPartidos('Positive')">Political Parties Positive</button>
                     <button type="button" onclick="showTopPartidos('Neutral')">Political Parties Neutral</button>
                     <button type="button" onclick="showTopPartidos('Negative')">Political Parties Negative</button>
                     <button type="button" onclick="showTopPartidos('Opinion')">Political Parties Opinion</button>
+                                       					<hr />
 
-                    <div id="results">
+                    <form action="" method="post" onsubmit="return myFunction();" id="searchForm" >
+                    	<input style="width:400px;float:left" type="text" id="searchBox"></input>
+                    </form>
+                     <button style="margin-left:20px; float:left" type="button" onclick="myFunction()">Search</button>
+
+                    <div style="clear:both" id="results">
                     	
                     </div>
                       <div id="chart1">

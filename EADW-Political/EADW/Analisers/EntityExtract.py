@@ -16,7 +16,7 @@ from OpinionAnalysis import Opinion
 
 
 class EntityExtractor:
-    
+    __pathToNews = "../storage/news.db"
     __dBLexiconLocation = "../storage/lexicon.db"
     lixo  = nltk.corpus.stopwords.words('portuguese')
     opinionAnalist = Opinion()
@@ -83,6 +83,7 @@ class EntityExtractor:
             feelingAndAbjectives = self.opinionAnalist.getSentenceOpinion(sentence)
             feeling = feelingAndAbjectives[0]
             adjectives = feelingAndAbjectives[1]
+            self.saveAdjectives(entities,adjectives)
             # TODO Dario Usar os Ajectivos
             
             
@@ -100,7 +101,20 @@ class EntityExtractor:
    
    
    
-   
+    def saveAdjectives(self,entities,adjectives):
+        conn = sqlite3.connect(self.__pathToNews)
+        cursor = conn.cursor()
+        #para cada entidade, adicionar cada adjectivo
+        for entity in entities:
+            entity = unicode(unicodedata.normalize('NFKD', unicode(entity).lower()).encode('ASCII', 'ignore'))
+            for adjective in adjectives:
+                try:
+                    cursor.execute('INSERT INTO entityAdjectives(ADJECTIVE,ENTITY_NORM,COUNT) values (?,?,?)',[unicode(adjective),entity,1])
+                except sqlite3.IntegrityError:
+                    cursor.execute('UPDATE entityAdjectives SET COUNT=(COUNT+1) where ADJECTIVE=? and ENTITY_NORM=?',[unicode(adjective),entity])
+                                   
+        conn.commit()
+        conn.close()
     
     
     

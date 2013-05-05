@@ -18,9 +18,10 @@ if not os.path.exists(dbpath):
     c.execute('CREATE TABLE newsStorage (URL text  PRIMARY KEY DEFAULT NULL,DATE date DEFAULT NULL,DOMAIN text DEFAULT NULL,TITLE text DEFAULT NULL,SUMMARY text DEFAULT NULL,ARTICLE text DEFAULT NULL,PROCESSED Boolean DEFAULT FALSE)')
     c.execute('CREATE TABLE opinion (URL TEXT  NOT NULL,ENTITY TEXT  NOT NULL ,OPINION integer,Primary Key(URL,ENTITY))')
     c.execute('''CREATE TABLE personalities (NAME text, NAME_NORM text primary key, PRE_REPUTATION INTEGER, REPUTATION INTEGER,PARTIDO text,GOVERNO text)''')
+    c.execute('''CREATE TABLE entityAdjectives (ADJECTIVE text, ENTITY_NORM text,COUNT integer,Primary Key(ADJECTIVE,ENTITY_NORM))''')
+
     conn.commit()
     print "Base de dados Criada"
-    
     #Invoke scripts to fullfil Database
     ImportFeeds.GetFeeds(dbpath)
 
