@@ -151,7 +151,6 @@ class WooshEngine:
         for line in f:
             countrySet.add(unicode(line[:-1]).lower())
         
-        
         ixD = open_dir(self.indexDir, indexname='MAIN', readonly=True)
         reader = ixD.reader()
         whooshResult = reader.most_frequent_terms("content", number=2000, prefix='')
@@ -176,3 +175,4 @@ class WooshEngine:
                 
         final = sorted(final,key=lambda x: x[1],reverse=True)
         return final
+

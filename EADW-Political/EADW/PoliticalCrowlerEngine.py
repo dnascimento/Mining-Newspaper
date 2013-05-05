@@ -1,4 +1,5 @@
-#!/usr/bin/python
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 from EADW.Analisers.WooshEngine import WooshEngine
 from EADW.Downloaders.FeedDownloader import FeedDownloader
 from  EADW.Downloaders.ContentDownloader import ContentDownloader
