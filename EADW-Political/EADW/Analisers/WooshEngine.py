@@ -129,7 +129,7 @@ class WooshEngine:
         conn.close()
         return lista
         
-<<<<<<< HEAD
+
     def getMostFrequentWords(self):
         ixD = open_dir(self.indexDir, indexname='MAIN', readonly=True)
         reader = ixD.reader()
@@ -176,6 +176,4 @@ class WooshEngine:
                 
         final = sorted(final,key=lambda x: x[1],reverse=True)
         return final
-=======
->>>>>>> 29c0faa11337c6d84f81407a2127214bd4b97a23
 

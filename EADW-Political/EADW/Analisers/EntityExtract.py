@@ -64,7 +64,7 @@ class EntityExtractor:
                     continue
                 
                 # verifica se pretence a lista de stop words
-                if(word.lower() in self.lixo):
+                if(word in self.lixo):
                     continue
                 
                 POS = self.tagger.getTagFromBD(word)
@@ -85,7 +85,9 @@ class EntityExtractor:
             adjectives = feelingAndAbjectives[1]
             # TODO Dario Usar os Ajectivos
             
-            # Somar ocorrencias e sentimento da frase
+            
+            # Somar o numero de ocorrencias do nome
+            # e a opiniao acumulada sobre o nome
             for (entity,appears) in counting.items():
                 if entity not in results:
                     results[entity] = [appears,feeling]

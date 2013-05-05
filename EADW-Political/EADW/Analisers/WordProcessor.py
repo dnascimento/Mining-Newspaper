@@ -39,25 +39,23 @@ class ProperNameProcessor:
     # Get a new word and update state
     ##########################################################
     def updateNewName(self,name,proper):        
-        #Apanhar palavras separadas por .
-        for name in name.split("."):
-            #self.nounColletingMode(name,proper)
-            self.restrictMode(name,proper)
+        #self.nounColletingMode(name,proper)
+        self.restrictMode(name,proper)
     
     ##########################################################
     #Confia no facto de ser proper ou nao e com base nisso gera os nomes
     ##########################################################
     def restrictMode(self,name,proper):
         if proper: 
-                if(self.stopWord != ""):
-                    self.nameBuilder += self.stopWord + " "
-                    self.stopWord = ""
+                #if(self.stopWord != ""):
+                    #self.nameBuilder += self.stopWord + " "
+                    #self.stopWord = ""
                 self.nameBuilder += name + " "
         else:
             #Its not a proper name 
-            if name in self.stopWords and self.nameBuilder != "":
-                self.stopWord = name
-            else:
+            #if name in self.stopWords and self.nameBuilder != "":
+                #self.stopWord = name
+            #else:
                 #Terminar a concatenacao and clean state
                 self.finishNameBuilding()
                 
@@ -231,10 +229,9 @@ class ProperNameProcessor:
         conn = sqlite3.connect(self.__pathToNews)
         cursor = conn.cursor()
         
-        #here
-        print "NEW ENTITY:"+entityName
         try:
             cursor.execute('INSERT INTO personalities(NAME,NAME_NORM,PRE_REPUTATION,REPUTATION) values (?,?,?,?)',(unicode(entityName),name_norm,0,1))
+            print "NEW ENTITY:"+entityName
         except sqlite3.IntegrityError:
             cursor.execute('UPDATE personalities SET REPUTATION=(REPUTATION+?) where NAME_NORM=?',(1,name_norm))
                            

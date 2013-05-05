@@ -34,7 +34,7 @@ def GetFeeds(dbpath):
     conn.commit()
     conn.close()
     
-    print list
+    #print list
         
     conn2 = sqlite3.connect(dbpath)     
     c2 = conn2.cursor()  

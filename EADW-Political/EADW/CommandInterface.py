@@ -99,10 +99,10 @@ def getEntityDetails(entity):
     noticiasNegativasPorDia = genGraphData(c.execute("select count (*),DATE from opinion natural join newsStorage where OPINION < 0 and ENTITY=? GROUP BY strftime('%Y-%m-%d', DATE)",[name]))
     opinion = genGraphData(c.execute("select sum(OPINION), DATE from opinion natural join newsStorage where  ENTITY=? GROUP BY strftime('%Y-%m-%d', DATE)",[name]))
 
-    adjs = c.execute("select ADJECTIVE from entityAdjectives where ENTITY=?",[name])
+    #adjs = c.execute("select ADJECTIVE from entityAdjectives where ENTITY=?",[name])
     adjectives = []
-    for adjective in adjs:
-        adjectives.append(adjective[0])
+    #for adjective in adjs:
+    #    adjectives.append(adjective[0])
 
 
     if partido:

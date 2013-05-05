@@ -25,7 +25,7 @@ def favicon():
 @route('/entity/<path:path>', method='GET')
 def get_entity(path):
     response.content_type = 'application/json'
-    path = path.decode('ASCII')
+    path = path.decode('utf-8')
     result = CommandInterface.getEntityDetails(path)
     print  dumps(result)
     return dumps(result)

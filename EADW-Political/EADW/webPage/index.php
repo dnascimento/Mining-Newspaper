@@ -215,7 +215,7 @@ function createGraph(data){
                     	
                     </div>
                       <div id="chart1">
-    <svg style="height: 300px;width:600px"></svg>
+    <svg style="height: 400px;width:800px"></svg>
   </div>
                 </div>
             </div>
