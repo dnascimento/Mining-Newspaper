@@ -63,25 +63,32 @@ class Processor(Thread):
             if text is None:
                 continue
             sentences = nltk.sent_tokenize(text.decode("utf8"))
-        
+            Nnoticias += 1
             for sentence in sentences:
                 #re.sub(ur"\p{P}+ \„\“\‘", " ", sentence)
                 sentence = self.strip_punctuation(sentence)
                 words = sentence.split(" ")
                 for word in words:
                     
+                    
+                    
                     #encontra lixo
                     if(len(word) < 2):
                         continue
+                    
+                    #So Aceita palavras com letra Grande
+                    if not word[0].isupper():
+						continue
+					
                     #Ignora Processados
                     if word in ignoreList or word in filteredNames:
                         continue
 
                     POS = tag.getTagFromBD(word)
-                    if  POS == 'NPROP':
+                    if  POS == 'NPROP' :
                         counter[word] += 1
         
-            Nnoticias += 1
+
 
 
 
@@ -101,7 +108,7 @@ tag.loadToDB()
 lixo = set()
 ignoreList = set()
 links = ""
-Threads = 20
+Threads = 10
 Nnoticias = 0
 newProcessedNames = []
 
@@ -132,7 +139,7 @@ Nnoticias = 0
 print len(links), " Links to Be Processed"
 
 myDonwloadThreads = []
-Dthreads = 30
+Dthreads = 10
 for i in range(Dthreads):
     linkN = (len(links)/Threads)
     d = LinkDowloader()
@@ -169,7 +176,7 @@ for i in range(Threads):
     
 while True:
     
-    print len(myThreads), " Threads in Work ", Nnoticias, "links to be Processed ", downloaded,"Downloaded", len(counter), "new Words Found"
+    print len(myThreads), " Threads in Work ", Nnoticias, "Processed ",  len(counter), "new Words Found"
     
     for p in myThreads:
         if not  p.isAlive():
@@ -180,12 +187,12 @@ while True:
         
     time.sleep(10)
     
-print counter.most_common(100), "\n\n"
+print counter.most_common(150), "\n\n"
 
-print "Ignoring:", ignoreList
-names = len(counter.most_common(100))
+#print "Ignoring:", ignoreList
+names = len(counter.most_common(150))
 ## Pregunta ao utilizador se e um nome proprio
-for name in counter.most_common(100):
+for name in counter.most_common(150):
     
     #Ignora ficheiros ja analizados
     if name[0] in ignoreList or name[0] in filteredNames:
