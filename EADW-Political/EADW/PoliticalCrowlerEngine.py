@@ -24,7 +24,7 @@ def justRecentNews():
 if not os.path.exists(dbpath):
     print "Base de dados nao encontrada. Inicie o sistema pelo Utils, create Databases"
 else:
-    justRecentNews()
+    #justRecentNews()
     
     
     ##Criar motor de Pesquisa Baseado no Woosh se nao existir

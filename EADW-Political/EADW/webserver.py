@@ -1,7 +1,7 @@
 '''
 Created on May 3, 2013
 '''
-
+import urllib2
 from bottle import route, run, template
 
 import bottle
@@ -9,6 +9,7 @@ from bottle import route, run
 from bottle import static_file 
 from bottle import response
 from json import dumps
+import CommandInterface
 
 
 @route('/', method='GET')
@@ -19,14 +20,56 @@ def homepage():
 def favicon():
     return static_file('favicon.ico', root='./webPage/')
 
+@route('/entity/<path:path>', method='GET')
+def get_entity(path):
+    response.content_type = 'application/json'
+    path = path.decode('ASCII')
+    result = CommandInterface.getEntityDetails(path)
+    print  dumps(result)
+    return dumps(result)
+    
+
+
 @route('/search/:id', method='GET')
 def get_event(id):
-    #return "dario"
-    #return NewsSearcher.EADWSearch().searchNews("dario")
     response.content_type = 'application/json'    
-    result = []
-    result.append(dict(title = 'SITE DO IST',summary="Isto e o sumario do site",entities="dario,andre,carlos"))
-    result.append(dict(title = 'SITE DO IST',summary="Isto e o sumario do site",entities="dario,andre,carlos"))
+    result = CommandInterface.searchNews(id)
+    return dumps(result)
+
+@route('/partidosPositive/',method="GET")
+def partidosPositive():
+    response.content_type = 'application/json'    
+    result = CommandInterface.partidosPositive()
+    return dumps(result)
+
+@route('/partidosNeutral/',method="GET")
+def partidosNeutral():
+    response.content_type = 'application/json'    
+    result = CommandInterface.partidosNeutral()
+    return dumps(result)
+
+@route('/partidosNegative/',method="GET")
+def partidosNegative():
+    response.content_type = 'application/json'    
+    result = CommandInterface.partidosNegative()
+    return dumps(result)
+
+@route('/partidosOpinion/',method="GET")
+def partidosOpinion():
+    response.content_type = 'application/json'    
+    result = CommandInterface.partidosOpinion()
+    return dumps(result)
+
+@route('/topWords/',method="GET")
+def getWords():
+    response.content_type = 'application/json'    
+    result = CommandInterface.topWords()
+    return dumps(result)
+
+@route('/topCountries/',method="GET")
+def getCountries():
+    response.content_type = 'application/json'    
+    result = CommandInterface.topCountries()
     return dumps(result)
 
 @route('/static/')
@@ -38,4 +81,5 @@ def send_static(path):
     return static_file(path, root='./webPage/')
    
 bottle.debug(True) 
-run(host='172.20.81.172', port=8080)
+my_ip = urllib2.urlopen('http://ip.42.pl/raw').read()
+run(host=my_ip, port=8080)

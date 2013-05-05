@@ -9,13 +9,25 @@ body {
 	font-size: 62.5%;
 }
 
+.entityDetails .name{
+	font-weight:bold;
+	font-size: 15px;
+}
+
 #results a{
 	color:#1871B5;
 	text-decoration: underline;
 }
 
+.entities a{
+	margin-right:10px;
+}
 #results{
 	margin-left: 30px;
+}
+
+#results .result_entry{
+	margin-bottom: 20px;
 }
 
 #results h4{
@@ -30,7 +42,9 @@ body {
 }
 
 #results .entities{
-	font-style: italic;
+	font-weight:bold;
+	margin-top:7px;
+	text-decoration: underline;
 }
 
 
@@ -54,7 +68,6 @@ body {
 	position: relative;
 	width: 900px;
 	behavior: url('scripts/CSS3PIE/PIE.htc');
-	height: 1000px;
 }
 
 #rootContainerLayer {

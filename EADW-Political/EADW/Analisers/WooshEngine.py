@@ -5,6 +5,7 @@ from whoosh.fields import Schema, TEXT
 from whoosh.qparser import QueryParser, OrGroup
 from whoosh.writing import AsyncWriter
 from collections import Counter
+from operator import itemgetter, attrgetter
 import os
 import sqlite3
 
@@ -128,4 +129,50 @@ class WooshEngine:
         conn.close()
         return lista
         
+    def getMostFrequentWords(self):
+        ixD = open_dir(self.indexDir, indexname='MAIN', readonly=True)
+        reader = ixD.reader()
+        whooshResult = reader.most_frequent_terms("content", number=100, prefix='')
+        ixD.close()
+         
+        result = []
+        for freq,val in whooshResult:
+            if len(val) > 3:
+                print str(freq)+":"+val
+                result.append([freq,val])
+            #TODO Taggar e ver se e nome
+
+        return result
+    
+    
+    def getMostFrequentCountries(self):
+        countrySet = set()
+        f = open("Utils/Personalites/input/paises.txt")
+        for line in f:
+            countrySet.add(unicode(line[:-1]).lower())
         
+        
+        ixD = open_dir(self.indexDir, indexname='MAIN', readonly=True)
+        reader = ixD.reader()
+        whooshResult = reader.most_frequent_terms("content", number=2000, prefix='')
+        ixD.close()
+        
+        result = set()
+        for freq,val in whooshResult:
+            if len(val) > 3:
+                try:
+                    result.add(val.lower())
+                except UnicodeEncodeError:
+                    result.add(val.decode("utf-8").lower())
+            
+        result = countrySet.intersection(result)     
+        
+        final = []
+        for country in result:
+            for freq,val in whooshResult:
+                if val == country:
+                    final.append((country,int(freq)))
+                    break
+                
+        final = sorted(final,key=lambda x: x[1],reverse=True)
+        return final

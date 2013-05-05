@@ -1,5 +1,4 @@
 /feedDir
-/.settings
 *.pyc
 /entities.db
 /news.db
