@@ -126,13 +126,13 @@ conn.close()
 
 print len(links), " Links Found"
 
-links = links[:200]
+#links = links[2000:]
 Nnoticias = 0
 
 print len(links), " Links to Be Processed"
 
 myDonwloadThreads = []
-Dthreads = 20
+Dthreads = 30
 for i in range(Dthreads):
     linkN = (len(links)/Threads)
     d = LinkDowloader()

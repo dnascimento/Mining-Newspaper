@@ -8,6 +8,7 @@ from collections import Counter
 from operator import itemgetter, attrgetter
 import os
 import sqlite3
+from setuptools.command.sdist import entities
 
 ###########################################################
 # Whoosh engine
@@ -121,9 +122,15 @@ class WooshEngine:
         n = conn.cursor()
         for result in res:
             url = result[0]
-            n.execute('SELECT ENTITY FROM  newsStorage NATURAL JOIN opinion WHERE URL = ?', [url])
-            entities = n.fetchall()
-            #TODO utilizar a popularidade da entidade para alterar a noticia
+            n.execute('''SELECT NAME, PRE_REPUTATION, REPUTATION
+						FROM  newsStorage NATURAL JOIN opinion, personalities
+						WHERE URL = ? AND  ENTITY = NAME
+						ORDER BY PRE_REPUTATION DESC, REPUTATION DESC''', [url])
+            ent = n.fetchall()
+            entities = []
+            # Limitar o numero de entidas a 5 por artigo
+            for en in ent[:7]:
+            	entities.append(en[0])
             #URL, SCORE, LISTA ENTIDADES
             lista.append([result[1], result[0], entities])
         conn.close()
