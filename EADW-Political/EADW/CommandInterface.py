@@ -26,17 +26,18 @@ def searchNews(search_word):
         score = new[0]
         url = new[1]
         #entidades da noticia e respectiva opiniao
-        entities = c.execute("select ENTITY,OPINION from opinion where URL=?",[url])
+        entities = new[2]
         globalFeeling = 0
         entitiesList = []
         for entity in entities:
-            globalFeeling += entity[1]
-            print entity[0]
+            feeling = c.execute("select OPINION from opinion where URL=? and ENTITY=?",[url,entity]).fetchone()
+            globalFeeling += feeling[0]
+            print entity
             try:
-                name = entity[0].decode('utf-8')
+                name = entity.decode('utf-8')
             except UnicodeDecodeError:
-                name = entity[0]  
-            entitiesList.append([name,entity[1]])
+                name = entity  
+            entitiesList.append([name,feeling])
             
         cont = c.execute("select URL,TITLE,SUMMARY,ARTICLE from newsStorage where URL=?",[url])
         newContent = cont.fetchone()
@@ -46,7 +47,6 @@ def searchNews(search_word):
             summary[:100]
         else:
             summary = newContent[3][:100]
-    
         try:
             title = newContent[1].decode('utf-8')
         except UnicodeDecodeError:
