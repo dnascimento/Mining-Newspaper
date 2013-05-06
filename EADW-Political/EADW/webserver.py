@@ -6,6 +6,7 @@ Created on May 3, 2013
 import urllib2
 from bottle import route, run, template
 
+import socket
 import bottle
 from bottle import route, run
 from bottle import static_file 
@@ -84,4 +85,9 @@ def send_staticPath(path):
    
 bottle.debug(True) 
 my_ip = urllib2.urlopen('http://ip.42.pl/raw').read()
-run(host=my_ip, port=8080)
+#Tentar com IP Publico
+try:
+    run(host=my_ip, port=8080)
+except socket.error:
+    run(host="localhost", port=8080)
+
