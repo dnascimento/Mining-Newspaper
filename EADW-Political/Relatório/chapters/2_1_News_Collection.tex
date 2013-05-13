@@ -1,0 +1,6 @@
+\subsection{Colecção e Armazenamento de Notícias}
+\label{sec:news_storage}
+\hspace{15pt}A recolha de noticias é iníciada descarregando os feeds dos prinicípais jornais politicos portugueses: Diário de Notícias, Jornal de Notícias, Diário Económico, Sol. De cada um destes feeds utilizando a faramenta \textbf{feedparser}, extraimos o URL da notícia original e a data do feed. Estes dados são guardados na base de dados.\\
+Imediatamente a seguir ou à posteriori, descarregamos o contéudo da notícia através do URL. Para tal utilizando a farramenta \textbf{Beautiful Soup}. Construímos um HTML parser para cada um dos websites. O contéudo é separado em Título, Sumário e Article de modo a atribuírmos relevância distinta a cada parte do texto. A entrada na base de dados é actualizada com o contéudo e marcado como processado.\\
+Estes dados são então utilizados para realizar as pesquisas e para extracção de informação, assuntos abordados nas próximas secções.\\
+Criamos tambem um sistema de caching das paginas descaregadas. Ao longo do projecto verificamos que exestia um bottleneck na extração da informação da Web, logo para acelerar o processo da aquisição da informação guardamos as paginas em disco utilizando varias threads e depois efectuamos o seu processamento. Para distinguir os ficheros, o seu nome é dado em função de uma função de resumo (SHA-1) do URL original.

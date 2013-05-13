@@ -1,0 +1,7 @@
+%!TEX encoding = UTF-8 Unicode
+\subsection{Pesquisa de Notícias}
+\label{sec:news_search}
+\hspace{15pt}Despois da obtenção do artido do seu sumario e titulo procedemos a indexaçao desta infoemação. A indexação é efectuada utilizando a ferramenta \textbf{Whoosh} utilizando o modelo \textbf{BM25}. Para diferenciar e modificar o pesso de cada parte da messagem por forma a obter melhores resultados utilizamos a seguinte metodologia: O ID sera o URL original do Artigo que é o nosso identificador unico no Sistema. E para cada par \textbf{(ID, TEXTO)} que introduzimos no Whoosh a parte do texto sera composta pelas tres partes do artigo de seguinte modo.\\\\
+\centerline{\textbf{TEXTO = 10 x Titulo + 2 x Sumario + Artigo}}
+\newline\newline
+\hspace{15pt}O Resultado de uma pesquisa é um conjunto de links por ordem crescente de relevancia. Como temos o as entidades presentes na base de dados para cada noticia apresentamos os 7 Entidades mais relevantes. Tambem apresentamos o Sentimento da noticia em relação a cada entidades, como da noticia em si.

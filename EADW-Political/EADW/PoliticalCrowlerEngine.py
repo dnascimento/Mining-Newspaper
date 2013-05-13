@@ -23,7 +23,7 @@ def justRecentNews():
 
 ##Criar base de dados se nao exestir
 if not os.path.exists(dbpath):
-    print "Base de dados nao encontrada. Inicie o sistema pelo Utils, create Databases"
+    print "Base de dados nao encontrada. Inicie o sistema pelo Utils, CreateDatabases em EADW.Utils.CreateDatabases"
 else:
     #justRecentNews()
     

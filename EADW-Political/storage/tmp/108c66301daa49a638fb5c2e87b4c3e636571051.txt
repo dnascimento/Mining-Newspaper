@@ -1,0 +1,1849 @@
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pt" lang="pt">
+    <head id="ctl00_Head1"><title>
+	Maioria e PCP contra proposta de legalização do cultivo de canábis - JN
+</title><meta property="og:site_name" content="JN"/><meta property="og:url" content="http://www.jn.pt/PaginaInicial/Politica/Interior.aspx?content_id=3208341"/><meta property="og:title" content="Maioria e PCP contra proposta de legalização do cultivo de canábis - JN"/><link rel="image_src" href="http://www.jn.pt/common/images/JN_DEFAULT_IMG.jpg"><meta property="og:image" content="http://www.jn.pt/common/images/JN_DEFAULT_IMG.jpg"><META name="keywords" content="JN,Política"><META name="description" content="A maioria parlamentar e o PCP criticaram esta quarta-feira a legalização do cultivo de canábis proposta pelo BE, alegando que o projeto não está fundamentado e que nada demonstra que a medida leve à diminuição do tráfico."><meta property="og:description" content="A maioria parlamentar e o PCP criticaram esta quarta-feira a legalização do cultivo de canábis proposta pelo BE, alegando que o projeto não está fundamentado e que nada demonstra que a medida leve à diminuição do tráfico."><META name="csauth" content="anonymous"><link id="ctl00_ctl00" rel="alternate" type="application/rss+xml" title="JN - Ultimas [RSS]" href="http://feeds.jn.pt/JN-ULTIMAS" /><link id="ctl00_ctl01" rel="alternate" type="application/rss+xml" title="JN - Destaques [RSS]" href="http://feeds.tsf.pt/JN-DESTAQUES" /><link id="ctl00_ctl02" rel="alternate" type="application/rss+xml" title="JN - Audios [RSS]" href="http://feeds.jn.pt/JN-AUDIOS" /><link id="ctl00_ctl03" rel="alternate" type="application/rss+xml" title="JN - Cultura [RSS]" href="http://feeds.jn.pt/JN-CULTURA" /><link id="ctl00_ctl04" rel="alternate" type="application/rss+xml" title="JN - Desporto [RSS]" href="http://feeds.jn.pt/JN-DESPORTO" /><link id="ctl00_ctl05" rel="alternate" type="application/rss+xml" title="JN - Economia [RSS]" href="http://feeds.jn.pt/JN-ECONOMIA" /><link id="ctl00_ctl06" rel="alternate" type="application/rss+xml" title="JN - Galerias [RSS]" href="http://feeds.jn.pt/JN-Galerias" /><link id="ctl00_ctl07" rel="alternate" type="application/rss+xml" title="JN - Gente [RSS]" href="http://feeds.jn.pt/JN-GENTE" /><link id="ctl00_ctl08" rel="alternate" type="application/rss+xml" title="JN - Infografias [RSS]" href="http://feeds.jn.pt/JN-INFOGRAFIAS" /><link id="ctl00_ctl09" rel="alternate" type="application/rss+xml" title="JN - Media [RSS]" href="http://feeds.jn.pt/JN-MEDIA" /><link id="ctl00_ctl10" rel="alternate" type="application/rss+xml" title="JN - Mundo [RSS]" href="http://feeds.jn.pt/JN-MUNDO" /><link id="ctl00_ctl11" rel="alternate" type="application/rss+xml" title="JN - Nacional [RSS]" href="http://feeds.jn.pt/JN-NACIONAL" /><link id="ctl00_ctl12" rel="alternate" type="application/rss+xml" title="JN - Pais [RSS]" href="http://feeds.jn.pt/JN-PAIS" /><link id="ctl00_ctl13" rel="alternate" type="application/rss+xml" title="JN - Policia [RSS]" href="http://feeds.jn.pt/JN-POLICIA" /><link id="ctl00_ctl14" rel="alternate" type="application/rss+xml" title="JN - Sociedade [RSS]" href="http://feeds.jn.pt/JN-SOCIEDADE" /><link id="ctl00_ctl15" rel="alternate" type="application/rss+xml" title="JN - Tecnologia [RSS]" href="http://feeds.jn.pt/JN-TECNOLOGIA" /><link id="ctl00_ctl16" rel="alternate" type="application/rss+xml" title="JN - Videos [RSS]" href="http://feeds.jn.pt/JN-VIDEOS" /><link id="ctl00_ctl17" rel="alternate" type="application/rss+xml" title="JN - VIVA [RSS]" href="http://feeds.jn.pt/JN-VIVAMAIS" /><meta name="GENERATOR" content="CommunityServer 2007.1 (Debug Build: 20917.1142)" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico" />
+
+    
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <meta name="verify-v1" content="G9j7dcqYSFuJ7YZoLzbgva/SFO96/pTgc03QRYH1eK0=" />    
+    	<meta name="msvalidate.01" content="71758353335F4DF09CB71DE1B9D8F58A" />
+
+        <style type="text/css"> body { font-size: 84%; } </style>
+        <link rel="stylesheet" href="/themes/jn/style/default.css?version=1.0" type="text/css" media="screen" />
+        <link rel="stylesheet" href="/themes/jn/style/DynamicStyle.aspx" type="text/css" media="screen" />
+        <script src="/common/script/jquery-1.7.1.js?Version=3.1.20917.1142" type="text/javascript"></script>
+		  <script src="/common/script/jquery-ui-1.8.17.js?Version=3.1.20917.1142" type="text/javascript"></script>
+        <script src="/Common/script/jquery_plugins.js?Version=3.1.20917.1142" type="text/javascript"></script>
+        <script src="/Common/script/default.js?Version=3.1.20917.1142" type="text/javascript"></script>
+        <script src="/Common/script/Common.js?Version=3.1.20917.1142" type="text/javascript"></script>
+        <script src="/Common/script/News.js?Version=3.1.20917.1142" type="text/javascript"></script>
+        <link rel="stylesheet" href="/Themes/jn/style/forum.css" type="text/css" media="screen" />
+	      <link rel="stylesheet" href="/Themes/jn/style/gallery.css" type="text/css" media="screen" />
+        <link rel="stylesheet" href="/Themes/jn/style/forum_print.css" type="text/css" media="print" />
+        <link rel="stylesheet" href="/Themes/jn/style/gallery_print.css" type="text/css" media="print" />
+        
+
+        <script language="JavaScript" type="text/javascript">ord=Math.random()*10000000000000000;function getOrd(){return ord;}</script>
+        <script language="javascript" type="text/javascript"> AC_FL_RunContent = 0;</script>
+        <script language="javascript" type="text/javascript"> DetectFlashVer = 0;</script>
+        <script language="javascript" type="text/javascript" src="/common/script/AC_RunActiveContent.js"></script>
+        <script language="JavaScript" type="text/javascript">
+        <!--
+        // -----------------------------------------------------------------------------
+        // Globals
+        // Major version of Flash required
+        var requiredMajorVersion = 9;
+        // Minor version of Flash required
+        var requiredMinorVersion = 0;
+        // Revision of Flash required
+        var requiredRevision = 45;
+        // -----------------------------------------------------------------------------
+        // -->
+        </script>   
+
+
+
+<!-- GOOGLE ADSENSE CODE TOP -->
+<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
+</script>
+<script type="text/javascript">
+  GS_googleAddAdSenseService("ca-pub-0474877496849846");
+  GS_googleEnableAllServices();
+</script>
+<script type="text/javascript">
+  GA_googleAddSlot("ca-pub-0474877496849846", "JN_ros_topo_300x45");
+  GA_googleAddSlot("ca-pub-0474877496849846", "JN_ros_topo2_300x45");
+  GA_googleAddSlot("ca-pub-0474877496849846", "JN_hp_topo_300x45");
+  GA_googleAddSlot("ca-pub-0474877496849846", "JN_hp_topo2_300x45");
+  GA_googleAddSlot("ca-pub-0474877496849846", "JN_Videos_Liga_300x30");
+  GA_googleAddSlot("ca-pub-0474877496849846", "JN_Jogos_em_Directo_300x30");
+  GA_googleAddSlot("ca-pub-0474877496849846", "JN_Desporto_657x50");
+</script>
+<script type="text/javascript">
+  GA_googleFetchAds();
+</script>
+<!-- END GOOGLE ADSENSE CODE -->
+<script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script>
+
+<!-- CHARTBEAT -->
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+<!-- END CHARTBEAT -->
+
+<script type="text/javascript" src="http://services.flip.pt/PbaSitetracker/PbaSitetracker.js"></script>
+<script type="text/javascript">
+    PbaSiteTracker.Init({ siteID: "JN" });
+    PbaSiteTracker.trackPage();
+    PbaSiteTracker.trackLinks();
+</script>
+
+<!-- START Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-2804136-48']);
+  _gaq.push(['_setDomainName', 'www.jn.pt']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!-- END Google Analytics -->
+<!-- Google Analytics Social Button Tracking --> 
+<script src="/common/script/ga_social_tracking.js"></script> 
+<script> 
+  _ga.trackSocial();
+</script> 
+<!-- END Google Analytics -->
+
+            
+    <link id="ctl00_ctl18" rel="stylesheet" href="/common/css/comentarios.css?version=1.0" type="text/css" />
+	 <script src="/common/script/comentarios.js" type="text/javascript"></script>
+     
+      
+   </head>
+	<body>
+	
+		<form name="aspnetForm" method="post" action="Interior.aspx?content_id=3208341" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE5MDkxODE5NzhkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYEBSdjdGwwMCRoZWFkZXJNZW51JE1lbnUxJFNlYXJjaDEkYnRTZWFyY2gFIWN0bDAwJGJjciRDb21tZW50cyRjaGtHZXRGZWVkYmFjawUlY3RsMDAkYmNyJENvbW1lbnRzJGNoa1Bvc3RBc0Fub255bW91cwUgY3RsMDAkYmNyJENvbW1lbnRzJGNoa1JlbWVtYmVyTWU=" />
+
+
+<script src="/WebResource.axd?d=fq44C-W5zEbiXgLWQy9-uUefXdd_td54OJs5CjiGMSJdZlQ1wE7Y_lnLEqaaOMF0mYX_KgjHxPOmIe2sHPXrOtsDK_ZP8e1fh0-wqAL8D83_EXGLCsHC6nbU81ZfMmNrbvHbsfm-iraKdflWCI40dvsr1ts1&amp;t=633234721040000000" type="text/javascript"></script>
+<script src="/WebResource.axd?d=5XxJfA8EyEN9Zu1DA0LJVZZC36mSQzrLBcQM4IwudNWXmq_NRHOyqmvI5fCsskd4H81Pkn8t1byCaNj6pWz5GTtxgm6BqhkID0mOlXEAZgsbZnSNS4YqwsXI7mKhYmedS7tqM-F8eNE2U9cScGfMUqv1m7g1&amp;t=633234721040000000" type="text/javascript"></script>
+						
+      <center>
+	<iframe id="BarraCI" src="/common/barra/header.html" marginwidth="0" marginheight="0" width="100%" height="33" frameborder="0" scrolling="no" allowTransparency="true"></iframe>
+	
+	
+
+
+<script type="text/javascript">
+var divBtnSearchState="";
+function showBoxHeader(sObj,sdisplay)
+{
+  var oDivFP = document.getElementById(sObj);
+  
+  if(oDivFP)
+  {
+	 oDivFP.style.display = sdisplay;
+  }
+//  var oDivSearchBtn = document.getElementById("searchbox");
+//  if(oDivSearchBtn)
+//  {
+//  
+//  if(sdisplay=="none")
+//  {
+//	 oDivSearchBtn.innerHTML=divBtnSearchState;
+//  }
+//  else
+//  {
+//		divBtnSearchState=oDivSearchBtn.innerHTML;
+//		oDivSearchBtn.innerHTML="<img src=\"/common/images/header/new/search_static.jpg\"/>";
+//		//oDivSearchBtn.innerHTML="33";
+//  }
+//}
+  
+  
+}
+</script>
+
+
+
+ 
+<div id="header_jn_2" onclick="event.cancelBubble=false;">
+<div id="header_jn_3">
+
+<div id="header_logo_jn"><!--a href="/"><img alt="JN" src="/common/images/header/LogoHeaderJN.jpg" width="410" height="110" /></a-->
+<img class="logoHeader" src="/common/images/LogoJN_125anos.jpg" width="410" height="110" usemap="#imagemap" />
+	 <map name="imagemap" id="imagemap">
+		<area shape="rect" coords="0,0,241,105" href="/" alt="JN" title="JN"    />
+		<area shape="rect" coords="247,10,345,105" href="/125Anos/default.aspx" alt="" title=""  />
+	 </map>
+<input name="ctl00$Header$boAddr" type="hidden" id="ctl00_Header_boAddr" /> 
+		
+</div>
+
+
+<div id="destaques_header">
+
+
+
+<div id="destaques_header1">
+ 
+<span id="ctl00_Header_DestaquesHeader_NewsGenContent1"><div id="ctl00_Header_DestaquesHeader_NewsGenContent1_ctl00_contentDiv"><script type="text/javascript">
+
+				var x=document.getElementById("teste");
+
+				if (x)
+
+				document.getElementById('teste').className='PhotoDestaqueHeader';
+
+
+
+			 </script><div class="mask"><div id="box"><div class="font-over-img-wrapper-0"><div class="font-over-img-wrapper-1"><div class="h2-envolvente" onmouseover="document.getElementById('teste').className='on'" onmouseout="document.getElementById('teste').className='PhotoDestaqueHeader'"><h2 class="NewsDestaqueHeaderTitle"><a href="/multimedia/infografia970.aspx?content_id=3191722">Quiz</a></h2><br></div></div><a href="/multimedia/infografia970.aspx?content_id=3191722"><img src="/storage/JN/2013/Destaque Pequena/ng2521007.jpg" id="teste" alt="" class="PhotoDestaqueHeader" width="165" height="95" style="margin-top:5px"></a></div></div></div></div>
+</span>
+
+</div>
+<div id="destaques_header2">
+<span id="ctl00_Header_DestaquesHeader_ThisContent"><div id="ctl00_Header_DestaquesHeader_ThisContent_ctl00_contentDiv"><div class="mask"><div id="DestaqueHeaderIniImg"><a href="http://www.jn.pt/iniciativasjn/iniciativa.aspx?content_id=3120506&amp;utm_source=site_jn&amp;utm_medium=destaque_header_fixo&amp;utm_campaign=concurso_125anos_2013" target="_blank"><img src="/storage/JN/2013/small/ng2534170.jpg" alt="" class="PhotoInciativaHeader" width="165" height="95" style="margin-top:5px"></a></div></div></div>
+</span>
+
+
+</div>
+
+
+
+
+</div>
+<div id="edicao_impressa">
+  <div class="header_jn_3_directores">Diretor</div>
+  <div class="header_jn_3_directores1">Manuel Tavares</div>
+	 <div class="header_jn_options"><a href="/Iniciativasjn">Iniciativas</a></div>
+	 <div class="header_jn_options"><a href="http://www.lojadojornal.pt/LojaWeb/" target="_blank">Loja do Jornal</a></div>
+	 <div class="header_jn_options"><a href="http://ad.doubleclick.net/clk;236245702;26831472;d?http://www.jn.pt/epaper" target="_blank">Assine o JN</a></div>
+	 <div class="header_jn_options"><a href="http://www.tuti.pt/jn/Pesquisa.aspx" target="_blank">Classificados</a></div>
+</div>
+
+</div>
+
+</div>
+
+
+
+<div id="menu_jn" onclick="event.cancelBubble=false;">
+<div id="menu_top">
+  <div class="header-menu-top">
+	  <a href="/" style="margin-right:7px">Início</a>|<a href="/multimedia" style="margin-right:7px;margin-left:7px">Multimédia</a>|<a href="/blogues" style="margin-right:7px;margin-left:7px">Blogues</a>|<a href="/tendencias" style="margin-right:7px;margin-left:7px">Tendências</a>|<a href="/opiniao" style="margin-right:7px;margin-left:7px">Opinião</a>|<a href="/dossies" style="margin-right:7px;margin-left:7px">Dossiês</a>|<a href="/cidadaoreporter" style="margin-right:7px;margin-left:7px">Cidadão Repórter</a>|<a href="/servicos" style="margin-left:7px">Serviços</a>
+  </div>
+		
+  <div id="jn_links">
+	 <div class="jn_links_1 jQToolTip_1">
+		<a href="/edicaoimpressa/capa.aspx"><img src="/common/images/header/new/jornal.jpg" border="0" alt="" width="12px" height="12px" onmouseover="this.src='/common/images/header/new/jornal_hover.jpg';" onmouseout="this.src='/common/images/header/new/jornal.jpg';" /></a>
+		<div class="TTBox_2 HeaderCapa jQTT"><i></i><strong><span id="ctl00_Header_Porto"><div id="ctl00_Header_Porto_ctl00_contentDiv"><a href="/edicaoimpressa/Capa.aspx" xmlns:g="http://base.google.com/ns/1.0" xmlns:fb="http://www.facebook.com/2008/fbml"><img src="/Storage/JN/2013/small/ng2544716.jpg" border="0" class="CapaHeaderImg" alt="12 de maio de 2013 "></a></div>
+</span></strong></div>
+	 </div>
+	 
+	 <div class="jn_links_1 jQToolTip_1">
+		<a href="http://www.facebook.com/pages/Jornal-de-Not%C3%ADcias/216390522994" target="_blank"><img src="/common/images/header/new/fb.jpg" alt="" width="12px" height="12px" border="0"  onmouseover="this.src='/common/images/header/new/fb_hover.jpg';" onmouseout="this.src='/common/images/header/new/fb.jpg';" /></a>
+		<div class="TTBox_1 jQTT"><i></i><strong>
+		<b class="TTBCont_1"><a href="http://www.facebook.com/pages/Jornal-de-Not%C3%ADcias/216390522994" target="_blank"><img src="/common/images/header/new/fb_frame.jpg" width="130px" height="55px" alt="" border="0"  /></a></b>
+		<b class="TTBCont_2"><iframe src="http://www.facebook.com/plugins/like.php?href=http://www.facebook.com/pages/Jornal-de-Not%C3%ADcias/216390522994&amp;layout=button_count" scrolling="no" frameborder="0" width="100px" height="20px"  allowtransparency="true"></iframe></b>
+		</strong></div>
+	 </div>
+	 <div class="jn_links_1 jQToolTip_1">
+		<a href="http://twitter.com/#!/JornalNoticias" target="_blank"><img src="/common/images/header/new/twitter.jpg" alt="" width="12px" height="12px" border="0"  onmouseover="this.src='/common/images/header/new/twitter_hover.jpg';" onmouseout="this.src='/common/images/header/new/twitter.jpg';" /></a>
+		<div class="TTBox_1 jQTT"><i></i><strong>
+		<b class="TTBCont_1"><a href="http://twitter.com/#!/JornalNoticias" target="_blank"><img src="/common/images/header/new/twitter_frame.jpg" width="130px" height="55px" alt="" border="0"  /></a></b><b class="TTBCont_2"><a href="http://twitter.com/#!/JornalNoticias" target="_blank"><img src="/common/images/header/new/btn_twitter.jpg" alt="" border="0"  /></a></b></strong></div>
+	 </div>
+	 <div class="jn_links_1 jQToolTip_1">
+		<a href="https://plus.google.com/109122905454922246211/" target="_blank"><img src="/common/images/header/new/gplus.jpg" alt="" width="12px" height="12px" border="0"  onmouseover="this.src='/common/images/header/new/gplus_hover.jpg';" onmouseout="this.src='/common/images/header/new/gplus.jpg';" /></a>
+		<div class="TTBox_1 jQTT"><i></i><strong>
+		<b class="TTBCont_1"><a href="https://plus.google.com/109122905454922246211/" target="_blank"><img src="/common/images/header/new/gplus_frame.jpg" width="130px" height="55px" alt="" border="0"  /></a></b>
+		<b class="TTBCont_2">
+						<g:plusone href="https://plus.google.com/109122905454922246211" size="standard" annotation="bubble"></g:plusone>
+
+						<!-- Place this render call where appropriate -->
+						<script type="text/javascript">
+						  window.___gcfg = {lang: 'pt-PT'};
+
+						  (function() {
+						  var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+						  po.src = 'https://apis.google.com/js/plusone.js';
+						  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+						  })();
+						</script>		
+		</b>
+		</strong></div>
+	 </div>
+	 
+	 <div class="jn_links_1 jQToolTip_1">
+		<a href="http://instagram.com/jornaldenoticias" target="_blank"><img src="/common/images/header/new/instagram.jpg" alt="" width="12px" height="12px" border="0"  onmouseover="this.src='/common/images/header/new/instagram_hover.jpg';" onmouseout="this.src='/common/images/header/new/instagram.jpg';" /></a>
+		<div class="TTBox_1 jQTT"><i></i><strong>
+		<b class="TTBCont_1"><a href="http://instagram.com/jornaldenoticias" target="_blank"><img src="/common/images/header/new/instagram_frame.jpg" width="130px" height="55px" alt="" border="0"  /></a></b><b class="TTBCont_2"><a href="http://instagram.com/jornaldenoticias" target="_blank"><img src="/common/images/header/new/btn_instagram.jpg" alt="" border="0"  /></a></b></strong></div>
+	 </div>
+	 <div class="jn_links_5 jQToolTip_1">
+		<a href="/pda"><img src="/common/images/header/new/mobile.jpg" alt="" width="8px" height="12px" border="0"  onmouseover="this.src='/common/images/header/new/mobile_hover.jpg';" onmouseout="this.src='/common/images/header/new/mobile.jpg';" /></a>
+		<div class="TTBox_1 jQTT"><i></i><strong>
+		<b class="TTBCont_1"><a href="/pda"><img src="/common/images/header/new/mobile_frame.jpg" width="130px" height="55px" alt="" border="0"  /></a></b><b class="TTBCont_2"><a href="/pda"><img src="/common/images/header/new/btn_mobile.jpg" alt="" border="0"  /></a></b></strong></div>
+	 </div>
+	 <div class="jn_links_1 jQToolTip_1">
+		<a href="/rss"><img src="/common/images/header/new/rss.jpg" alt="" width="12px" height="12px" border="0"  onmouseover="this.src='/common/images/header/new/rss_hover.jpg';" onmouseout="this.src='/common/images/header/new/rss.jpg';" /></a>
+		<div class="TTBox_1 jQTT"><i></i><strong>
+		<b class="TTBCont_1"><a href="/rss"><img src="/common/images/header/new/rss_frame.jpg" width="130px" height="55px" alt="" border="0"  /></a></b><b class="TTBCont_2"><a href="/rss"><img src="/common/images/header/new/btn_rss.jpg" alt="" border="0"  /></a></b></strong></div>
+	 </div>
+	 
+		
+
+  </div>
+
+  <div id="menu_top_login">
+
+
+<div class="thrbottom">
+                
+   <div class="user">
+  		  
+    
+    <span id="ctl00_Header_UW1_linkVariavelContainer">
+      <a href="/MeuJN/" id="ctl00_Header_UW1_linkVariavel">Login/Registo</a> 
+      
+    </span>
+    
+
+  </div>
+  
+
+</div>
+ </div>
+		
+</div> 
+</div>	
+	
+	
+		
+		
+
+
+
+
+
+     
+
+<div id="menu2_jn" onclick="event.cancelBubble=false;">
+<div id="menu_middle">
+<div class="menu-2-middle">
+<table width="70%" cellspacing="0" cellpadding="0" class="header-table" style="float:left">
+	<tr><td>
+		<table width="100%" cellspacing="0" cellpadding="0" class="header-menu-middle">
+			<tr>
+			
+				<td class="menu2-content"><a href="/ultimas">Últimas</a></td>
+				
+				<td class="menu2-content"><a href="/politica"><font color="#64635E">Política</font></a></td>
+				
+					<td align="center" class="menuoff-sociedade1" onmouseover="className='menuon-sociedade1';" onmouseout="className='menuoff-sociedade1';"><div class="header-menu-esq2-sociedade1"><a href="/sociedade">Sociedade</a></div></td>
+				
+				<td class="menu2-content"><a href="/seguranca">Segurança</a></td>
+				
+				<td class="menu2-content"><a href="/economia">Economia</a></td>
+				
+				<td class="menu2-content"><a href="/pais">País</a></td>
+				
+					<td align="center" class="menuoff-mundo2" onmouseover="className='menuon-mundo1';" onmouseout="className='menuoff-mundo1';"><div class="header-menu-esq2-mundo1"><a href="/mundo">Mundo</a></div></td>
+				
+					<td align="center" class="menuoff1" onmouseover="className='menuon1';" onmouseout="className='menuoff1';"><div class="header-menu-esq2-desporto1"><a href="/desporto">Desporto</a></div></td>
+				
+				<td class="menu2-content"><a href="/cultura">Cultura</a></td>
+				
+				<td class="menu2-content"><a href="/gente">Gente</a></td>
+				
+				<td class="menu2-content"><a href="/tecnologia">Tecnologia</a></td>
+				
+					
+			
+			</tr>
+		</table>
+		
+	</td></tr>
+</table>
+<div id="caixa_pesquisa">
+ 
+
+
+
+<div class="hsearchbar1">
+<div class="serachform1">
+    <div id="search_text">
+          <input name="ctl00$headerMenu$Menu1$Search1$txtSearch" type="text" id="ctl00_headerMenu_Menu1_Search1_txtSearch" class="formtextfield" value="Pesquisa" onfocus="if (this.value.toLowerCase() == 'pesquisa') { this.value=''; }" onblur="if (this.value == '') { this.value='Pesquisa'; }" onkeydown="GoSearch(this, event)" title="Pesquisa" />
+            </div>
+        <div id="search_bt">
+        
+          <input src="/common/images/header/pesquisa.png" name="ctl00$headerMenu$Menu1$Search1$btSearch" type="image" id="ctl00_headerMenu_Menu1_Search1_btSearch" class="searchbt" onmouseover="this.src='/common/images/header/pesquisa_hover.png';" onmouseout="this.src='/common/images/header/pesquisa.png';" onclick="javascript:FindSearchCriteria('ctl00_headerMenu_Menu1_Search1_txtSearch')" />
+         
+         </div>
+          
+          
+      
+    
+</div>
+</div>
+
+<!--center>
+<div style="width:300px; text-align:left">
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0" width="300" height="100" id="uefa" align="middle"><param name="allowScriptAccess" value="always"><param name="movie" value="/common/Localfiles/banner3.swf"><param name="wmode" value="opaque"><param name="quality" value="high"><param name="menu" value="false"><param name="bgcolor" value="#000"><param name="allowFullScreen" value="true"><embed src="/common/Localfiles/banner3.swf" wmode="opaque" quality="high" bgcolor="#000" width="300" height="100" name="uefa" align="middle" menu="false" allowfullscreen="true" allowScriptAccess="always" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">
+</embed>
+</object>
+</div>
+<br clear="all"/>
+<div style="width:300px; text-align:left">
+<a href="http://www.lojadojornal.pt/LojaWeb/contactos.aspx" target="_blank">
+<img src="/common/images/banner_300x100_final_dublin.gif" width="300" alt="">
+</a>
+</div></center>
+
+
+
+
+
+
+ --> 
+</div>
+</div>
+
+		
+
+		
+		</div>
+		
+		
+<div class="menu-2-bottom" style="width:980px">
+
+
+	
+	<table width="100%" cellspacing="0" cellpadding="0" class="header-table-menu6" border="0" style="float:left;margin-bottom:4px">
+	
+	
+	<tr>
+		<td>
+			<div class="header-seccao-laranja">
+			  <a href="/PaginaInicial/Politica/">Política</a>
+        			  
+			  <a href="http://feeds.jn.pt/JN-politica"><img class="linkrssimg" src="/Common/Images/rss_icon.gif" alt="rss" width="15" height="15" align="absmiddle" style="padding-bottom: 3px;" /></a>
+			  
+      </div>
+		</td>
+		
+		<td style="text-align:right; padding-right:35px"></td>
+		
+	</tr>	
+	
+</table></div>
+</div>
+
+
+
+
+
+    <br clear="all" />
+
+        <div id="SiteLayout" class="SiteLayout">
+          
+
+          <div class="MainLayout">
+            <div class="Main">
+<style type="text/css">
+.header-seccao-brasil{margin-bottom:10px}
+</style>
+
+  <span id="ctl00_bcr_ThisContent"><div id="ctl00_bcr_ThisContent_ctl00_contentDiv"><div class="tudo" xmlns:g="http://base.google.com/ns/1.0" xmlns:fb="http://www.facebook.com/2008/fbml"><div class="col-dir"><div class="ArtigoRightLayout FerramentasContainer"><div class="ferramentas0907"><div class="ferramentas0907title">FERRAMENTAS</div><div class="caixaComments"><a href="javascript:JumpTo('CommentFormEditor')" title="Comentar Artigo">Comentar</a></div><div class="BottomLinks"><img src="/Common/Images/print.gif" width="24" height="16" title="Imprimir" class="Photo"><a href="javascript:PrintNews()" style="vertical-align:middle" title="Imprimir">Imprimir</a></div><div class="BottomLinks"><div class="addthis-container"><script type="text/javascript">addthis_pub  = 'controlinveste';</script><script type="text/javascript"> var addthis_language = "pt"; </script><script type="text/javascript">
+						var addthis_localize = {
+						share_caption: "Adicionar / Distribuir",
+						email_caption: "Envio de e-mail",
+						email: "E-mail",
+						favorites: "Favoritos",
+						more: "Mais" };
+						var addthis_brand = "jn.pt";
+						var addthis_logo = " logoJN.gif";
+						var addthis_options = 'netlog, facebook, email, twitter, stumbleupon, linkedin, google, more';
+					 </script><a href="http://www.addthis.com/bookmark.php" onMouseOver="return addthis_open(this, '', '[URL]', '[TITLE]')" onMouseOut="addthis_close()" onClick="return addthis_sendto()"><img src="/Common/Images/1x1t.gif" height="12" class="BtnDistribuirHidden"><img src="/Common/Images/Distribuir.gif" width="24" height="16" title="Distribuir" class="BtnDistribuir" style="vertical-align:middle">Distribuir
+					 </a><script type="text/javascript" src="http://s7.addthis.com/js/152/addthis_widget.js"></script></div></div><div class="BottomLinks"><img src="/Common/Images/send.gif" width="24" height="16" title="Enviar" class="Photo"><a href="javascript:SendNews()" style="vertical-align:middle" title="Enviar">Enviar</a></div><div class="BottomLinks"><span id="BtnAumentar"><img src="/common/images/font_big.gif" width="24" height="16" border="0" title="Aumentar Texto" class="Photo"><a href="javascript:MagnifyText(1)" style="vertical-align:bottom" title="Aumentar Texto">Aumentar</a></span></div><div class="BottomLinks"><span id="BtnDiminuir" style="padding-left:0px"><img src="/common/images/font_small.gif" width="24" height="16" border="0" title="Diminuir Texto" class="Photo"><a href="javascript:MagnifyText(-1)" style="vertical-align:bottom" title="Diminuir Texto">Diminuir</a></span></div><div class="vspace400"></div><div class="Estatisticas0410">
+				  ESTATÍSTICAS
+
+				  <div id="StatsWrapper" class="stats-wrapper"></div><div id="Stats" class="stats"></div></div><script>
+				  pagehascomments = 0;
+				</script><div class="Pub0410"><div class="Ferramentas">
+					 Patrocínio
+
+					 <div class="PubNavigator"><iframe id="ifPubNavigator" src="/common/htm/navigatorpub.htm" marginwidth="0" marginheight="0" width="100" height="40" frameborder="0" scrolling="no" allowTransparency="true"></iframe></div></div></div></div><div class="related0907"><div class="related0907title">Artigos Relacionados</div><div class="&#xA;		  related0907item related0907-default"><a href="/PaginaInicial/Politica/Interior.aspx?content_id=3206002">Parlamento debate legalização do cultivo de canábis e clubes para consumo</a></div><div style="margin-left:6px"></div></div><div class="vspace10"> </div><div class="Tags"><p><b>TAGS</b></p><div class="tagsLis"><span class="&#xA;			 tags-p"><a href="/PaginaInicial/Tags/default.aspx?tag=Pol%EDtica">Política</a></span></div></div><input type="hidden" name="tagrequest" id="tagrequest" value="Política"></div></div><div class="conteudo"><div class="ArtigoLeftLayout"><div class="Artigo"><div class="Content"><h1 id="NewsTitle">Maioria e PCP contra proposta de legalização do cultivo de canábis</h1><div></div><h3 style="float:left;padding-bottom: 0px !important;">
+		Publicado <input type="hidden" name="date-issue" class="date-issue2" value="2013-05-08 19:00:00"><span></span></h3><div class="vspace15"> </div><div class="PartilhaRedes"><div class="facebooklike" style="margin: 10px 0 10px 0"><div id="fb-root"></div><script src="http://connect.facebook.net/en_US/all.js#appId=178198218913454&amp;xfbml=1"></script><fb:like href="http://www.jn.pt/PaginaInicial/Politica/Interior.aspx?content_id=3208341" send="false" width="450" show_faces="false" font="" /></div><span class="st_facebook_hcount" displayText="Facebook" st_url="http://www.jn.pt/PaginaInicial/Politica/Interior.aspx?content_id=3208341" st_title="Maioria e PCP contra proposta de legalização do cultivo de canábis"></span><span class="st_twitter_hcount" displayText="Tweet" st_url="http://www.jn.pt/PaginaInicial/Politica/Interior.aspx?content_id=3208341" st_title="Maioria e PCP contra proposta de legalização do cultivo de canábis"></span><span class="st_linkedin_hcount" displayText="LinkedIn" st_url="http://www.jn.pt/PaginaInicial/Politica/Interior.aspx?content_id=3208341"></span><script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">
+		  stLight.options({
+		  publisher:'ca8e8df9-2fae-4e91-ade4-058e1f2868f4',
+		  shorten:'false',
+		  doNotCopy:'true'
+		  });
+		</script><span class="google_partilhapr" id="BtnGoogle1" style="display:inline-block"><g:plusone href="http://www.jn.pt/PaginaInicial/Politica/Interior.aspx?content_id=3208341" size="tall" annotation="none" /><script type="text/javascript">
+			 window.___gcfg = {lang: 'pt-PT'};
+
+			 (function() {
+			 var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+			 po.src = 'https://apis.google.com/js/plusone.js';
+			 var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+			 })();
+		  </script></span></div><div id="Article"><p id="NewsSummary">A maioria parlamentar e o PCP criticaram esta quarta-feira a legalização do cultivo de canábis proposta pelo BE, alegando que o projeto não está fundamentado e que nada demonstra que a medida leve à diminuição do tráfico.</p><div><div><p>"Não existe nenhuma prova científica que demonstre que a legalização do cultivo de canábis conduziria à diminuição do tráfico. Poderíamos mesmo vir a ter uma situação em que o aumento do consumo, expectável como consequência da legalização, potenciaria o crescimento de um mercado paralelo", afirmou a deputada comunista Paula Santos.</p><p>No debate da proposta do BE em plenário, a parlamentar do PCP considerou que a sua aprovação "seria a liberalização do comércio da canábis e a expansão do consumo e venda".</p><p>"O objetivo da salvaguarda da saúde e segurança dos portugueses é absolutamente inatingível neste quadro", advogou Paula Santos.</p><p>Do lado da maioria PSD/CDS-PP também surgiram críticas ao projeto de lei dos bloquistas, com a social-democrata Laura Esperança a afirmar que o diploma não "está fundamentado minimamente" e "não inclui qualquer reflexão científica".</p><p>A deputada do PSD referiu que o consumo desta substância está ligado a pessoas com "piores qualificações, mau comportamento e mau rendimento escolar".</p></div></div></div><table id="PaginasTab" cellpadding="0" cellspacing="0" class="items-paginacao" width="100%"><tr><td class="contagem-pesq"><a href="javascript:PagerSetContent(-1)">Ler Artigo Completo</a></td><td class="Pags">
+								  (Pág.1/3)
+								</td><td class="paginacaoInf" nowrap><a href="javascript:PagerSetContent(2)"><img src="/common/images/next_page.gif" alt="Página seguinte" title="Página seguinte"></a></td></tr></table><div id="divFichasPais"></div></div><div class="vspace10"> </div><div id="HelpBox" class="HelpBox" onclick="ShowHelpBox()" style="display:none; cursor:pointer;"><div class="TextWhite" style="margin-top:4px;margin-left:4px">Estas ligações, para serviços externos ao Jornal de Notícias, permitem guardar, organizar, partilhar e recomendar a outros leitores os seus conteúdos favoritos do JN(textos, fotos e vídeos). São serviços gratuitos mas exigem registo do utilizador.</div><img src="/common/images/fecharjanela.gif" alt="fechar" style="float:right"></div><div class="vspace10"> </div></div></div></div></div></div>
+</span>
+  <span id="ctl00_bcr_MaisNoticias"><div id="ctl00_bcr_MaisNoticias_ctl00_contentDiv"><div class="MaisNoticias" style="display:none" id="ListArticlesBlock"><div style="margin-top:40px"><b>
+					 &gt; Mais Política</b></div><div id="ListArticle3215151">
+    &gt; <a href="/PaginaInicial/Politica/Interior.aspx?content_id=3215151">Passos Coelho convoca reunião da comissão permanente do PSD</a></div><div id="ListArticle3215013">
+    &gt; <a href="/PaginaInicial/Politica/Interior.aspx?content_id=3215013">Passos Coelho convoca reunião extraordinária do Conselho de Ministros</a></div><div id="ListArticle3214275">
+    &gt; <a href="/PaginaInicial/Politica/Interior.aspx?content_id=3214275">Seguro acusa Passos de violar promessas feitas aos funcionários públicos</a></div><div id="ListArticle3214161">
+    &gt; <a href="/PaginaInicial/Politica/Interior.aspx?content_id=3214161">Candidatura de Manuel Pizarro ao Porto com aposta "nas pessoas"</a></div><div id="ListArticle3214076">
+    &gt; <a href="/PaginaInicial/Politica/Interior.aspx?content_id=3214076">Daniel Oliveira: "Entendam-se porra!"</a></div><div id="ListArticle3213948">
+    &gt; <a href="/PaginaInicial/Politica/Interior.aspx?content_id=3213948">Boaventura Sousa Santos defende que democracia morrerá sem Estado social</a></div><div id="ListArticle3213943">
+    &gt; <a href="/PaginaInicial/Politica/Interior.aspx?content_id=3213943">Carvalho da Silva critica "figuras" do PS por "credibilizarem" Portas</a></div><div id="ListArticle3213876">
+    &gt; <a href="/PaginaInicial/Politica/Interior.aspx?content_id=3213876">PS/Gaia critica discurso "oportunista" de Abreu Amorim</a></div><div id="ListArticle3213840">
+    &gt; <a href="/PaginaInicial/Politica/Interior.aspx?content_id=3213840">"Vice" do PSD considera declarações de Abreu Amorim "inaceitáveis"</a></div><div id="ListArticle3213836">
+    &gt; <a href="/PaginaInicial/Politica/Interior.aspx?content_id=3213836">Abreu Amorim diz que "tempo político de Vítor Gaspar terminou"</a></div></div></div>
+</span>
+  
+
+
+
+
+
+
+
+<!-- TWITTER API -->
+<script type="text/javascript" src="/RedesSociais/Script/twitStream.js"></script> 
+<script type="text/javascript">showTweetLinks='all';</script> 
+
+
+    <style type="text/css">
+<!--
+
+/*.title { width: 660px; margin: 0 padding: 0; float: left; margin-bottom:30px }
+.title h1 { width: 138px; display: inline; margin: 0 20px 0 0; padding: 0 16px 0 0; border-right: 1px solid #a0a09d; float: left; }
+.title span { margin: 0; padding: 0; color: #316896; font: bold 14px/15px georgia, times, serif; float: left; }*/
+
+
+
+
+
+.tab_content .head .sobre { padding: 10px; color: #4b4b4b; float: left; }
+.tab_content .head .r { width: 350px; float: right; }
+.tab_content .head .r .siga { display: inline; margin: 5px; float: left; }
+.tab_content .head .r .siga a { display: block; padding: 5px 75px 5px 5px; border: 1px solid #64635e; background: url('/common/images/img_redessociais/twitter_tiny.gif') 75px 3px #f5f5f5 no-repeat; font-weight: bold; color: #4b4b4b; }
+.tab_content .head .r .siga a:hover { background-color: #eaeaea; text-decoration: none; }
+
+
+.tab_content .head .r .outros { width: 170px; display: inline; margin-right: 10px; position: relative; float: right; }
+.tab_content .head .r .outros .cmbWrapper { position: absolute; z-index: 2; }
+.tab_content .head .r .outros .cmbWrapper input { border: 0; color: #4b4b4b; }
+.tab_content .head .r .outros .cmbWrapper select { width: 170px; display: block; }
+.tab_content .head .r .outros .cmbWrapper select.replaced { display: none; }
+.tab_content .head .r .outros .cmbWrapper ul.selectReplacement { width: 170px; margin: 5px 0 0; padding: 0; border: 1px solid #64635e; clear: left; }
+.tab_content .head .r .outros .cmbWrapper ul.selectReplacement li { background-color: #f5f5f5; color: #4b4b4b; cursor: pointer; display: none; list-style: none; padding: 5px; }
+.tab_content .head .r .outros .cmbWrapper ul.selectOpen li { display: block; clear: left; }
+.tab_content .head .r .outros .cmbWrapper ul.selectReplacement li.selected { background: url('/common/images/img_redessociais/dropdown.gif') 140px 3px #f5f5f5 no-repeat; display: block; font-weight: bold; }
+.tab_content .head .r .outros .cmbWrapper ul.selectOpen li.selected { display: block; background: #f5f5f5; }
+.tab_content .head .r .outros .cmbWrapper ul.selectOpen li:hover,
+.tab_content .head .r .outros .cmbWrapper ul.selectOpen li.hover,
+.tab_content .head .r .outros .cmbWrapper ul.selectOpen li.selected:hover { background: #005b88; color: #fff; }
+
+
+.contTwitter .app .twitStream {
+border-color: #dbe2e6 #dbe2e6;
+border-right:1px solid #dbe2e6;
+border-style:none solid solid;
+border-width:0 1px 1px;
+color:#64635E;
+float:left;
+font:12px/15px arial,helvetica,sans-serif;
+padding:3px;
+width:652px;
+}
+
+
+.ie .contTwitter .app .twitStream {
+border-color: #dbe2e6 #dbe2e6;
+border-right:1px solid #dbe2e6;
+border-style:none solid solid;
+border-width:0 1px 1px;
+color:#64635E;
+float:left;
+font:12px/15px arial,helvetica,sans-serif;
+padding:3px;
+width:660px;
+}
+
+/* Twitter API */
+
+.contTwitter .app .twitStream a { color: #005b88; }
+.contTwitter .app .tweet { display: block; margin: 3px 0 0; padding: 3px 0 0; border-top: 1px solid #dbe2e6; }
+.contTwitter .app .tweet-left { float: left; }
+.contTwitter .app .tweet-left img { display: inline; margin-right: 10px; }
+.contTwitter .app .tweet p.text { width: 500px; margin: 0; padding: 0; }
+.contTwitter .app .tweet-time { font-size: 12px; font-weight: bold; }
+.contTwitter .app .tweet-reply,
+.contTwitter .app .tweet-view,
+.contTwitter .app .tweet-rt { width: 14px; height: 10px; display: block; margin: 4px 0 0 5px; float: right; }
+.contTwitter .app .tweet-reply { background: url('/common/images/img_redessociais/reply.gif') 0 0 no-repeat; }
+.contTwitter .app .tweet-view { background: url('/common/images/img_redessociais/view.gif') 0 0 no-repeat; }
+.contTwitter .app .tweet-rt { background: url('/common/images/img_redessociais/rt.gif') 0 0 no-repeat; }
+.contTwitter .app .tweet-reply:hover { background-image: url('/common/images/img_redessociais/reply_over.gif'); }
+.contTwitter .app .tweet-view:hover { background-image: url('/common/images/img_redessociais/view_over.gif'); }
+.contTwitter .app .tweet-rt:hover { background-image: url('/common/images/img_redessociais/rt_over.gif'); }
+
+.contTwitter { width: 660px; margin: 0 padding: 0; float: left;margin-bottom:20px }
+
+
+
+
+.pconteudos #tabContainerTwitter .tabs_on {
+background-color:#005b88;
+color:#FFFFFF;
+cursor:pointer;
+float:left;
+font: bold 12px/16px arial, verdana, sans-serif;
+height:13px;
+margin:0;
+padding:4px 0;
+text-align:center;
+text-decoration:none;
+}
+
+.pconteudos #tabContainerTwitter .tabs_on a{background-color:#005b88;
+color:#FFFFFF;
+cursor:pointer;
+float:left;
+font: bold 12px/16px arial, verdana, sans-serif;
+height:13px;
+margin:0;
+padding:4px 0;
+text-align:center;
+text-decoration:none;}
+
+
+.contTwitter #tabt_1 {
+width:95px;
+}
+
+.contTwitter #tabt_2 {
+border-left:2px solid #FFFFFF;
+width:140px;
+}
+
+
+.pconteudos #tabContainerTwitter .tabs_off 
+{background-color:#4896D9;
+color:#FFFFFF;
+cursor:pointer;
+float:left;
+font: bold 12px/16px arial, verdana, sans-serif;
+height:13px;
+margin:0;
+padding:4px 0;
+text-align:center;
+text-decoration:none;}
+
+
+
+#tabContainerTwitter .teste{border:1px solid red!important}
+
+.pconteudos .tab_content {
+border-top:5px solid #005B88;
+float:left;
+
+}
+
+TabBtns_1 {
+font: bold 12px/16px arial, verdana, sans-serif;
+margin-bottom:-1px;
+padding:0 0 0 5px;
+position:relative;
+}
+.TabBar_1 .TabBtns_1 {height:28px; }
+.TabBar_1 .TabBtns_1 a:link,
+.TabBar_1 .TabBtns_1 a:visited {position:relative; float:left; font-family:Arial, sans-serif; font-size:12px; font-weight:bold; color:#1E86AD;}
+
+
+.TabBar_1 .TabBtns_1 a:link strong,
+.TabBar_1 .TabBtns_1 a:visited strong {background-color:#4896D9;color:#FFFFFF;cursor:pointer;float:left;font: bold 12px/16px arial, verdana, sans-serif;height:13px;margin:0;padding:4px 0;text-align:center;text-decoration:none;}
+
+.TabBar_1 .TabBtns_1 a.TBnt_Sel:link,
+.TabBar_1 .TabBtns_1 a.TBnt_Sel:visited {color:#fff;}
+
+.BlueTabs .TabBtns_1 a.TBnt_Sel:link strong,
+.BlueTabs .TabBtns_1 a.TBnt_Sel:visited strong {background-color:#005b88;
+color:#FFFFFF;
+cursor:pointer;
+float:left;
+font: bold 12px/16px arial, verdana, sans-serif;
+height:13px;
+margin:0;
+text-align:center;
+text-decoration:none;}
+
+.TabBar_1 .TabBtns_1 {
+height:10px !important;
+}
+
+.TabBtns_1 {
+font:13px/1.3 Verdana,Arial,sans-serif;
+margin-bottom:-1px;
+padding:0;
+position:relative;
+}
+
+.TabBar_1 .TabBtns_1 a:hover strong {background:#005b88;color:#FFF;text-decoration: none}
+
+
+
+.BlueTabs .TabBot_1 {border-top: 5px solid #005B88;display:inline;float:left;margin:0;padding:0;width:660px;}
+
+.cont-tab-index-6{z-index:60;}
+
+.cont-tab-index-8{z-index:80;}
+
+-->
+</style>
+
+
+ 
+
+<br />
+
+<!--
+<div class="TabBar_1 BlueTabs" name="TabsTopWrapper">
+  <div class="TabBtns_1" name="TabsTop">
+    <a class="cont-tab-index-8 TBnt_Sel" onclick="ChgContTab(this, 'TabsTop', 0, 'cont-tab'); return false;"  style="text-decoration:none" href="#"><b></b><strong style="width: 95px;">Comentários</strong><em></em></a>
+    <a class="cont-tab-index-6" onclick="ChgContTab(this, 'TabsTop', 1, 'cont-tab'); return false;" style="text-decoration:none" href="#"><b></b><strong style="width:140px;margin-left:2px">Reacções no Twitter</strong><em></em></a>
+  </div>
+  <div class="TabBot_1"></div>
+</div>
+-->
+
+<div class="contTwitter">
+
+<div class="pconteudos">
+
+<div id="tabContainerTwitter">
+
+ 	
+      <div id="tabt_1" class="tabs_on" onclick="tabsClassTwitter.switchTab(this);">Comentários</div>
+      <div id="tabt_2" class="tabs_off" onclick="tabsClassTwitter.switchTab(this);">Reacções no Twitter</div>
+     	     	</div>
+  
+  
+<div id="tabt_1_data" class="tab_content">
+ 
+  <div id="AreaComentariosWrapper" class="CommentsArea">
+
+<a id="AreaComentarios" name="AreaComentarios"></a>
+
+
+ 
+  <div class="JNCommentsWrap">
+  	
+	  <div id="ListCommentsWrapper">
+  	
+		  <div id="PagerNumCommentsTotalContainer" style="display:none">88</div>
+		  <div id="PagerNumCommentsContainer" class="CommentNumInfo">88 Coment&aacute;rios</div>
+		  <div id="PagerTitleTopContainer" class="PaggerNumInfo"></div>
+        
+		  <div id="PagerOrderTopContainer" class="OrderPaggerWrap" style="display:none">
+    		 <div class="OrderCWrap">
+        		 <h1>Ordenar por:</h1><a href="javascript:commentsPager.SetOrderBy('PostDate')" id="CommentsOrderByPostDate" class="on">Data</a> | <a href="javascript:commentsPager.SetOrderBy('NumReplies')" id="CommentsOrderByNumReplies">N&ordm; de Respostas</a>
+				</div>
+				<div id="PagerLinksTopContainer" class="PaggerWrap">
+				 <span name="previousPage" style="display:none"><a href="javascript:commentsPager.GotoPreviousPage()" class="butprevnext">&laquo; anterior</a></span>
+				 <span name="previousPageGroup" style="display:none"><a href="javascript:commentsPager.GotoPreviousPageGroup()">...</a>|</span>
+        		 <span name="pages"></span>
+        		 <span name="nextPageGroup" style="display:none"> |<a href="javascript:commentsPager.GotoNextPageGroup()">...</a></span>
+        		 <span name="nextPage" style="display:none"><a href="javascript:commentsPager.GotoNextPage()" class="butprevnext">próxima &raquo;</a></span>
+			  </div>
+		  </div>
+        
+		  <div id="CommentsListContainer"></div>
+        
+		  <div id="PagerOrderBottomContainer" class="OrderPaggerWrap" style="display:none">
+    		 <div class="OrderCWrap">
+        		 <h1 id="PagerTitleBottomContainer"></h1>
+				</div>
+				<div id="PagerLinksBottomContainer" class="PaggerWrap">
+				 <span name="previousPage" style="display:none"><a href="javascript:commentsPager.GotoPreviousPage()" class="butprevnext">&laquo; anterior</a></span>
+        		 <span name="previousPageGroup" style="display:none"><a href="javascript:commentsPager.GotoPreviousPageGroup()">...</a>|</span>
+        		 <span name="pages"></span>
+        		 <span name="nextPageGroup" style="display:none"> |<a href="javascript:commentsPager.GotoNextPageGroup()">...</a></span>
+        		 <span name="nextPage" style="display:none"><a href="javascript:commentsPager.GotoNextPage()" class="butprevnext">próxima &raquo;</a></span>
+				</div>
+		  </div>
+		</div>
+      
+		  <center>
+			 <div class="CommentBoxHeader">Comentar</div>
+			 <div id="CommentFormEditor" name="ReplyCommentForm" class="CommentBox">
+				  <input name="txtPostID" type="hidden" value="0" />
+				  <span id="ctl00_bcr_Comments_userIdentificationContainer">
+					 <input name="txtDisplayName" type="text" class="name" value="Nome" onkeypress="commentsPager.CheckLen(this, 25, 'Nome')" onmousedown="commentsPager.CheckLen(this, 25, 'Nome')" onblur="commentsPager.ResetTextBox(this, 'Nome')"/>
+					 <input name="txtUserEmail" type="text" class="email" value="E-mail" onkeypress="commentsPager.CheckLen(this, 100, 'E-mail')" onmousedown="commentsPager.CheckLen(this, 100, 'E-mail')" onblur="commentsPager.ResetTextBox(this, 'E-mail')"/>
+				  </span>
+				  <textarea name="taCommentText" rows="4" class="comment" onkeypress="commentsPager.CheckLen(this, 750, 'Comentário', 'txtNumChars')" onmousedown="commentsPager.CheckLen(this, 750, 'Comentário', 'txtNumChars')" onblur="commentsPager.ResetTextBox(this, 'Comentário', 750, 'txtNumChars')">Comentário</textarea>
+				  <h1>Caracteres dispon&iacute;veis: <b name="txtNumChars">750</b></h1>
+				  <div name="txtMessageContainer" style="display:none"></div>
+				  <div class="checkOptions"><input name="chkGetFeedback" type="checkbox" /> Receber alerta de resposta<input name="chkPostAsAnonymous" type="checkbox" style="margin-left:15px;"/> Aparecer como Anónimo
+				  <br/><span id="ctl00_bcr_Comments_spanRememberMe"><input name="chkRememberMe" type="checkbox"/> Lembrar dados Pessoais</span></div>
+
+				  <div class="SubmitBut">
+						<ul class="round">
+							 <li><a href="javascript:Empty()" onclick="commentsPager.PublishComment(this)"><b></b><span>enviar &raquo;</span><b></b></a></li>
+						</ul>
+				  </div>
+				  <div><p>
+					 Nota: Os comentários deste site são publicados sem edição prévia e são da exclusiva responsabilidade dos seus autores. 
+					 Consulte a <a href="/info/termosdeuso.aspx">Conduta do Utilizador</a>, 
+					 prevista nos <a href="/info/termosdeuso.aspx">Termos de Uso e Política de Privacidade</a>.
+					 O JN reserva-se ao direito de apagar os comentários que não cumpram estas regras.  
+					 <b>Receber alerta de resposta</b> - será enviado um alerta para o seu e-mail sempre que houver uma resposta ao seu comentário. 
+					 <b>Aparecer como anónimo</b> - os dados (nome e-mail) são ocultados. Os comentários podem demorar alguns segundos para ficarem disponíveis no site.
+				  </p></div>
+				  
+
+
+<a name="LoginForm"></a>
+    
+  
+
+
+            
+      <div name="loginArea">
+          
+            
+          
+  		 <div class="loginBox">
+            <h2>Se tem conta, fa&ccedil;a Login</h2>
+            <div class="inputTitle">Nome do utilizador<br /><input name="ctl00$bcr$Comments$Login$LoginForm1$ctl01$username" type="text" maxlength="64" id="ctl00_bcr_Comments_Login_LoginForm1_ctl01_username" ButtonId="loginButton" /></div><br clear="all" id="clearBRLogin"/>
+            <span class="inputTitle">Password<br /><input name="ctl00$bcr$Comments$Login$LoginForm1$ctl01$password" type="password" maxlength="64" id="ctl00_bcr_Comments_Login_LoginForm1_ctl01_password" ButtonId="loginButton" onkeyup="ClickButton(event, this, 'loginArea', 'loginButton')" /></span>
+            <div class="loginBut">
+                <ul class="round">
+                    <li><a id="ctl00_bcr_Comments_Login_LoginForm1_ctl01_loginButton" class="button" href="javascript:__doPostBack('ctl00$bcr$Comments$Login$LoginForm1$ctl01$loginButton','')"><b></b><span>login &raquo;</span><b></b></a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="registerBox">
+          
+          <div id="ctl00_bcr_Comments_Login_LoginForm1_ctl01_ExtraLinks">
+              <h2>Se n&atilde;o tem conta,</h2>
+				  <h3><div class="lnkRegister"><a href="/MeuJN/Registo.aspx?ReturnUrl=">Registe-se aqui</a></div></h3>
+				  <div class="passForgot"><a href="/user/EmailForgottenPassword.aspx">Esqueceu-se da password?</a></div>
+          </div>
+            
+        </div>
+          
+          
+      </div>
+ 
+      
+      
+      
+                   
+    
+
+
+
+				  <br clear="all" class="breakall" />
+			 </div>
+			 <div class="CommentBox CommentBoxLegend">
+				  <h1>Legenda</h1>
+				  <div><p>
+					 <img src="/common/images/icons/comment_registered.gif" width="15" height="14" alt="Utilizador Registado" class="type_comment"/>Utilizador <b>Registado</b>
+					 &nbsp;&nbsp;
+					 <img src="/common/images/icons/comment_unregistered.gif" width="15" height="14" alt="Utilizador Não Registado" class="type_comment"/>Utilizador <b>Não Registado</b>
+				  </p></div><br clear="all" />
+			  </div>
+		</center>    
+
+  </div>
+
+
+	 <div class="BoxReply" style="display:none;" id="CommentForm">
+		<input name="ctl00$bcr$Comments$txtPostID" type="text" id="ctl00_bcr_Comments_txtPostID" />
+		<input name="ctl00$bcr$Comments$txtDisplayName" type="text" id="ctl00_bcr_Comments_txtDisplayName" />
+		<input name="ctl00$bcr$Comments$txtUserEmail" type="text" id="ctl00_bcr_Comments_txtUserEmail" />
+		<input name="ctl00$bcr$Comments$txtCommentText" type="text" id="ctl00_bcr_Comments_txtCommentText" />
+		<input name="ctl00$bcr$Comments$chkGetFeedback" type="checkbox" id="ctl00_bcr_Comments_chkGetFeedback" />
+		<input name="ctl00$bcr$Comments$chkPostAsAnonymous" type="checkbox" id="ctl00_bcr_Comments_chkPostAsAnonymous" />
+      <input name="ctl00$bcr$Comments$chkRememberMe" type="checkbox" id="ctl00_bcr_Comments_chkRememberMe" />
+		<input type="submit" name="ctl00$bcr$Comments$publishComment" value="" id="ctl00_bcr_Comments_publishComment" />
+	 </div>
+
+	 <br clear="all" /><br clear="all" />
+        
+   
+    
+  </div>
+
+  </div>
+ <div id="tabt_2_data" class="tab_content"  style="display: none;">
+  
+  		<div class="head">
+
+					<div class="sobre">
+					
+
+					</div>
+			
+					<div class="siga">
+						<a href="http://twitter.com/JornalNoticias" target="_blank">Siga-nos no</a>
+					</div>
+				</div>
+
+				<div class="twitStream 10" id="tweets"></div>
+				<script type="text/javascript"> 
+						function getData()
+						{            
+							//var t = document.title;   
+						  //t = rtrim(t.replace(/[-JN]+/g,'').replace(/\n/g, '').replace(/\r/g, '').replace(/"/g, ''));
+						  //document.getElementById("tweets").title ="-from:JornalNoticas " + t;     // adiciona na caixa de TEXTO  
+						  var urlArr = document.location.toString();
+						  document.getElementById("tweets").title = urlArr;
+						 }      
+                     
+						getData();
+						function rtrim(str, chars) {
+						chars = chars || "\\s";
+						return str.replace(new RegExp("[" + chars + "]+$", "g"), "");
+						}
+				</script>
+
+  </div> 
+
+
+ </div> 
+
+
+<script type="text/javascript">
+<!--
+tabsClassTwitter.addTabs("tabContainerTwitter");
+-->
+</script>
+
+</div>
+
+
+		
+  <div id="AreaVisitas" style="display:none">
+    <span id="ctl00_bcr_ContentViews"><div id="ctl00_bcr_ContentViews_ctl00_viewsDiv">5341</div>
+</span>
+    <div name="AreaImpressoes">10</div>
+    <div name="AreaEnvios">0</div>
+  </div>
+
+
+</div>
+            <iframe id="CSIfr" width="0" height="0" frameborder="0"></iframe>
+            <iframe id="BAIfr" width="0" height="0" frameborder="0"></iframe>
+          </div>
+          <div class="MainPageRight">
+            <div class="MainPageRightBottom">
+  
+
+<div>
+
+      
+ 
+  
+
+
+
+
+
+<div class="pcontentstatic">
+<div class="pcontent">
+  <div id="tabContainerMBox">
+      <div id="tabf_1" class="tabs_on" onclick="tabsClassTop.switchTab(this);" style="width:99px; text-align:center;">Multim&eacute;dia</div>
+      <div id="tabf_2" class="tabs_off" onclick="tabsClassTop.switchTab(this);" style="width:99px; text-align:center; border-left:1px solid #FFFFFF;">Blogues</div>
+      <div id="tabf_3" class="tabs_off" onclick="tabsClassTop.switchTab(this);" style="text-align:center; border-left:1px solid #FFFFFF;">Inqu&eacute;rito</div>
+  </div>
+  
+  <div id="tabf_1_data" class="tab_content">
+    <span id="ctl00_rcr_RightCol1_ctl00_ctl00"><div id="ctl00_rcr_RightCol1_ctl00_ctl00_ctl00_contentDiv"><div class="tabnav1"></div><div class="tabnav2"><div class="tabnav2a"><a href="/multimedia/infografia970.aspx?content_id=3211707"><img src="/storage/JN/2013/destaque/ng2541378.jpg" alt="" width="144px" height="95px"></a></div><div class="tabnav2b"><div class="tabnav2bwrapper"><div class="tcBottom"><h1>Infografias</h1><a href="/multimedia/infografia970.aspx?content_id=3211707">A poluição dentro de nossas casas</a></div></div></div><br clear="all"></div><div class="tabnav3"></div></div>
+</span>
+  </div>
+      
+  <div id="tabf_2_data" class="tab_content"  style="display: none;">
+    
+  <div class="tabnavBlogs">
+  
+  
+
+  
+  <div class="tabnav2a">
+  <a href="/blogs/futsal/default.aspx"><img src="/common/images/blogs/futsal.jpg" alt="" width="144px" height="95px" /></a></div>
+	<div class="tabnav2b"> 
+	<div class="tabnav2bwrapper">
+	<div class="tcBottom">
+	<a class="jnbgtit" href="/blogs/futsal/default.aspx">Planeta Futsal</a>
+	      
+			 <a class="jnbgtxt" href="/blogs/futsal/archive/2013/05/12/sporting-conquista-ta-231-a-de-portugal.aspx">Sporting conquista Ta&#231;a de Portugal</a>
+        
+   </div>
+   </div>
+ </div>
+  
+		
+	 </div>
+  
+
+
+
+
+  </div>
+  
+  <div id="tabf_3_data" class="tab_content" style="display: none;">
+    
+    <div class="tabnavInq">
+    <span id="ctl00_rcr_RightCol1_ctl00_Sondagem"><div id="ctl00_rcr_RightCol1_ctl00_Sondagem_ctl00_contentDiv"><div id="PollCaixa3153107Wrapper"><p class="poll-title">Quem vence a Liga?</p><div id="PollCaixa3153107Choices"><div class="pollCaixa-choices"><input type="radio" name="PollCaixaChoice3153107" value="Benfica"><div>Benfica</div><input type="radio" name="PollCaixaChoice3153107" value="F.C. Porto"><div>F.C. Porto</div></div><div id="PollCaixa3153107HasVoted" class="poll-hasvoted" style="display:none">Cada Utilizador só pode dar uma resposta</div><div class="pollCaixa-controls"><div class="Caixavotelnk1"><a href="javascript:VotePollCaixa(3153107)">Votar</a></div><div class="Caixavotelnk2"><a href="javascript:ShowHidePollCaixaResults(3153107, true)"><img src="/common/images/sondagens_resultados.png"></a></div><div class="Caixavotelnk3"><a href="/outros_inqueritos" class="inqlink">
+						Outros Inquéritos
+					 </a></div></div></div><div id="PollCaixa3153107Results" style="display:none"><div class="pollCaixa-choices"><div class="res-opt"><div class="CaixaOpt">Benfica </div><div name="Poll3153107Result" class="poll-resultbar" style="width:1px"></div><span id="Poll3153107Choice1" class="poll-result"> </span><br clear="all"></div><div class="res-opt"><div class="CaixaOpt">F.C. Porto </div><div name="Poll3153107Result" class="poll-resultbar" style="width:1px"></div><span id="Poll3153107Choice2" class="poll-result"> </span><br clear="all"></div></div><div class="pollCaixa-controls"><div class="Caixavotelnk4"><a href="javascript:ShowHidePollCaixaResults(3153107, false)"><img src="/common/images/sondagens_voltar.png"></a></div></div><div class="Caixavotelnk5"><a href="/outros_inqueritos" class="inqlink">
+				  Outros Inquéritos
+				</a></div></div></div><script>
+		AddPollCaixaToArray('3153107');
+	 </script></div>
+</span>
+<iframe id="ifrPollCaixa" src="/Common/blank.htm" width="0" height="0" frameborder="0"></iframe>
+</div>
+  </div>
+
+</div>
+
+<script type="text/javascript">
+<!--
+tabsClassTop.addTabs("tabContainerMBox");
+-->
+</script>
+</div>
+<br clear="all" /><br clear="all" />
+    
+
+  
+  
+
+<div class="PagInicialPub2">
+<script type="text/javascript">
+document.write('<script language="JavaScript" src="http://ad.pt.doubleclick.net/adj/jn.pt/politica_noticias;pos=topo;tile=1;dcopt=ist;sz=300x100,300x250,300x600,300x800;ord=' + ord + ';?"><\/script>');</script>
+<noscript><ahref="http://ad.pt.doubleclick.net/jump/jn.pt/politica_noticias;pos=topo;tile=1;sz=300x100,300x250,300x600,300x800;ord=123456789?" target="_blank">
+<img src="http://ad.pt.doubleclick.net/ad/jn.pt/politica_noticias;pos=topo;tile=1;sz=300x100,300x250,300x600,300x800;ord=123456789?" width="300" height="800" border="0" alt=""></a></noscript>
+
+<div class="MenuText2" align="right"><small>PUB</small></div>
+</div>
+
+
+<br clear="all">
+
+
+<style type="text/css">
+  .coldir-fixed-container2 {width:300px;padding-top:10px}
+  .ie .coldir-fixed-container2{padding-top:10px}
+  </style>
+
+<div class="coldir-fixed-container2" style="width: 300px; position:relative; left:-4px !important; left: 0px; top: 15px !important; top: 10px">
+<span id="ctl00_rcr_RightCol1_Pub2_NewsGenContent3"><div id="ctl00_rcr_RightCol1_Pub2_NewsGenContent3_ctl00_contentDiv"><div style="padding-bottom:10px"><a href="http://www.jn.pt/125Anos/default.aspx?utm_source=JN&amp;utm_medium=Destaque300x100&amp;utm_campaign=125anosJN" target="_blank"><img src="/Storage/JN/2013/small/ng2523343.jpg" border="0" alt="JN 125 Anos Aveiro"></a></div><div style="padding-bottom:10px"><a href="http://pontosjn125anos.jn.pt/?utm_source=site_jn&amp;utm_medium=banner_destaque_fixo_300x100&amp;utm_campaign=jn125anos" target="_blank"><img src="/Storage/JN/2013/small/ng2508119.gif" border="0" alt="Pontos JN 125 anos"></a></div><div style="padding-bottom:10px"><a href="http://www.controlinveste.pt/movimentohipersaudavel?utm_source=site_jn&amp;utm_medium=banner_destaque_fixo_300x100&amp;utm_campaign=movimento_hipersaudavel" target="_blank"><img src="/Storage/JN/2013/small/ng2542531.jpg" border="0" alt="Movimento Hipersaudavel"></a></div><div style="padding-bottom:10px"><table cellpadding="0" cellspacing="0" align="center"><tr><td><script language="javascript" type="text/javascript">
+          if (AC_FL_RunContent == 0) {
+          alert("This page requires AC_RunActiveContent.js");
+          } else {
+          AC_FL_RunContent(
+          'codebase', 'https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0',
+          'width', '300',
+          'height', '100',
+          'src', '/Storage/ng2540646',
+          'quality', 'high',
+          'pluginspage', 'https://www.macromedia.com/go/getflashplayer',
+          'align', 'middle',
+          'play', 'true',
+          'loop', 'false',
+          'scale', 'noscale',
+          
+            'wmode', 'opaque',
+          
+          'devicefont', 'false',
+          'id', 'Flash0',
+          
+          'name', 'Flash0',
+          'menu', 'false',
+          'allowScriptAccess','sameDomain',
+          'movie', '/Storage/ng2540646',
+          'salign', ''
+          );
+          }
+        </script><noscript><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="300" height="100" id="Flash0" align="middle"><param name="allowScriptAccess" value="sameDomain"><param name="movie" value="/Storage/ng2540646.swf"><param name="loop" value="false"><param name="menu" value="false"><param name="quality" value="high"><param name="allowFullScreen" value="true"><param name="wmode" value="opaque"><embed src="/Storage/ng2540646.swf" loop="false" menu="false" quality="high" width="300" height="100" name="Flash0" align="middle" allowfullscreen="true" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="https://www.macromedia.com/go/getflashplayer"></embed></object></noscript><div style="text-align:right"></div><div style="text-align:left"></div></td></tr></table></div><div style="padding-bottom:10px"><a href="http://descontocasiao.pt/descontos-do-dia?distrito=All&amp;categoria=Loja%20de%20Produtos&amp;utm_source=site_jn&amp;utm_medium=destaque_fixo_300x100&amp;utm_campaign=descontocasiao_geral" target="_blank"><img src="/Storage/JN/2013/small/ng2458851.jpg" border="0" alt="DescontOcasiao Geral"></a></div><div style="padding-bottom:10px"><a href="http://edicoes.uscm.controlinveste.pt/ci/NoticiasMagazine/2013/Maio/NM05Maio/" target="_blank"><img src="/Storage/JN/2013/small/ng2534387.jpg" border="0" alt="BT NM Movimento Hiper Saudável 01"></a></div><div style="padding-bottom:10px"><table cellpadding="0" cellspacing="0" align="center"><tr><td><script language="javascript" type="text/javascript">
+          if (AC_FL_RunContent == 0) {
+          alert("This page requires AC_RunActiveContent.js");
+          } else {
+          AC_FL_RunContent(
+          'codebase', 'https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0',
+          'width', '300',
+          'height', '100',
+          'src', '/Storage/ng2523480',
+          'quality', 'high',
+          'pluginspage', 'https://www.macromedia.com/go/getflashplayer',
+          'align', 'middle',
+          'play', 'true',
+          'loop', 'false',
+          'scale', 'noscale',
+          
+            'wmode', 'opaque',
+          
+          'devicefont', 'false',
+          'id', 'Flash0',
+          
+          'name', 'Flash0',
+          'menu', 'false',
+          'allowScriptAccess','sameDomain',
+          'movie', '/Storage/ng2523480',
+          'salign', ''
+          );
+          }
+        </script><noscript><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="300" height="100" id="Flash0" align="middle"><param name="allowScriptAccess" value="sameDomain"><param name="movie" value="/Storage/ng2523480.swf"><param name="loop" value="false"><param name="menu" value="false"><param name="quality" value="high"><param name="allowFullScreen" value="true"><param name="wmode" value="opaque"><embed src="/Storage/ng2523480.swf" loop="false" menu="false" quality="high" width="300" height="100" name="Flash0" align="middle" allowfullscreen="true" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="https://www.macromedia.com/go/getflashplayer"></embed></object></noscript><div style="text-align:right"></div><div style="text-align:left"></div></td></tr></table></div></div>
+</span>
+</div>
+
+<!-- zona pub -->
+<br clear="all">
+
+
+  
+  <style type="text/css">
+	 .coldir-fixed-container {width:300px; overflow:hidden; float:left; clear:right; padding-top:15px}
+	 .ie .coldir-fixed-container{padding-top:10px}
+	 .coldir-overflow-content {width:320px}
+  </style>
+  <div class="coldir-fixed-container">
+  	 <span id="ctl00_rcr_RightCol1_ctl01"><div id="ctl00_rcr_RightCol1_ctl01_ctl00_contentDiv"><div style="padding-bottom:10px"><a href="/barometro/"><img src="/Storage/JN/2012/small/ng2225352.jpg" border="0" alt="banner Barómetro Tomar o pulso ao país"></a></div></div>
+</span>
+    <div class="coldir-overflow-content">
+      <span id="ctl00_rcr_RightCol1_ctl02"><div id="ctl00_rcr_RightCol1_ctl02_ctl00_contentDiv"></div>
+</span>
+    </div>
+  </div>
+ <!-- 
+   
+
+<div id="ctl00_rcr_RightCol1_EdicaoImpressa_tabEdicaoImpressa">
+<div id="tabEInews" class="tabEInews"></div>
+<div class="tabEInews_content">
+     <div id="tabEI_data" class="tab_content">
+  
+         <span id="ctl00_rcr_RightCol1_EdicaoImpressa_ctl00"><div id="ctl00_rcr_RightCol1_EdicaoImpressa_ctl00_ctl00_contentDiv"><ul><li class="RegularItem"><a href="http://www.jn.pt/epaper" target="_blank">Mulher e amante planearam homicídio de ex-companheiro</a></li><li class="RegularItem"><a href="http://www.jn.pt/epaper" target="_blank">Invasão de motas em Vila do Conde</a></li><li class="RegularItem2"><a href="http://www.jn.pt/epaper" target="_blank">Casal faz falsos peditórios para bombeiros e deficiente</a></li></ul></div>
+</span>
+    </div>
+ </div>
+
+</div>
+<br clear="all" />
+-->
+  
+
+
+<div id="tabJNnews" class="tabJNnews" style="padding:10px 0px 0px 0px; margin: 0px 0px 0px 0px">
+    <div id="tabn_1" class="tabs_on"  onclick="tabsClassNews.switchTab(this);">&Uacute;ltimas</div>
+    <div id="tabn_2" class="tabs_off" onclick="tabsClassNews.switchTab(this);" style="">+Lidas</div>
+    <div id="tabn_3" class="tabs_off" onclick="tabsClassNews.switchTab(this);" style="">+Comentadas</div>
+    <div id="tabn_4" class="tabs_off" onclick="GetTop(document.getElementById('SearchTopCombo').value, 'Search'); tabsClassNews.switchTab(this);">+Pesquisadas</div>
+</div>
+<div class="tabJNnews_content">
+
+    <div id="tabn_1_data" class="tab_content">
+        <span id="ctl00_ctl00_rcr_rcr_RightCol1_TopMais_ctl00"><div id="ctl00_ctl00_rcr_rcr_RightCol1_TopMais_ctl00_ctl00_contentDiv"><ul xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:util="urn:newsgen-scripts"><li class="RegularItem"><div style="margin-bottom:2px"><a style="font-weight:bold" href="/PaginaInicial/Politica/Interior.aspx?content_id=3215285">PSD e CDS-PP chegam a acordo e mantêm coligação</a></div><h1 style="font-weight:normal;float:left">
+	 Publicado <input type="hidden" name="date-issue" class="date-issue2" value="2013-05-12 18:21:00"><span></span></h1><h1 style="font-weight:normal"></h1></li><li class="RegularItem"><div style="margin-bottom:2px"><a style="font-weight:bold" href="/PaginaInicial/Economia/Interior.aspx?content_id=3215245">Governo chega a acordo com concessionárias para poupar 259 milhões de euros</a></div><h1 style="font-weight:normal;float:left">
+	 Publicado <input type="hidden" name="date-issue" class="date-issue2" value="2013-05-12 17:59:00"><span></span></h1><h1 style="font-weight:normal"></h1></li><li class="RegularItem"><div style="margin-bottom:2px"><a style="font-weight:bold" href="/PaginaInicial/Mundo/Interior.aspx?content_id=3215145">Sequestro de Trenton termina com três mortos e três sobreviventes</a></div><h1 style="font-weight:normal;float:left">
+	 Publicado <input type="hidden" name="date-issue" class="date-issue2" value="2013-05-12 17:52:00"><span></span></h1><h1 style="font-weight:normal"></h1></li><li class="RegularItem"><div style="margin-bottom:2px"><a style="font-weight:bold" href="/PaginaInicial/Mundo/Interior.aspx?content_id=3215140">"Perigoso fugitivo" britânico detido em Espanha</a></div><h1 style="font-weight:normal;float:left">
+	 Publicado <input type="hidden" name="date-issue" class="date-issue2" value="2013-05-12 17:08:00"><span></span></h1><h1 style="font-weight:normal"></h1></li><li class="RegularItem"><div style="margin-bottom:2px"><a style="font-weight:bold" href="/PaginaInicial/Sociedade/Interior.aspx?content_id=3215153">Peregrina atropelada a caminho de Fátima</a></div><h1 style="font-weight:normal;float:left">
+	 Publicado <input type="hidden" name="date-issue" class="date-issue2" value="2013-05-12 16:18:00"><span></span></h1><h1 style="font-weight:normal"></h1></li><li class="RegularItem"><div style="margin-bottom:2px"><a style="font-weight:bold" href="/PaginaInicial/Desporto/Interior.aspx?content_id=3215152">Sporting conquista Taça de Portugal de futsal</a></div><h1 style="font-weight:normal;float:left">
+	 Publicado <input type="hidden" name="date-issue" class="date-issue2" value="2013-05-12 16:15:00"><span></span></h1><h1 style="font-weight:normal"></h1></li><li class="RegularItem"><div style="margin-bottom:2px"><a style="font-weight:bold" href="/PaginaInicial/Politica/Interior.aspx?content_id=3215151">Passos Coelho convoca reunião da comissão permanente do PSD</a></div><h1 style="font-weight:normal;float:left">
+	 Publicado <input type="hidden" name="date-issue" class="date-issue2" value="2013-05-12 16:14:00"><span></span></h1><h1 style="font-weight:normal"></h1></li><li class="RegularItem"><div style="margin-bottom:2px"><a style="font-weight:bold" href="/PaginaInicial/Mundo/Interior.aspx?content_id=3215105">Irmãos do "monstro de Cleveland" dizem-se inocentes e perseguidos</a></div><h1 style="font-weight:normal;float:left">
+	 Publicado <input type="hidden" name="date-issue" class="date-issue2" value="2013-05-12 15:36:00"><span></span></h1><h1 style="font-weight:normal"></h1></li><li class="RegularItem"><div style="margin-bottom:2px"><a style="font-weight:bold" href="/PaginaInicial/Desporto/Interior.aspx?content_id=3215126">Fernando Alonso vence Grande Prémio de Espanha</a></div><h1 style="font-weight:normal;float:left">
+	 Publicado <input type="hidden" name="date-issue" class="date-issue2" value="2013-05-12 15:33:00"><span></span></h1><h1 style="font-weight:normal"></h1></li><li class="RegularItem2"><div style="margin-bottom:2px"><a style="font-weight:bold" href="/PaginaInicial/Seguranca/Interior.aspx?content_id=3215122">Falso inspetor da PJ acusado de burlar dezenas de pessoas</a></div><h1 style="font-weight:normal;float:left">
+	 Publicado <input type="hidden" name="date-issue" class="date-issue2" value="2013-05-12 15:29:00"><span></span></h1><h1 style="font-weight:normal"></h1></li></ul></div>
+</span>
+    </div>
+    
+    <div id="tabn_2_data" style="display: none;">
+      <div class="tab_content">
+        <div id="TopViewsContainer"></div>
+      </div>
+      <div class="TabFooterNews">        
+        <div class="footernewsA">Hist&oacute;rico de not&iacute;cias</div>
+        <div class="footernewsB">
+            <select name="select" onchange="GetTop(this.value, 'Views')">
+          	  <option value="2013-05-05" selected="selected">Última semana</option>
+          	  <option value="2013-04-12">Último mês</option>
+          	  <option value="2012-05-12">Último ano</option>
+          	  <option value="0001-01-01">Desde sempre</option>
+            </select>
+        </div>
+      </div>
+    </div>
+    <script type="text/javascript">GetTop('2013-05-05', 'Views')</script>
+
+    <div id="tabn_3_data" style="display: none;">
+      <div class="tab_content">
+        <div id="TopRepliesContainer">
+   <ul>
+  
+	
+	
+   <span id="ctl00_ctl00_rcr_rcr_RightCol1_TopMais_ctl01_FilteredThreadList_ctl02_ngContent"><div id="ctl00_ctl00_rcr_rcr_RightCol1_TopMais_ctl01_FilteredThreadList_ctl02_ngContent_ctl00_contentDiv"><li class="" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:util="urn:newsgen-scripts"><div style="margin-bottom:2px"><a style="font-weight:bold" href="/PaginaInicial/Politica/Interior.aspx?content_id=3206002">Parlamento debate legalização do cultivo de canábis e clubes para consumo</a></div><h1 style="font-weight:normal;float:left">
+	 Publicado <input type="hidden" name="date-issue" class="date-issue2" value="2013-05-07 19:04:00"><span></span></h1><h1 style="font-weight:normal"></h1></li></div>
+</span>
+
+  
+	
+	
+   <span id="ctl00_ctl00_rcr_rcr_RightCol1_TopMais_ctl01_FilteredThreadList_ctl03_ngContent"><div id="ctl00_ctl00_rcr_rcr_RightCol1_TopMais_ctl01_FilteredThreadList_ctl03_ngContent_ctl00_contentDiv"><li class="" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:util="urn:newsgen-scripts"><div style="margin-bottom:2px"><a style="font-weight:bold" href="/PaginaInicial/Desporto/Interior.aspx?content_id=3210220">Árbitro Pedro Proença nomeado para o clássico entre F. C. Porto e Benfica</a></div><h1 style="font-weight:normal;float:left">
+	 Publicado <input type="hidden" name="date-issue" class="date-issue2" value="2013-05-09 15:46:00"><span></span></h1><h1 style="font-weight:normal"></h1></li></div>
+</span>
+
+  
+	
+	
+   <span id="ctl00_ctl00_rcr_rcr_RightCol1_TopMais_ctl01_FilteredThreadList_ctl04_ngContent"><div id="ctl00_ctl00_rcr_rcr_RightCol1_TopMais_ctl01_FilteredThreadList_ctl04_ngContent_ctl00_contentDiv"><li class="" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:util="urn:newsgen-scripts"><div style="margin-bottom:2px"><a style="font-weight:bold" href="/PaginaInicial/Desporto/Interior.aspx?content_id=3214471">Kelvin abre as portas do título</a></div><h1 style="font-weight:normal;float:left">
+	 Publicado <input type="hidden" name="date-issue" class="date-issue2" value="2013-05-11 22:27:00"><span></span></h1><h1 style="font-weight:normal"></h1></li></div>
+</span>
+
+  
+	
+	
+   <span id="ctl00_ctl00_rcr_rcr_RightCol1_TopMais_ctl01_FilteredThreadList_ctl05_ngContent"><div id="ctl00_ctl00_rcr_rcr_RightCol1_TopMais_ctl01_FilteredThreadList_ctl05_ngContent_ctl00_contentDiv"><li class="" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:util="urn:newsgen-scripts"><div style="margin-bottom:2px"><a style="font-weight:bold" href="/PaginaInicial/Desporto/Interior.aspx?content_id=3204251">Estoril trava Benfica</a></div><h1 style="font-weight:normal;float:left">
+	 Publicado <input type="hidden" name="date-issue" class="date-issue2" value="2013-05-06 22:05:00"><span></span></h1><h1 style="font-weight:normal"></h1></li></div>
+</span>
+
+  
+	
+	
+   <span id="ctl00_ctl00_rcr_rcr_RightCol1_TopMais_ctl01_FilteredThreadList_ctl06_ngContent"><div id="ctl00_ctl00_rcr_rcr_RightCol1_TopMais_ctl01_FilteredThreadList_ctl06_ngContent_ctl00_contentDiv"><li class="" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:util="urn:newsgen-scripts"><div style="margin-bottom:2px"><a style="font-weight:bold" href="/PaginaInicial/Economia/Interior.aspx?content_id=3209369">Governo corta 10% nas pensões</a></div><h1 style="font-weight:normal;float:left">
+	 Publicado <input type="hidden" name="date-issue" class="date-issue2" value="2013-05-09 10:27:00"><span></span></h1><h1 style="font-weight:normal"></h1></li></div>
+</span>
+
+  
+	
+	
+   <span id="ctl00_ctl00_rcr_rcr_RightCol1_TopMais_ctl01_FilteredThreadList_ctl07_ngContent"><div id="ctl00_ctl00_rcr_rcr_RightCol1_TopMais_ctl01_FilteredThreadList_ctl07_ngContent_ctl00_contentDiv"><li class="" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:util="urn:newsgen-scripts"><div style="margin-bottom:2px"><a style="font-weight:bold" href="/PaginaInicial/Politica/Interior.aspx?content_id=3201775">Portas assume divergência com Passos Coelho</a></div><h1 style="font-weight:normal;float:left">
+	 Publicado <input type="hidden" name="date-issue" class="date-issue2" value="2013-05-05 19:15:00"><span></span></h1><h1 style="font-weight:normal"></h1></li></div>
+</span>
+
+  
+	
+	
+   <span id="ctl00_ctl00_rcr_rcr_RightCol1_TopMais_ctl01_FilteredThreadList_ctl08_ngContent"><div id="ctl00_ctl00_rcr_rcr_RightCol1_TopMais_ctl01_FilteredThreadList_ctl08_ngContent_ctl00_contentDiv"><li class="" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:util="urn:newsgen-scripts"><div style="margin-bottom:2px"><a style="font-weight:bold" href="/PaginaInicial/Politica/Interior.aspx?content_id=3207226">Gestores de empresas públicas deixam de ter carro e motorista</a></div><h1 style="font-weight:normal;float:left">
+	 Publicado <input type="hidden" name="date-issue" class="date-issue2" value="2013-05-08 11:56:00"><span></span></h1><h1 style="font-weight:normal"></h1></li></div>
+</span>
+
+  
+	
+	
+   <span id="ctl00_ctl00_rcr_rcr_RightCol1_TopMais_ctl01_FilteredThreadList_ctl09_ngContent"><div id="ctl00_ctl00_rcr_rcr_RightCol1_TopMais_ctl01_FilteredThreadList_ctl09_ngContent_ctl00_contentDiv"><li class="" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:util="urn:newsgen-scripts"><div style="margin-bottom:2px"><a style="font-weight:bold" href="/PaginaInicial/Politica/Interior.aspx?content_id=3208341">Maioria e PCP contra proposta de legalização do cultivo de canábis</a></div><h1 style="font-weight:normal;float:left">
+	 Publicado <input type="hidden" name="date-issue" class="date-issue2" value="2013-05-08 19:00:00"><span></span></h1><h1 style="font-weight:normal"></h1></li></div>
+</span>
+
+  
+   </ul>
+  
+</div>
+      </div>
+      <div class="TabFooterNews">        
+        <div class="footernewsA">Hist&oacute;rico de not&iacute;cias</div>
+        <div class="footernewsB">
+             <select name="select" onchange="GetTop(this.value, 'Replies')">
+          	  <option value="2013-05-05" selected="selected">Última semana</option>
+          	  <option value="2013-04-12">Último mês</option>
+          	  <option value="2012-05-12">Último ano</option>
+          	  <option value="0001-01-01">Desde sempre</option>
+            </select>
+        </div>
+      </div>
+    </div>
+    <script type="text/javascript">GetTop('2013-05-05', 'Replies')</script>
+
+    <div id="tabn_4_data" style="display: none;">
+      <div class="tab_content">
+        <div id="TopSearchContainer">
+			 <iframe id="SearchTopIframe" src="/common/blank.htm" width="254" height="275" frameborder="0" scrolling="no"></iframe>
+        </div>
+      </div>
+      <div class="TabFooterNews">        
+        <div class="footernewsA">Hist&oacute;rico de pesquisas</div>
+        <div class="footernewsB">
+             <select id="SearchTopCombo" name="select" onchange="GetTop(this.value, 'Search')">
+          	  <option value="2013-05-05" selected="selected">Última semana</option>
+          	  <option value="2013-04-12">Último mês</option>
+          	  <option value="2012-05-12">Último ano</option>
+          	  <option value="0001-01-01">Desde sempre</option>
+            </select>
+        </div>
+      </div>
+    </div>
+    
+    
+</div>
+<script type="text/javascript">tabsClassNews.addTabs("tabJNnews");</script>
+
+<div class="vspace10">&#160;</div>
+
+
+    
+
+
+  <br clear="all"/>
+
+
+<div class="PagInicialPub2">
+
+<script type="text/javascript">
+document.write('<script language="JavaScript" src="http://ad.pt.doubleclick.net/adj/jn.pt/politica_noticias;pos=ultimas;tile=3;dcopt=ist;sz=300x100,300x250,300x600;ord=' + ord + ';?"><\/script>');</script>
+<noscript><a href="http://ad.pt.doubleclick.net/jump/jn.pt/politica_noticias;pos=ultimas;tile=3;sz=300x100,300x250,300x600;ord=123456789?" target="_blank"><img src="http://ad.pt.doubleclick.net/ad/jn.pt/politica_noticias;pos=ultimas;tile=3;sz=300x100,300x250,300x600;ord=123456789?" width="300" height="600" border="0" alt=""></a>
+</noscript>
+
+<div class="MenuText2" align="right"><small>PUB</small></div>
+</div>
+
+
+
+  
+  
+
+
+<br clear="all"/>
+
+<div class="cx-futebol">
+	<h2>Futebol</h2>
+	
+	
+
+<div class="cx-liga" style="background-color:#CFCFCF;">
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td width="60%" valign="middle"><div class="title-cx-futebol">Vídeos da Liga</div></td>
+
+<td width="40%" valign="middle"><div class="vergolos"><a href="/paginainicial/Desporto/GolosLiga.aspx">mais vídeos >> </a></div></td>
+</tr></table>
+
+
+
+
+	
+ 
+
+<div class="GolosVideos">
+
+  <div class="videosgolosliga">
+    <div><a href="/paginainicial/Desporto/GolosLiga.aspx"><img src="http://cache15.stormap.sapo.pt/vidstore15/thumbnais/20/86/90/7257290_yuwmL.jpg" width="285" height="160"></a></div><div class="tittlejogosVideo" style="width:285px;background-color:#8B8989;margin-left:6px;padding:2px 0 2px 0;"><a href="/paginainicial/Desporto/GolosLiga.aspx"><span> Sp. Braga 1 - 3 Nacional</span> \\ Sp. Braga, Golo, H...</a></div>
+  </div>
+
+</div>
+
+
+</div>
+ </div>
+
+<div id="tabJNLiga" class="tabJNLiga" style="padding:0px 0px 0px 0px; margin: 0px 0px 0px 0px">
+    <div id="tabliga_1" class="tabs_on"  onclick="tabsClassLiga.switchTab(this);">Liga Zon Sagres</div>
+    <div id="tabliga_2" class="tabs_off" onclick="tabsClassLiga.switchTab(this);">Jogos Ao Vivo</div>
+
+  
+</div>
+
+
+
+<div class="tabJNLiga_content">
+
+    <div id="tabliga_1_data" class="tab_content">
+        
+    
+     <div id="tabGameStats" class="tabGameStats" style="padding:0px 0px 0px 0px; margin: 0px 0px 0px 0px">
+     <div id="tabstats_3" class="tabsstats_on" onClick="tabsClassStats.switchTab(this);" style="width:95px;">Classifica&ccedil;&atilde;o</div>
+    <div id="tabstats_1" class="tabsstats_off" onClick="tabsClassStats.switchTab(this);" style="width:83px;border-left:#FFF solid 1px;">Resultados</div>
+    <div id="tabstats_2" class="tabsstats_off" onClick="tabsClassStats.switchTab(this);" style="border-left:#FFF solid 1px; width:120px;">Pr&oacute;xima Jornada</div>
+    
+</div>
+
+
+<!--div id="tabGameStats" class="tabGameStats">
+    <div id="tabstats_1" class="tabsstats_off" style="width:150px;">&nbsp;&nbsp;&nbsp;Resultados</div>
+    <div id="tabstats_2" class="tabsstats_off" style="border-left:#FFF solid 1px; width:149px;">&nbsp;&nbsp;&nbsp;Pr&oacute;xima Jornada</div>
+    <div id="tabstats_3" class="tabsstats_on" style="width:300px;">&nbsp;&nbsp;&nbsp;Classifica&ccedil;&atilde;o</div>
+</div-->
+
+<span id="ctl00_rcr_RightCol1_Servicos_Liga1_NewsGenContent1"><div id="ctl00_rcr_RightCol1_Servicos_Liga1_NewsGenContent1_ctl00_contentDiv"><div id="tabstats_1_data" class="tabstats_1_data" style="display: none;"><div class="stats_tit">29ª Jornada</div><div class="stat_item1">Sp. Braga  -  Nacional (1-3)</div><div class="stat_item1">Académica  -  P. Ferreira (1-1)</div><div class="stat_item1">Sporting  -  Olhanense (1-0)</div><div class="stat_item1">Marítimo  -  V. Guimarães (1-0)</div><div class="stat_item1">Rio Ave  -  Gil Vicente (2-1)</div><div class="stat_item1">Moreirense  -  V. Setúbal (2-1)</div><div class="stat_item1">Estoril  -  Beira Mar (2-1)</div><div class="stat_item1">FC Porto  -  Benfica (2-1)</div></div><div id="tabstats_2_data" class="tabstats_2_data" style="display: none;"><div class="stats_tit">30ª Jornada</div><div class="stat_item1">Benfica  -  Moreirense (19/05 16:00)
+		  </div><div class="stat_item1">V. Guimarães  -  Rio Ave (19/05 16:00)
+		  </div><div class="stat_item1">Olhanense  -  Marítimo (19/05 16:00)
+		  </div><div class="stat_item1">Gil Vicente  -  Estoril (19/05 16:00)
+		  </div><div class="stat_item1">P. Ferreira  -  FC Porto (19/05 16:00)
+		  </div><div class="stat_item1">Nacional  -  Académica (19/05 16:00)
+		  </div><div class="stat_item1">V. Setúbal  -  Sp. Braga (19/05 16:00)
+		  </div><div class="stat_item1">Beira Mar  -  Sporting (19/05 16:00)
+		  </div></div></div>
+</span>
+<span id="ctl00_rcr_RightCol1_Servicos_Liga1_NewsGenContent2"><div id="ctl00_rcr_RightCol1_Servicos_Liga1_NewsGenContent2_ctl00_contentDiv"><div id="tabstats_3_data" class="tabstats_3_data"><div class="tab-liga-classiHP"><table width="100%" cellspacing="0" cellpadding="0" border="0"><tr><td><div class="classif-esq-hp" style="float:left;"><div class="equipa_esq">1 - FC Porto (75)
+
+	 </div><div class="equipa_esq">2 - Benfica (74)
+
+	 </div><div class="equipa_esq">3 - P. Ferreira (54)
+
+	 </div><div class="equipa_esq">4 - Sp. Braga (49)
+
+	 </div><div class="equipa_esq">5 - Estoril (42)
+
+	 </div><div class="equipa_esq">6 - V. Guimarães (40)
+
+	 </div><div class="equipa_esq">7 - Sporting (39)
+
+	 </div><div class="equipa_esq">8 - Rio Ave (39)
+
+	 </div></div></td><td><div style="float:right;"><div class="equipa_drt">9 - Nacional (37)
+
+	 </div><div class="equipa_drt">10 - Marítimo (37)
+
+	 </div><div class="equipa_drt">11 - Académica (28)
+
+	 </div><div class="equipa_drt">12 - V. Setúbal (26)
+
+	 </div><div class="equipa_drt">13 - Gil Vicente (25)
+
+	 </div><div class="equipa_drt">14 - Olhanense (24)
+
+	 </div><div class="equipa_drt">15 - Moreirense (24)
+
+	 </div><div class="equipa_drt">16 - Beira-Mar (23)
+
+	 </div></div></td></tr></table></div></div></div>
+</span>
+
+<script type="text/javascript">
+<!--
+tabsClassStats.addTabs("tabGameStats");
+-->
+</script>
+    </div>
+    
+    <div id="tabliga_2_data" style="display: none;">
+      <div class="tab_content">
+        
+      <div class="jogosvivo" style="border-bottom: solid 1px #9292b6">
+	
+    
+  <script type="text/javascript">GA_googleFillSlot("JN_Jogos_em_Directo_300x30");</script>
+
+<script language="javascript" type="text/javascript">
+      if (AC_FL_RunContent == 0) {
+        alert("This page requires AC_RunActiveContent.js");
+      } else {
+      AC_FL_RunContent(
+          'codebase', 'http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab',
+          'width', '300',
+          'height', '133',
+          'src', '/common/flash/ticker_vertical',
+          'quality', 'high',
+          'pluginspage', 'https://www.macromedia.com/go/getflashplayer',
+          'align', 'middle',
+          'play', 'true',
+          'loop', 'true',
+          'scale', 'exactfit',
+          'wmode', 'opaque',
+          'devicefont', 'false',
+          'id', 'Flash',
+          'bgcolor', '#ffffff',
+          'name', 'mapa',
+          'menu', 'false',
+          'allowScriptAccess','sameDomain',
+          'movie', '/common/flash/ticker_vertical',
+          'salign', ''
+        );
+      }
+</script>
+</div>
+      </div>
+      </div>
+    
+    </div>
+    <div style="width:300px; float:left; margin: 5px 0 5px 0px;padding-bottom:5px; border-bottom:2px solid #64635E;"> <script type="text/javascript">GA_googleFillSlot("JN_Videos_Liga_300x30");</script></div>
+ 
+
+    
+    <script type="text/javascript">tabsClassLiga.addTabs("tabJNLiga");</script>
+
+
+
+
+
+
+
+<div id="ctl00_rcr_RightCol1_Servicos_divServicos" class="servicos1">
+ <h1><a href="/Servicos">Serviços</a></h1><br clear="all" />
+ 
+
+<script type="text/javascript">SetMeteoPath('/NewsGen/Publicação/JN/Serviços/Meteorologia Right');</script>
+<div>
+  
+  <div style="width: 300px; overflow:hidden; background-color:#d3d2d2; text-align: center">
+    <table width="100%" border="0" cellpadding="0" cellspacing="0" class="tempoonde">
+    <tr>
+      <td class="tempoondeA" nowrap>TEMPO</td>
+      <td id="ctl00_rcr_RightCol1_Servicos_Meteo1_selectCity" class="tempoondeB"><select class="formfield" onchange="GetMeteoByCombo(this)"><option value="Angra do Heroísmo">Angra do Heroísmo</option><option value="Aveiro">Aveiro</option><option value="Beja">Beja</option><option value="Braga">Braga</option><option value="Bragança">Bragança</option><option value="Castelo Branco">Castelo Branco</option><option value="Coimbra">Coimbra</option><option value="Évora">Évora</option><option value="Faro">Faro</option><option value="Funchal">Funchal</option><option value="Guarda">Guarda</option><option value="Horta">Horta</option><option value="Leiria">Leiria</option><option value="Lisboa">Lisboa</option><option value="Ponta Delgada">Ponta Delgada</option><option value="Portalegre">Portalegre</option><option value="Porto" selected="selected">Porto</option><option value="Santarém">Santarém</option><option value="Santa Cruz das Flores">Santa Cruz das Flores</option><option value="Setúbal">Setúbal</option><option value="Viana do Castelo">Viana do Castelo</option><option value="Vila Real">Vila Real</option><option value="Viseu">Viseu</option></select></td>
+
+      <td class="tempoondeC" style="padding-left:5px;"><a href="http://http://www.wunderground.com/" target="_blank"><img src="/Common/Images/meteo_new/logos/wundergroundLogo_blue.png" width="54px" alt="Dados fornecidos por Wunderground"/></a></td>
+    </tr>
+    <tr>
+      <td colspan="3"><div id="meteoContentDiv"><span id="ctl00_rcr_RightCol1_Servicos_Meteo1_contentObj"><div id="ctl00_rcr_RightCol1_Servicos_Meteo1_contentObj_ctl00_contentDiv"><div class="tempol"><img src="/common/images/meteo_new/coldir/d/partlycloudy.gif" alt=""><ul><li style="font-size:14px;">21ºC
+              </li><li>13ºC
+              </li><li>HOJE</li></ul></div><div class="tempor"><img src="/common/images/meteo_new/coldir/d/clear.gif" alt=""><ul><li style="font-size:14px;">23ºC
+              </li><li>12ºC
+              </li><li>AMANHÃ</li></ul></div></div>
+</span></div></td>
+    </tr>
+    </table>
+    <div class="Home-meteorologia-outras">> <a href="/Servicos/?tab=meteo">ver outros dias</a></div>
+  </div>
+  
+  <iframe frameborder="0" width="0" height="0" src="/common/htm/blank.htm" id="meteoIfr"></iframe>
+
+</div> 
+
+
+
+</div>
+<div id="ctl00_rcr_RightCol1_Servicos_divServicos2" class="servicosE">
+    <div class="servic1">
+        <a href="/servicos/?tab=farmacias"><img src="/common/images/serv_farmacia.gif" border="0" alt="farmacias" width="42" height="65"></a>
+        <a href="/servicos/?tab=farmacias">FARM&Aacute;CIAS</a>
+    </div>
+    <div class="servic2">
+        <a href="/servicos/?tab=transito"><img src="/common/images/serv_transito.gif" border="0" alt="trânsito" width="52" height="65"></a>
+      <a href="/servicos/?tab=transito">TR&Acirc;NSITO</a>
+    </div>
+    <div class="servic2">
+        <a href="/servicos/?tab=cartaz"><img src="/common/images/serv_cinema.gif" border="0" alt="cartaz" width="50" height="65"></a>
+        <a href="/servicos/?tab=cartaz">CARTAZ</a>
+    </div>
+    <div class="servic2">
+
+        <a href="/servicos/?tab=horoscopo"><img src="/common/images/serv_horoscopo.gif" border="0" alt="horoscopo" width="52" height="65"></a>
+        <a href="/servicos/?tab=horoscopo">HOR&Oacute;SCOPO</a>
+    </div>
+</div>
+
+<div class="classif">
+    <h1>Classificados Tuti</h1>
+    <a class="classifA" href="http://www.tuti.pt/casas.aspx" target="_blank" id="classifbut1" onMouseOver="this.style.background='gray';" onMouseOut="this.style.background='#bcbec0';">CASAS</a>
+    <a class="classifB" href="http://www.tuti.pt/emprego.aspx" target="_blank" id="classifbut2" onMouseOver="this.style.background='gray';" onMouseOut="this.style.background='#bcbec0';">EMPREGO</a>
+    <a class="classifA" href="http://www.tuti.pt/mix.aspx" target="_blank" id="classifbut3" onMouseOver="this.style.background='gray';" onMouseOut="this.style.background='#bcbec0';">MIX</a>
+    <a class="classifB" href="http://www.tuti.pt/veiculos.aspx" target="_blank" id="classifbut4" onMouseOver="this.style.background='gray';" onMouseOut="this.style.background='#bcbec0';">VE&Iacute;CULOS</a>
+	<!--
+    <a class="classifA" href="http://www.tuti.pt/jn/Pesquisa.aspx" target="_blank" id="classifbut5" onMouseOver="this.style.background='gray';" onMouseOut="this.style.background='#bcbec0';">ENSINO</a>
+    <a class="classifB" href="http://www.tuti.pt/jn/Pesquisa.aspx" target="_blank" id="classifbut6" onMouseOver="this.style.background='gray';" onMouseOut="this.style.background='#bcbec0';">RELAX</a>
+	-->
+</div>
+
+<div class="anunciosci">
+<script type="text/javascript"><!--
+		var sas_affiliate_id = '64';
+		var sas_site_id  = '446';
+		var sas_position_id  = '371';
+		var sas_cluster = '1';
+		var sas_ad_width = '300';
+		var sas_ad_height= '250';
+		var sas_ad_format = '300x250_controlinveste';
+		var sas_c = '4';
+		var sas_ad_type = 'text';
+		var sas_location_id = '6';
+		var sas_color_border = 'E6E6E6';
+		var sas_color_link = 'ED4611';
+		var sas_color_bg = 'FFFFFF';
+		var sas_color_text = '000000';
+		var sas_color_url = 'ED4611';
+		var sas_ic = 'd0316b94a7ab1af0bcd7d02b74ff3824';
+		var sas_medium = '0';
+		//-->
+		</script>
+		<script type="text/javascript" src="http://js.sl.pt/Snippets/SAS.js"></script>
+</div>
+
+
+
+
+
+  <span id="ctl00_rcr_RightCol1_DireitaComunidade"><div id="ctl00_rcr_RightCol1_DireitaComunidade_ctl00_contentDiv"></div>
+</span>
+  <br clear="all"/>
+  
+  <div class="vspace5">&nbsp;</div>
+  <span id="ctl00_rcr_RightCol1_DireitaEspeciais"><div id="ctl00_rcr_RightCol1_DireitaEspeciais_ctl00_contentDiv"></div>
+</span>
+  <br clear="all"/>
+
+<style type="text/css">
+  .coldir-fixed-container {width:300px; overflow:hidden; float:left; clear:right}
+  .coldir-overflow-content {width:400px}
+</style>
+
+<div class="coldir-fixed-container">
+  <div class="coldir-overflow-content">
+    <span id="ctl00_rcr_RightCol1_DireitaFecho"><div id="ctl00_rcr_RightCol1_DireitaFecho_ctl00_contentDiv"><div class="DestaqueRodape"><a href="http://www.medialab.jn.pt" target="_blank"><img src="/Storage/JN/2012/small/ng1826516.jpg" class="destaque" alt="Media Lab"></a></div><div class="DestaqueRodape"><a href="/Reportagens/Interior970.aspx?content_id=2255904"><img src="/Storage/JN/2012/small/ng2227742.jpg" class="destaque" alt="destaque conselhoeditorial"></a></div></div>
+</span>
+  </div>
+</div>
+
+</div>
+</div>
+          </div>
+          <br clear="all" />
+        </div> 
+        <script type="text/javascript">SetPage('interior')</script>
+        <div class="FooterLayout">
+
+<br clear="all" />
+
+<table id="ctl00_Footer1_LeadTable" width="100%" align="center">
+	<tr id="ctl00_Footer1_ctl00">
+		<td id="ctl00_Footer1_ctl01" style="width:41%" align="left"><div class="FooterTextCI">Controlinveste Media SGPS, S.A. Todos os direitos reservados</div></td>
+		<td id="ctl00_Footer1_ctl02" style="width:64%; text-align: left;" align="center"><span class="FooterText"><a href="/info/termosdeuso.aspx" target="_parent">Termos de Uso e Política de Privacidade</a>&nbsp;|&nbsp;</span>
+        <span class="FooterText"><a href="/info/fichatecnica.aspx" target="_parent">Ficha Técnica</a>&nbsp;|&nbsp;</span>
+        <span class="FooterText"><a href="/info/quemsomos.aspx" target="_parent">Quem Somos</a>&nbsp;|&nbsp;</span>
+        <span class="FooterText"><a href="/info/contactos.aspx" target="_parent">Contactos</a>&nbsp;|&nbsp;</span>
+        <span class="FooterText"><a href="mailto:webmaster@jn.pt" target="_parent">Webmaster</a></span></td>
+		<td id="ctl00_Footer1_ctl03" style="width:10%" align="center"><a href="http://the-acap.org/acap-enabled.php" target="_blank">
+  <img src="http://www.jn.pt/storage/logo/acap_enabled_small.gif"
+          ALT="This website is ACAP-enabled" title="This website is ACAP-enabled"
+          STYLE="border: 0;">
+</a></td>
+	</tr>
+</table>
+
+
+<div style="background-image:url(/common/images/line_separator.gif); background-repeat:repeat-x;line-height:1px; padding-bottom:10px">&#160;</div>
+
+<div align="center" style="margin-bottom:10px">
+<script type="text/javascript"><!--
+var sas_affiliate_id = '64';
+var sas_site_id  = '446';
+var sas_position_id  = '363';
+var sas_cluster = '1';
+var sas_ad_width = '728';
+var sas_ad_height= '90';
+var sas_ad_format = '728x90_controlinveste';
+var sas_c = '4';
+var sas_ad_type = 'text';
+var sas_location_id = '8';
+var sas_color_border = 'FFFFFF';
+var sas_color_link = 'ED4611';
+var sas_color_bg = 'FFFFFF';
+var sas_color_text = '000000';
+var sas_color_url = 'ED4611';
+var sas_ic = '792de341f99bf67fba951b982f98955b';
+var sas_medium = '0';
+//-->
+</script><script type="text/javascript" src="http://js.sl.pt/Snippets/SAS.js"></script>
+</div>
+
+<center>
+<iframe id="FooterCI" src="/common/footer/footer980.html?url=www.jn.pt" marginwidth="0" marginheight="0" width="100%" height="100" frameborder="0" scrolling="no" allowTransparency="true"></iframe>
+</center>
+</div>    
+      </center>
+			
+
+
+
+		
+<script>var commentsPager = new CommentsPager('commentsPager', 3208341, [{"PageIndex":1,"TotalPages":5,"TotalComments":41,"TotalDisplayComments":88,"PostID":6789065,"ListComments":[{"UserIsAnonymous":true,"DeleteLink":"/Foruns/DeleteComment.aspx?PostID=6802160","UserProfileLink":"","UserLocation":"","CommentDate":"10.05.2013/13:11","CommentBody":"85% dos americanos concordam com a utilização de cannabis para uso MEDICINAL, para adultos. 85%, mais de 8 em cada 10 americanos concordam! Mas a cannabis não tem uso medicinal... é tudo para legalizar e fumar até ficar verde. Tanta gente a sofrer, só espero que um dia não morram, nem sofram, de algo que a cannabis poderia ajudar mais que qualquer outro medicamento.","ListReplies":[],"PostAsAnonymous":false,"DisplayName":"Julio Gomes","Email":"","GetFeedback":false,"CommentID":6802160,"ReportStatus":0},{"UserIsAnonymous":true,"DeleteLink":"/Foruns/DeleteComment.aspx?PostID=6801717","UserProfileLink":"","UserLocation":"","CommentDate":"10.05.2013/12:19","CommentBody":"Foi reprovado...PSD, CDS/PP  e PCP votaram contra, e 3 deputados do PS.PS e Verdes abstiveram-se.BE e 7 deputados do PS votaram a favor.E houve 30 deputados que vão escrever uma declaração sobre a intenção de voto.","ListReplies":[{"UserIsAnonymous":true,"DeleteLink":"/Foruns/DeleteComment.aspx?PostID=6801923","UserProfileLink":"","UserLocation":"","CommentDate":"10.05.2013/12:41","CommentBody":"As propostas do cinema digital também foram reprovadas pelo CDS e pelo PSD. Como se nao houvessem muitos portugueses ligados as artes e ao cinema que nao louvassem esta medida simples de implementar e sem grandes custos associados.Governo que só serve o BCE e a UE e nao serve os portugueses, é o que dá. E para os que se perguntam, nunca votei BE mas começo a questionar a minha escolha porque depois de assistir aos debates na assembleia, parecem-me os mais terra-a-terra e em contacto com a realidade dos portugueses e que apresentam pequenas medidas praticas mas que poderiam mudar muita coisa a longo prazo. So que nao servem os interesses economicos e europeus aparentemente.","ListReplies":null,"PostAsAnonymous":false,"DisplayName":"Fernando Alves","Email":"","GetFeedback":false,"CommentID":6801923,"ReportStatus":0}],"PostAsAnonymous":false,"DisplayName":"Fernando Alves","Email":"","GetFeedback":false,"CommentID":6801717,"ReportStatus":0},{"UserIsAnonymous":true,"DeleteLink":"/Foruns/DeleteComment.aspx?PostID=6801626","UserProfileLink":"","UserLocation":"","CommentDate":"10.05.2013/12:10","CommentBody":"mais uma vitoria para os traficantes de droga....ha demasiado dinheiro envolvido, se fosse investigado devia haver muito senhor que iria parar no xadres... um pais patetico...","ListReplies":[],"PostAsAnonymous":false,"DisplayName":"pedro silva","Email":"","GetFeedback":false,"CommentID":6801626,"ReportStatus":0},{"UserIsAnonymous":true,"DeleteLink":"/Foruns/DeleteComment.aspx?PostID=6799359","UserProfileLink":"","UserLocation":"","CommentDate":"09.05.2013/23:48","CommentBody":"Oh sr palhaço que falas na Holanda, a Holanda voltou atraz em que??? os Coffe shops tao abertos e bem abertos. nao sei aonde viste esta parvoice nem por acaso vim o fim semana passado de um fim de semana la, quase todos os paises da europa tao a legalizar ate nos estados unidos suissa belgica englaterra vai te catar, e em vez de falarares *** fala do que sabes, realmente o povo portugues é um povo atrasado de terceiro mundo e sem cultura nenhuma. GRACAS A DEUS Que SAI DESSE ANTRO","ListReplies":[{"UserIsAnonymous":true,"DeleteLink":"/Foruns/DeleteComment.aspx?PostID=6802087","UserProfileLink":"","UserLocation":"","CommentDate":"10.05.2013/12:58","CommentBody":"E mais, na Suiça, eles querem legalizar o auto-cultivo também.","ListReplies":null,"PostAsAnonymous":false,"DisplayName":"Fernando Alves","Email":"","GetFeedback":false,"CommentID":6802087,"ReportStatus":0},{"UserIsAnonymous":true,"DeleteLink":"/Foruns/DeleteComment.aspx?PostID=6802081","UserProfileLink":"","UserLocation":"","CommentDate":"10.05.2013/12:57","CommentBody":"Porque o uso e a posse são despenalizados para pacientes nos estados em que é legal o uso medicinal, são 19 estados não 16, e desses 19, 2 também legalizaram o uso recreativo.","ListReplies":null,"PostAsAnonymous":false,"DisplayName":"Fernando Alves","Email":"","GetFeedback":false,"CommentID":6802081,"ReportStatus":0},{"UserIsAnonymous":true,"DeleteLink":"/Foruns/DeleteComment.aspx?PostID=6801915","UserProfileLink":"","UserLocation":"","CommentDate":"10.05.2013/12:39","CommentBody":"Então qual é a parte errada...não percebi ó Alves?!?!","ListReplies":null,"PostAsAnonymous":false,"DisplayName":"...","Email":"","GetFeedback":false,"CommentID":6801915,"ReportStatus":0},{"UserIsAnonymous":true,"DeleteLink":"/Foruns/DeleteComment.aspx?PostID=6801047","UserProfileLink":"","UserLocation":"","CommentDate":"10.05.2013/10:59","CommentBody":"Errado, há 19 estados dos EUA em que o uso medicinal é permitido mediante a autorizaçao de um médico, e há 2 estados em que além de permitido o uso medicinal, é permitido o uso recreativo.A nivel federal é que continua ilegal, o resultado é a DEA agora ir aos estados legais em vez de ir aos ilegais, e prende pessoas que usam de forma medicinal porque elas nao se esconderam. É o que dá fazer as coisas de maneira que não agrada aos governos, nos EUA é diferente porque os estados têm mais soberania. é como se fosse legal em Portugal e houvesse uma policia da UE a querer vir aqui fazer apreensoes porque não concorda com a nossa lei.","ListReplies":null,"PostAsAnonymous":false,"DisplayName":"Fernando Alves","Email":"","GetFeedback":false,"CommentID":6801047,"ReportStatus":0},{"UserIsAnonymous":true,"DeleteLink":"/Foruns/DeleteComment.aspx?PostID=6799717","UserProfileLink":"","UserLocation":"","CommentDate":"10.05.2013/01:26","CommentBody":"E se os suíços não aceitam mais trabalhadores portugueses é à conta de escória como tu, que planta em casa para vender a quem quiseres. Por outro lado, se não queres voltar a Portugal então pede nacionalidade suíça a ver se eles te aceitam! E se não queres voltar a Portugal como tu dizes, o que é que te interessa as leis portuguesas, ou mesmo o que nós pensamos?! Preferes ser chulado pelos suíços que olham para nós como escravos, enquanto guardam as fortunas de traficantes de todo o mundo nos seus bancos. Para não falar dos diamantes de sangue que vêm dos piores conflitos armados que há história, ou do ouro obtido em minas por trabalho infantil! Nem sabes bem para quem trabalhas suissinho!","ListReplies":null,"PostAsAnonymous":false,"DisplayName":"...","Email":"","GetFeedback":false,"CommentID":6799717,"ReportStatus":0},{"UserIsAnonymous":true,"DeleteLink":"/Foruns/DeleteComment.aspx?PostID=6799632","UserProfileLink":"","UserLocation":"","CommentDate":"10.05.2013/00:54","CommentBody":"Ó colega, ignorante és tu. Os EUA têm leis estaduais (especificas de cada estado) e leis Federais (no que toca aos EUA como nação). Em termo estaduais corrijo-me: existem apenas DOIS estados onde a cannabis é legal (Colorado e Washington-Seattle) nos EUA. Nos restantes 16 estados de que falas é permitido o uso medicinal (perante a apresentação de atestados médicos) para quem tem doenças, despenalizando também a posse MAS NÃO O USO. Quanto ao cultivo, nem na Holanda é legal, quanto mais na Suíça. Se a polícia te apanhar a cultivar vais preso.","ListReplies":null,"PostAsAnonymous":false,"DisplayName":"...","Email":"","GetFeedback":false,"CommentID":6799632,"ReportStatus":0}],"PostAsAnonymous":false,"DisplayName":"SUiçA","Email":"","GetFeedback":false,"CommentID":6799359,"ReportStatus":0},{"UserIsAnonymous":true,"DeleteLink":"/Foruns/DeleteComment.aspx?PostID=6799122","UserProfileLink":"","UserLocation":"","CommentDate":"09.05.2013/23:07","CommentBody":"O BE está a cair como um &#34;pato&#34; na armadilha ao insistir numa agenda de assuntos fracturantes e polémicos (legalização do cannabis, touradas, anti-tabagismo, adopção por casais gay, etc.) em vez de se concentrar no essencial: a defesa dos cidadãos, do Estado Social e da soberania perante interesses predadores planetários! A consequência será vêr diminuir drasticamente a sua representatividade eleitoral (e até &#34;desaparecer do mapa&#34;!) eximindo-se da oportunidade de se tornar no recipiente dos votos de protesto (como na Grécia) que se adivinham nas próximas eleições! Fracos estrategas...Continuem assim e tornar-se-ão irrelevantes. É o que muitos querem e o intelectual BE nem se apercebe disso. Tant Pis!","ListReplies":[{"UserIsAnonymous":true,"DeleteLink":"/Foruns/DeleteComment.aspx?PostID=6799212","UserProfileLink":"","UserLocation":"","CommentDate":"09.05.2013/23:20","CommentBody":"Aconselho a Pandora a consultar a agenda do Parlamente antes de dizer essas coisas. Apenas refere as questões que tiveram eco na comunicação social, provavelmente nos sítios do costume, reportados  pelos mesmos de sempre. Se acha que qualquer um desses temas é menor, espero que não faça parte de nenhuma minoria... pode ser que não haja ninguém para defendê-la.","ListReplies":null,"PostAsAnonymous":false,"DisplayName":"Fernando Alves","Email":"","GetFeedback":false,"CommentID":6799212,"ReportStatus":0}],"PostAsAnonymous":false,"DisplayName":"Pandora","Email":"","GetFeedback":false,"CommentID":6799122,"ReportStatus":0},{"UserIsAnonymous":true,"DeleteLink":"/Foruns/DeleteComment.aspx?PostID=6799107","UserProfileLink":"","UserLocation":"","CommentDate":"09.05.2013/23:04","CommentBody":"Ainda Bem! Não partilho absolutamente nada o entusiasmo do BE por esta causa. A própria Holanda, permissiva e tolerante, voltou atrás esta experiência social que, na altura, foi pioneira! Nesta época de crise, o que é preciso é que os jovens estejam despertos e alerta perante os tremendos desafios que se lhes deparam e não contemplativos e amorfos! Isto só pode interessar a quem agrada este estado de coisas: uma pessoa deprimida ou contemplativa é uma pessoa que não reage às injustiças e que se refugia nos seus paraísos artificiais enquanto verdadeiros bandidos fazem da realidade aquilo que lhes apetece! Só ponho uma única reserva: o uso da cannabis para fins medicinais (cuidados paliativos, deficiências extremas ou dores insuportáveis).","ListReplies":[{"UserIsAnonymous":true,"DeleteLink":"/Foruns/DeleteComment.aspx?PostID=6802454","UserProfileLink":"","UserLocation":"","CommentDate":"10.05.2013/13:55","CommentBody":"Uma pessoa que esteja viciada em heroina, no limite apenas se destroi a si.Uma pessoa que esteja viciada em alcool, facilmente destroi os que estão a sua volta. Não querendo comparar a dor das familias quando ha casos destes no seu seio, creio que a heroina destroi mais porque é ilegal e desregulada, e o alcool, que é legal, é capaz de destruir mais facilmente uma familia pela violencia verbal e fisica que traz, levando mais facilmente a uma morte alheia que a heroina que normalmente so mata o doente.","ListReplies":null,"PostAsAnonymous":false,"DisplayName":"Fernando Alves","Email":"","GetFeedback":false,"CommentID":6802454,"ReportStatus":0},{"UserIsAnonymous":true,"DeleteLink":"/Foruns/DeleteComment.aspx?PostID=6802406","UserProfileLink":"","UserLocation":"","CommentDate":"10.05.2013/13:47","CommentBody":"e também porque se tratava montes de problemas com morfina e heroina, desconhecendo o seu real perigo. A guerra as drogas faz aumentar o preço delas, o que cria uma maior necessidade de recorrer ao crime para sustentar o que passou a ser uma doença. No alcoolismo, é mais grave, quantos antigos soldados do Ultramar nao usam o alcool para esquecer os traumas da guerra e maltratam as mulheres verbal e fisicamente, e as pessoas fingem que nao vêm. Pois, ja esta provado que a cannabis ajuda a combater o stress pos traumatico que é comum em ex-militares. Digam-me la sinceramente o que e preferivel? Se uma pessoa com estes problemas beber, fica violento e destroi familias e casamentos... mas se usar a cannabis regradamente, consegue estar bem.","ListReplies":null,"PostAsAnonymous":false,"DisplayName":"Fernando Alves","Email":"","GetFeedback":false,"CommentID":6802406,"ReportStatus":0},{"UserIsAnonymous":true,"DeleteLink":"/Foruns/DeleteComment.aspx?PostID=6802370","UserProfileLink":"","UserLocation":"","CommentDate":"10.05.2013/13:41","CommentBody":"Outra coisa que é preciso referir: a ilegalização da cananbis foi o que levou ao aumento da concentração de THC, assim como todo o universo das smartshops apesar de nesse caso não ter a ver apenas com cannabis. O crescimento dos gangs e da sua força belica cresceu com a intensificaçao da guerra as drogas.A criaçao de drogas piores como crack, cristal meth e outras, sao consequencia da guerra as drogas e da ilegalizaçao. Se houvesse controlo e se tratassem os dependentes de drogas pesadas como doentes, nao haveria este problema. Antigamente nao havia crime ligado as drogas, havia um numero crescente de viciados em opio e depois em morfina e depois em heroina, por consequencia de desinformaçao, exploraçao comercial sem alertar aos riscos e","ListReplies":null,"PostAsAnonymous":false,"DisplayName":"Fernando Alves","Email":"","GetFeedback":false,"CommentID":6802370,"ReportStatus":0},{"UserIsAnonymous":true,"DeleteLink":"/Foruns/DeleteComment.aspx?PostID=6801601","UserProfileLink":"","UserLocation":"","CommentDate":"10.05.2013/12:07","CommentBody":"Errado, em 1970 a média de concentração de THC rondava o 3,5-4% e em 2010 rondava os 7-8%. Para alem disso, com analises sabes qual e a concentraçao de THC e podes optar por outra mais fraca. Como se isso nao bastasse, normalmente as pessoas param quando chegam ao ponto que querem portanto se é mais potente, as pessoas usam menos de cada vez.A Holanda tem taxas de consumidores de canabis mais baixas que em Portugal! E em Portugal está-se a discutir um modelo ligeiramente diferente (para melhor), do que o holandÊs! Nao espalhes mentiras Neo!","ListReplies":null,"PostAsAnonymous":false,"DisplayName":"Fernando Alves","Email":"","GetFeedback":false,"CommentID":6801601,"ReportStatus":0},{"UserIsAnonymous":true,"DeleteLink":"/Foruns/DeleteComment.aspx?PostID=6799689","UserProfileLink":"","UserLocation":"","CommentDate":"10.05.2013/01:14","CommentBody":"... a cenas tristes. A ideia deles é clara, a nossa liberdade acaba, quando a liberdade dos outros começa. Se a polícia holandesa te apanhar a fumar um charro na rua e aplicar a lei como ela é, apanhas uma multa de 50 euros. A ideia de ser legal é falsa, as drogas leves são TOLERADAS em determinadas situações (ou lugares), mas não legais.","ListReplies":null,"PostAsAnonymous":false,"DisplayName":"...","Email":"","GetFeedback":false,"CommentID":6799689,"ReportStatus":0},{"UserIsAnonymous":true,"DeleteLink":"/Foruns/DeleteComment.aspx?PostID=6799656","UserProfileLink":"","UserLocation":"","CommentDate":"10.05.2013/01:01","CommentBody":"Em 1980 quando a cannabis foi legalizada os índices de toxicidade eram de 7% o que fazia da cannabis uma droga pouco viciante. Hoje em dia, com a evolução do cultivo, os níveis de toxicidade chegam aos 20%, apresentando graus de dependência bastante elevados. O problema na Holanda é a quantidade de drogas que existem naquele país... facilmente compras na rua erva a metade do preço que compras nos cafés, e com a mesma qualidade. E isso de ser para maiores de 18 anos também não pega, pois se num grupo de putos de 12, 13 ou 14 anos houver um com 18, facilmente obtêm a droga. A lei holandesa é clara, o consumo é para ser feito dentro de portas (ou em casa, ou no café) para que uma pessoa que não fume ou não goste, não seja obrigado a assistir..","ListReplies":null,"PostAsAnonymous":false,"DisplayName":"...","Email":"","GetFeedback":false,"CommentID":6799656,"ReportStatus":0},{"UserIsAnonymous":true,"DeleteLink":"/Foruns/DeleteComment.aspx?PostID=6799368","UserProfileLink":"","UserLocation":"","CommentDate":"09.05.2013/23:51","CommentBody":"OH neo looool Diz la em que a Holanda voltou atraz??? ou sou eu que me enganei o pais que fui passar um fim de semana a semana passada e que vou todos os dois meses. ou tas a espetar é grande coro loooool ta tudo aberto e bem aberto BOA QUALIDADE :D Boa vida . eles vivem todos com um estatudo de vida que nem 5% dos portugueses teem looooooool calem se povo de atrasados VELHOS facistas antiquados e","ListReplies":null,"PostAsAnonymous":false,"DisplayName":"Suiça ","Email":"","GetFeedback":false,"CommentID":6799368,"ReportStatus":0},{"UserIsAnonymous":true,"DeleteLink":"/Foruns/DeleteComment.aspx?PostID=6799157","UserProfileLink":"","UserLocation":"","CommentDate":"09.05.2013/23:13","CommentBody":"O problema com a legalização na Holanda é precisamente o tráfico nos paises vizinhos em que a lei é contra a cannabis e há estrangeiros que vao a coffeshops na holanda, estamos a falar de pessoas ligadas ao crime mas tambem pessoas normais de outros paises que vao la so para comprar cannabis, mas a questão e que muitos destes ditos gangs acabam por criar disturbios por onde vão e é por isso que este governo tentou criar uma especie de passe e ilegalizar a venda a estrangeiros.","ListReplies":null,"PostAsAnonymous":false,"DisplayName":"Fernando Alves","Email":"","GetFeedback":false,"CommentID":6799157,"ReportStatus":0},{"UserIsAnonymous":true,"DeleteLink":"/Foruns/DeleteComment.aspx?PostID=6799142","UserProfileLink":"","UserLocation":"","CommentDate":"09.05.2013/23:10","CommentBody":"Neo, há muito mais potencial na cannabis do que os que referiste. Procura estudos que falem de CBD, cannabinoids e endocannabinoid system e logo verás o que esta planta ainda tem para nos dar. Já não falando no óleo de semente de canhamo que não é psicoactivo e está a venda em todo lado, e é extremamente benefico, e não falando nos potenciais enormes para a industria textil, e de papel, a fibra de canhamo é muitissimo melhor que a de eucalipto e mais barata. E a Holanda voltou atrás porque o governo mudou e este governo é mais conservador, houve grandes manifestações e ninguem esta satisfeito com esta situaçao la. O crime já aumentou, entre outros problemas. E não resolveu nenhum.","ListReplies":null,"PostAsAnonymous":false,"DisplayName":"Fernando Alves","Email":"","GetFeedback":false,"CommentID":6799142,"ReportStatus":0}],"PostAsAnonymous":false,"DisplayName":"Neo","Email":"","GetFeedback":false,"CommentID":6799107,"ReportStatus":0},{"UserIsAnonymous":true,"DeleteLink":"/Foruns/DeleteComment.aspx?PostID=6798332","UserProfileLink":"","UserLocation":"","CommentDate":"09.05.2013/20:55","CommentBody":"Os culpados pelo tráfico são os consumidores. A ideia de que é melhor legalizar só tem um objectivo económico e nada mais. Nos EUA o único estado onde é legal é a Califórnia, e só consome legalmente quem tem um atestado médico. Na Holanda o problema eram as drogas duras e não as leves. Já lá vivi dois anos e rapidamente se chega à conclusão que a legalização não funciona... a maior parte do turismo que os Holandeses possuem estão ligados a consumidores de droga e a prostituição. Aliás, a quantidade de pessoas desprezíveis lá é imensa... Já fui consumidor mas cheguei à conclusão que não perco nada em não o ser, só tenho é a ganhar! Digam o que disserem, fumar é sempre mais prejudicial do que não o fazer...","ListReplies":[{"UserIsAnonymous":true,"DeleteLink":"/Foruns/DeleteComment.aspx?PostID=6802335","UserProfileLink":"","UserLocation":"","CommentDate":"10.05.2013/13:34","CommentBody":"Suiças, não vale a pena insultares Portugal inteiro. Há cá muito boa gente que não concorda com as coisas como estão, só que como bem sabes, os que estão lá em cima não querem sair do poleiro e estão demasiado enterrados para tomarem decisoes de forma independente e pelo que lhes diz a verdade e a moral.Mas sim, de facto não compreender que o auto-cultivo só traz vantagens no combate ao tráfico, é não querer perceber que a guerra as drogas falhou. Portugal ja despenalizou o consumo e notou melhorias significativas, mas falta terminar o que estava a resultar.","ListReplies":null,"PostAsAnonymous":false,"DisplayName":"Fernando Alves","Email":"","GetFeedback":false,"CommentID":6802335,"ReportStatus":0},{"UserIsAnonymous":true,"DeleteLink":"/Foruns/DeleteComment.aspx?PostID=6799395","UserProfileLink":"","UserLocation":"","CommentDate":"09.05.2013/23:57","CommentBody":"OH colega o unico estado é a california?? vai te actualizar . e olha deverias tar caladinho, ca na suissa o autocultivo é legal e sabes que mais... NAO vejo nem un terço da *** que ha em portugal, os traficantes desde que o autocultivo foi aceite, os traficantes perderam uma forca incrivel a policia cada vez se ta a tornar mais facil de os capturarem porque ja nao teem tanto poder monetario pra pagarem advogados e pra pagarem a outras pessoas pra esconderem a droga ,, Quem nao volta pra esse pais \u0027\u0027chamado\u0027\u0027 portugal sou eu fodase pais de atrasados mentais mesmo foda se fiquem ai o que val ja nao dao mais autorizacoes de trabalho a portugueses os Suiços ja tao FARTOS DA VOSSA MENTALIDADE fiquem ai nesse cubico de ***","ListReplies":null,"PostAsAnonymous":false,"DisplayName":"Suiça ","Email":"","GetFeedback":false,"CommentID":6799395,"ReportStatus":0},{"UserIsAnonymous":true,"DeleteLink":"/Foruns/DeleteComment.aspx?PostID=6798614","UserProfileLink":"","UserLocation":"","CommentDate":"09.05.2013/21:37","CommentBody":"E mais, legalizar o auto-cultivo e os clubes sociais, não é o mesmo do que promover a venda de cannabis, como acontece com o álcool e tabaco.Isto permite acabar com o crime associado ao tráfico de cannabis e os impactos sociais e de saúde que acarretam. Para alem disso, ao regulares para maiores de idade, e tirando lucro aos traficantes, facilitas o trabalho À policia para diminuir o consumo por parte dos jovens. A não ser que vendas cannabis em coffee shops, como vendes tabaco  e alcool em qualquer confeitaria. Isso sou totalmente contra, como é obvio. Mas, eu sou soberano sobre o meu corpo e eu deveria poder optar se quero usar cannabis, em vez de beber. Devo dizer que não me lembro da ultima vez que bebi mais que 2 copos de vinho...","ListReplies":null,"PostAsAnonymous":false,"DisplayName":"Fernando Alves","Email":"","GetFeedback":false,"CommentID":6798614,"ReportStatus":0},{"UserIsAnonymous":true,"DeleteLink":"/Foruns/DeleteComment.aspx?PostID=6798573","UserProfileLink":"","UserLocation":"","CommentDate":"09.05.2013/21:31","CommentBody":"Mas, segundo a tua ordem de ideias, deveriamos fazer o mesmo com o álcool e fechar a venda sem regulação de bebidas alcoolicas e eventos como a Queima das Fitas. Nos EUA, ha 19 estados em que é legal o uso medicinal e 2 em que é legal o uso medicinal e o uso recreativo. Fumar é sempre mais prejudicial tal como beber é mais prejudicial. E nem estamos a falar do tabaco.Estás a falar por uma questão de impacto na mortalidade? é que a droga com maior impacto é o alcool, e a seguir é o tabaco. Alem disso a cannabis pode ser vaporizada e comida ou bebida. Os Holandeses tem metade das taxas de consumo de drogas, abaixo de Portugal. Nao sei onde foste buscar esses dados, mas nao sao verdadeiros.","ListReplies":null,"PostAsAnonymous":false,"DisplayName":"Fernando Alves","Email":"","GetFeedback":false,"CommentID":6798573,"ReportStatus":0}],"PostAsAnonymous":false,"DisplayName":"...","Email":"","GetFeedback":false,"CommentID":6798332,"ReportStatus":0},{"UserIsAnonymous":true,"DeleteLink":"/Foruns/DeleteComment.aspx?PostID=6798054","UserProfileLink":"","UserLocation":"","CommentDate":"09.05.2013/20:14","CommentBody":"Os grandes traficantes, estão na politica, por isso nem pensar em legalizar uma coisa que lhes ia tirar milhões de lucro !!!","ListReplies":[],"PostAsAnonymous":false,"DisplayName":"pois é...","Email":"","GetFeedback":false,"CommentID":6798054,"ReportStatus":0},{"UserIsAnonymous":true,"DeleteLink":"/Foruns/DeleteComment.aspx?PostID=6797605","UserProfileLink":"","UserLocation":"","CommentDate":"09.05.2013/19:06","CommentBody":"http://youtu.be/L44QDZjKNzYPor algum motivo David Nutt foi retirado do cargo de chefe do Conselho Consultivo sobre Drogas do Governo Britânico, após dizer uma verdade. Acho que este video alias como todos os videos de canabis explica bem quais os perigos para o ser humano... que são nenhuns! Não existe em toda a História um único registo de morte devido ao consumo de canabis, enquanto todos os anos pessoas morrem devido ao consumo de álcool e tabaco, eu percebo que ninguém os proíba pois isso seria comprar uma guerra com a América. Mas abram os olhos a canabis só trás benefícios, para não falar da matéria prima que esta oferece. Alarguem os horizontes, porque senão nunca iremos deixar de ser a *** que somos... (Desculpem exp) + Vd youtube","ListReplies":[{"UserIsAnonymous":true,"DeleteLink":"/Foruns/DeleteComment.aspx?PostID=6797846","UserProfileLink":"","UserLocation":"","CommentDate":"09.05.2013/19:37","CommentBody":"Obrigado Fabio, costumo ver documentários sempre em inglês e por isso não conhecia este. O David Nutt tem uma entrevista no youtube feita pelo howard marks (Mr Nice) que também é interessante, aqui vai caso não conheças:http://youtu.be/pWQaJZkDaB8","ListReplies":null,"PostAsAnonymous":false,"DisplayName":"Fernando Alves","Email":"","GetFeedback":false,"CommentID":6797846,"ReportStatus":0}],"PostAsAnonymous":false,"DisplayName":"Fabio Ceriaco","Email":"","GetFeedback":false,"CommentID":6797605,"ReportStatus":0},{"UserIsAnonymous":false,"DeleteLink":"/Foruns/DeleteComment.aspx?PostID=6797234","UserProfileLink":"","UserLocation":"Portugal","CommentDate":"09.05.2013/18:26","CommentBody":"Farmaceuticas ao rubro. Claro que não ia passar uma coisa destas...nada que tire dinheiro a esses senhores é aprovado.","ListReplies":[{"UserIsAnonymous":true,"DeleteLink":"/Foruns/DeleteComment.aspx?PostID=6797548","UserProfileLink":"","UserLocation":"Portugal","CommentDate":"09.05.2013/19:02","CommentBody":"Claro que não, afinal de contas o dronabinol é escalão 4 nos EUA e feito de THC sintetico e já matou varias pessoas e a maioria prefere usar cannabis natural para se medicar. Mas essa opção so existe nalguns estados, visto que a cannabis é escalão 1, o que diz que não tem qualquer aplicação médica e é ALTAMENTE viciante.Ao contrário dos derivados do ópio como a heroina e a morfina, que são escalão 2. Viva a ganância! Viva! Viva o dinheiro! Viva a MORTE!","ListReplies":null,"PostAsAnonymous":false,"DisplayName":"Fernando Alves","Email":"","GetFeedback":false,"CommentID":6797548,"ReportStatus":0}],"PostAsAnonymous":false,"DisplayName":"albinoni","Email":"","GetFeedback":false,"CommentID":6797234,"ReportStatus":0}]}], true, false, 1, 10, 5, 5, -1, -1);</script><script type="text/javascript">
+// <![CDATA[
+Telligent_Modal.Configure('/utility/loading.htm',['CommonModal','CommonModal1','CommonModal2','CommonModal3','CommonModal4','CommonModal5'],['CommonModalTitle'],['CommonModalClose'],['CommonModalContent'],['CommonModalFooter'],['CommonModalResize'],['CommonModalMask'],100);
+// ]]>
+</script></form>
+		
+		
+
+<script language="JavaScript" type="text/javascript">
+<!--
+	var jsReady = false;
+	function isReady() {
+		return jsReady;
+	}
+	function linkInit() {
+		jsReady = true;
+	}
+	function thisMovie(movieName) {
+		if (navigator.appName.indexOf("Microsoft") != -1) {
+	    return document.getElementById(movieName);
+		} else {
+			return document[movieName];
+		}
+	}
+	function jumpToMedia(playername,value) {
+	
+		thisMovie(playername).jumpToMedia(value);
+	}
+	function replacePlayList(playername,value) {
+		thisMovie(playername).replacePlayList(value);
+	}
+// -->
+</script>
+
+
+<!-- CHARTBEAT -->
+<script type='text/javascript'>
+    var _sf_async_config={};
+    /** CONFIGURATION START **/
+    _sf_async_config.uid = 27992;
+    _sf_async_config.domain = 'jn.pt';
+    _sf_async_config.sections = 'politica';  //seccao
+    _sf_async_config.authors = '';    //autor
+    /** CONFIGURATION END **/
+    (function(){
+      function loadChartbeat() {
+        window._sf_endpt=(new Date()).getTime();
+        var e = document.createElement('script');
+        e.setAttribute('language', 'javascript');
+        e.setAttribute('type', 'text/javascript');
+        e.setAttribute('src',
+           (('https:' == document.location.protocol) ? 'https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/' : 'http://static.chartbeat.com/') +
+           'js/chartbeat.js');
+        document.body.appendChild(e);
+      }
+      var oldonload = window.onload;
+      window.onload = (typeof window.onload != 'function') ?
+         loadChartbeat : function() { oldonload(); loadChartbeat(); };
+    })();
+</script>
+<!-- END CHARTBEAT -->
+
+<!--Inicio de TAG Netscope v2 JN (Ci) -->
+<script language="javascript">
+var WRP_ID= 443230;
+var WRP_SECTION='politica';
+var WRP_SUBSECTION='politica_noticias';
+/* -- Não alterar as 2 variaveis seguintes -- */
+        var WRP_SECTION_GRP= WRP_ID;
+        var WRP_SUBSECTION_GRP= WRP_SECTION;
+var WRP_CONTENT='politica';
+var WRP_CONTENT_GRP_ACTIVE = 0;
+var WRP_CHANNEL='site';
+/* Profondeur Frame */
+var WRP_ACC ;
+wreport_ok=0;
+</script>
+<script language="javascript" src="/Common/Script/Netscope2.js"></SCRIPT>
+<SCRIPT>
+var w_counter;
+if(wreport_ok==1){w_counter = new wreport_counter(WRP_SECTION, WRP_SUBSECTION, WRP_ID, WRP_ACC, WRP_CHANNEL, WRP_SECTION_GRP, WRP_SUBSECTION_GRP, WRP_CONTENT_GRP_ACTIVE);
+w_counter.add_content(WRP_CONTENT);
+w_counter.count();}
+</script>
+<!-- Fim TAG Netscope v2 www.netscope.marktest.pt (C)Weborama/Marktest -->
+<!-- netScope v3 ? Begin of gPrism tag -->
+<script type="text/javascript">
+var pp_gemius_identifier = 'pyXqxfNqdyI5jwH24i4TPfUI.MfRqJfPN6fbBaP7P1r.p7';
+var pp_gemius_extraparameters = new Array('gA= politica/noticias');
+( function(d,t) { var ex; try { var gt=d.createElement(t),s=d.getElementsByTagName(t)[0],l='http'+((location.protocol=='https:')?'s://secure':'://data'); gt.async='true'; gt.src=l+'.netscope.marktest.pt/netscope-gemius.js'; s.parentNode.appendChild(gt);} catch (ex){}}(document,'script'));
+</script>
+<!--End netScope v3 / www.net.marktest.pt / (C) Gemius/Marktest 2013 -->
+ 
+
+<div id="fb-root"></div>
+
+
+
+<script>
+
+
+
+window.fbAsyncInit = function() {
+
+			FB.init({appId: '248727848502392', status: true, cookie: true, xfbml: true});
+
+		};
+
+		(function() {
+
+			var e = document.createElement('script'); e.async = true;
+
+			e.src = document.location.protocol +
+
+				'//connect.facebook.net/en_US/all.js';
+
+			document.getElementById('fb-root').appendChild(e);
+
+		}());
+
+		
+
+     function login()
+
+      {
+
+        FB.login(handleSessionResponse);
+//, {perms:'email,publish_stream'}
+      };
+
+
+
+     function logout()
+
+      {
+
+        FB.logout(handleSessionResponse);
+
+        DeleteCookie("JNUser");
+
+        window.location.reload();
+
+      };
+
+
+     function logoutT()
+
+      {
+
+        DeleteCookie("JNUser");
+
+        window.location.reload();
+
+      };
+
+      // no user, clear display
+
+      function clearDisplay() {
+
+        document.getElementById('user-info').innerHTML = '';
+
+      }
+
+
+
+      // handle a session response from any of the auth related calls
+
+      function handleSessionResponse(response) {
+
+
+
+        // if we have a session, query for the user's profile picture and name
+
+        FB.api(
+
+          {
+
+            method: 'fql.query',
+
+            query: 'SELECT name, pic FROM profile WHERE id=' + FB.getSession().uid
+
+          },
+
+          function(response) {
+
+            var user = response[0];
+
+            SaveCookie('FBname', (user.name!=null ? user.name : ""),true);
+
+            SaveCookie('FBpic', (user.pic!=null ? user.pic : ""),true);
+
+            window.location.reload();
+
+          }
+
+        );
+
+      }
+
+</script>
+
+	</body>
+</html>
