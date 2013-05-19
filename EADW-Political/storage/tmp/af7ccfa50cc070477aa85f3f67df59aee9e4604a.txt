@@ -1,0 +1,912 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+    <!--[if IE]>
+     <script type="text/javascript">
+      function __flash__removeCallback(instance, name) {     
+         if (instance) instance[name] = null;
+      }
+    </script>
+    <![endif]-->
+	
+
+
+<meta property="og:site_name" content="SOL"/>
+<title>Água vai ficar mais cara com nova lei devido a custos burocráticos - Economia - Sol</title><meta property="og:title" content="Água vai ficar mais cara com nova lei devido a custos burocráticos - Economia - Sol"><meta name="description" content="O preço da água vai aumentar em Portugal para o consumidor final com a nova proposta de lei para o sector, alertou hoje a Associação das Empresas Portuguesas para o Sector do Ambiente (AEPSA)."><meta property="og:description" content="O preço da água vai aumentar em Portugal para o consumidor final com a nova proposta de lei para o sector, alertou hoje a Associação das Empresas Portuguesas para o Sector do Ambiente (AEPSA)."><meta name="keywords" content="Sol, semanário, jornal, imprensa, comunicação social, notícia,informação, última hora, destaque, Águas de Portugal, preços, Economia, Água"><link rel="image_src" href="http://sol.sapo.pt/storage/Sol/2013/big/ng1355717_435x190.jpg?type=big"><meta property="og:image" content="http://sol.sapo.pt/storage/Sol/2013/big/ng1355717_435x190.jpg?type=big">
+<meta name="id" content="sol.sapo.pt"/>
+<meta name="author" content="Sol"/>
+<meta http-equiv="pragma" content="no-cache"/>
+
+<meta name="revisit-after" content="1 days"/>
+<meta name="robots" content="index,follow"/>
+<link rel="SHORTCUT ICON" href="/favicon.ico"/>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><link rel="alternate" type="application/rss+xml" title="Jornal SOL" href="http://sol.sapo.pt/rss/" /><link rel="stylesheet" type="text/css" href="/common/css/styles.css?v=1.6" />
+
+	<script type="text/javascript" src="/common/script/funcoes.js"></script>
+	<script type="text/javascript" src="/common/script/default.js"></script>
+	<script src="/Common/script/tween/tween.js" type="text/javascript" charset="utf-8"></script>
+    <script type="text/javascript" src="/common/script/scroller.js"></script>
+    <script type="text/javascript" src="/common/script/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>
+    <script type="text/javascript" src="/common/script/animatedcollapse.js">
+    /***********************************************
+    * Animated Collapsible DIV v2.2- (c) Dynamic Drive DHTML code library (www.dynamicdrive.com)
+    * This notice MUST stay intact for legal use
+    * Visit Dynamic Drive at http://www.dynamicdrive.com/ for this script and 100s more
+    ***********************************************/
+
+
+    </script>
+    
+   	<script type="text/javascript" src="/fancybox/jquery.mousewheel-3.0.4.pack.js"></script>
+	<script type="text/javascript" src="/fancybox/jquery.fancybox-1.3.2.js"></script>
+	<link rel="stylesheet" type="text/css" href="/fancybox/jquery.fancybox-1.3.2.css" media="screen" />
+ 
+        <script language="javascript" type="text/javascript"> 
+         AC_FL_RunContent = 0; 
+         DetectFlashVer = 0; 
+         requiredMajorVersion = 0;  
+         requiredMinorVersion = 0;  
+         requiredRevision = 0; 
+        </script>
+
+        <script src="/Common/Script/AC_RunActiveContent.js" type="text/javascript" language="javascript"></script>
+
+
+    <script type="text/javascript" src="/common/script/common.js?version=1.4.5"></script>
+	
+
+    <!-- Barra SAPO Universal v1.0 -->
+    <!-- Passo 1 de 3. Folha de estilos e TileID -->
+    <style type="text/css"> /* v1.0 */
+      .bsu_almofada {clear:both;margin-bottom:1.4em;overflow:hidden;height:1px;font-size:16px;}
+    </style>
+
+    <script type="text/javascript">
+      var TileID = Math.floor(Math.random()*10000);
+    </script>
+    <!-- /bsu -->
+
+<title>
+
+</title></head>
+<body>
+	<span id="ctl00_ctl00_ctl01_sActionTags">
+<script>document.write('<s'+'cript language="JavaScript" src="http://view.atdmt.com/jaction/7n1sol_A05Economia_6"></s'+'cript>')</script><noscript><iframe src="http://view.atdmt.com/iaction/7n1sol_A05Economia_6" width="1" height="1" frameborder="0" scrolling="No" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0"></iframe></noscript>
+</span>
+
+<!-- NETSCOPE Sol -->
+<!-- WEBO_ZONE e WEBO_PAGE-->
+<script type="text/javascript" language="javascript">
+WEBO_ZONE=4;
+WEBO_PAGE=75903;
+webo_ok=0;
+</script>
+<!-- Fim NETSCOPE Copyright Weborama-->
+
+
+
+
+
+<!--Inicio NETSCOPE Sol -->
+<script type="text/javascript" language="javascript">
+var WRP_ID= 341627;
+var WRP_SECTION="Pagina Inicial - Economia";
+var WRP_SUBSECTION="";
+var WRP_SECTION_GRP="Jornal SOL";
+var WRP_SUBSECTION_GRP=WRP_ID;
+var WRP_CONTENT="75903";
+var WRP_CHANNEL="Pagina Inicial";
+
+/* Profondeur Frame */
+var WRP_ACC ;
+wreport_ok=0;
+</script>
+<script type="text/javascript" src="/Common/Script/weboscope2sol.js"></script>
+<!-- Fim TAG Netscope v2 www.netscope.marktest.pt (C)Weborama/Marktest -->
+
+
+
+
+
+<!-- INICIO SCRIPT WEBSTATS -->
+<!-- FIM SCRIPT WEBSTATS -->
+
+<script type="text/javascript" src="http://js.sapo.pt/SAPOWebAnalytics/"></script>
+
+<script> SAPO.WebAnalytics.track({swakt:"F465F245-AEB0-4443-9CD0-98AA180FE9DE"}); </script>
+
+
+
+
+
+
+
+
+
+    <div id="bsu_root">
+      <div class="bsu_almofada"></div>
+      <div class="bsu_almofada"></div>
+    </div>
+    
+	<form name="aspnetForm" method="post" action="../../seccao/interior.aspx?content_id=75903" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUENTM4MQ9kFgJmD2QWAmYPZBYEAgEPZBYGAgIPFgIeBFRleHQFATRkAgQPFgIfAAUFNzU5MDNkAgYPZBYGAgEPFgIfAAUZUGFnaW5hIEluaWNpYWwgLSBFY29ub21pYWQCAw8WAh8ABQU3NTkwM2QCBQ8WAh8ABQ5QYWdpbmEgSW5pY2lhbGQCAg9kFgYCAQ9kFgQCCQ8WAh4JaW5uZXJodG1sBSJkb21pbmdvLCAxOSBkZSBNYWlvIGRlIDIwMTMsIDE0OjUyZAILD2QWBGYPFgQeBXRpdGxlBQlwZXNxdWlzYXIeCW9ua2V5ZG93bgUaR29TZWFyY2godGhpcywgZXZlbnQsJ3B0JylkAgEPFgIeBGhyZWYFTmphdmFzY3JpcHQ6RmluZFNlYXJjaENyaXRlcmlhKCdjdGwwMF9jdGwwMF9oZWFkZXJ0b3AxX3NlYXJjaDFfdHh0U2VhcmNoJywncHQnKWQCAg9kFgQCEQ8WAh4HVmlzaWJsZWhkAhMPFgIfBWdkAgUPZBYCAgEPZBYGAgcPZBYCAgIPFgIfBWdkAgkPZBYCZg9kFgQCAg8WAh8ABQ43IENvbWVudMOhcmlvc2QCBA8WAh8BBYZnPGRpdiBjbGFzcz0ib2RkX2NvbSI+PGEgbmFtZT0iQ29tMjU3MDE3MiI+PC9hPjx0YWJsZSBjZWxscGFkZGluZz0iMCIgY2VsbHNwYWNpbmc9IjAiPjx0cj48dGQgdmFsaWduPSJ0b3AiPjxpbWcgYWxpZ249ImFic21pZGRsZSIgd2lkdGg9IjE1IiBoZWlnaHQ9IjE1IiBzdHlsZT0idmVydGljYWwtYWxpZ246IHRvcDtwYWRkaW5nOjRweCA0cHggMHB4IDBweDsiIHNyYz0iL2NvbW1vbi9pbWFnZXMvbG9nb19zbWFsbC5naWYiPjwvdGQ+PHRkIHZhbGlnbj0idG9wIj48ZGl2IGNsYXNzPSJub21lIj48c3BhbiBpZD0iUG9zdEF1dGhvcjI1NzAxNzIiPkFsZ2FydmV6PC9zcGFuPjxici8+PHNwYW4gY2xhc3M9ImRhdGEiPjE0LjA1LjIwMTMgLSAxMzo1OTwvc3Bhbj48L2Rpdj48L3RkPjx0ZCB2YWxpZ249InRvcCIgYWxpZ249InJpZ2h0Ij48ZGl2IGNsYXNzPSJpY29zIiBpZD0iUG9zdEltcHJvcGVyMjU3MDE3MiI+PGltZyB3aWR0aD0iMTQiIGhlaWdodD0iMTQiIHNyYz0iL2NvbW1vbi9pbWFnZXMvc3RhdGljL2ljb19kZW51bmNpYXIuZ2lmIj4mbmJzcDs8YSBjbGFzcz0iSU5WIiBocmVmPSJqYXZhc2NyaXB0OlJlcG9ydEltcHJvcGVyQ29tbWVudCgnMjU3MDE3MicpIj5kZW51bmNpYXI8L2E+PC9kaXY+PC90ZD48L3RyPjwvdGFibGU+PGRpdiBjbGFzcz0iY29tZW50YXJpbyIgaWQ9IlBvc3RCb2R5MjU3MDE3MiI+TWFkYW1lIEJ1cm9jcmFjaWEgZSBzZXVzIGZpbGhvczxici8+PGJyLz48YnIvPkNvbmhlY2VtIGEgbWFkYW1lPzxici8+PGJyLz5Fc3RhIGRhbWEgZGUgb3JpZ2VtIGZyYW5jZXNhIHRyYW5zcG9ydG91LXNlIGEgUG9ydHVnYWwsIG9uZGUgdHJhdm91IHJlbGEmIzIzMTsmIzI0NTtlcyBjb20gdW0gcG9ydHVndSYjMjM0O3MgZG9zIGJvbnMgdGVtcG9zIGFudGlnb3MsIGUgc29iZWphbWVudGUgY29uaGVjaWRvOiA8YnIvPm8gU3IuIEZ1bmNpb25hbGlzbW8uIDxici8+Q2FzYXJhbSwgZSBkbyBjYXNhbWVudG8gcmVzdWx0b3UgdW1hIG51bWVyb3NhIGdlcmEmIzIzMTsmIzIyNztvLCBxdWUgdG9tb3UgbyBub21lIGRhIG0mIzIyNztlLCBwb3JxdWUsIGNvbW8gJiMyMzM7IHNhYmlkbywgbiYjMjQzO3Mgc29tb3MgbmF0dXJhbG1lbnRlIGluY2xpbmFkb3MgYSBhZG9wdGFyIG8gcXVlICYjMjMzOyBlc3RyYW5obywgbW9ybWVudGUgc2UgJiMyMzM7IGZyYW5jJiMyMzQ7cy4gPGJyLz5CdXJvY3JhdGFzIHNlIGNoYW1hcmFtIG9zIGZpbGhvcyBlIG4mIzIyNztvIEZ1bmNpb24mIzIyNTtyaW9zLCBjb21vIG8gcGFpLiA8YnIvPkhvamUgbyBhcGVsaWRvIHBhdGVybm8gcGFzc291IGRlIG1vZGEsIGUgb3MgYWxtYW5hcXVlcyBzJiMyNDM7IG1lbmNpb25hbSBvIG5vbWUgZGEgTSYjMjI3O2U6IEJ1cm9jcmFjaWEuIDxici8+VHJpc3RlIGNvaXNhLCBlbSB2ZXJkYWRlLCBwb3JxdWUgbiYjMjI3O28gaCYjMjI1OyBub21lIGRlIGZhbSYjMjM3O2xpYSBxdWUgbiYjMjI3O28gZXN0ZWphIGxpZ2FkbyBhIHRyYWRpJiMyMzE7JiMyNDU7ZXMgaGlzdCYjMjQzO3JpY2FzIGUgcmVjb3JkYSYjMjMxOyYjMjQ1O2VzIGRvIHBhc3NhZG8hIDxici8+RnVuY2lvbmFsaXNtbyBlcmEgdW0gc3VqZWl0byBwb3B1bGFyLCBkZSBjYXNhY28gY29tcHJpZG8sICYjMjQzO2N1bG9zIHZlcmRlcywgYmVuZ2FsYSBkZSBjYXN0JiMyMjc7byBkZSBvc3NvLCBncmF2ZSwgYmVtIGZhbGFudGUuIDxici8+QSBzdWEgYmlvZ3JhZmlhIHByZW5kaWEgY29tIGEgYmlvZ3JhZmlhIGRvIHBhaXMuIDxici8+RW50cmFyYSBuYXMgbHV0YXMsIHF1ZSBwcmVjZWRlcmFtIG8gZXN0YWJlbGVjaW1lbnRvIGRvIGdvdmVybm8gY29uc3RpdHVjaW9uYWwgZW50cmUgbiYjMjQzO3MuIDxici8+RmV6IGEgcmV2b2x1JiMyMzE7JiMyMjc7byBkZSAxODIwLCBmaWd1cm91IG5hIHJlc3RhdXJhJiMyMzE7JiMyMjc7byBlbSAxODIzLCBmZXN0ZWpvdSBhIHB1YmxpY2EmIzIzMTsmIzIyNztvIGRhIGNhcnRhIGVtIDE4MjYsIGVtaWdyb3UgZW0gMTgyOCwgcXVhbmRvIGVudHJvdSBvIFNyLiBELiBNaWd1ZWwsIHJlcGF0cmlvdS1zZSBlbSAxODMyLCBlc3RldmUgbm8gY2VyY28gZG8gUG9ydG8gZSwgZGVwb2lzIHF1ZSB0cml1bmZvdSBvIHBhcnRpZG8gbGliZXJhbCwgcGVuZHVyb3UgYSBlc3BpbmdhcmRhIGUgcGVkaXUgcCYjMjI3O28gYSBxdWVtIGxoZSB0aW5oYSBkYWRvIHAmIzI0Mztsdm9yYS4gPGJyLz5BdGVuZGVyYW0tbm8sIGNvbW8gZXJhIGp1c3RvLCBlIGZlei1zZSBlbXByZWdhZG8gcHVibGljby4gPGJyLz5UaW5oYSB1bWEgZXhpc3QmIzIzNDtuY2lhIHJlZ3JhZGEsIHMmIzIzMztyaWEsIHRyYW5zcGFyZW50ZS4gPGJyLz5Ub2RvcyBvcyBzZXVzIGFjdG9zIHJldmVsYXZhbSBhIHN1YSB2aWRhICYjMjM3O250aW1hLiA8YnIvPkxpYSBhIFJldm9sdSYjMjMxOyYjMjI3O28gZGUgU2V0ZW1icm8sIGRlIExpc2JvYSwgZSBPIHBlcmkmIzI0MztkaWNvIGRvcyBwb2JyZXMsIGRvIFBvcnRvLjxici8+RW50dXNpYXNtYXZhLXNlIGNvbSBvcyB2aWdvcm9zb3MgYXJ0aWdvcyBkZSBTYW1wYWlvIGUgcmlhIGNvbSBvcyBmb2xoZXRpbnMgZG8gQnJheiBUaXNhbmEsIHBzZXVkJiMyNDM7bmltbyBkZSBKb3MmIzIzMzsgZGUgU291c2EgQmFuZGVpcmEuIDxici8+TyBwYWxpdG8sIGNvbSBxdWUgZXNjYWJpY2hhdmEgb3MgZGVudGVzIGRlcG9pcyBkZSBqYW50YXIsIGNvbXBsZXRhdmEgYSBzdWEgaW5kaXZpZHVhbGlkYWRlLjxici8+TmEgZW1pZ3JhJiMyMzE7JiMyMjc7byBjb25oZWNlcmEgbyB0aXBvIGRhIG11bGhlciBmcmFuY2VzYSBlLCBkaWdhLXNlIGEgdmVyZGFkZSwgY29tbyBlcmEgZW1pZ3JhZG8sIGFsZ3VtYXMgdmV6ZXMgc2UgcmVmdWdpYXZhIG5vIHNlaW8gZG8gZ2FsaWNpc21vIGZlbWluaW5vLjxici8+RW0gdHVkbyBvIG1haXMgZXJhIHBhdHJpb3RhLjxici8+VmllcmFtIGEgUG9ydHVnYWwsIGRlcG9pcyBkZSBlc3RhciBlbXByZWdhZG8sIG9zIHByaW1laXJvcyBmaWd1cmlub3MuIDxici8+RmlndXJpbm9zIHBhcmEgdHVkbzogcGFyYSB2ZXN0aXIsIHBhcmEgZXNjcmV2ZXIsIHBhcmEgZ292ZXJuYXIuIDxici8+UG9yIGVzc2Egb2Nhc2kmIzIyNztvIHZlaW8gbyBmaWd1cmlubyBhZG1pbmlzdHJhdGl2byBjaGFtYWRvIEJ1cm9jcmFjaWEuPGJyLz5Db21vIGVyYSBmZW1pbmlubywgYXZpdmFyYW0tc2UtbGhlIHJlY29yZGEmIzIzMTsmIzI0NTtlcy4gPGJyLz5WaXUgYSBtYWRhbWUsIGxlbWJyb3Utc2UgZGEgbW9jaWRhZGUgZSBjYXNhcmFtLXNlLjxici8+Q2FwcmljaG9zIGRlIHNlbmhvcmFzITxici8+UG9yIGV4aWcmIzIzNDtuY2lhIGNvbmp1Z2FsLCB0ZXZlIGRlIHRpcmFyIG9zIHNldXMgJiMyNDM7Y3Vsb3MgdmVyZGVzLCBhcyBzdWFzIGx1dmFzIGRlIGFsZ29kJiMyMjc7bywgZGUgbXVkYXIgZGUgY2FzYWNvLCBvIHF1ZSBlcmEgcXVhc2UgbyBtZXNtbyBxdWUgbXVkYXIgZGUgZmlzaW9ub21pYS4gTXVkb3UuIDxici8+Rmljb3Ugb3V0cm8uPGJyLz4mIzIxMTsgYW1vciE8YnIvPkEgbWFkYW1lLCBwZWxvcyBtb2RvcywgZXJhIHQmIzIyNztvIGV4aWdlbnRlIGNvbW8gZiYjMjMzO3J0aWwuIDxici8+RW50cm91IGRlIGNyaWFyIGZhbSYjMjM3O2xpYSBlIGRlIGRpZnVuZGlyLCBwYXJhIGFzc2ltIGRpemVyLCBhIHN1YSBwZXJzb25hbGlkYWRlLiA8YnIvPkJhcHRpem91IG9zIGZpbGhvcyBjb21vIHF1aXMgZSBkZXUtbGhlcyBvcyBkZXN0aW5vcyBxdWUgbGhlIHBhcmVjZXUuIDxici8+RmFsYXZhLXNlIGomIzIyNTsgdW0gcG91Y28gZGEgZXh0aW4mIzIzMTsmIzIyNztvIGRvcyB2JiMyMzc7bmN1bG9zOyBvcyBmaWxob3MgbWFpcyB2ZWxob3MgbiYjMjI3O28gcG9kaWFtIHBvcnRhbnRvIHNlciBtb3JnYWRvcy4gPGJyLz5Ib3V2ZSB1bWEgaWRlaWEuIDxici8+U2VqYW0gb3MgbWFpcyB2ZWxob3MgY29uc2VsaGVpcm9zIGUgb3MgbWFpcyBub3ZvcyBhbWFudWVuc2VzITxici8+UG9pcyBzZWphbTsgZSBmb3JhbS48YnIvPkVyYSBuYXR1cmFsIHF1ZSBvcyBwYWlzIHRpdmVzc2VtIHNldXMgYWNoYXF1ZXMgZSB0cmFuc21pdGlzc2VtICYjMjI1OyBkZXNjZW5kJiMyMzQ7bmNpYSBjZXJ0YXMgbW9sJiMyMzM7c3RpYXMgaGVyZWRpdCYjMjI1O3JpYXMuPGJyLz4mIzE5MzsgbWlzdHVyYSBjb20gYXMgZG9lbiYjMjMxO2FzIGUsIHBhcmEgY29tcGVuc2EmIzIzMTsmIzIyNztvLCBjb211bmljYXJhbS1saGVzIGNlcnRhcyB2aXJ0dWRlcy48YnIvPlZlamFtb3M6PGJyLz5QcmltZWlyYSBkb2VuJiMyMzE7YSDCliBFc3RyYWJpc21vLiA8YnIvPkRvcyBmaWxob3MgbWFpcyBub3ZvcywgdW0gb2xobyBubyBjaGVmZSwgb3V0cm8gbmEgcG9ydGEsIG8gcXVlIGZheiBjb20gcXVlIHRlbmhhbSBhIGltcGFjaSYjMjM0O25jaWEgZGUgc2FpciBsb2dvIHF1ZSBvIGNoZWZlIHNlIHJldGlyYS48YnIvPlByaW1laXJhIHZpcnR1ZGUgwpYgRWNsZWN0aXNtby4gPGJyLz5Qb3IgZWxhIGNvbnNlZ3VlbSB2aXZlciBjb20gdG9kb3Mgb3MgbWluaXN0cm9zIGUgc2VydmlyIGNvbSB0b2RvcyBvcyBtaW5pc3QmIzIzMztyaW9zLjxici8+TWVzdXJhIHBhcmEgZXN0ZSwgbWVzdXJhIHBhcmEgYXF1ZWxlLCBleGNlbCYjMjM0O25jaWEgcGFyYSB0b2Rvcy48YnIvPlNlIG4mIzIyNztvIHRpdmVzc2VtIGVzdGEgdmlydHVkZSwgdGluaGFtIGRlIGFwcmVuZCYjMjM0Oy1sYS4gUXVlIHJlbSYjMjMzO2Rpbz88YnIvPlNlZ3VuZGEgZG9lbiYjMjMxO2EgwpYgUmV1bWF0aXNtby4gPGJyLz5Eb3MgZmlsaG9zIG1haXMgdmVsaG9zLiBIdW1pZGFkZXMgZGEgc2VjcmV0YXJpYSBlIGRhIG1vY2lkYWRlLiBGcmlhZ2VucyBkYXMgbm9pdGVzIGRvcyB2aW50ZSBhbm9zIGUgbSYjMjI1O3MgY29uZGkmIzIzMTsmIzI0NTtlcyBkYSByZXBhcnRpJiMyMzE7JiMyMjc7by4gPGJyLz5Fc3RhIHBvcnRhISBBcXVlbGEgamFuZWxhISBJc3RvICYjMjMzOyB1bWEgU2liJiMyMzM7cmlhITxici8+U2VndW5kYSB2aXJ0dWRlIMKWIEhlcm1hZnJvZGl0aXNtby4gPGJyLz4mIzIwMTsgcHJlY2lzbyBjb3plciB1bnMgZG9jdW1lbnRvcz8gPGJyLz5BcXVpIGVzdCYjMjI1OyB1bWEgY2FpeGluaGEgZGUgbGF0YSBjb20gbm92ZWxvIGUgYWd1bGhhLiBFICYjMjI0O3MgdmV6ZXMgdW0gZW1wcmVnYWRvIHZlbGhvLCBzJiMyMzM7cmlvLCBncmF2ZSwgYXVzdGVybyB0ZW0sIG5vIGxldmFudGFyIGRhIGFndWxoYSwgYSBtYWplc3RhZGUgZGUgdW1hIHNlbmhvcmEgc3VhIGNvbnRlbXBvciYjMjI2O25lYS4gRmF6LXNlIG11bGhlciBwb3IgY2luY28gbWludXRvcy48YnIvPlRlcmNlaXJhIGRvZW4mIzIzMTthIMKWIFBhdXBlcmlzbW8uIDxici8+RG9zIGFtYW51ZW5zZXMuIE1vbCYjMjMzO3N0aWEgcXVlIHRlbSBjYXImIzIyNTtjdGVyIGVwaWQmIzIzMzttaWNvLiBRdWUgdGVucyB0dSwgaG9tZW0/IFF1ZSBoZWkgZGUgdGVyPyBTb3UgYW1hbnVlbnNlLiDCliBJc3NvIHRlbmhvIGV1ITxici8+U2UgJiMyMzM7IGVwaWRlbWlhITxici8+VGVyY2VpcmEgdmlydHVkZSDCliBJc29jcm9uaXNtby4gPGJyLz5EZSB0b2Rvcy4gUmVndWxhci1zZSBwZWxvIHJlbCYjMjQzO2dpbyBkYSBzZWNyZXRhcmlhLjxici8+LSBBIHF1ZSBob3JhcyBzYWkgdm9jJiMyMzQ7IGRhIHJlcGFydGkmIzIzMTsmIzIyNztvPzxici8+LSAmIzE5MztzIHF1YXRyby48YnIvPi0gQSBxdWUgaG9yYXMgamFudGE/PGJyLz4tICYjMTkzO3MgcXVhdHJvPzxici8+LSBDb21vIGFycmFuamEgdm9jJiMyMzQ7IGlzc28/PGJyLz4tIFJlZ3Vsby1tZSBwZWxhIHNlY3JldGFyaWEuPGJyLz4tIEFoITxici8+UXVhcnRhIGRvZW4mIzIzMTthIMKWIFByb3NhJiMyMzc7c21vLiA8YnIvPlRlbmQmIzIzNDtuY2lhIHBhcmEgZnVnaXIgcGFyYSBvLi4uIG9mJiMyMzc7Y2lvLCBxdWVyIGRpemVyLCBwYXJhIG8gRGV1cyBndWFyZGUuIEZhemVyIGRlIERldXMgc2VudGluZWxhIG4mIzIyNztvICYjMjMzOyBkZWNlcnRvIG11aXRvIHBvJiMyMzM7dGljby48YnIvPlF1YXJ0YSB2aXJ0dWRlIMKWIENlcHRpY2lzbW8uIDxici8+RXNmb3ImIzIzMTtvIHBlbG8gcXVhbCBzZSBvYnJpZ2EgbyBlc3AmIzIzNztyaXRvIGEgbiYjMjI3O28gY3JlciBuYXMgcHJvYmFiaWxpZGFkZXMgZGUgYWNlc3NvIHByJiMyNDM7eGltby4gRGUgY29udHImIzIyNTtyaW8sIGVtIHZleiBkZSB0cmFiYWxoYXIsIG8gbWFpcyBxdWUgc2UgZmFyaWEgZXJhLi4uIGVzcGVyYXIuPGJyLz5Fc3RlICYjMjMzOyBvIGZlaXRpbyBkYSBnZXJhJiMyMzE7JiMyMjc7byBxdWUgdG9tb3UgbyBub21lIGRlIEJ1cm9jcmFjaWEsIG51bWVyb3NhIGZhbSYjMjM3O2xpYSBxdWUsIGNvbW8gdG9kYXMsIHRlbSBzZXVzIGgmIzIyNTtiaXRvcywgc2V1cyBkaXNzYWJvcmVzLCBzZXVzIGdvc29zLCBzdWFzIGFtYmkmIzIzMTsmIzI0NTtlcy48YnIvPlByaW1laXJvIGhhYml0byDCliBWaWRhIHNlZGVudCYjMjI1O3JpYS48YnIvPlByaW1laXJvIGRpc3NhYm9yIMKWIEEgc3VhIGFsZ2liZWlyYS48YnIvPlByaW1laXJvIGdvem8gwpYgQSBncmFuZGUgZ2FsYS48YnIvPlByaW1laXJhIGFtYmkmIzIzMTsmIzIyNztvIMKWIFRvbWFyIHNvbC48YnIvPjxici8+RSBhIHBhciBkZXN0YXMgYW1iaSYjMjMxOyYjMjQ1O2VzLCBkZXN0ZXMgZ296b3MsIGRlc3RlcyBkaXNzYWJvcmVzIGUgZGVzdGVzIGgmIzIyNTtiaXRvcywgb3V0cm9zLCBtYWlzLCBtdWl0b3MuIDxici8+UG9yIGlzc28sIGxlaXRvciBhbWlnbywgcXVhbmRvIHR1IGRlIG9yYSBhdmFudGUgcGFzc2VhcmVzIG5vIFRlcnJlaXJvIGRvIFBhJiMyMzE7bywgcGFyYSBhcXVlY2VyLXRlLCBkZXNmYWRpZ2FkYW1lbnRlLCBkZXNwcmVvY3VwYWRhbWVudGUsIG4mIzIyNztvIGZhbGVzIHQmIzIyNztvIGFsdG8sIHF1ZSBkaXN0cmFpYXMgdW0gYW1hbnVlbnNlIGUgbyBvYnJpZ3VlcyBhIGRlaXRhciB1bSBib3JyJiMyMjc7byBuYSBlc2NyaXRhLjxici8+TGVtYnJhLXRlIGRlIHF1ZSBhIHZpZGEgJiMyMzc7bnRpbWEgZGFzIGZhbSYjMjM3O2xpYXMgJiMyMzM7IHNhZ3JhZGEuPGJyLz5FIHR1LCBxdWUgJiMyMzM7cyBlbXByZWdhZG8gcCYjMjUwO2JsaWNvIGUgbWUgbCYjMjM0O3MsIG4mIzIyNztvIG1lIGZpcXVlcyBxdWVyZW5kbyBtYWwsIHBvcnF1ZSwgYSBmaW5hbCBkZSBjb250YXMsIGEgbWFkYW1lICYjMjMzOy4uLiBtaW5oYSBtJiMyMjc7ZS48YnIvPjxici8+PGJyLz5BbGJlcnRvIFBpbWVudGVsPGJyLz48YnIvPigxODc0LiBQb3J0bzogTGl2cmFyaWEgVW5pdmVyc2FsLCBwcC4gOTgtMTAyPC9kaXY+PC9kaXY+PGRpdiBjbGFzcz0iZXZlbl9jb20iPjxhIG5hbWU9IkNvbTI1NzAxMDciPjwvYT48dGFibGUgY2VsbHBhZGRpbmc9IjAiIGNlbGxzcGFjaW5nPSIwIj48dHI+PHRkIHZhbGlnbj0idG9wIj48aW1nIGFsaWduPSJhYnNtaWRkbGUiIHdpZHRoPSIxNSIgaGVpZ2h0PSIxNSIgc3R5bGU9InZlcnRpY2FsLWFsaWduOiB0b3A7cGFkZGluZzo0cHggNHB4IDBweCAwcHg7IiBzcmM9Ii9jb21tb24vaW1hZ2VzL2xvZ29fc21hbGwuZ2lmIj48L3RkPjx0ZCB2YWxpZ249InRvcCI+PGRpdiBjbGFzcz0ibm9tZSI+PHNwYW4gaWQ9IlBvc3RBdXRob3IyNTcwMTA3Ij5BbGdhcnZlejwvc3Bhbj48YnIvPjxzcGFuIGNsYXNzPSJkYXRhIj4xNC4wNS4yMDEzIC0gMTI6MDA8L3NwYW4+PC9kaXY+PC90ZD48dGQgdmFsaWduPSJ0b3AiIGFsaWduPSJyaWdodCI+PGRpdiBjbGFzcz0iaWNvcyIgaWQ9IlBvc3RJbXByb3BlcjI1NzAxMDciPjxpbWcgd2lkdGg9IjE0IiBoZWlnaHQ9IjE0IiBzcmM9Ii9jb21tb24vaW1hZ2VzL3N0YXRpYy9pY29fZGVudW5jaWFyLmdpZiI+Jm5ic3A7PGEgY2xhc3M9IklOViIgaHJlZj0iamF2YXNjcmlwdDpSZXBvcnRJbXByb3BlckNvbW1lbnQoJzI1NzAxMDcnKSI+ZGVudW5jaWFyPC9hPjwvZGl2PjwvdGQ+PC90cj48L3RhYmxlPjxkaXYgY2xhc3M9ImNvbWVudGFyaW8iIGlkPSJQb3N0Qm9keTI1NzAxMDciPnZlbmRhcDxici8+MTMuMDUuMjAxMyAtIDIzOjQxPGJyLz48YnIvPjxici8+T2ggdmVuZGFwLCBuJiMyMjc7byBoJiMyMjU7IGQmIzI1MDt2aWRhIHF1ZSBmYXplbSBmYWx0YSwgbiYjMjI3O28gdW0gbWFzIG1pbGhlbnRvcyBnb2xwZXMgZGUgYXJpZXRlLCBtYXMgbiYjMjI3O28gbmFzIGNvbmR1dGFzIGRhICYjMjI1O2d1YSBwb3JxdWUgZXNzZXMgZXN0cmFnb3MgdGVyJiMyMzc7YW1vcyBuJiMyNDM7cyBkZSBwYWdhci48YnIvPkdvbHBlcyBkZSBhcmlldGUgYmVtIGFwbGljYWRvcyBlcmEgZW0gcXVlbSBwcm9tb3ZlIGEgYnVyb2NyYWNpYSwgaXN0byAmIzIzMzsgYSByb3ViYWxoZWlyYSBpbnN0aXR1JiMyMzc7ZGEgcXVlIHRlbSBkZXN0cm8mIzIzMTthZG8gbyBwYSYjMjM3O3MgZSBncmFuZGUgcGFydGUgZGEgcG9wdWxhJiMyMzE7JiMyMjc7byBhY3RpdmEuPGJyLz4gIDwvZGl2PjwvZGl2PjxkaXYgY2xhc3M9Im9kZF9jb20iPjxhIG5hbWU9IkNvbTI1NzAwOTkiPjwvYT48dGFibGUgY2VsbHBhZGRpbmc9IjAiIGNlbGxzcGFjaW5nPSIwIj48dHI+PHRkIHZhbGlnbj0idG9wIj48aW1nIGFsaWduPSJhYnNtaWRkbGUiIHdpZHRoPSIxNSIgaGVpZ2h0PSIxNSIgc3R5bGU9InZlcnRpY2FsLWFsaWduOiB0b3A7cGFkZGluZzo0cHggNHB4IDBweCAwcHg7IiBzcmM9Ii9jb21tb24vaW1hZ2VzL2xvZ29fc21hbGwuZ2lmIj48L3RkPjx0ZCB2YWxpZ249InRvcCI+PGRpdiBjbGFzcz0ibm9tZSI+PHNwYW4gaWQ9IlBvc3RBdXRob3IyNTcwMDk5Ij5BbGdhcnZlejwvc3Bhbj48YnIvPjxzcGFuIGNsYXNzPSJkYXRhIj4xNC4wNS4yMDEzIC0gMTE6NTM8L3NwYW4+PC9kaXY+PC90ZD48dGQgdmFsaWduPSJ0b3AiIGFsaWduPSJyaWdodCI+PGRpdiBjbGFzcz0iaWNvcyIgaWQ9IlBvc3RJbXByb3BlcjI1NzAwOTkiPjxpbWcgd2lkdGg9IjE0IiBoZWlnaHQ9IjE0IiBzcmM9Ii9jb21tb24vaW1hZ2VzL3N0YXRpYy9pY29fZGVudW5jaWFyLmdpZiI+Jm5ic3A7PGEgY2xhc3M9IklOViIgaHJlZj0iamF2YXNjcmlwdDpSZXBvcnRJbXByb3BlckNvbW1lbnQoJzI1NzAwOTknKSI+ZGVudW5jaWFyPC9hPjwvZGl2PjwvdGQ+PC90cj48L3RhYmxlPjxkaXYgY2xhc3M9ImNvbWVudGFyaW8iIGlkPSJQb3N0Qm9keTI1NzAwOTkiPklzdG8gaiYjMjI1OyBoJiMyMjU7IG11aXRvIHF1ZSAmIzIzMzsgdW0gcGEmIzIzNztzICg/KSBkZSBsYWRyJiMyNDU7ZXMuPGJyLz5BdCYjMjMzOyBhbmRhbSBhIHJvdWJhciBuYXMgZXN0cmFkYXMuPC9kaXY+PC9kaXY+PGRpdiBjbGFzcz0iZXZlbl9jb20iPjxhIG5hbWU9IkNvbTI1Njk5NDYiPjwvYT48dGFibGUgY2VsbHBhZGRpbmc9IjAiIGNlbGxzcGFjaW5nPSIwIj48dHI+PHRkIHZhbGlnbj0idG9wIj48aW1nIGFsaWduPSJhYnNtaWRkbGUiIHdpZHRoPSIxNSIgaGVpZ2h0PSIxNSIgc3R5bGU9InZlcnRpY2FsLWFsaWduOiB0b3A7cGFkZGluZzo0cHggNHB4IDBweCAwcHg7IiBzcmM9Ii9jb21tb24vaW1hZ2VzL2xvZ29fc21hbGwuZ2lmIj48L3RkPjx0ZCB2YWxpZ249InRvcCI+PGRpdiBjbGFzcz0ibm9tZSI+PHNwYW4gaWQ9IlBvc3RBdXRob3IyNTY5OTQ2Ij52ZW5kYXA8L3NwYW4+PGJyLz48c3BhbiBjbGFzcz0iZGF0YSI+MTMuMDUuMjAxMyAtIDIzOjQxPC9zcGFuPjwvZGl2PjwvdGQ+PHRkIHZhbGlnbj0idG9wIiBhbGlnbj0icmlnaHQiPjxkaXYgY2xhc3M9Imljb3MiIGlkPSJQb3N0SW1wcm9wZXIyNTY5OTQ2Ij48aW1nIHdpZHRoPSIxNCIgaGVpZ2h0PSIxNCIgc3JjPSIvY29tbW9uL2ltYWdlcy9zdGF0aWMvaWNvX2RlbnVuY2lhci5naWYiPiZuYnNwOzxhIGNsYXNzPSJJTlYiIGhyZWY9ImphdmFzY3JpcHQ6UmVwb3J0SW1wcm9wZXJDb21tZW50KCcyNTY5OTQ2JykiPmRlbnVuY2lhcjwvYT48L2Rpdj48L3RkPjwvdHI+PC90YWJsZT48ZGl2IGNsYXNzPSJjb21lbnRhcmlvIiBpZD0iUG9zdEJvZHkyNTY5OTQ2Ij5Fc3RlIHRpcG8gZGUgRXN0YWRvLCBjb21vIHNlbXByZSwgYW50ZXMgZGUgcHJpdmF0aXphciBlbmNhcnJlZ2Etc2UgZGUgYXVtZW50YXIgb3MgcHJlJiMyMzE7b3MuPGJyLz48YnIvPlByb3BvbmhvLXZvcyB1bWEgZm9ybWEgZGUgY29tYmF0ZXIgb3MgYXVtZW50b3MgbmEgJiMyMjU7Z3VhLiBTYWJlbSBvIHF1ZSAmIzIzMzsgbyAnZWZlaXRvIGFyaWV0ZSc/ICYjMjMzOyBmYWMmIzIzNztsaW1vIGRlIHByb3ZvY2FyIGUgZ2FyYW50by12b3MgcXVlIG8gcmVzdWx0YWRvICYjMjMzOyBjYXRhc3RyJiMyNDM7ZmljbyBwYXJhIGFzIGNvbmR1dGFzIGRhIEVQQUwuIFBvZGVtIGxldmFyIG8gYXVtZW50byBkYSAmIzIyNTtndWEgbWFzIHRlciYjMjI3O28gZGUgYW5kYXIgc2VtcHJlIGEgcmVwYXJhciBhIGVzdHJ1dHVyYS48YnIvPjwvZGl2PjwvZGl2PjxkaXYgY2xhc3M9Im9kZF9jb20iPjxhIG5hbWU9IkNvbTI1Njk2MjIiPjwvYT48dGFibGUgY2VsbHBhZGRpbmc9IjAiIGNlbGxzcGFjaW5nPSIwIj48dHI+PHRkIHZhbGlnbj0idG9wIj48aW1nIGFsaWduPSJhYnNtaWRkbGUiIHdpZHRoPSIxNSIgaGVpZ2h0PSIxNSIgc3R5bGU9InZlcnRpY2FsLWFsaWduOiB0b3A7cGFkZGluZzo0cHggNHB4IDBweCAwcHg7IiBzcmM9Ii9jb21tb24vaW1hZ2VzL2xvZ29fc21hbGwuZ2lmIj48L3RkPjx0ZCB2YWxpZ249InRvcCI+PGRpdiBjbGFzcz0ibm9tZSI+PHNwYW4gaWQ9IlBvc3RBdXRob3IyNTY5NjIyIj5kb25uaXNpbm5vZDwvc3Bhbj48YnIvPjxzcGFuIGNsYXNzPSJkYXRhIj4xMy4wNS4yMDEzIC0gMTU6MDE8L3NwYW4+PC9kaXY+PC90ZD48dGQgdmFsaWduPSJ0b3AiIGFsaWduPSJyaWdodCI+PGRpdiBjbGFzcz0iaWNvcyIgaWQ9IlBvc3RJbXByb3BlcjI1Njk2MjIiPjxpbWcgd2lkdGg9IjE0IiBoZWlnaHQ9IjE0IiBzcmM9Ii9jb21tb24vaW1hZ2VzL3N0YXRpYy9pY29fZGVudW5jaWFyLmdpZiI+Jm5ic3A7PGEgY2xhc3M9IklOViIgaHJlZj0iamF2YXNjcmlwdDpSZXBvcnRJbXByb3BlckNvbW1lbnQoJzI1Njk2MjInKSI+ZGVudW5jaWFyPC9hPjwvZGl2PjwvdGQ+PC90cj48L3RhYmxlPjxkaXYgY2xhc3M9ImNvbWVudGFyaW8iIGlkPSJQb3N0Qm9keTI1Njk2MjIiPlJSUlIhISEhICBMVVRBIFBPUiBQT1JUVUdBTCAhISEhITxici8+ZW50cmEgbmVzdGUgR1JBTkRFIGpvZ28gb25saW5lIGNvbXBsZXRhbWVudGUgZ3JhdGlzLCBvbmRlIHBvZGVzIHNlciB1bSBncmFuZGUgTUlMSVRBUiwgUE9MSVRJQ08gZGUgc3VjZXNzbywgam9ybmFsaXN0YSBlIG11aXRvIG1haXMuLi4gUFJFQ0lTQU1PUyBERSBBSlVEQSBQQVJBIEVTUFVMU0FSIE9TIEVTUEFOSE9JUyBETyBOT1NTTyBURVJSSVRPUklPLi5hanVkYS1ub3MuLi4uLjxici8+aHR0cDovL3RpbnkuY2MvbHV0YS1wb3J0dWdhbDxici8+PC9kaXY+PC9kaXY+PGRpdiBjbGFzcz0iZXZlbl9jb20iPjxhIG5hbWU9IkNvbTI1Njk2MDEiPjwvYT48dGFibGUgY2VsbHBhZGRpbmc9IjAiIGNlbGxzcGFjaW5nPSIwIj48dHI+PHRkIHZhbGlnbj0idG9wIj48aW1nIGFsaWduPSJhYnNtaWRkbGUiIHdpZHRoPSIxNSIgaGVpZ2h0PSIxNSIgc3R5bGU9InZlcnRpY2FsLWFsaWduOiB0b3A7cGFkZGluZzo0cHggNHB4IDBweCAwcHg7IiBzcmM9Ii9jb21tb24vaW1hZ2VzL2xvZ29fc21hbGwuZ2lmIj48L3RkPjx0ZCB2YWxpZ249InRvcCI+PGRpdiBjbGFzcz0ibm9tZSI+PHNwYW4gaWQ9IlBvc3RBdXRob3IyNTY5NjAxIj5taXJvZHJpPC9zcGFuPjxici8+PHNwYW4gY2xhc3M9ImRhdGEiPjEzLjA1LjIwMTMgLSAxNDo0Njwvc3Bhbj48L2Rpdj48L3RkPjx0ZCB2YWxpZ249InRvcCIgYWxpZ249InJpZ2h0Ij48ZGl2IGNsYXNzPSJpY29zIiBpZD0iUG9zdEltcHJvcGVyMjU2OTYwMSI+PGltZyB3aWR0aD0iMTQiIGhlaWdodD0iMTQiIHNyYz0iL2NvbW1vbi9pbWFnZXMvc3RhdGljL2ljb19kZW51bmNpYXIuZ2lmIj4mbmJzcDs8YSBjbGFzcz0iSU5WIiBocmVmPSJqYXZhc2NyaXB0OlJlcG9ydEltcHJvcGVyQ29tbWVudCgnMjU2OTYwMScpIj5kZW51bmNpYXI8L2E+PC9kaXY+PC90ZD48L3RyPjwvdGFibGU+PGRpdiBjbGFzcz0iY29tZW50YXJpbyIgaWQ9IlBvc3RCb2R5MjU2OTYwMSI+cGFnYXIgbWFpcyBwZWxhICYjMjI1O2d1YSBjb21wcmVlbmRlLXNlIGFvIGNvbnRyJiMyMjU7cmlvIGRvIGNvbmZpc2NvIGNoYW1hZG8gaW1pPC9kaXY+PC9kaXY+PGRpdiBjbGFzcz0ib2RkX2NvbSI+PGEgbmFtZT0iQ29tMjU2OTU0NyI+PC9hPjx0YWJsZSBjZWxscGFkZGluZz0iMCIgY2VsbHNwYWNpbmc9IjAiPjx0cj48dGQgdmFsaWduPSJ0b3AiPjxpbWcgYWxpZ249ImFic21pZGRsZSIgd2lkdGg9IjE1IiBoZWlnaHQ9IjE1IiBzdHlsZT0idmVydGljYWwtYWxpZ246IHRvcDtwYWRkaW5nOjRweCA0cHggMHB4IDBweDsiIHNyYz0iL2NvbW1vbi9pbWFnZXMvbG9nb19zbWFsbC5naWYiPjwvdGQ+PHRkIHZhbGlnbj0idG9wIj48ZGl2IGNsYXNzPSJub21lIj48c3BhbiBpZD0iUG9zdEF1dGhvcjI1Njk1NDciPmJlaXJhbWFyPC9zcGFuPjxici8+PHNwYW4gY2xhc3M9ImRhdGEiPjEzLjA1LjIwMTMgLSAxMjo0MTwvc3Bhbj48L2Rpdj48L3RkPjx0ZCB2YWxpZ249InRvcCIgYWxpZ249InJpZ2h0Ij48ZGl2IGNsYXNzPSJpY29zIiBpZD0iUG9zdEltcHJvcGVyMjU2OTU0NyI+PGltZyB3aWR0aD0iMTQiIGhlaWdodD0iMTQiIHNyYz0iL2NvbW1vbi9pbWFnZXMvc3RhdGljL2ljb19kZW51bmNpYXIuZ2lmIj4mbmJzcDs8YSBjbGFzcz0iSU5WIiBocmVmPSJqYXZhc2NyaXB0OlJlcG9ydEltcHJvcGVyQ29tbWVudCgnMjU2OTU0NycpIj5kZW51bmNpYXI8L2E+PC9kaXY+PC90ZD48L3RyPjwvdGFibGU+PGRpdiBjbGFzcz0iY29tZW50YXJpbyIgaWQ9IlBvc3RCb2R5MjU2OTU0NyI+TWFzIGFjdHVhbG1lbnRlIG1haXMgZGUgNTAlIGRhcyBmYWN0dXJhcyBkZSBhZ3VhIGUgZGEgZWxlY3RyaWRhZGUgaiYjMjI1OyBuJiMyMjc7byBzJiMyMjc7byBjdXN0b3MgYnVyb2NyYXRpY29zPzxici8+UGFnYXIgYWluZGEgbWFpcz88YnIvPk1hcyBvIGNvbnRyYXRvIHF1ZSBmb2kgZmVpdG8gbiYjMjI3O28gZm9pIHBhcmEgbyBmb3JuZWNpbWVudG8gZGUgYWd1YSBlIGVsZWN0cmljaWRhZGU/PGJyLz5FIGVudCYjMjI3O28gcG9ycXVlIG4mIzIyNztvIHBhZ2FyIGFwZW5hcyBhIGFndWEgZSBhIGVsZWN0cmljaWRhZGUgcXVlIHNlIGNvbnNvbWU/PGJyLz5Jc3RvIGomIzIyNTsgZXJhIHVtYSBhdXRlbnRpY2Egcm91YmFsaGVpcmEgbWFzIHBhcmVjZSBxdWUgYWluZGEgdmFpIGZpY2FyIHBpb3IuPGJyLz5DYW1iYWRhIGRlIGxhZHImIzI0NTtlcy48L2Rpdj48L2Rpdj5kAgsPFgIfAQUDOTY2ZGQ=" />
+
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAwLi6N3VAwLhy8OfAgLn3Pr3CQ==" />  
+		<input type="hidden" id="dataActual" name="dataActual" value="2013-05-19T14:52:05" />
+		<div style="display:none">
+			
+<script type="text/javascript" language="javascript">
+
+function loadFragmentInToElement(fragment_url)
+ {
+    var element = document.getElementById('divMaisNot');
+
+    if ( element ) 
+    {
+       var xmlhttp; 
+       if (window.ActiveXObject) // for IE 
+       { 
+          xmlhttp = new ActiveXObject("Microsoft.XMLHTTP"); 
+       } 
+       else if (window.XMLHttpRequest) // for other browsers 
+       { 
+          xmlhttp = new XMLHttpRequest(); 
+       } 
+
+       xmlhttp.open("GET", fragment_url);
+
+       xmlhttp.onreadystatechange = function() {
+           if (xmlhttp.readyState == 4 && xmlhttp.status == 200) 
+           {
+               element.innerHTML = xmlhttp.responseText;
+           }
+       }
+       xmlhttp.send(null);
+
+    }
+}
+
+   </script>
+   
+
+		</div>
+
+        <center>		
+            
+
+
+<!-- INICIO LINKS UTEIS -->
+
+
+
+
+
+<!-- FIM LINKS UTEIS --> 
+
+<!-- INICIO PESQUISA -->
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr>
+<td class="pesquisa">
+	<table width="980" align="center" cellpadding="0" cellspacing="0" border="0">
+	<tr>
+
+    <td width="190">
+    <table>
+    <tr>
+    <td>
+ <input name="ctl00$ctl00$headertop1$boAddr" type="hidden" id="ctl00_ctl00_headertop1_boAddr" /> 
+ </td>
+ </tr>
+   
+    <tr>
+    <td  valign="top" align="left"><a target="_parent"  href="/"><img src="/common/images/sol_primavera.jpg" width="165" height="90" /></a></td>
+    </tr>
+    <tr><td></td></tr>
+    <tr>
+    <td>
+    <div class="linksLogin">
+    <table align="right" height="35" cellpadding="0" cellspacing="0" border="0">	
+	        <tr>
+	        <td valign="bottom">
+    <div id="ctl00_ctl00_headertop1_divlogin" style="float:right;">
+        <img src="/common/images/logo_small.gif" style="vertical-align:bottom;" width="15" height="15" align="absmiddle" /><a onclick="window.open ('/connect/logincs.aspx','login','menubar=1,resizable=1,width=350,height=250');  return false" href="#"><strong>Login</strong></a>
+        |<img src="/common/images/static/ico_FB_mini.jpg" style="vertical-align:bottom;" width="15" height="15" align="absmiddle" /><a onclick="login(); return false;"  href="#"><strong>Connect</strong></a>
+        </div>
+        
+        </td></tr>
+        </table>
+        </div></td>
+     </tr>
+        
+     </table>   
+    </td>
+	<td width="290">
+		<table>
+		<tr><td><div class="data_hora">
+<table align="left" height="30px" cellpadding="0" cellspacing="0">	
+	<tr>
+	<td valign="top" align="left">	
+	    <div id="ctl00_ctl00_headertop1_datahora">domingo, 19 de Maio de 2013, 14:52</div>
+
+	</td>
+	<td><a href="http://meteorologia.sapo.pt/" target="_blank"><img src="/common/images/static/meteo_icone.png" width="35" height="28" style="padding-bottom:10px" /></a>
+	</td>
+	</tr>
+	</table>
+	</div></td></tr>
+		<tr>
+		<td>
+		    
+
+
+<div class="pesquisa_caixa" onclick="ClickText(this)">
+    <table>
+    <tr>
+    <td align="right" width="70px"><b>Pesquisa</b></td>
+
+    <td align="right" width="100px"><img src="/common/images/logo_sapo.gif" width="80" height="18" /></td>
+    </tr>
+    </table>
+    <table cellpadding="0" cellspacing="0">
+    <tr>
+    <td>
+    <div class="caixapesq">
+        <input name="ctl00$ctl00$headertop1$search1$txtSearch" type="text" id="ctl00_ctl00_headertop1_search1_txtSearch" class="inputPesqBg" onblur="BlurText(this)" size="50" title="pesquisar" onkeydown="GoSearch(this, event,'pt')" />
+    </div>
+    </td>
+
+    <td>
+    <div class="btnpesquisa">
+        <a href="javascript:FindSearchCriteria('ctl00_ctl00_headertop1_search1_txtSearch','pt')" id="ctl00_ctl00_headertop1_search1_linkSearch" target="_top"><img style="padding-bottom:5px" src="/common/images/static/btn_pesquisa.png" width="25" height="25" alt="pesquisar" /></a>
+    </div>
+    </td>
+    </tr>
+    </table>
+</div>
+
+		</td>
+		</tr>
+		<tr><td>
+			<div class="links_uteis">
+            <table align="right" height="35px" cellpadding="0" cellspacing="0" border="0">	
+	        <tr>
+	           <td valign="bottom" align="left" width="380px">	 
+	    <a target="_parent"  href="http://comunidade.sol.pt/">Comunidade</a>
+	      | <a target="_parent"  href="/inicio/institucional.aspx">Institucional</a>
+	      | <a target="_parent"  href="/inicio/publicidade.aspx">Publicidade</a>
+	      
+	       
+        </td>
+      
+
+	</tr>
+	</table>
+	</div></td></tr>
+		</table>
+		
+	</td>
+	
+	
+	<td align="right"><table cellpadding="0" cellspacing="0">
+	    <tr>
+	        <td valign="top" align="center" width="90"><a target="_blank"  href="http://emprego.sol.sapo.pt"><img alt="Emprego" src="/common/images/static/emprego.png" width="67" height="84"  /></a></td>
+	        <td valign="top" align="center" width="90"><a target="_blank"  href="http://imobiliario.sol.sapo.pt"><img alt="Imobiliário" src="/common/images/static/imobiliario.png" width="67" height="84"  /></a></td>
+	        <td valign="top" align="center" width="90"><a target="_blank"  href="http://motores.sol.sapo.pt"><img alt="Motores" src="/common/images/static/motores.png" width="67" height="84"  /></a></td>
+	      
+	    </tr>
+	    </table></td>
+	<td align="right" width="245"><table cellpadding="0" cellspacing="0">
+	    <tr>
+	        <td valign="bottom" width="122" align="left"><a href="http://canais.sol.pt/edicaoimpressa/" target="_parent"><img src="/storage/Sol/2013/small/ng1357198_120x143.jpg?type=small" width="120px"></a>
+	        </td>
+	       
+	        <td valign="bottom"><a href="http://itunes.apple.com/us/app/sol/id461729321?mt=8" target="_blank"><img alt="iPad" src="/common/images/static/sol_ipad.png" width="120" height="151"  /></a>
+	        </td>
+	    </tr>
+	    </table></td>
+	</tr>
+	
+	</table>
+</td>
+</tr>
+
+</table>
+<!-- FIM PESQUISA -->
+
+
+
+            
+<!-- INICIO MENU -->
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr>
+<td class="menu">
+	<table width="980" align="center" cellpadding="0" cellspacing="0">
+	<tr>
+
+	<td>
+    <div id="ctl00_ctl00_menu1_mp1" class="mp_home" onclick="parent.location.href='/'">In&iacute;cio</div>
+    
+
+	<div id="ctl00_ctl00_menu1_mp2" class="mp" onclick="parent.location.href='http://sol.sapo.pt/inicio/Opiniao/Default.aspx'">Opini&atilde;o</div>
+	
+
+	<div id="ctl00_ctl00_menu1_mp3" class="mp" onclick="parent.location.href='http://sol.sapo.pt/inicio/Politica/Default.aspx'">Política</div>
+	
+
+	<div id="ctl00_ctl00_menu1_mp4" class="mp" onclick="parent.location.href='http://sol.sapo.pt/inicio/Sociedade/Default.aspx'">Sociedade</div>
+	
+
+	
+	<div id="ctl00_ctl00_menu1_mp5_sel" class="mp_sel" onclick="parent.location.href='http://sol.sapo.pt/inicio/Economia/Default.aspx'">Economia</div>
+
+	<div id="ctl00_ctl00_menu1_mp6" class="mp" onclick="parent.location.href='http://sol.sapo.pt/inicio/Internacional/Default.aspx'">Internacional</div>
+	
+
+	<div id="ctl00_ctl00_menu1_mp7" class="mp" onclick="parent.location.href='http://sol.sapo.pt/inicio/Cultura/Default.aspx'">Cultura</div>
+	
+
+	<div id="ctl00_ctl00_menu1_mp8" class="mp" onclick="parent.location.href='http://sol.sapo.pt/inicio/Desporto/Default.aspx'">Desporto</div>
+	
+
+	<div id="ctl00_ctl00_menu1_mp9" class="mp" onclick="parent.location.href='http://sol.sapo.pt/inicio/Tecnologia/Default.aspx'">Tecnologia</div>
+	
+
+	<div id="ctl00_ctl00_menu1_mp10" class="mp" onclick="parent.location.href='http://sol.sapo.pt/inicio/Vida/Default.aspx'">Vida</div>
+	
+
+	<div id="ctl00_ctl00_menu1_mp12" class="mp" onclick="parent.location.href='http://sol.sapo.pt/inicio/galerias/videos.aspx'">Multimédia</div>
+	
+
+	</td>
+	<td>
+
+    <div id="ctl00_ctl00_menu1_mp11" class="mp2" onclick="parent.location.href='http://sol.sapo.ao';">Angola</div>
+    
+    </td>
+	</tr>
+	</table>
+	
+	
+	
+</td>
+</tr>
+</table>
+<!-- FIM MENU -->
+
+<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://pub.sapo.pt/ajs.php':'http://pub.sapo.pt/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=107");
+   document.write ('&cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&exclude=" + document.MAX_used);
+   document.write (document.charset ? '&charset='+document.charset : (document.characterSet ? '&charset='+document.characterSet : ''));
+   document.write ("&loc=" + escape(window.location));
+   if (document.referrer) document.write ("&referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script>
+<span id="ctl00_ctl00_menu1_moldurasection">
+<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://pub.sapo.pt/ajs.php':'http://pub.sapo.pt/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=460");
+   document.write ('&cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&exclude=" + document.MAX_used);
+   document.write (document.charset ? '&charset='+document.charset : (document.characterSet ? '&charset='+document.characterSet : ''));
+   document.write ("&loc=" + escape(window.location));
+   if (document.referrer) document.write ("&referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script>
+</span>
+
+
+
+		    
+	
+
+	        
+    	
+		    
+		        <div class="MainWrapper paddingT20">
+			        <div class="center-col-content">
+			            
+		
+	
+	
+	
+	<div id="NewsContainer" class="NewsContainerNormal">
+        <div class="detalhe_tit_noticia" id="NewsHead" xmlns:g="http://base.google.com/ns/1.0" xmlns:fb="http://www.google.com"><div class="titulo" id="NewsTitle">Água vai ficar mais cara com nova lei devido a custos burocráticos</div><div class="google_partilha" style="float:left;padding-top:5px;"><script type="text/javascript" src="https://apis.google.com/js/plusone.js">
+        {lang: 'pt-PT'}
+      </script><g:plusone size="medium" /></div><div style="margin-top:0px;float:left;height:25px;padding-top:5px;"><fb:like href="http://sol.sapo.pt/inicio/Economia/Interior.aspx?content_id=75903" send="true" layout="button_count" width="150" show_faces="true" font="" /></div><div class="addthis_toolbox addthis_default_style" style="margin-top:0px;float:left;height:25px; padding-top:5px;"><a class="addthis_button_tweet"></a></div><div style="margin-top:0px;float:left;height:25px;padding-top:5px;"><script type="text/javascript" src="http://platform.linkedin.com/in.js"></script><script type="in/share" data-url="http://sol.sapo.pt/inicio/Economia/Interior.aspx?content_id=75903" data-counter="right"></script></div><br clear="all"><div class="legenda"><span class="data">13 de Maio, 2013</span></div></div><div class="detalhe_noticia fleft" id="NewsMain" xmlns:g="http://base.google.com/ns/1.0" xmlns:fb="http://www.google.com"><div><a><img src="/storage/Sol/2013/big/ng1355717_435x190.jpg?type=big" width="435"></a></div><div class="noticia" id="NewsSummary">O preço da água vai aumentar em Portugal para o consumidor final com a nova proposta de lei para o sector, alertou hoje a Associação das Empresas Portuguesas para o Sector do Ambiente (AEPSA).<p>"O preço da água vai aumentar em Portugal, porque o Estado quer colocar os utilizadores finais a pagar a dívida de 500 milhões de euros dos municípios à empresa Águas de Portugal", avisa Diogo de Oliveira, presidente da AEPSA, em entrevista telefónica à Lusa.</p><p>O que irá aumentar o preço da água para os utilizadores, explica o presidente da AEPSA, são os custos relacionados com o "processo de facturação", "sistema de cobrança", "adaptação dos sistemas informáticos", "criação de novos modelos de factura e da própria factura", "testes virtuais de envio de facturas" e "processos de gestão de tesouraria".</p><p>"Esta lei vem acrescentar à factura actual a decomposição de um conjunto enorme de custos, o que vai gerar ainda mais dúvidas aos consumidores", acrescentou Diogo de Oliveira, estimando que esta alteração à lei vai gerar "milhares de reclamações em todo o país", porque a factura vai ser "mais extensa", "mais complexa" e "indecifrável para qualquer pessoa que não esteja dentro da organização do sector".</p><p>Segundo o presidente da AEPSA, a nova proposta de lei para a água em Portugal está a "desvirtuar a cadeira económica de valor económico do sector, desresponsabilizando os municípios".</p><p>"Quando a Águas de Portugal quer cobrar directamente ao consumidor final, está a tornear as responsabilidades dos municípios que se vão desresponsabilizar deste processo", explica, reiterando que quem deve os 500 milhões de euros à empresa Águas de Portugal não são os consumidores, mas sim as várias Câmaras Municipais de Portugal. </p><p>Para a Associação das Empresas Portuguesas para o Sector do Ambiente, as "empresas fornecedoras de água devem continuar a fornecer e os municípios devem ter que continuar a ter a sua responsabilidade perante os munícipes".</p><p>"Entendemos que a proposta de lei não resolve o problema inicial para a qual está feita, que é ir buscar ao consumidor o valor da dívida dos municípios. (...) Não é a melhor forma de resolver o problema das dívidas à empresa Águas de Portugal", considera o presidente da AEPSA.</p><p>A AEPSA considera que a proposta de lei não é "exequível, nem justa, e não defende o interesse público nem dos consumidores".</p><p>A AEPSA confirmou à Lusa que já enviou ao Governo e ao parlamento "propostas válidas para anular o efeito de perda no consumidor" e esperam que sejam tidas em consideração.</p><p>Lusa/SOL</p><div class="tags"><b>Tags:</b> <a href="/inicio/tag.aspx?tag=%C1guas%20de%20Portugal">Águas de Portugal</a>, <a href="/inicio/tag.aspx?tag=pre%E7os">preços</a>, <a href="/inicio/tag.aspx?tag=Economia">Economia</a>, <a href="/inicio/tag.aspx?tag=%C1gua">Água</a></div></div></div><div class="fright" xmlns:g="http://base.google.com/ns/1.0" xmlns:fb="http://www.google.com"><div id="divMaisNot"></div><div class="print border"><div class="corpo"><a href="javascript:PrintArticle('75903')"><img src="/common/images/static/ico_print_imprimir.gif" width="20" height="20" border="0"> Imprimir
+        </a><br><a href="javascript:ToggleFont()"><img src="/common/images/static/ico_print_aumentar.gif" id="imgToggleFont" width="20" height="20" border="0"><span id="txtToggleFontAu"> Aumentar texto</span><span id="txtToggleFontDi" style="display:none"> Diminuir texto</span></a><br><a href="#Comment"><img src="/common/images/static/ico_print_comentar.gif" width="20" height="20" border="0"> Comentar
+        </a><br><a href="http://www.addthis.com/bookmark.php?v=250&amp;username=solnewsgen" class="addthis_button_compact"><img src="/common/images/static/ico_print_partilha.gif" width="20" height="20" border="0"> Partilhar
+        </a><br><div class="visitas"><div class="visitastext" id="visitastext"></div></div><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=solnewsgen"></script></div></div><br clear="all"><div class="relacionadas border"><div class="tit_seccao">
+            Relacionadas <img src="/common/images/static/bullet_red.gif" width="10" height="10"></div><div class="corpo"><a class="titulo" href="/inicio/Economia/Interior.aspx?content_id=74207">Portugueses pagaram em média 10 euros mensais pela água, mais 49 cêntimos do que em 2011</a></div></div></div>
+        <br clear="all" />
+        <br clear="all" />
+        
+
+<!-- INICIO COMENTARIOS -->
+
+<a name="Comment"></a>
+<div class="barra_comentarios">
+<div style="float:left" class="links_uteis">
+<a href="/inicio/regras.aspx">Regras de acesso</a>
+</div>
+<div id="ctl00_ctl00_ContentBody_ContentBody_ColCenter_ctl00_divlogin" class="links_uteis" style="float:right;">
+ Os comentários estão reservados a utilizadores identificados: <img src="/common/images/logo_small.gif" width="15" height="15" align="absmiddle" /><a onclick="window.open ('/connect/logincs.aspx','login','menubar=1,resizable=1,width=350,height=250');  return false" href="#"><strong>Login</strong></a>
+| <img src="/common/images/static/ico_FB_mini.jpg" width="15" height="15" align="absmiddle" /><a onclick="login(); return false;"  href="#"><strong>Connect</strong></a>
+</div>
+<br clear="all"/>
+
+
+
+
+
+
+
+
+</div>
+
+<!-- FIM COMENTARIOS -->
+
+        
+
+<!-- INICIO COMENTARIOS -->
+
+<div class="zona_comentarios" id="zona_comentarios">
+
+<div class="num_comentarios" style="float: left;">7 Comentários <img src="/common/images/static/ico_comentarios.gif" alt="" width="24" height="24" /></div>
+
+<div id="ctl00_ctl00_ContentBody_ContentBody_ColCenter__ctrl_0_divComs" class="tbl_tabs"><div class="odd_com"><a name="Com2570172"></a><table cellpadding="0" cellspacing="0"><tr><td valign="top"><img align="absmiddle" width="15" height="15" style="vertical-align: top;padding:4px 4px 0px 0px;" src="/common/images/logo_small.gif"></td><td valign="top"><div class="nome"><span id="PostAuthor2570172">Algarvez</span><br/><span class="data">14.05.2013 - 13:59</span></div></td><td valign="top" align="right"><div class="icos" id="PostImproper2570172"><img width="14" height="14" src="/common/images/static/ico_denunciar.gif">&nbsp;<a class="INV" href="javascript:ReportImproperComment('2570172')">denunciar</a></div></td></tr></table><div class="comentario" id="PostBody2570172">Madame Burocracia e seus filhos<br/><br/><br/>Conhecem a madame?<br/><br/>Esta dama de origem francesa transportou-se a Portugal, onde travou rela&#231;&#245;es com um portugu&#234;s dos bons tempos antigos, e sobejamente conhecido: <br/>o Sr. Funcionalismo. <br/>Casaram, e do casamento resultou uma numerosa gera&#231;&#227;o, que tomou o nome da m&#227;e, porque, como &#233; sabido, n&#243;s somos naturalmente inclinados a adoptar o que &#233; estranho, mormente se &#233; franc&#234;s. <br/>Burocratas se chamaram os filhos e n&#227;o Funcion&#225;rios, como o pai. <br/>Hoje o apelido paterno passou de moda, e os almanaques s&#243; mencionam o nome da M&#227;e: Burocracia. <br/>Triste coisa, em verdade, porque n&#227;o h&#225; nome de fam&#237;lia que n&#227;o esteja ligado a tradi&#231;&#245;es hist&#243;ricas e recorda&#231;&#245;es do passado! <br/>Funcionalismo era um sujeito popular, de casaco comprido, &#243;culos verdes, bengala de cast&#227;o de osso, grave, bem falante. <br/>A sua biografia prendia com a biografia do pais. <br/>Entrara nas lutas, que precederam o estabelecimento do governo constitucional entre n&#243;s. <br/>Fez a revolu&#231;&#227;o de 1820, figurou na restaura&#231;&#227;o em 1823, festejou a publica&#231;&#227;o da carta em 1826, emigrou em 1828, quando entrou o Sr. D. Miguel, repatriou-se em 1832, esteve no cerco do Porto e, depois que triunfou o partido liberal, pendurou a espingarda e pediu p&#227;o a quem lhe tinha dado p&#243;lvora. <br/>Atenderam-no, como era justo, e fez-se empregado publico. <br/>Tinha uma exist&#234;ncia regrada, s&#233;ria, transparente. <br/>Todos os seus actos revelavam a sua vida &#237;ntima. <br/>Lia a Revolu&#231;&#227;o de Setembro, de Lisboa, e O peri&#243;dico dos pobres, do Porto.<br/>Entusiasmava-se com os vigorosos artigos de Sampaio e ria com os folhetins do Braz Tisana, pseud&#243;nimo de Jos&#233; de Sousa Bandeira. <br/>O palito, com que escabichava os dentes depois de jantar, completava a sua individualidade.<br/>Na emigra&#231;&#227;o conhecera o tipo da mulher francesa e, diga-se a verdade, como era emigrado, algumas vezes se refugiava no seio do galicismo feminino.<br/>Em tudo o mais era patriota.<br/>Vieram a Portugal, depois de estar empregado, os primeiros figurinos. <br/>Figurinos para tudo: para vestir, para escrever, para governar. <br/>Por essa ocasi&#227;o veio o figurino administrativo chamado Burocracia.<br/>Como era feminino, avivaram-se-lhe recorda&#231;&#245;es. <br/>Viu a madame, lembrou-se da mocidade e casaram-se.<br/>Caprichos de senhoras!<br/>Por exig&#234;ncia conjugal, teve de tirar os seus &#243;culos verdes, as suas luvas de algod&#227;o, de mudar de casaco, o que era quase o mesmo que mudar de fisionomia. Mudou. <br/>Ficou outro.<br/>&#211; amor!<br/>A madame, pelos modos, era t&#227;o exigente como f&#233;rtil. <br/>Entrou de criar fam&#237;lia e de difundir, para assim dizer, a sua personalidade. <br/>Baptizou os filhos como quis e deu-lhes os destinos que lhe pareceu. <br/>Falava-se j&#225; um pouco da extin&#231;&#227;o dos v&#237;nculos; os filhos mais velhos n&#227;o podiam portanto ser morgados. <br/>Houve uma ideia. <br/>Sejam os mais velhos conselheiros e os mais novos amanuenses!<br/>Pois sejam; e foram.<br/>Era natural que os pais tivessem seus achaques e transmitissem &#225; descend&#234;ncia certas mol&#233;stias heredit&#225;rias.<br/>&#193; mistura com as doen&#231;as e, para compensa&#231;&#227;o, comunicaram-lhes certas virtudes.<br/>Vejamos:<br/>Primeira doen&#231;a – Estrabismo. <br/>Dos filhos mais novos, um olho no chefe, outro na porta, o que faz com que tenham a impaci&#234;ncia de sair logo que o chefe se retira.<br/>Primeira virtude – Eclectismo. <br/>Por ela conseguem viver com todos os ministros e servir com todos os minist&#233;rios.<br/>Mesura para este, mesura para aquele, excel&#234;ncia para todos.<br/>Se n&#227;o tivessem esta virtude, tinham de aprend&#234;-la. Que rem&#233;dio?<br/>Segunda doen&#231;a – Reumatismo. <br/>Dos filhos mais velhos. Humidades da secretaria e da mocidade. Friagens das noites dos vinte anos e m&#225;s condi&#231;&#245;es da reparti&#231;&#227;o. <br/>Esta porta! Aquela janela! Isto &#233; uma Sib&#233;ria!<br/>Segunda virtude – Hermafroditismo. <br/>&#201; preciso cozer uns documentos? <br/>Aqui est&#225; uma caixinha de lata com novelo e agulha. E &#224;s vezes um empregado velho, s&#233;rio, grave, austero tem, no levantar da agulha, a majestade de uma senhora sua contempor&#226;nea. Faz-se mulher por cinco minutos.<br/>Terceira doen&#231;a – Pauperismo. <br/>Dos amanuenses. Mol&#233;stia que tem car&#225;cter epid&#233;mico. Que tens tu, homem? Que hei de ter? Sou amanuense. – Isso tenho eu!<br/>Se &#233; epidemia!<br/>Terceira virtude – Isocronismo. <br/>De todos. Regular-se pelo rel&#243;gio da secretaria.<br/>- A que horas sai voc&#234; da reparti&#231;&#227;o?<br/>- &#193;s quatro.<br/>- A que horas janta?<br/>- &#193;s quatro?<br/>- Como arranja voc&#234; isso?<br/>- Regulo-me pela secretaria.<br/>- Ah!<br/>Quarta doen&#231;a – Prosa&#237;smo. <br/>Tend&#234;ncia para fugir para o... of&#237;cio, quer dizer, para o Deus guarde. Fazer de Deus sentinela n&#227;o &#233; decerto muito po&#233;tico.<br/>Quarta virtude – Cepticismo. <br/>Esfor&#231;o pelo qual se obriga o esp&#237;rito a n&#227;o crer nas probabilidades de acesso pr&#243;ximo. De contr&#225;rio, em vez de trabalhar, o mais que se faria era... esperar.<br/>Este &#233; o feitio da gera&#231;&#227;o que tomou o nome de Burocracia, numerosa fam&#237;lia que, como todas, tem seus h&#225;bitos, seus dissabores, seus gosos, suas ambi&#231;&#245;es.<br/>Primeiro habito – Vida sedent&#225;ria.<br/>Primeiro dissabor – A sua algibeira.<br/>Primeiro gozo – A grande gala.<br/>Primeira ambi&#231;&#227;o – Tomar sol.<br/><br/>E a par destas ambi&#231;&#245;es, destes gozos, destes dissabores e destes h&#225;bitos, outros, mais, muitos. <br/>Por isso, leitor amigo, quando tu de ora avante passeares no Terreiro do Pa&#231;o, para aquecer-te, desfadigadamente, despreocupadamente, n&#227;o fales t&#227;o alto, que distraias um amanuense e o obrigues a deitar um borr&#227;o na escrita.<br/>Lembra-te de que a vida &#237;ntima das fam&#237;lias &#233; sagrada.<br/>E tu, que &#233;s empregado p&#250;blico e me l&#234;s, n&#227;o me fiques querendo mal, porque, a final de contas, a madame &#233;... minha m&#227;e.<br/><br/><br/>Alberto Pimentel<br/><br/>(1874. Porto: Livraria Universal, pp. 98-102</div></div><div class="even_com"><a name="Com2570107"></a><table cellpadding="0" cellspacing="0"><tr><td valign="top"><img align="absmiddle" width="15" height="15" style="vertical-align: top;padding:4px 4px 0px 0px;" src="/common/images/logo_small.gif"></td><td valign="top"><div class="nome"><span id="PostAuthor2570107">Algarvez</span><br/><span class="data">14.05.2013 - 12:00</span></div></td><td valign="top" align="right"><div class="icos" id="PostImproper2570107"><img width="14" height="14" src="/common/images/static/ico_denunciar.gif">&nbsp;<a class="INV" href="javascript:ReportImproperComment('2570107')">denunciar</a></div></td></tr></table><div class="comentario" id="PostBody2570107">vendap<br/>13.05.2013 - 23:41<br/><br/><br/>Oh vendap, n&#227;o h&#225; d&#250;vida que fazem falta, n&#227;o um mas milhentos golpes de ariete, mas n&#227;o nas condutas da &#225;gua porque esses estragos ter&#237;amos n&#243;s de pagar.<br/>Golpes de ariete bem aplicados era em quem promove a burocracia, isto &#233; a roubalheira institu&#237;da que tem destro&#231;ado o pa&#237;s e grande parte da popula&#231;&#227;o activa.<br/>  </div></div><div class="odd_com"><a name="Com2570099"></a><table cellpadding="0" cellspacing="0"><tr><td valign="top"><img align="absmiddle" width="15" height="15" style="vertical-align: top;padding:4px 4px 0px 0px;" src="/common/images/logo_small.gif"></td><td valign="top"><div class="nome"><span id="PostAuthor2570099">Algarvez</span><br/><span class="data">14.05.2013 - 11:53</span></div></td><td valign="top" align="right"><div class="icos" id="PostImproper2570099"><img width="14" height="14" src="/common/images/static/ico_denunciar.gif">&nbsp;<a class="INV" href="javascript:ReportImproperComment('2570099')">denunciar</a></div></td></tr></table><div class="comentario" id="PostBody2570099">Isto j&#225; h&#225; muito que &#233; um pa&#237;s (?) de ladr&#245;es.<br/>At&#233; andam a roubar nas estradas.</div></div><div class="even_com"><a name="Com2569946"></a><table cellpadding="0" cellspacing="0"><tr><td valign="top"><img align="absmiddle" width="15" height="15" style="vertical-align: top;padding:4px 4px 0px 0px;" src="/common/images/logo_small.gif"></td><td valign="top"><div class="nome"><span id="PostAuthor2569946">vendap</span><br/><span class="data">13.05.2013 - 23:41</span></div></td><td valign="top" align="right"><div class="icos" id="PostImproper2569946"><img width="14" height="14" src="/common/images/static/ico_denunciar.gif">&nbsp;<a class="INV" href="javascript:ReportImproperComment('2569946')">denunciar</a></div></td></tr></table><div class="comentario" id="PostBody2569946">Este tipo de Estado, como sempre, antes de privatizar encarrega-se de aumentar os pre&#231;os.<br/><br/>Proponho-vos uma forma de combater os aumentos na &#225;gua. Sabem o que &#233; o 'efeito ariete'? &#233; fac&#237;limo de provocar e garanto-vos que o resultado &#233; catastr&#243;fico para as condutas da EPAL. Podem levar o aumento da &#225;gua mas ter&#227;o de andar sempre a reparar a estrutura.<br/></div></div><div class="odd_com"><a name="Com2569622"></a><table cellpadding="0" cellspacing="0"><tr><td valign="top"><img align="absmiddle" width="15" height="15" style="vertical-align: top;padding:4px 4px 0px 0px;" src="/common/images/logo_small.gif"></td><td valign="top"><div class="nome"><span id="PostAuthor2569622">donnisinnod</span><br/><span class="data">13.05.2013 - 15:01</span></div></td><td valign="top" align="right"><div class="icos" id="PostImproper2569622"><img width="14" height="14" src="/common/images/static/ico_denunciar.gif">&nbsp;<a class="INV" href="javascript:ReportImproperComment('2569622')">denunciar</a></div></td></tr></table><div class="comentario" id="PostBody2569622">RRRR!!!!  LUTA POR PORTUGAL !!!!!<br/>entra neste GRANDE jogo online completamente gratis, onde podes ser um grande MILITAR, POLITICO de sucesso, jornalista e muito mais... PRECISAMOS DE AJUDA PARA ESPULSAR OS ESPANHOIS DO NOSSO TERRITORIO..ajuda-nos.....<br/>http://tiny.cc/luta-portugal<br/></div></div><div class="even_com"><a name="Com2569601"></a><table cellpadding="0" cellspacing="0"><tr><td valign="top"><img align="absmiddle" width="15" height="15" style="vertical-align: top;padding:4px 4px 0px 0px;" src="/common/images/logo_small.gif"></td><td valign="top"><div class="nome"><span id="PostAuthor2569601">mirodri</span><br/><span class="data">13.05.2013 - 14:46</span></div></td><td valign="top" align="right"><div class="icos" id="PostImproper2569601"><img width="14" height="14" src="/common/images/static/ico_denunciar.gif">&nbsp;<a class="INV" href="javascript:ReportImproperComment('2569601')">denunciar</a></div></td></tr></table><div class="comentario" id="PostBody2569601">pagar mais pela &#225;gua compreende-se ao contr&#225;rio do confisco chamado imi</div></div><div class="odd_com"><a name="Com2569547"></a><table cellpadding="0" cellspacing="0"><tr><td valign="top"><img align="absmiddle" width="15" height="15" style="vertical-align: top;padding:4px 4px 0px 0px;" src="/common/images/logo_small.gif"></td><td valign="top"><div class="nome"><span id="PostAuthor2569547">beiramar</span><br/><span class="data">13.05.2013 - 12:41</span></div></td><td valign="top" align="right"><div class="icos" id="PostImproper2569547"><img width="14" height="14" src="/common/images/static/ico_denunciar.gif">&nbsp;<a class="INV" href="javascript:ReportImproperComment('2569547')">denunciar</a></div></td></tr></table><div class="comentario" id="PostBody2569547">Mas actualmente mais de 50% das facturas de agua e da electridade j&#225; n&#227;o s&#227;o custos burocraticos?<br/>Pagar ainda mais?<br/>Mas o contrato que foi feito n&#227;o foi para o fornecimento de agua e electricidade?<br/>E ent&#227;o porque n&#227;o pagar apenas a agua e a electricidade que se consome?<br/>Isto j&#225; era uma autentica roubalheira mas parece que ainda vai ficar pior.<br/>Cambada de ladr&#245;es.</div></div></div>
+
+</div>
+
+<!-- FIM COMENTARIOS -->
+
+    </div>
+  <div id="AreaVisitas" style="display:none">
+    <div id="ctl00_ctl00_ContentBody_ContentBody_ColCenter_ngViews">966</div>
+  </div>
+    <script type="text/javascript">
+      DisplayInnerStats();
+    </script>
+  
+
+    <br clear="all" />
+	
+
+<!-- INICIO GALERIAS  -->
+
+<div id="ctl00_ctl00_ContentBody_ContentBody_ColCenter_Galerias_divgalerias" class="galerias">
+<ul>
+<li>
+    <a href="/inicio/galerias/fotogalerias.aspx?content_id=76138"><img src="/storage/Galleries/ng1356836/ng1356988_600x400.jpg?type=small" width="210" height="100"></a><div class="tit_seccao"><a href="/inicio/galerias/fotogalerias.aspx?content_id=76138">Fotogalerias</a><img src="/common/images/static/bullet_blue.gif" width="10" height="10"></div>
+</li>
+</ul>
+<ul class="espaco"><li>&nbsp;</li></ul>
+<ul>
+<li>
+    <a href="/inicio/galerias/infografias.aspx?content_id=55013"><img src="/storage/Sol/2012/small/ng1264808_210x100.jpg?type=small" width="210" height="100"></a><div class="tit_seccao"><a href="/inicio/galerias/infografias.aspx?content_id=55013">Infografias</a><img src="/common/images/static/bullet_blue.gif" width="10" height="10"></div>
+</li>
+</ul>
+<ul class="espaco"><li>&nbsp;</li></ul>
+<ul>
+<li>
+    <a href="/inicio/galerias/videos.aspx?content_id=76158"><img src="http://rd3.videos.sapo.pt/Mo48YwzFhrfB8CVZW4Np/pic/120x90" width="210" height="100" title=""></a><div class="tit_seccao"><a href="/inicio/galerias/videos.aspx?content_id=76158">Vídeos</a><img src="/common/images/static/bullet_blue.gif" width="10" height="10"></div>
+</li>
+</ul>
+</div>
+<br clear="all"/>
+<!-- FIM GALERIAS  -->
+
+
+
+
+ 
+
+			        </div>
+			        <div class="right-col-content">
+			            
+	
+<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://pub.sapo.pt/ajs.php':'http://pub.sapo.pt/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=456");
+   document.write ('&cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&exclude=" + document.MAX_used);
+   document.write (document.charset ? '&charset='+document.charset : (document.characterSet ? '&charset='+document.characterSet : ''));
+   document.write ("&loc=" + escape(window.location));
+   if (document.referrer) document.write ("&referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script>
+
+<div style="text-align:right;margin-bottom:6px"><small><small>PUB</small></small></div>
+<div style="margin: 0px 0px 6px 0px; text-align: left;">
+<ul id="mercado_list">
+  <li id="pubmercado0">
+
+<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://pub.sapo.pt/ajs.php':'http://pub.sapo.pt/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=2249");
+   document.write ('&cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&exclude=" + document.MAX_used);
+   document.write (document.charset ? '&charset='+document.charset : (document.characterSet ?'&charset='+document.characterSet : ''));
+   document.write ("&loc=" + escape(window.location));
+   if (document.referrer) document.write ("&referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://pub.sapo.pt/ck.php?n=a1644386&cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://pub.sapo.pt/avw.php?zoneid=2249&cb=INSERT_RANDOM_NUMBER_HERE&n=a1644386' border='0' alt='' /></a></noscript>
+  </li>
+</ul>
+<div style="text-align:right;margin-bottom:6px"><small><small>PUB</small></small></div>
+</div> 
+
+
+<div class="siga_nos border" style="margin-bottom:6px">
+<div class="tit">Siga-nos <img src="/common/images/static/bullet_red.gif" width="10" height="10" /></div>
+<table class="icos">
+<tr>
+
+<td><a href="http://www.facebook.com/jornalsol" target="_blank"><img src="/common/images/static/ico_FB.png" width="23" height="23" border="0" /></a> <a href="http://twitter.com/SolOnline" target="_blank"><img src="/common/images/static/ico_twitter.png" width="23" height="23" border="0" /></a> <a href="/rss"><img src="/common/images/static/ico_rss.png" width="23" height="23" border="0" /></a> <a href="http://itunes.apple.com/pt/app/sol-online/id394250721?mt=8" target="_blank"><img src="/common/images/static/apple.gif" width="23" height="23" border="0" /></a> <a href="http://m.sol.pt"><img src="/common/images/static/mobile.gif" width="10" height="23" border="0" /></a></td>
+</tr>
+</table>
+</div>
+
+
+<!--/* OpenX Javascript Tag v2.8.5 */-->
+
+
+
+<!--/*
+
+  * The backup image section of this tag has been generated for use on a
+
+  * non-SSL page. If this tag is to be placed on an SSL page, change the
+
+  *   'http://pub.sapo.pt/...'
+
+  * to
+
+  *   'https://pub.sapo.pt/...'
+
+  *
+
+  * This noscript section of this tag only shows image banners. There
+
+  * is no width or height in these banners, so if you want these tags to
+
+  * allocate space for the ad before it shows, you will need to add this
+
+  * information to the <img> tag.
+
+  *
+
+  * If you do not want to deal with the intricities of the noscript
+
+  * section, delete the tag (from <noscript>... to </noscript>). On
+
+  * average, the noscript tag is called from less than 1% of internet
+
+  * users.
+
+  */-->
+
+
+
+<script type='text/javascript'><!--//<![CDATA[
+
+   var m3_u = (location.protocol=='https:'?'https://pub.sapo.pt/ajs.php':'http://pub.sapo.pt/ajs.php');
+
+   var m3_r = Math.floor(Math.random()*99999999999);
+
+   if (!document.MAX_used) document.MAX_used = ',';
+
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+
+   document.write ("?zoneid=150");
+
+   document.write ('&cb=' + m3_r);
+
+   if (document.MAX_used != ',') document.write ("&exclude=" + document.MAX_used);
+
+   document.write (document.charset ? '&charset='+document.charset : (document.characterSet ? '&charset='+document.characterSet : ''));
+
+   document.write ("&loc=" + escape(window.location));
+
+   if (document.referrer) document.write ("&referer=" + escape(document.referrer));
+
+   if (document.context) document.write ("&context=" + escape(document.context));
+
+   if (document.mmm_fo) document.write ("&;mmm_fo=1");
+
+   document.write ("'><\/scr"+"ipt>");
+
+//]]>--></script><noscript><a href='http://pub.sapo.pt/ck.php?n=a0407f30&cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://pub.sapo.pt/avw.php?zoneid=150&cb=INSERT_RANDOM_NUMBER_HERE&n=a0407f30' border='0' alt='' /></a></noscript>
+ 
+
+ 
+
+
+
+
+<div class="tabs">
+<div id="tbTabUltimas1L" class="tabEsq_off"></div>
+<div id="tbTabUltimas1"  class="tab_off" onclick="ChangeTab('Ultimas', 3, 1)"><a name="int" class="INV">+ Vistas</a></div>
+<div id="tbTabUltimas1R" class="tabDir_off"></div>
+
+<div id="tbTabUltimas2L" class="tabEsq_off"></div>
+<div id="tbTabUltimas2"  class="tab_off" onclick="ChangeTab('Ultimas', 3, 2)"><a name="int" class="INV">+ Comentadas</a></div>
+<div id="tbTabUltimas2R" class="tabDir_off"></div>
+
+<div id="tbTabUltimas3L" class="tabEsq_on"></div>
+<div id="tbTabUltimas3"  class="tab_on" onclick="ChangeTab('Ultimas', 3, 3)"><a name="int" class="">Últimas</a></div>
+<div id="tbTabUltimas3R" class="tabDir_on"></div>
+</div>
+
+<div id="tbContentUltimas1" style="display:none">
+    <iframe src="/common/usercontrols/cs/topviews.aspx" width="300px" height="520px" frameborder="0" scrolling="no" ></iframe>
+</div>
+<div id="tbContentUltimas2" style="display:none">
+    <iframe src="/common/usercontrols/cs/topcomments.aspx" width="300px" height="520px" frameborder="0" scrolling="no" ></iframe>
+</div>
+<div id="tbContentUltimas3">
+    
+
+
+<div class="tbl_tabs" style="margin-bottom:6px">
+    <div class="odd"><a target="_top" href="/inicio/Internacional/Interior.aspx?content_id=76333"><img src="/storage/Sol/2013/thumbnail/ng1357777_60x45.jpg?type=thumbnail" width="60" height="45" class="right"></a><span class="tit">Internacional</span><br><a target="_top" class="INV" href="/inicio/Internacional/Interior.aspx?content_id=76333">Maioria dos cipriotas defende permanência do país na...</a><span class="tempo_red">
+           <input type="hidden" name="date-issue" class="date-issue" value="2013-05-19 14:25:00"><span></span>
+     
+  </span></div><div class="even"><a target="_top" href="/inicio/Sociedade/Interior.aspx?content_id=76332"><img src="/storage/Sol/2013/thumbnail/ng1357772_60x45.jpg?type=thumbnail" width="60" height="45" class="right"></a><span class="tit">Sociedade</span><br><a target="_top" class="INV" href="/inicio/Sociedade/Interior.aspx?content_id=76332">Manuel Clemente pede solidariedade, pedagogia e clareza...</a><span class="tempo_red">
+           <input type="hidden" name="date-issue" class="date-issue" value="2013-05-19 14:22:00"><span></span>
+     
+  </span></div><div class="odd"><a target="_top" href="/inicio/Vida/Interior.aspx?content_id=76331"><img src="/storage/Sol/2013/thumbnail/ng1357767_60x45.jpg?type=thumbnail" width="60" height="45" class="right"></a><span class="tit">Vida</span><br><a target="_top" class="INV" href="/inicio/Vida/Interior.aspx?content_id=76331">EUA: Prémio recorde de 458 milhões de euros na lotaria</a><span class="tempo_red">
+           <input type="hidden" name="date-issue" class="date-issue" value="2013-05-19 12:08:00"><span></span>
+     
+  </span></div><div class="even"><a target="_top" href="/inicio/Internacional/Interior.aspx?content_id=76330"><img src="/storage/Sol/2013/thumbnail/ng1357762_60x45.jpg?type=thumbnail" width="60" height="45" class="right"></a><span class="tit">Internacional</span><br><a target="_top" class="INV" href="/inicio/Internacional/Interior.aspx?content_id=76330">Parlamento Europeu debate combate a fraude e evasão...</a><span class="tempo_red">
+           <input type="hidden" name="date-issue" class="date-issue" value="2013-05-19 11:47:00"><span></span>
+     
+  </span></div><div class="odd"><a target="_top" href="/inicio/Sociedade/Interior.aspx?content_id=76329"><img src="/storage/Sol/2013/thumbnail/ng1357757_60x45.jpg?type=thumbnail" width="60" height="45" class="right"></a><span class="tit">Sociedade</span><br><a target="_top" class="INV" href="/inicio/Sociedade/Interior.aspx?content_id=76329">Revista de Imprensa - 19 de Maio</a><span class="tempo_red">
+           <input type="hidden" name="date-issue" class="date-issue" value="2013-05-19 11:40:00"><span></span>
+     
+  </span></div><div class="even"><a target="_top" href="/inicio/Politica/Interior.aspx?content_id=76328"><img src="/storage/Sol/2013/thumbnail/ng1357752_60x45.jpg?type=thumbnail" width="60" height="45" class="right"></a><span class="tit">Política</span><br><a target="_top" class="INV" href="/inicio/Politica/Interior.aspx?content_id=76328">PCP pede eleições para travar ofensiva contra 'vítimas...</a><span class="tempo_red">
+           <input type="hidden" name="date-issue" class="date-issue" value="2013-05-19 11:36:00"><span></span>
+     
+  </span></div><div class="odd"><a target="_top" href="/inicio/Politica/Interior.aspx?content_id=76327"><img src="/storage/Sol/2013/thumbnail/ng1357746_60x45.jpg?type=thumbnail" width="60" height="45" class="right"></a><span class="tit">Política</span><br><a target="_top" class="INV" href="/inicio/Politica/Interior.aspx?content_id=76327">'Pós-troika' na agenda do Conselho de Estado de amanhã</a><span class="tempo_red">
+           <input type="hidden" name="date-issue" class="date-issue" value="2013-05-19 11:33:00"><span></span>
+     
+  </span></div><div class="even"><a target="_top" href="/inicio/Economia/Interior.aspx?content_id=76325"><img src="/storage/Sol/2013/thumbnail/ng1357736_60x45.jpg?type=thumbnail" width="60" height="45" class="right"></a><span class="tit">Economia</span><br><a target="_top" class="INV" href="/inicio/Economia/Interior.aspx?content_id=76325">Portugal pode começar a exportar cereja para o Japão</a><span class="tempo_red">
+           <input type="hidden" name="date-issue" class="date-issue" value="2013-05-19 11:10:00"><span></span>
+     
+  </span></div>
+</div> 
+</div>
+
+<div style="margin: 0px 0px 6px 0px; text-align: center"><a href="http://sol.sapo.pt/inicio/dossiers/default.aspx?dossier=Confer%EAncias%20SOL" target="_blank"><img src="/Storage/Sol/2013/medium/ng1352365_300x300.jpg" width="300" alt="Marrocos Portugal "></a></div><div style="margin: 0px 0px 6px 0px; text-align: center"><a href="/inicio/Interior.aspx?content_id=73755"><img src="/Storage/Sol/2013/medium/ng1349712_300x200.jpg" width="300" alt="Passatempo SOL &amp; ZOO: Ganhe bilhetes duplos para o Jardim Zoológico de Lisboa."></a></div><div style="margin: 0px 0px 6px 0px; text-align: center"><a href="/inicio/dossiers/default.aspx?dossier=Best Leader Awards 2013"><img src="/Storage/Sol/2013/medium/ng1342965_300x150.jpg" width="300" alt=""></a></div>
+	
+  	 
+ 
+ 
+
+
+<div style="margin: 0px 0px 0px; text-align: left;"><a href="http://www.facebook.com/jornalsol" target="_blank"><img width="300" alt="Siga o SOL no Facebook" src="/Common/Images/Banner_SOL_FB.jpg"/></a></div>
+<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fjornalsol&amp;width=300&amp;connections=10&amp;stream=false&amp;header=false&amp;height=260" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:260px; margin-bottom:6px;" allowTransparency="true"></iframe>
+<iframe src="http://www.facebook.com/plugins/activity.php?site=sol.sapo.pt&amp;action&amp;width=300&amp;height=265&amp;header=false&amp;colorscheme=light&amp;linktarget=_blank&amp;border_color&amp;font&amp;recommendations=false" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:265px;" allowTransparency="true"></iframe>
+
+<div style="margin: 0px 0px 6px 0px; text-align: left;">
+<script type="text/javascript">
+
+var sas_affiliate_id = '41';
+
+var sas_site_id  = '365';
+
+var sas_position_id  = '973';
+
+var sas_cluster = '1';
+
+var sas_ad_width = '300';
+
+var sas_ad_height= '250';
+
+var sas_ad_format = '300x250_2';
+
+var sas_c = '2';
+
+var sas_ad_type = 'text';
+
+var sas_location_id = '5';
+
+var sas_color_border = '666666';
+
+var sas_color_link = '666666';
+
+var sas_color_bg = 'F2F2F2';
+
+var sas_color_text = '666666';
+
+var sas_color_url = '666666';
+
+var sas_ic = '1bf0f4c8ec9bdba5fde9ce3076256e54';
+
+var sas_medium = '0';
+
+</script><script type="text/javascript" src="http://js.sl.pt/Snippets/SAS.js"></script>
+</div>
+
+ 
+<div id="ctl00_ctl00_ContentBody_ContentBody_ColRight_ContentBody_ColRight__ctrl_1_Tagcloud1_divTagCloud" style="margin-bottom:6px;"><table class="tags border" cellpadding="0" cellspacing="0"><tr><td><div class="tit">
+            Tags mais populares <img src="/common/images/static/bullet_red.gif" width="10" height="10"></div><div class="font"><h5><a href="/inicio/tag.aspx?tag=Marrocos">Marrocos</a></h5><h5><a href="/inicio/tag.aspx?tag=bancos">bancos</a></h5><h1><a href="/inicio/tag.aspx?tag=Economia">Economia</a></h1><h3><a href="/inicio/tag.aspx?tag=OCDE">OCDE</a></h3><h3><a href="/inicio/tag.aspx?tag=relat%F3rio">relatório</a></h3><h5><a href="/inicio/tag.aspx?tag=Desemprego">Desemprego</a></h5><h5><a href="/inicio/tag.aspx?tag=Telecomunica%E7%F5es">Telecomunicações</a></h5><h4><a href="/inicio/tag.aspx?tag=V%EDtor%20Gaspar">Vítor Gaspar</a></h4><h5><a href="/inicio/tag.aspx?tag=Uni%E3o%20Europeia">União Europeia</a></h5><h3><a href="/inicio/tag.aspx?tag=Portugal">Portugal</a></h3><h5><a href="/inicio/tag.aspx?tag=Confer%EAncias%20SOL">Conferências SOL</a></h5><h5><a href="/inicio/tag.aspx?tag=Zona%20Euro">Zona Euro</a></h5><h5><a href="/inicio/tag.aspx?tag=Comiss%E3o%20Europeia">Comissão Europeia</a></h5><h5><a href="/inicio/tag.aspx?tag=Confer%EAncia">Conferência</a></h5><h5><a href="/inicio/tag.aspx?tag=Governo">Governo</a></h5><h5><a href="/inicio/tag.aspx?tag=Crise%20do%20Euro">Crise do Euro</a></h5><h5><a href="/inicio/tag.aspx?tag=troika">troika</a></h5><h5><a href="/inicio/tag.aspx?tag=Euro">Euro</a></h5><h5><a href="/inicio/tag.aspx?tag=Eurogrupo">Eurogrupo</a></h5><h5><a href="/inicio/tag.aspx?tag=Swap">Swap</a></h5></div></td></tr></table></div>
+ 
+
+
+ 
+
+			        </div>
+    		        <br clear="all" />
+		        </div>
+		        <br clear="all" />
+		    
+    							
+		    
+		    
+
+<!-- INICIO ZONA MAPA -->
+<table class="MAP" cellpadding="10" cellspacing="10">
+<tr>
+<td align="center">
+
+      <div>
+
+      © 2007 Sol. 
+      Todos os direitos reservados. 
+      Mantido por <a href="mailto:webmaster@sol.pt">webmaster@sol.pt</a>   
+   </div>
+
+</td>
+</tr>
+</table>
+
+        </center>		
+		
+
+	
+<script language="JavaScript">loadFragmentInToElement('/common/services/get_morenews.aspx?id_content=75903&section_path=economia');</script></form>
+	
+
+<script type="text/javascript">
+var w_counter;
+if(wreport_ok==1){w_counter = new wreport_counter(WRP_SECTION, WRP_SUBSECTION, WRP_ID, WRP_ACC, WRP_CHANNEL, WRP_SECTION_GRP, WRP_SUBSECTION_GRP);
+w_counter.add_content(WRP_CONTENT);
+w_counter.count();}
+</script>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-4957686-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+
+
+
+	<!-- Barra SAPO Universal v1.0 -->
+    <!-- Passo 3 de 3. Adicionar a barra -->
+    
+    <script type="text/javascript" src="http://bars.sapo.pt/bsu_v1.0/barra.js?parceiro=true"></script>
+    <!-- /bsu -->
+
+<div id="fb-root"></div>
+
+<script>
+
+window.fbAsyncInit = function() {
+			FB.init({appId: '156258201067846', status: true, cookie: true, xfbml: true});
+		};
+		(function() {
+			var e = document.createElement('script'); e.async = true;
+			e.src = document.location.protocol +
+				'//connect.facebook.net/en_US/all.js';
+			document.getElementById('fb-root').appendChild(e);
+		}());
+		
+     function login()
+      {
+        FB.login(handleSessionResponse);
+      };
+
+     function logout()
+      {
+        FB.logout(handleSessionResponse);
+        DeleteCookie("SolUser");
+        window.location.reload();
+      };
+     function logoutSol()
+      {
+        DeleteCookie("SolUser");
+        window.location.reload();
+      };
+       
+      // no user, clear display
+      function clearDisplay() {
+        document.getElementById('user-info').innerHTML = '';
+      }
+
+      // handle a session response from any of the auth related calls
+      function handleSessionResponse(response) {
+        // if we dont have a session, just hide the user info
+//        if (!response.session) {
+//          clearDisplay();
+//          return;
+//        }
+
+        // if we have a session, query for the user's profile picture and name
+        FB.api(
+          {
+            method: 'fql.query',
+            query: 'SELECT name, pic FROM profile WHERE id=' + FB.getSession().uid
+          },
+          function(response) {
+            var user = response[0];
+//            var userInfo = document.getElementById('user-info');
+//            userInfo.innerHTML = '<img src="' + user.pic + '">' + user.name;
+            SaveCookie('FBname', (user.name!=null ? user.name : ""),true);
+            SaveCookie('FBpic', (user.pic!=null ? user.pic : ""),true);
+            window.location.reload();
+          }
+        );
+      }
+</script>
+
+    <script type="text/javascript">
+      SetPage();
+    </script>
+
+<!-- Piwik -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(["trackPageView"]);
+  _paq.push(["enableLinkTracking"]);
+
+  (function() {
+    var u=(("https:" == document.location.protocol) ? "https" : "http") + "://tracking.itpc.pt/";
+    _paq.push(["setTrackerUrl", u+"piwik.php"]);
+    _paq.push(["setSiteId", "2"]);
+    var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0]; g.type="text/javascript";
+    g.defer=true; g.async=true; g.src=u+"piwik.js"; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript>
+<!-- Piwik Image Tracker -->
+<img src="http://tracking.itpc.pt/piwik.php?idsite=2&amp;rec=1" style="border:0" alt="" />
+<!-- End Piwik -->
+</noscript>
+<!-- End Piwik Code -->
+
+</body>
+
+
+</html>

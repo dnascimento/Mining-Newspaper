@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.5.11)  19 MAY 2013 23:57
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.5.11)  20 MAY 2013 00:06
 entering extended mode
  restricted \write18 enabled.
  Source specials enabled.
@@ -585,7 +585,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 22--2
 
  []
 
-) (./chapters/4_Critical_Analisys.tex) (./chapters/7_Anexos.tex [3] [4]
+) (./chapters/4_Critical_Analisys.tex) (./chapters/5_Conclusion.tex [3])
+(./chapters/7_Anexos.tex [4]
 <./Figures/Anexo1.png, id=28, 857.2025pt x 716.6775pt>
 File: ./Figures/Anexo1.png Graphic file (type png)
 
@@ -613,8 +614,8 @@ Overfull \hbox (264.0pt too wide) in paragraph at lines 24--25
 
  <./Figures/Anexo2.png>] (./relatorio_eadw.aux) ) 
 Here is how much of TeX's memory you used:
- 3496 strings out of 493485
- 44312 string characters out of 3143526
+ 3499 strings out of 493485
+ 44378 string characters out of 3143526
  109799 words of memory out of 3000000
  6649 multiletter control sequences out of 15000+200000
  52918 words of font info for 70 fonts, out of 3000000 for 9000
@@ -631,7 +632,7 @@ texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb></usr/share/texlive/texmf-dist/
 fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/
 urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri
 8a.pfb>
-Output written on relatorio_eadw.pdf (6 pages, 276144 bytes).
+Output written on relatorio_eadw.pdf (6 pages, 277172 bytes).
 PDF statistics:
  69 PDF objects out of 1000 (max. 8388607)
  46 compressed objects within 1 object stream
