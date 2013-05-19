@@ -1,24 +1,12 @@
 %!TEX encoding = UTF-8 Unicode
 \subsection{Analise do Sentimento}
 \label{sec:sentiment_analysis}
-A análise de sentimento permite determinar a reputação e ter um feedback em tempo real do panorama político nacional. A opinião que os média publicam sobre um determinado político ou partido político é extremamente relevante e decisiva para o futuro político-partidário de um país. Em 2013, as eleições em Itália sofreram uma forte influência por parte dos média. A maioria dos média televisivos italianos são propriedade de Silvio Berlusconi, então candidato à liderança, fizeram campanhas de opinião posítiva ao político e fazendo com que a opinião de um político envolvido em vários escandalos se altera-se e deste modo obtivesse quase o mesmo número de votos que Luigi Bersani.\\
-%A análise de sentimento foi realizada ao nível de -------------------
-%A nossa análise de sentimento consiste em várias fases:
+\hspace{15pt}A análise de sentimento permite determinar a reputação e ter um feedback em tempo real do panorama político nacional. A opinião que os média publicam sobre um determinado político ou partido político é extremamente relevante e decisiva para o futuro político-partidário de um país. Em 2013, as eleições em Itália sofreram uma forte influência por parte dos média. A maioria dos média televisivos italianos são propriedade de Silvio Berlusconi, então candidato à liderança, fizeram campanhas de opinião posítiva ao político e fazendo com que a opinião de um político envolvido em vários escandalos se altera-se e deste modo obtivesse quase o mesmo número de votos que Luigi Bersani.\newline\hspace{15pt}
 
-1º - Pré-processamos o texto e extraímos as entidades de cada frase, como explicado na secção anterior. 
+\subsubsection{Análise do Sentimento ao nivel da Frase}
+\hspace{15pt}Ao fim de defenir um sentimento para cada entidade nos iremos classificar as frase que contem essa entidade. A frase é clasificada em função dos adjectivos que esta contem. Para identificar o sentimento dos adjectivos utilizamos um lexicon \textbf{(SentiLex-PT\_03)} fornecido pelo projecto \textit{DMIR} do \textit{indesc-id}. Após a extração dos adjectivos inserimos estes na nossa base de dados \textit{sqlite} para rapido acesso. Para classificar uma determinada frase verificamos todas as palavras da frase contra a nossa base de dados e clasificamos a quantidade de adjectivos positivos e negativos obtidos. Através do mecanismo da secção anterior, extraimos as entidades de cada frase. Assumimos que existe apenas 1 opinião por cada frase.\\
+Uma das maiores difículdades, especialmente em notícias políticas, é a análise de opiniões contídas nas citações de outros políticos. Estas citações são muitas vezes sarcásticas e dificeis de analisar. A frase é objectiva ou subjectiva, isto é, a frase contém alguma opinião, visão ou crença subjacente? Apenas considerámos frases objectivas porque frases subjectivas tem uma análise muito mais complexa que não vamos abordar neste projecto. 
 
-
-\subsubsection{Sentence-Level Sentiment Analysis}
-Através do mecanismo da secção anterior, extraimos as entidades de cada frase. Assumimos que existe apenas 1 opinião por cada frase. No entanto, caso exista mais do que uma entidade, tentámos dividir a frase em subfrases. \\
-Uma das maiores difículdades, especialmente em notícias políticas, é a análise de opiniões contídas nas citações de outros políticos. Estas citações são muitas vezes sarcásticas e dificeis de analisar. 
-A frase é objectiva ou subjectiva, isto é, a frase contém alguma opinião, visão ou crença subjacente? Apenas considerámos frases subjectivas porque frases objectivas tem uma análise muito mais complexa. 
-
-\subsubsection{Document-Level Sentiment Analysis}
-Admitimos um método de análise de \i{Supervied Learning} em que classificamos o documento em 3 classes: Positivo, Negativo e Neutro. 
-Ao nível do documento
-
-
-\subsubsection{Sentiment Lexicon Acquisition}
-Existem 3 formas de obter o léxico de sentimentos: \i{Manualmente}, \i{Dictionary-based} e \i{Corpus-based}. Uma hipótese possível de criação do léxico seria criar uma pequena lista de adjectivos manualmente. Utilizando um dicionário online, como a infopedia \cite{infopedia}, verificar que se trata de um adjectivo, extrair os seus sinónimos e antónimos e realizar a mesma análise iterativamente para cada um. Um processo semelhante a um url-crawler mas com palavras num dicionário. Este processo geraria um léxico classificado como palavras positivas ou palavras negativas.\\
-Em alternativa, utilizámos o léxico Sentilex \cite{sentilex}. Processámos este léxico para uma lista de expressão:Part-of-Speech:Gênero:Opinião. A opinião das expressões foi dividida em Positiva, Negativa ou Neutra.
+\subsubsection{Análise do Sentimento ao nivel do Documento}
+\hspace{15pt}Admitimos um método de análise de \textit{Supervied Learning} em que classificamos o documento em 3 classes: Positivo, Negativo e Neutro. Para defenir o sentimento do texto procedomos a soma dos sentimentos de todas as frases, obtendo a classificação do documento. Esta informação é util para o caso de pesquisas mais especificas em que indicamos se queremos obter textos com sentimento positivo ou negativo.
 

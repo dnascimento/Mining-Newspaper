@@ -6,8 +6,7 @@ from sqlite3 import OperationalError
 from EADW.Analisers.WooshEngine import WooshEngine
 from bs4 import UnicodeDammit
 import urllib, os, hashlib
-import re
-import sqlite3
+import re, sys, sqlite3, chardet, urllib
 from EADW.Analisers import EntityExtract
 
 #News Parser:
@@ -18,6 +17,8 @@ class ContentDownloader(Thread):
     whoosh = ""
     __dBEntitiesLocation = "../storage/lexicon.db"
     TMPpath = "../storage/tmp/"
+    Narticles = 0
+    
     
     def __init__(self,dbName):
         Thread.__init__(self)
@@ -47,7 +48,9 @@ class ContentDownloader(Thread):
     def parseSite(self,url,date,justDownload=0):
         
         doc = ""
-
+        title = ""
+        summary = ""
+        article = ""
         # Verificar se o ficheiro já existe em Cache
         #Caso nao vamos tb guardalo em cache
         if not os.path.exists(self.TMPpath+hashlib.sha1(url).hexdigest()+".txt"):
@@ -76,17 +79,17 @@ class ContentDownloader(Thread):
                 title = unicode(soup.select("#artigo")[0].h1.get_text().encode("utf8"))
                 summary = unicode(soup.select("#artigo")[0].summary.get_text().encode("utf8"))
                 article =  unicode(soup.select("#conteudo")[0].get_text().encode("utf8"))
-                    
+            
             if domain == "feeds.dn":
                 title = unicode(soup.select("#NewsTitle")[0].get_text().encode("utf8"))
                 summary = unicode(soup.select("#NewsSummary")[0].get_text().encode("utf8"))
                 article = unicode(soup.select("#Article")[0].get_text().encode("utf8"))
             
-            
-            if domain == "rss.feedsportal":
-                title = unicode(soup.select("#NewsTitle")[0].get_text().encode("utf8"))
-                summary = unicode(soup.select("#NewsSummary")[0].get_text().encode("utf8"))
-                article = unicode(soup.select("#Article")[0].get_text().encode("utf8"))
+            #N
+            #if domain == "rss.feedsportal":
+            #    title = unicode(soup.select("#NewsTitle")[0].get_text().encode("utf8"))
+            #    summary = unicode(soup.select("#NewsSummary")[0].get_text().encode("utf8"))
+            #    article = unicode(soup.select("#Article")[0].get_text().encode("utf8"))
             
             
             if domain == "economico.sapo":
@@ -94,18 +97,19 @@ class ContentDownloader(Thread):
                 summary = unicode(soup.select(".mainText")[0].strong.get_text().encode("utf8"))
                 article = unicode(soup.select(".mainText")[0].get_text().encode("utf8"))
             
-            if domain == "www.sol" or domain == "sol.sapo":
-                title = unicode(soup.select("#NewsTitle")[0].get_text().encode("utf8"))
-                summary = ""
-                article = unicode(soup.select("#NewsSummary")[0].get_text().encode("utf8"))
-                article.replace("SOL"," ")
-                article.replace("SOLTags"," ")
+            #N
+            #if domain == "www.sol" or domain == "sol.sapo":
+            #    title = unicode(soup.select("#NewsTitle")[0].get_text().decode("utf8"))
+            #    summary = ""
+            #    article = unicode(soup.select("#NewsSummary")[0].get_text().decode("utf8"))
+            #    article.replace("SOL"," ")
+            #    article.replace("SOLTags"," ")
 
-            
+            #N
             if domain == "www.rtp":
-                title = unicode(soup.select("#video_detail")[0].h1.get_text().encode("utf8").encode("utf8"))
+                title = unicode(soup.select("#video_detail")[0].h1.get_text().encode("utf8"))
                 summary = ""
-                article =  unicode(soup.select("#video_detail")[0].h2.get_text().decode('utf8').encode("utf8"))
+                article =  unicode(soup.select("#video_detail")[0].h2.get_text().decode('utf8'))
             
             if title == "":
                 return;
@@ -124,7 +128,8 @@ class ContentDownloader(Thread):
             print "####Unexpected error: ignore entry:"+url
             return
         
-        print url
+        print "-----", self.Narticles, url, "-----"
+        self.Narticles += 1
         #Sacar as entidades e guardar na base de dados das entidades e opinioes
         self.__conn.commit()     
         self.__conn.close()

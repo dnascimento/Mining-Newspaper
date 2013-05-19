@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.5.11)  13 MAY 2013 01:39
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.5.11)  19 MAY 2013 23:57
 entering extended mode
  restricted \write18 enabled.
  Source specials enabled.
@@ -550,11 +550,7 @@ File: ./Figures/arch.png Graphic file (type png)
  <use ./Figures/arch.png>
 Package pdftex.def Info: ./Figures/arch.png used on input line 6.
 (pdftex.def)             Requested size: 211.67908pt x 375.67659pt.
-) (./chapters/2_1_News_Collection.tex [1{/var/lib/texmf/fonts/map/pdftex/updmap
-/pdftex.map}
-
-
- <./Figures/arch.png>]) (./chapters/2_2_News_Search.tex)
+) (./chapters/2_1_News_Collection.tex) (./chapters/2_2_News_Search.tex)
 (./chapters/2_3_Extraction_Of_Named_Entities.tex
 Underfull \hbox (badness 10000) in paragraph at lines 4--2
 
@@ -565,50 +561,80 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--2
 
  []
 
-) (./chapters/2_4_Sentiment_Analysis.tex
-Underfull \hbox (badness 10000) in paragraph at lines 4--7
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
+
+])
+(./chapters/2_4_Sentiment_Analysis.tex
+Overfull \hbox (20.69792pt too wide) in paragraph at lines 16--2
+[][]\T1/aer/m/n/9 Esta abor-da-gem per-mite de-ter-mi-nar no-vas en-ti-da-des e
+ acrescenta-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
 
  []
 
-[2]
+[2 <./Figures/arch.png>]) (./chapters/2_5_Other_Functionalities.tex
 
-LaTeX Warning: Citation `infopedia' on page \thepage  undefined on input line 2
-2.
+LaTeX Warning: Citation `bottle' on page \thepage  undefined on input line 16.
 
+) (./chapters/3_Experimental_Results.tex
+Underfull \hbox (badness 10000) in paragraph at lines 22--2
 
-LaTeX Warning: Citation `sentilex' on page \thepage  undefined on input line 23
-.
-
-
-Overfull \hbox (58.76692pt too wide) in paragraph at lines 22--24
-\T1/aer/m/n/9 mos este lé-xico para uma lista de expressão:Part-of-Speech:Gêner
-o:Opinião.
  []
 
-) [3
+) (./chapters/4_Critical_Analisys.tex) (./chapters/7_Anexos.tex [3] [4]
+<./Figures/Anexo1.png, id=28, 857.2025pt x 716.6775pt>
+File: ./Figures/Anexo1.png Graphic file (type png)
 
-] (./relatorio_eadw.aux) ) 
+<use ./Figures/Anexo1.png>
+Package pdftex.def Info: ./Figures/Anexo1.png used on input line 11.
+(pdftex.def)             Requested size: 504.0pt x 421.38164pt.
+
+Overfull \hbox (264.0pt too wide) in paragraph at lines 11--12
+ [][][] 
+ []
+
+[5 <./Figures/Anexo1.png>]
+<./Figures/Anexo2.png, id=32, 839.135pt x 564.1075pt>
+File: ./Figures/Anexo2.png Graphic file (type png)
+
+<use ./Figures/Anexo2.png>
+Package pdftex.def Info: ./Figures/Anexo2.png used on input line 24.
+(pdftex.def)             Requested size: 504.0pt x 338.8114pt.
+
+Overfull \hbox (264.0pt too wide) in paragraph at lines 24--25
+ [][][] 
+ []
+
+) [6
+
+ <./Figures/Anexo2.png>] (./relatorio_eadw.aux) ) 
 Here is how much of TeX's memory you used:
- 3469 strings out of 493485
- 43713 string characters out of 3143526
- 108783 words of memory out of 3000000
- 6639 multiletter control sequences out of 15000+200000
- 50435 words of font info for 67 fonts, out of 3000000 for 9000
+ 3496 strings out of 493485
+ 44312 string characters out of 3143526
+ 109799 words of memory out of 3000000
+ 6649 multiletter control sequences out of 15000+200000
+ 52918 words of font info for 70 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 41i,10n,26p,964b,248s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8
-r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb><
-/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/sha
-re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts
-/type1/urw/helvetic/uhvbo8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/
-helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a
-.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on relatorio_eadw.pdf (3 pages, 132314 bytes).
+ 41i,10n,26p,1262b,248s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/share/texlive/texmf-dist
+/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmbx9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
+9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb><
+/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/
+texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri
+8a.pfb>
+Output written on relatorio_eadw.pdf (6 pages, 276144 bytes).
 PDF statistics:
- 54 PDF objects out of 1000 (max. 8388607)
- 37 compressed objects within 1 object stream
+ 69 PDF objects out of 1000 (max. 8388607)
+ 46 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
