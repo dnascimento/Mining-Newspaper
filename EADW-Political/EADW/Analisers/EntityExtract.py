@@ -20,7 +20,7 @@ class EntityExtractor:
     __dBLexiconLocation = "../storage/lexicon.db"
     lixo  = nltk.corpus.stopwords.words('portuguese')
     opinionAnalist = Opinion()
-    tagger = TAGAnalizer()
+    tagger = ""
     IgnoreFile = "Utils/SentimentsBase/in/IgnoreNamesTrainingSet.txt"
 
     ########################################################
@@ -29,12 +29,7 @@ class EntityExtractor:
     def __init__(self):
         self.ProperNameProcessor = WordProcessor.ProperNameProcessor()
         self.LoadIgnoreList(self.IgnoreFile)#Adiciona a lista "lixo" palavras geradas pelo traning set
-        #conn = sqlite3.connect(self.__dBLexiconLocation)
-        #cursor = conn.cursor()
-        #self.rubishProperNounList = []
-        #for row in cursor.execute("Select * from rubishNames"):
-        #    self.rubishProperNounList.append(row[0]) 
-        #conn.close()
+        self.tagger = TAGAnalizer()
         
     def LoadIgnoreList(self,IgnoreFilePath):
         fd = open(IgnoreFilePath, "r")
@@ -86,8 +81,6 @@ class EntityExtractor:
             feeling = feelingAndAbjectives[0]
             adjectives = feelingAndAbjectives[1]
             self.saveAdjectives(entities,adjectives)
-            # TODO Dario Usar os Ajectivos
-            
             
             # Somar o numero de ocorrencias do nome
             # e a opiniao acumulada sobre o nome

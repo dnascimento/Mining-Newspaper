@@ -31,11 +31,11 @@ class WooshEngine:
               
     def addLink(self, url, title, summary, txt):
         
-        titolo = title + " "
-        titolo10 = titolo + titolo + titolo + titolo + titolo + titolo + titolo + titolo + titolo + titolo
+        titleb = title + " "
+        title10 = titleb + titleb + titleb + titleb + titleb + titleb + titleb + titleb + titleb + titleb
         sumario = summary + " "
         sumario2 = sumario + sumario
-        text = titolo10 + sumario2 + " " + txt
+        text = title10 + sumario2 + " " + txt
         
         ix = open_dir(self.indexDir, indexname='MAIN', readonly=False)
         writer = AsyncWriter(ix)

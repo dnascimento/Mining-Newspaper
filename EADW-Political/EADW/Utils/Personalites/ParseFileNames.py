@@ -17,8 +17,8 @@ import unicodedata
 import codecs
 import sqlite3
 
-entitiesDBPath = "../../storage/lexicon.db"
-personalitiesDBPath = "../../storage/news.db"
+entitiesDBPath = "../storage/lexicon.db"
+personalitiesDBPath = "../storage/news.db"
 
 def loadDatabase():
     GetRubish()
@@ -32,7 +32,7 @@ def loadDatabase():
 #######################################################################
 def GetNames():
     nomeSet = set()
-    file = open("Personalites/input/personalities.txt")
+    file = open("Utils/Personalites/input/personalities.txt")
     line = file.readline()
     list = []
     entities = re.split(',',line)
@@ -90,7 +90,7 @@ def GetNames():
 #######################################################################
 def GetRubish():
     nomeSet = set()
-    file = open("Personalites/input/rubish.txt")
+    file = open("Utils/Personalites/input/rubish.txt")
     for line in file:
         nomeSet.add(unicode(line[:-1]))
             
@@ -113,7 +113,7 @@ def GetRubish():
 #######################################################################
 def GetCountries():
     nomeSet = set()
-    file = open("Personalites/input/paises.txt")
+    file = open("Utils/Personalites/input/paises.txt")
     for line in file:
         nomeSet.add(unicode(line[:-1]))
             
@@ -136,7 +136,7 @@ def GetCountries():
 #######################################################################
 def GetEquiv():
     nomeSet = set()
-    file = open("Personalites/input/equivalent.txt")
+    file = open("Utils/Personalites/input/equivalent.txt")
     for line in file:
         nomeSet.add(unicode(line[:-1]))
             
@@ -158,7 +158,7 @@ def GetEquiv():
 #associando a cada entidade o respectivo partido politicos como deputados.
 ############################################################################
 def GetThieves():
-    file = codecs.open("Personalites/input/deputados.html","r")
+    file = codecs.open("Utils/Personalites/input/deputados.html","r")
     doc = str(file.readlines())   
     soup = BeautifulSoup(doc)
     
@@ -228,7 +228,7 @@ def GetThieves():
     
     
     ############# Government list #############################
-    f = open("Personalites/input/governo.txt")
+    f = open("Utils/Personalites/input/governo.txt")
     for governante in f:
         governante = governante[:-1]
         name = unicode(governante.split(":")[0])

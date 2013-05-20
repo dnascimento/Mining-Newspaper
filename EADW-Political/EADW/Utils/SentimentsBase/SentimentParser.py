@@ -27,10 +27,10 @@ class Parser:
     #Parse Sentiflex file to lexiconWords and lexiconExpressions
     #####################################################################
     def SentiFlexProcess(self):
-        file = open('SentimentsBase/in/SentiLex-flex-PT03.txt')
+        file = open('Utils/SentimentsBase/in/SentiLex-flex-PT03.txt')
         
-        outExpression = open("SentimentsBase/out/lexiconExpressions.txt","w+")
-        outWord = open("SentimentsBase/out/lexiconWords.txt","w+")
+        outExpression = open("Utils/SentimentsBase/out/lexiconExpressions.txt","w+")
+        outWord = open("Utils/SentimentsBase/out/lexiconWords.txt","w+")
         
         for linha in file:
             line = unicode(linha[:-1])
@@ -98,8 +98,8 @@ class Parser:
     # Import words from tagFile
     #####################################################################
     def TagFileProcess(self):
-        file = open('SentimentsBase/in/TagFile.txt')
-        outWord = open("SentimentsBase/out/lexiconWords.txt","a")
+        file = open('Utils/SentimentsBase/in/TagFile.txt')
+        outWord = open("Utils/SentimentsBase/out/lexiconWords.txt","a")
         
         for linha in file:
             line = unicode(linha[:-1])
@@ -132,13 +132,13 @@ class Parser:
     #Ordernar o ficheiro por ordem alfabetica
     #####################################################################
     def SortFileLines(self):
-        f = open('SentimentsBase/out/lexiconWords.txt',"r")
+        f = open('Utils/SentimentsBase/out/lexiconWords.txt',"r")
         # omit empty lines and lines containing only whitespace
         lines = [line for line in f if line.strip()]
         f.close()
-        os.remove('SentimentsBase/out/lexiconWords.txt')
+        os.remove('Utils/SentimentsBase/out/lexiconWords.txt')
         lines.sort()
-        f = open('SentimentsBase/out/lexiconWords.txt',"w+")
+        f = open('Utils/SentimentsBase/out/lexiconWords.txt',"w+")
         f.writelines(lines)
         
         
@@ -146,7 +146,7 @@ class Parser:
     #converter a tabela properNouns do entities para ficheiro para ser limpa manualmente
     #####################################################################
     def SaveDatabaseProperNounsToFile(self):
-        out = open("SentimentsBase/out/dbProperNouns.txt","w+")
+        out = open("Utils/SentimentsBase/out/dbProperNouns.txt","w+")
         self.__conn = sqlite3.connect(self.lexiconDB)     
         self.__cursor = self.__conn.cursor()   
         for row in self.__cursor.execute("Select * from properNouns"):
@@ -157,8 +157,8 @@ class Parser:
     #Importar o ficheiro de nomes agora limpo
     #####################################################################
     def AddProperNounsFromDatabaseFile(self):    
-        f = open("SentimentsBase/out/dbProperNouns.txt","r")
-        outWord = open("SentimentsBase/out/lexiconWords.txt","a")
+        f = open("Utils/SentimentsBase/out/dbProperNouns.txt","r")
+        outWord = open("Utils/SentimentsBase/out/lexiconWords.txt","a")
         
         for row in f:
             word = unicode(row[:-1]) 
@@ -171,13 +171,13 @@ class Parser:
             outWord.write(word+":"+meta+":"+":"+"\n")
         
         outWord.close()
-        os.remove("SentimentsBase/out/dbProperNouns.txt")
+        os.remove("Utils/SentimentsBase/out/dbProperNouns.txt")
             
     #####################################################################
     # Exportar o lexico para a base de dados
     #####################################################################
     def ExportToDatabase(self):
-        f = open("SentimentsBase/out/lexiconWords.txt","r")
+        f = open("Utils/SentimentsBase/out/lexiconWords.txt","r")
         conn = sqlite3.connect(self.lexiconDB)     
         c = conn.cursor()
         

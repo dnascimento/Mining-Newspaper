@@ -1,5 +1,0 @@
-\subsection{News Collection and Storage}
-\label{sec:news_storage}
-A recolha de noticias é iníciada descarregando os feeds dos prinicípais jornais politicos portugueses: Diário de Notícias, Jornal de Notícias, Diário Económico, Sol. De cada um destes feeds, extraimos o URL da notícia original e a data do feed. Estes dados são guardados na base de dados.\\
-Imediatamente a seguir ou à posteriori, descarregamos o contéudo da notícia através do URL. Para tal construímos um HTML parser para cada um dos websites. O contéudo é separado em Título, Sumário e Article de modo a atribuírmos relevância distinta a cada palavra. A entrada na base de dados é actualizada com o contéudo e marcado como processado.\\
-Estes dados são então utilizados para realizar as pesquisas e para extracção de informação, assuntos abordados nas próximas secções.

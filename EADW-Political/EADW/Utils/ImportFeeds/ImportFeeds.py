@@ -20,7 +20,7 @@ import os
 ##################################################################
 def GetFeeds(dbpath):
    
-    conn = sqlite3.connect("ImportFeeds/feeds.db")     
+    conn = sqlite3.connect("Utils/ImportFeeds/feeds.db")     
     c = conn.cursor()       
     
     list = []
