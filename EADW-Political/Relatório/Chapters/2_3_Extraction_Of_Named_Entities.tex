@@ -1,18 +1,17 @@
 %!TEX encoding = UTF-8 Unicode
 \subsection{Extração de Entidades}
 \label{sec:entity_extraction}
-\hspace{15pt}A extracção de nomes de entidades no nosso sistema é suportada por uma lista nomes de personalidades previamente conhecida. O objectivo é que novos nomes sejam adicionados a esta lista e que nomes já existentes sejam reconhecidos com boa confiança.\\
+\hspace{15pt}A extracção de nomes de entidades no nosso sistema é inicializada por uma lista nomes de personalidades previamente conhecida. O objectivo é reconhecer os nomes já existentes mas também identificar novos nomes e adicionar a esta lista. \\
 Com base numa lista de entidades previamente conhecida, gerámos uma tabela de nomes próprios designada de "ProperNounTable" e uma tabela de Entidades com uma popularidade pré-definida e a popularidade adquirida nas noticías politicas designada de "EntitiesTable".\\
 Para cada nome que o NLTK indentifica como potêncial nome próprio, verificamos:
-
 \begin{itemize}
 \item Se o nome não pertence à lista de nomes próprios errados conhecida ("O","A", "Desde", entre outros)
 
 \item Se o nome pertente à lista de nomes próprios conhecidos. Caso pertença, é concatenado com o nome em formação. Caso contrário é definido como candidato a nome próprio. Se o nome seguinte for também um nome próprio, então ambos são adicionados à "ProperNounTable", expandindo a lista de nomes próprios conhecida. 
 
-\item Se os nomes próprios constituintes do nome da entidade desconhecida correspondem em mais de 60\% ao nome de uma das entidades conhecidas. De todas as entidades conhecidas candidatas a este nome, é seleccionada a que tem maior reputação nas noticias e a que tem maior reputação pré-definida. Caso não haja nenhuma entidade conhecida com o nome, este nome é adicionado como nova entidade.
+\item Se os nomes próprios constituintes do nome da entidade desconhecida correspondem em mais de 60\% ao nome de uma das entidades conhecidas. De todas as entidades conhecidas candidatas a este nome, é selecionada a que tem maior reputação nas noticias e a que tem maior reputação pré-definida. Caso não haja nenhuma entidade conhecida com o nome, este nome é adicionado como nova entidade.
 \end{itemize}
 
-Esta abordagem permite determinar novas entidades e acrescenta-las a nossa lista.\\
+Esta abordagem permite determinar novas entidades e acrescenta-las a nossa lista. O mecanismo de matching a 60\% tolera que o actual primeiro ministro ``Pedro Passos Coelho" seja identificado apenas por ``Passos Coelho". \\
 \hspace{15pt}Ao nível do processamento de texto, obtámos por unificar todos os nomes sem acentos graves ou agudos de modo a que palavras como: "Luís" ou "Luis" fossem equivalentes. Esta situação permitiu aumentar em 3 terços o número de entidades detectadas. Em particular o número de ocorrências do ministro "Vítor Gaspar" aumentou imenso.\\
-No caso se novos nomes, o NLTK não foi capaz de identificar com precisão se um determinado nome é ou não um nome proprio, o que provocava um grande numero de falsos positivos. Isso acontece pelo facto de o NLTK classificar as plavaras como Inglezas, o que resultava em resultados de pouca precisão. Para ultrapassar este problema criamos a nossa propria base de dados de Nomes Proprios. A Base de dados é formada por uma combinação de nomes extraidas de tres fotes: A lista de Politicos fornecida para o projecto, NLTK Corpus Floresta TreeBank (Portugues) e NLTK Corpus MacMorpho TreeBank (Brasileiro/Portugues). Apesar de conseguiremos reultados muito bons tinhamos muitos nomes proprios que apareciam muitas vezes e não se adequavam ao nosso caso. Mais a frente vamos explicar como conseguimos melhorar os resultados retirando as palavras desnecessarias atravez de um fitro. 
+No caso dos novos nomes, o NLTK, treinado para inglês, não foi capaz de identificar com precisão se um determinado nome é ou não um nome próprio, o que provocava um grande numero de falsos positivos. Para ultrapassar este problema criámos a nossa própria base de dados de Nomes Próprios. A Base de dados é formada por uma combinação de nomes extraídos de quatro fontes: A lista de personalidade cedida para o projecto, NLTK Corpus Floresta TreeBank (Portugues), NLTK Corpus MacMorpho TreeBank (Brasileiro/Portugues) e os nomes que foram identificados pelo nosso classificador. Apesar de este processo ter poucos falsos negativos, continuamos a ter alguns falsos positivos que só foram removidos através da introdução de um filtro de palavras como será detalhado adiante.\\

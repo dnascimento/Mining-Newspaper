@@ -1,8 +1,11 @@
 %!TEX encoding = UTF-8 Unicode
 \subsection{Pesquisa de Notícias}
 \label{sec:news_search}
-\hspace{15pt}Despois da obtenção do artigo do seu sumario e titulo procedemos a indexaçao desta informação. A indexação é efectuada utilizando a ferramenta \textbf{Whoosh} utilizando o modelo \textbf{BM25}. Para diferenciar e modificar o pesso de cada parte da messagem por forma a obter melhores resultados utilizamos a seguinte metodologia: O ID sera o URL original do Artigo que é o nosso identificador unico no Sistema. E para cada par \textbf{(ID, TEXTO)} que introduzimos no Whoosh a parte do texto sera composta pelas tres partes do artigo de seguinte modo.\\\\
+\hspace{15pt}A pesquisa de notícias requer a indexação prévia dos dados obtidos: Título, Sumário e Corpo da noticia.  A indexação é realizada pela biblioteca \textbf{Whoosh} utilizando o modelo \textbf{BM25}. A relevância de uma palavra do título é bastante superior à relevância de uma palavra do corpo da notícia porque o título tende a sintetizar o conteúdo e a ser bastante preciso. 
+Para diferenciar a relevância, repetimos os conteúdos para formar o texto a 
+avaliar:\\
 \centerline{\textbf{TEXTO = 10 x Título + 2 x Sumário + Artigo}}
-\newline\newline
-Isto permite-nos obter melhores resultados pois em testes efectuados verificamos que a informação relevante vem incluida no Título ou no Sumário do Artigo. \newline
-\hspace{15pt}O Resultado de uma pesquisa é um conjunto de links por ordem crescente de relevancia. Para cada link efectuamos varias \textit{queries} a base de dados por forma a encontrar toda a informação estruturada que indexamos anteriormente. Logo como temos o as entidades presentes na base de dados para cada noticia apresentamos os 7 Entidades mais relevantes. A relevancia das entidades e dada em função de dois factores: o numero de vezes que a entidade aparece na noticia e a relevancia deste na lista de entidades fornecida para o projecto. Para cada entidade apresentamos o seu sentimento em releção a noticia, como tambem o sentimento geral da noticia.
+\newline
+Os resultados dos testes efetuados revelaram uma melhoria notória quando 
+utilizado este mecanismo. \\
+\hspace{15pt}O Resultado de uma pesquisa é um conjunto de links por ordem crescente de relevância. Para cada link recolhemos quais são as 7 entidades mais relevantes  e qual a opinião que esta noticia transmite sobre essa entidade. A relevância da entidade na noticia é dada pelo numero de vezes que consta na noticia e a relevância desta na lista de entidades fornecida para o projeto. Para cada  entidade identificada apresentamos o seu sentimento dado pela a notícia bem como o sentimento geral da noticia.
