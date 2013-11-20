@@ -1,0 +1,11 @@
+%!TEX encoding = UTF-8 Unicode
+\subsection{Pesquisa de Notícias}
+\label{sec:news_search}
+\hspace{15pt}A pesquisa de notícias requer a indexação prévia dos dados obtidos: Título, Sumário e Corpo da noticia.  A indexação é realizada pela biblioteca \textbf{Whoosh} utilizando o modelo \textbf{BM25}. A relevância de uma palavra do título é bastante superior à relevância de uma palavra do corpo da notícia porque o título tende a sintetizar o conteúdo e a ser bastante preciso. 
+Para diferenciar a relevância, repetimos os conteúdos para formar o texto a 
+avaliar:\\
+\centerline{\textbf{TEXTO = 10 x Título + 2 x Sumário + Artigo}}
+\newline
+Os resultados dos testes efetuados revelaram uma melhoria notória quando 
+utilizado este mecanismo. \\
+\hspace{15pt}O Resultado de uma pesquisa é um conjunto de links por ordem crescente de relevância. Para cada link recolhemos quais são as 7 entidades mais relevantes  e qual a opinião que esta noticia transmite sobre essa entidade. A relevância da entidade na noticia é dada pelo numero de vezes que consta na noticia e a relevância desta na lista de entidades fornecida para o projeto. Para cada  entidade identificada apresentamos o seu sentimento dado pela a notícia bem como o sentimento geral da noticia.
