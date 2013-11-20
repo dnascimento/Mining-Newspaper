@@ -1,0 +1,10 @@
+Deixar 1 seg entre pedidos.
+
+
+Vamos ter de limitar o n’vel de profundidade para conseguir evitar n’veis de profundidade muito grandes.
+
+
+Se sacamos apenas "alunos/", temos de concatenar com o URL inicial: http://ist.utl.pt
+Manter uma lista das p‡ginas que visitamos para evitar loops.
+
+Vamos fazer recolha em largura 

@@ -1,0 +1,50 @@
+
+
+If string p matches A and the string q matches B, then pq will match AB
+
+O alfabeto faz match ao proprio alfabeto letra a letra
+
+|
+(
+\x00   null byte
+
+"."  Qualquer caracter excepto new line
+"^"   Inicio da string
+"$"   Fim da string ou antes do newline no final da string
+				ex: "foo" match foo and foobar mas "foo$" apenas foo
+
+"*"    Faz o match de 0 ou mais repeticoes do ultimo caracter. "ab*" faz a, ab, abbbb
+"+"    O mesmo mas 1 ou mais
+"?"    O mesmo mas 0 ou 1 vez
+
+"{m}"  Especifica o m de matches que deve fazer: "a{6}" faz 6 matchs Exactos a
+"{m,n}"  de m a n repeticoes. m é o minimo, n é máximo  (se ocultar, é infinito)
+
+"\"  " escape de caracteres especiais como *,?,etc
+
+"[]" set of characters to match: "[amk]" faz match a a, m or k.
+"[a-z]" all letters betwen a and z
+"[0-9A-Fa-f]" hexadecimal
+
+
+"A|B" match de A ou B
+
+"(...)" agrupar regexs
+
+"\number"  faz match com base no grupo
+
+"\A" -> match do inicio da string
+"\b" -> empty character:  r'\bfoo\b' faz match a "foo" "foo." "(foo)" "bar foo baz"
+"\B" -> empty string mas não logo: "py\B" faz match"py3" mas não a "py."
+
+
+"\d" equivalente a [0-9], ou seja, um digito numérido
+"\D" não seja numérico: [^0-9]
+"\s" qualquer espaço branco ou mudanca de linha
+"\S" qualquer não espaco branco
+"\w" qualquer alphanumeric e undercore [a-zA-Z0-9_]
+"\W" qualquer não alphanumeric
+"\Z" fim da string
+
+
+

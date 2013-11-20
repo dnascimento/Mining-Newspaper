@@ -1,0 +1,9 @@
+A inst‰ncia de QueryParser, prepara uma query
+
+O search() executa a query e retorna um objecto Results: http://pythonhosted.org/Whoosh/api/searching.html#whoosh.searching.Results
+
+
+By default the results contains at most the first 10 matching results
+
+Results object acts like a list of the matched documents.
+

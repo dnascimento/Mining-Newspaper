@@ -1,0 +1,13 @@
+nltk.sent tokenize(d)  -> dividir o doc d em frases
+nltk.word tokenize(s)  -> partir a frase em palavras
+
+agora vamos ver se sao entidades, se o que Ž que s‹o. 
+1¼ fazemos a an‡lise sint‡tica para ver se Ž verbo etc
+nltk.pos tag(w)  -> lista de palavras de uma frase. Ele devolve o tipo de palavra
+
+
+nltk.ne chunk(p, binary=True): devolve uma lista em que algumas vai dizer: "NE" -> Name Entity
+
+
+Fazemos 
+nltk.download()    para descarregar os modulos necess‡rio

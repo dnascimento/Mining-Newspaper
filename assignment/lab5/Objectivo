@@ -1,0 +1,10 @@
+Combinacao:
+
+
+ScoreBM25*W1+ScorePageRank*W2+ScoreCosin*W3+w4
+
+Agora como Ž que vou descobrir os pesos?
+
+BM25, COS PR R
+
+Vamos fazer uma regress‹o linear para conseguir optimizar os pesos w1,w2,w3,w4 para conseguir 
