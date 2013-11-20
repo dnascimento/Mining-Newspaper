@@ -1,4 +1,4 @@
-eadw
+Web Data Extraction and Analysis
 ====
 
-EADW Python Crawler and Web Search Project
+Data Mining - Python Crawler and Web Search Project - Technical University of Lisbon Course
